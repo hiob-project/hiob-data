@@ -1,0 +1,521 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "name": "Avot DeRabbi Natan A",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 77,
+        "value": "Avot DeRabbi Natan A, 2:5",
+        "order": "45.00000000000000000000"
+      },
+      {
+        "id": 80,
+        "value": "Avot DeRabbi Natan A, 14:6",
+        "order": "48.00000000000000000000"
+      },
+      {
+        "id": 82,
+        "value": "Avot DeRabbi Natan A, 37:13",
+        "order": "49.00000000000000000000"
+      },
+      {
+        "id": 83,
+        "value": "Avot DeRabbi Natan A, 9:5",
+        "order": "50.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "Avot DeRabbi Natan A, 6:2",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 93,
+        "value": "Avot DeRabbi Natan A, 32:3",
+        "order": "60.00000000000000000000"
+      },
+      {
+        "id": 94,
+        "value": "Avot DeRabbi Natan A, 8:5",
+        "order": "61.00000000000000000000"
+      },
+      {
+        "id": 95,
+        "value": "Avot DeRabbi Natan A, 12:5",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 99,
+        "value": "Avot DeRabbi Natan A, 12:4",
+        "order": "66.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Avot DeRabbi Natan A, 39:2",
+        "order": "67.00000000000000000000"
+      },
+      {
+        "id": 101,
+        "value": "Avot DeRabbi Natan A, 12:4",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 103,
+        "value": "Avot DeRabbi Natan A, 24:5",
+        "order": "70.00000000000000000000"
+      },
+      {
+        "id": 105,
+        "value": "Avot DeRabbi Natan A, 7:1",
+        "order": "72.00000000000000000000"
+      },
+      {
+        "id": 107,
+        "value": "Avot DeRabbi Natan A, 34:11",
+        "order": "74.00000000000000000000"
+      },
+      {
+        "id": 109,
+        "value": "Avot DeRabbi Natan A, 11:1",
+        "order": "76.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_1"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "name": "Avot DeRabbi Natan B",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 78,
+        "value": "Avot DeRabbi Natan B, 2",
+        "order": "46.00000000000000000000"
+      },
+      {
+        "id": 79,
+        "value": "Avot DeRabbi Natan B, 43",
+        "order": "47.00000000000000000000"
+      },
+      {
+        "id": 84,
+        "value": "Avot DeRabbi Natan B, 17",
+        "order": "51.00000000000000000000"
+      },
+      {
+        "id": 85,
+        "value": "Avot DeRabbi Natan B, 16",
+        "order": "52.00000000000000000000"
+      },
+      {
+        "id": 86,
+        "value": "Avot DeRabbi Natan B, 38",
+        "order": "53.00000000000000000000"
+      },
+      {
+        "id": 87,
+        "value": "Avot DeRabbi Natan B, 44",
+        "order": "54.00000000000000000000"
+      },
+      {
+        "id": 88,
+        "value": "Avot DeRabbi Natan B, 1",
+        "order": "55.00000000000000000000"
+      },
+      {
+        "id": 89,
+        "value": "Avot DeRabbi Natan B, 42",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 91,
+        "value": "Avot DeRabbi Natan B, 12",
+        "order": "58.00000000000000000000"
+      },
+      {
+        "id": 92,
+        "value": "Avot DeRabbi Natan B, 7",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 96,
+        "value": "Avot DeRabbi Natan B, 8",
+        "order": "63.00000000000000000000"
+      },
+      {
+        "id": 97,
+        "value": "Avot DeRabbi Natan B, 24",
+        "order": "64.00000000000000000000"
+      },
+      {
+        "id": 98,
+        "value": "Avot DeRabbi Natan B, 27",
+        "order": "65.00000000000000000000"
+      },
+      {
+        "id": 102,
+        "value": "Avot DeRabbi Natan B, 25",
+        "order": "69.00000000000000000000"
+      },
+      {
+        "id": 104,
+        "value": "Avot DeRabbi Natan B, 31",
+        "order": "71.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "Avot DeRabbi Natan B, 14",
+        "order": "73.00000000000000000000"
+      },
+      {
+        "id": 108,
+        "value": "Avot DeRabbi Natan B, 40",
+        "order": "75.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_2"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "name": "Tanhuma",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 45,
+        "value": "Tanhuma, Exodus 6:8",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 53,
+        "value": "Tanhuma, Exodus 2:9",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_3"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "name": "Tanhuma (Buber)",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 46,
+        "value": "Tanhuma (Buber), Genesis 4:30",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 52,
+        "value": "Tanhuma (Buber), Genesis 8:4",
+        "order": "20.00000000000000000000"
+      },
+      {
+        "id": 54,
+        "value": "Tanhuma (Buber), Exodus 2:8",
+        "order": "22.00000000000000000000"
+      },
+      {
+        "id": 57,
+        "value": "Tanhuma (Buber), Genesis 11:3",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 58,
+        "value": "Tanhuma (Buber), Genesis 4:10",
+        "order": "26.00000000000000000000"
+      },
+      {
+        "id": 62,
+        "value": "Tanhuma (Buber), Leviticus 7:15",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 63,
+        "value": "Tanhuma (Buber), Leviticus 8:10",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 65,
+        "value": "Tanhuma (Buber), Exodus 4:24",
+        "order": "33.00000000000000000000"
+      },
+      {
+        "id": 66,
+        "value": "Tanhuma (Buber), Deuteronomy 2:5",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_4"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "name": "Pirkei DeRabbi Eliezer",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 56,
+        "value": "Pirkei DeRabbi Eliezer, 52",
+        "order": "24.00000000000000000000"
+      },
+      {
+        "id": 71,
+        "value": "Pirkei DeRabbi Eliezer, 11",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_5"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "name": "Seder Eliyahu Rabbah",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 60,
+        "value": "Seder Eliyahu Rabbah, 19",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_6"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "name": "Seder Eliyahu Zuta",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 61,
+        "value": "Seder Eliyahu Zuta, 4",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_7"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "name": "Esther Rabbah I",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 1,
+        "value": "Esther Rabbah I, Proem 9",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "Esther Rabbah I, Proem 11",
+        "order": "2.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "Esther Rabbah I, 4:9",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 4,
+        "value": "Esther Rabbah I, 6:3!",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 5,
+        "value": "Esther Rabbah I, 6:3",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Esther Rabbah I, 6:3",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_8"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "name": "Esther Rabbah II",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 7,
+        "value": "Esther Rabbah II, 7:2",
+        "order": "7.00000000000000000000"
+      },
+      {
+        "id": 8,
+        "value": "Esther Rabbah II, 7:3!",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 9,
+        "value": "Esther Rabbah II, 7:11!",
+        "order": "9.00000000000000000000"
+      },
+      {
+        "id": 10,
+        "value": "Esther Rabbah II, 10:9",
+        "order": "10.00000000000000000000"
+      },
+      {
+        "id": 11,
+        "value": "Esther Rabbah II, 10:15",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_9"
+  },
+  "34": {
+    "id": 34,
+    "order": "10.00000000000000000000",
+    "name": "Ecclesiastes Rabbah",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 44,
+        "value": "Ecclesiastes Rabbah, 7:8 &1",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 50,
+        "value": "Ecclesiastes Rabbah, 7:2 &4",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_34"
+  },
+  "35": {
+    "id": 35,
+    "order": "11.00000000000000000000",
+    "name": "Pesiqta Rabbati",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 47,
+        "value": "Pesiqta Rabbati, 38",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 67,
+        "value": "Pesiqta Rabbati, 25:2",
+        "order": "35.00000000000000000000"
+      },
+      {
+        "id": 69,
+        "value": "Pesiqta Rabbati, 16:4",
+        "order": "37.00000000000000000000"
+      },
+      {
+        "id": 70,
+        "value": "Pesiqta Rabbati, 48:3",
+        "order": "38.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_35"
+  },
+  "36": {
+    "id": 36,
+    "order": "12.00000000000000000000",
+    "name": "Numbers Rabbah II",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 48,
+        "value": "Numbers Rabbah II, 19:23",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 68,
+        "value": "Numbers Rabbah II, 21:18",
+        "order": "36.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_36"
+  },
+  "37": {
+    "id": 37,
+    "order": "13.00000000000000000000",
+    "name": "Exodus Rabbah II",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 49,
+        "value": "Exodus Rabbah II, 31:3",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 74,
+        "value": "Exodus Rabbah II, 23:13",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_37"
+  },
+  "38": {
+    "id": 38,
+    "order": "14.00000000000000000000",
+    "name": "Midrash Psalms",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 51,
+        "value": "Midrash Psalms, 17:1",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 64,
+        "value": "Midrash Psalms, 30:2",
+        "order": "32.00000000000000000000"
+      },
+      {
+        "id": 72,
+        "value": "Midrash Psalms, 9:7",
+        "order": "40.00000000000000000000"
+      },
+      {
+        "id": 73,
+        "value": "Midrash Psalms, 18:32",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_38"
+  },
+  "39": {
+    "id": 39,
+    "order": "15.00000000000000000000",
+    "name": "Exodus Rabbah I",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 55,
+        "value": "Exodus Rabbah I, 8:2",
+        "order": "23.00000000000000000000"
+      },
+      {
+        "id": 75,
+        "value": "Exodus Rabbah I, 3:6",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_39"
+  },
+  "40": {
+    "id": 40,
+    "order": "16.00000000000000000000",
+    "name": "Numbers Rabbah I",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 59,
+        "value": "Numbers Rabbah I, 14:2",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_40"
+  }
+}

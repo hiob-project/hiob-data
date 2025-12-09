@@ -1,0 +1,3928 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "verse": "1:1",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 4,
+        "value": "Esther Rabbah I, 6:3!",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_1"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "verse": "5:2",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 10,
+        "value": "Esther Rabbah II, 10:9",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_2"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "verse": "5:18",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 3,
+        "value": "Esther Rabbah I, 4:9",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_3"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "verse": "6:2",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 9,
+        "value": "Esther Rabbah II, 7:11!",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_4"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "verse": "12:23",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 7,
+        "value": "Esther Rabbah II, 7:2",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_5"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "verse": "14:19",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 5,
+        "value": "Esther Rabbah I, 6:3",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "Avot DeRabbi Natan A, 6:2",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 91,
+        "value": "Avot DeRabbi Natan B, 12",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_6"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "verse": "16:13",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 6,
+        "value": "Esther Rabbah I, 6:3",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_7"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "verse": "20:6",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 8,
+        "value": "Esther Rabbah II, 7:3!",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_8"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "verse": "20:7",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 8,
+        "value": "Esther Rabbah II, 7:3!",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_9"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "verse": "34:30",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 1,
+        "value": "Esther Rabbah I, Proem 9",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_10"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "verse": "37:23",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 11,
+        "value": "Esther Rabbah II, 10:15",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_11"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "verse": "38:15",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 2,
+        "value": "Esther Rabbah I, Proem 11",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_12"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "verse": "42:10",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 6,
+        "value": "Esther Rabbah I, 6:3",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 45,
+        "value": "Tanhuma, Exodus 6:8",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 46,
+        "value": "Tanhuma (Buber), Genesis 4:30",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 47,
+        "value": "Pesiqta Rabbati, 38",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 48,
+        "value": "Numbers Rabbah II, 19:23",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 49,
+        "value": "Exodus Rabbah II, 31:3",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 50,
+        "value": "Ecclesiastes Rabbah, 7:2 &4",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_13"
+  },
+  "36": {
+    "id": 36,
+    "order": "14.00000000000000000000",
+    "verse": "42:12",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 44,
+        "value": "Ecclesiastes Rabbah, 7:8 &1",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_36"
+  },
+  "37": {
+    "id": 37,
+    "order": "15.00000000000000000000",
+    "verse": "42:9",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 50,
+        "value": "Ecclesiastes Rabbah, 7:2 &4",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_37"
+  },
+  "38": {
+    "id": 38,
+    "order": "16.00000000000000000000",
+    "verse": "42:8",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 50,
+        "value": "Ecclesiastes Rabbah, 7:2 &4",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 51,
+        "value": "Midrash Psalms, 17:1",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 52,
+        "value": "Tanhuma (Buber), Genesis 8:4",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_38"
+  },
+  "39": {
+    "id": 39,
+    "order": "17.00000000000000000000",
+    "verse": "41:26",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 53,
+        "value": "Tanhuma, Exodus 2:9",
+        "order": "21.00000000000000000000"
+      },
+      {
+        "id": 54,
+        "value": "Tanhuma (Buber), Exodus 2:8",
+        "order": "22.00000000000000000000"
+      },
+      {
+        "id": 55,
+        "value": "Exodus Rabbah I, 8:2",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_39"
+  },
+  "40": {
+    "id": 40,
+    "order": "18.00000000000000000000",
+    "verse": "41:10",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 56,
+        "value": "Pirkei DeRabbi Eliezer, 52",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_40"
+  },
+  "41": {
+    "id": 41,
+    "order": "19.00000000000000000000",
+    "verse": "41:8",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 57,
+        "value": "Tanhuma (Buber), Genesis 11:3",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_41"
+  },
+  "42": {
+    "id": 42,
+    "order": "20.00000000000000000000",
+    "verse": "41:4",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 58,
+        "value": "Tanhuma (Buber), Genesis 4:10",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_42"
+  },
+  "43": {
+    "id": 43,
+    "order": "21.00000000000000000000",
+    "verse": "41:3",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 59,
+        "value": "Numbers Rabbah I, 14:2",
+        "order": "27.00000000000000000000"
+      },
+      {
+        "id": 60,
+        "value": "Seder Eliyahu Rabbah, 19",
+        "order": "28.00000000000000000000"
+      },
+      {
+        "id": 61,
+        "value": "Seder Eliyahu Zuta, 4",
+        "order": "29.00000000000000000000"
+      },
+      {
+        "id": 62,
+        "value": "Tanhuma (Buber), Leviticus 7:15",
+        "order": "30.00000000000000000000"
+      },
+      {
+        "id": 63,
+        "value": "Tanhuma (Buber), Leviticus 8:10",
+        "order": "31.00000000000000000000"
+      },
+      {
+        "id": 64,
+        "value": "Midrash Psalms, 30:2",
+        "order": "32.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_43"
+  },
+  "44": {
+    "id": 44,
+    "order": "22.00000000000000000000",
+    "verse": "40:30",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 65,
+        "value": "Tanhuma (Buber), Exodus 4:24",
+        "order": "33.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_44"
+  },
+  "45": {
+    "id": 45,
+    "order": "23.00000000000000000000",
+    "verse": "40:27",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 66,
+        "value": "Tanhuma (Buber), Deuteronomy 2:5",
+        "order": "34.00000000000000000000"
+      },
+      {
+        "id": 67,
+        "value": "Pesiqta Rabbati, 25:2",
+        "order": "35.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_45"
+  },
+  "46": {
+    "id": 46,
+    "order": "24.00000000000000000000",
+    "verse": "40:23",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 68,
+        "value": "Numbers Rabbah II, 21:18",
+        "order": "36.00000000000000000000"
+      },
+      {
+        "id": 69,
+        "value": "Pesiqta Rabbati, 16:4",
+        "order": "37.00000000000000000000"
+      },
+      {
+        "id": 70,
+        "value": "Pesiqta Rabbati, 48:3",
+        "order": "38.00000000000000000000"
+      },
+      {
+        "id": 71,
+        "value": "Pirkei DeRabbi Eliezer, 11",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_46"
+  },
+  "47": {
+    "id": 47,
+    "order": "25.00000000000000000000",
+    "verse": "40:20",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 71,
+        "value": "Pirkei DeRabbi Eliezer, 11",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_47"
+  },
+  "48": {
+    "id": 48,
+    "order": "26.00000000000000000000",
+    "verse": "40:19",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 71,
+        "value": "Pirkei DeRabbi Eliezer, 11",
+        "order": "39.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_48"
+  },
+  "49": {
+    "id": 49,
+    "order": "27.00000000000000000000",
+    "verse": "40:15",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 69,
+        "value": "Pesiqta Rabbati, 16:4",
+        "order": "37.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_49"
+  },
+  "50": {
+    "id": 50,
+    "order": "28.00000000000000000000",
+    "verse": "40:13",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 73,
+        "value": "Midrash Psalms, 18:32",
+        "order": "41.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_50"
+  },
+  "51": {
+    "id": 51,
+    "order": "29.00000000000000000000",
+    "verse": "40:10",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 74,
+        "value": "Exodus Rabbah II, 23:13",
+        "order": "42.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_51"
+  },
+  "52": {
+    "id": 52,
+    "order": "30.00000000000000000000",
+    "verse": "40:6",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 75,
+        "value": "Exodus Rabbah I, 3:6",
+        "order": "43.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_52"
+  },
+  "53": {
+    "id": 53,
+    "order": "31.00000000000000000000",
+    "verse": "40:18",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 72,
+        "value": "Midrash Psalms, 9:7",
+        "order": "40.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_53"
+  },
+  "54": {
+    "id": 54,
+    "order": "32.00000000000000000000",
+    "verse": "1:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_54"
+  },
+  "55": {
+    "id": 55,
+    "order": "33.00000000000000000000",
+    "verse": "1:5",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_55"
+  },
+  "56": {
+    "id": 56,
+    "order": "34.00000000000000000000",
+    "verse": "1:6",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 87,
+        "value": "Avot DeRabbi Natan B, 44",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_56"
+  },
+  "57": {
+    "id": 57,
+    "order": "35.00000000000000000000",
+    "verse": "1:7",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_57"
+  },
+  "58": {
+    "id": 58,
+    "order": "36.00000000000000000000",
+    "verse": "1:8",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 77,
+        "value": "Avot DeRabbi Natan A, 2:5",
+        "order": "45.00000000000000000000"
+      },
+      {
+        "id": 78,
+        "value": "Avot DeRabbi Natan B, 2",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_58"
+  },
+  "59": {
+    "id": 59,
+    "order": "37.00000000000000000000",
+    "verse": "1:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_59"
+  },
+  "60": {
+    "id": 60,
+    "order": "38.00000000000000000000",
+    "verse": "1:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_60"
+  },
+  "61": {
+    "id": 61,
+    "order": "39.00000000000000000000",
+    "verse": "1:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_61"
+  },
+  "62": {
+    "id": 62,
+    "order": "40.00000000000000000000",
+    "verse": "1:14",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_62"
+  },
+  "63": {
+    "id": 63,
+    "order": "41.00000000000000000000",
+    "verse": "1:15",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_63"
+  },
+  "64": {
+    "id": 64,
+    "order": "42.00000000000000000000",
+    "verse": "1:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_64"
+  },
+  "65": {
+    "id": 65,
+    "order": "43.00000000000000000000",
+    "verse": "1:17",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_65"
+  },
+  "66": {
+    "id": 66,
+    "order": "44.00000000000000000000",
+    "verse": "1:19",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_66"
+  },
+  "67": {
+    "id": 67,
+    "order": "45.00000000000000000000",
+    "verse": "1:21",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 80,
+        "value": "Avot DeRabbi Natan A, 14:6",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_67"
+  },
+  "69": {
+    "id": 69,
+    "order": "47.00000000000000000000",
+    "verse": "2:3",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 79,
+        "value": "Avot DeRabbi Natan B, 43",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_69"
+  },
+  "71": {
+    "id": 71,
+    "order": "49.00000000000000000000",
+    "verse": "2:4",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_71"
+  },
+  "72": {
+    "id": 72,
+    "order": "50.00000000000000000000",
+    "verse": "2:6",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_72"
+  },
+  "73": {
+    "id": 73,
+    "order": "51.00000000000000000000",
+    "verse": "2:8",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_73"
+  },
+  "74": {
+    "id": 74,
+    "order": "52.00000000000000000000",
+    "verse": "2:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_74"
+  },
+  "75": {
+    "id": 75,
+    "order": "53.00000000000000000000",
+    "verse": "2:10",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 79,
+        "value": "Avot DeRabbi Natan B, 43",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_75"
+  },
+  "76": {
+    "id": 76,
+    "order": "54.00000000000000000000",
+    "verse": "2:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_76"
+  },
+  "77": {
+    "id": 77,
+    "order": "55.00000000000000000000",
+    "verse": "2:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_77"
+  },
+  "78": {
+    "id": 78,
+    "order": "56.00000000000000000000",
+    "verse": "3:1",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 82,
+        "value": "Avot DeRabbi Natan A, 37:13",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_78"
+  },
+  "79": {
+    "id": 79,
+    "order": "57.00000000000000000000",
+    "verse": "3:2",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 82,
+        "value": "Avot DeRabbi Natan A, 37:13",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_79"
+  },
+  "81": {
+    "id": 81,
+    "order": "59.00000000000000000000",
+    "verse": "3:3",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 82,
+        "value": "Avot DeRabbi Natan A, 37:13",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_81"
+  },
+  "82": {
+    "id": 82,
+    "order": "60.00000000000000000000",
+    "verse": "3:6",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_82"
+  },
+  "83": {
+    "id": 83,
+    "order": "61.00000000000000000000",
+    "verse": "3:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_83"
+  },
+  "84": {
+    "id": 84,
+    "order": "62.00000000000000000000",
+    "verse": "3:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_84"
+  },
+  "85": {
+    "id": 85,
+    "order": "63.00000000000000000000",
+    "verse": "3:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_85"
+  },
+  "86": {
+    "id": 86,
+    "order": "64.00000000000000000000",
+    "verse": "3:17",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_86"
+  },
+  "87": {
+    "id": 87,
+    "order": "65.00000000000000000000",
+    "verse": "3:19",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_87"
+  },
+  "88": {
+    "id": 88,
+    "order": "66.00000000000000000000",
+    "verse": "3:25",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 83,
+        "value": "Avot DeRabbi Natan A, 9:5",
+        "order": "50.00000000000000000000"
+      },
+      {
+        "id": 84,
+        "value": "Avot DeRabbi Natan B, 17",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_88"
+  },
+  "89": {
+    "id": 89,
+    "order": "67.00000000000000000000",
+    "verse": "3:26",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 84,
+        "value": "Avot DeRabbi Natan B, 17",
+        "order": "51.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_89"
+  },
+  "90": {
+    "id": 90,
+    "order": "68.00000000000000000000",
+    "verse": "4:1",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 82,
+        "value": "Avot DeRabbi Natan A, 37:13",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_90"
+  },
+  "91": {
+    "id": 91,
+    "order": "69.00000000000000000000",
+    "verse": "4:2",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_91"
+  },
+  "92": {
+    "id": 92,
+    "order": "70.00000000000000000000",
+    "verse": "4:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_92"
+  },
+  "93": {
+    "id": 93,
+    "order": "71.00000000000000000000",
+    "verse": "4:4",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_93"
+  },
+  "94": {
+    "id": 94,
+    "order": "72.00000000000000000000",
+    "verse": "4:6",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_94"
+  },
+  "95": {
+    "id": 95,
+    "order": "73.00000000000000000000",
+    "verse": "4:7",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_95"
+  },
+  "96": {
+    "id": 96,
+    "order": "74.00000000000000000000",
+    "verse": "4:8",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_96"
+  },
+  "97": {
+    "id": 97,
+    "order": "75.00000000000000000000",
+    "verse": "4:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_97"
+  },
+  "98": {
+    "id": 98,
+    "order": "76.00000000000000000000",
+    "verse": "4:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_98"
+  },
+  "99": {
+    "id": 99,
+    "order": "77.00000000000000000000",
+    "verse": "4:12",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 85,
+        "value": "Avot DeRabbi Natan B, 16",
+        "order": "52.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_99"
+  },
+  "100": {
+    "id": 100,
+    "order": "78.00000000000000000000",
+    "verse": "4:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_100"
+  },
+  "101": {
+    "id": 101,
+    "order": "79.00000000000000000000",
+    "verse": "4:15",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 86,
+        "value": "Avot DeRabbi Natan B, 38",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_101"
+  },
+  "102": {
+    "id": 102,
+    "order": "80.00000000000000000000",
+    "verse": "4:16",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 86,
+        "value": "Avot DeRabbi Natan B, 38",
+        "order": "53.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_102"
+  },
+  "103": {
+    "id": 103,
+    "order": "81.00000000000000000000",
+    "verse": "4:18",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 79,
+        "value": "Avot DeRabbi Natan B, 43",
+        "order": "47.00000000000000000000"
+      },
+      {
+        "id": 87,
+        "value": "Avot DeRabbi Natan B, 44",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_103"
+  },
+  "104": {
+    "id": 104,
+    "order": "82.00000000000000000000",
+    "verse": "4:17",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_104"
+  },
+  "105": {
+    "id": 105,
+    "order": "83.00000000000000000000",
+    "verse": "4:20",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_105"
+  },
+  "106": {
+    "id": 106,
+    "order": "84.00000000000000000000",
+    "verse": "5:5",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_106"
+  },
+  "107": {
+    "id": 107,
+    "order": "85.00000000000000000000",
+    "verse": "5:7",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_107"
+  },
+  "108": {
+    "id": 108,
+    "order": "86.00000000000000000000",
+    "verse": "5:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_108"
+  },
+  "109": {
+    "id": 109,
+    "order": "87.00000000000000000000",
+    "verse": "5:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_109"
+  },
+  "110": {
+    "id": 110,
+    "order": "88.00000000000000000000",
+    "verse": "5:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_110"
+  },
+  "111": {
+    "id": 111,
+    "order": "89.00000000000000000000",
+    "verse": "5:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_111"
+  },
+  "112": {
+    "id": 112,
+    "order": "90.00000000000000000000",
+    "verse": "5:23",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_112"
+  },
+  "113": {
+    "id": 113,
+    "order": "91.00000000000000000000",
+    "verse": "5:24",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_113"
+  },
+  "114": {
+    "id": 114,
+    "order": "92.00000000000000000000",
+    "verse": "5:25",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_114"
+  },
+  "115": {
+    "id": 115,
+    "order": "93.00000000000000000000",
+    "verse": "6:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_115"
+  },
+  "116": {
+    "id": 116,
+    "order": "94.00000000000000000000",
+    "verse": "6:12",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_116"
+  },
+  "117": {
+    "id": 117,
+    "order": "95.00000000000000000000",
+    "verse": "6:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_117"
+  },
+  "118": {
+    "id": 118,
+    "order": "96.00000000000000000000",
+    "verse": "6:14",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_118"
+  },
+  "119": {
+    "id": 119,
+    "order": "97.00000000000000000000",
+    "verse": "6:17",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_119"
+  },
+  "120": {
+    "id": 120,
+    "order": "98.00000000000000000000",
+    "verse": "6:18",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_120"
+  },
+  "121": {
+    "id": 121,
+    "order": "99.00000000000000000000",
+    "verse": "7:5",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_121"
+  },
+  "122": {
+    "id": 122,
+    "order": "100.00000000000000000000",
+    "verse": "7:8",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_122"
+  },
+  "123": {
+    "id": 123,
+    "order": "101.00000000000000000000",
+    "verse": "7:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_123"
+  },
+  "124": {
+    "id": 124,
+    "order": "102.00000000000000000000",
+    "verse": "7:18",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_124"
+  },
+  "125": {
+    "id": 125,
+    "order": "103.00000000000000000000",
+    "verse": "7:20",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 87,
+        "value": "Avot DeRabbi Natan B, 44",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_125"
+  },
+  "126": {
+    "id": 126,
+    "order": "104.00000000000000000000",
+    "verse": "8:1",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 82,
+        "value": "Avot DeRabbi Natan A, 37:13",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_126"
+  },
+  "127": {
+    "id": 127,
+    "order": "105.00000000000000000000",
+    "verse": "8:7",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_127"
+  },
+  "128": {
+    "id": 128,
+    "order": "106.00000000000000000000",
+    "verse": "8:8",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_128"
+  },
+  "129": {
+    "id": 129,
+    "order": "107.00000000000000000000",
+    "verse": "8:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_129"
+  },
+  "130": {
+    "id": 130,
+    "order": "108.00000000000000000000",
+    "verse": "8:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_130"
+  },
+  "131": {
+    "id": 131,
+    "order": "109.00000000000000000000",
+    "verse": "8:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_131"
+  },
+  "132": {
+    "id": 132,
+    "order": "110.00000000000000000000",
+    "verse": "8:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_132"
+  },
+  "133": {
+    "id": 133,
+    "order": "111.00000000000000000000",
+    "verse": "8:20",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_133"
+  },
+  "134": {
+    "id": 134,
+    "order": "112.00000000000000000000",
+    "verse": "9:4",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_134"
+  },
+  "135": {
+    "id": 135,
+    "order": "113.00000000000000000000",
+    "verse": "9:5",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 88,
+        "value": "Avot DeRabbi Natan B, 1",
+        "order": "55.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_135"
+  },
+  "136": {
+    "id": 136,
+    "order": "114.00000000000000000000",
+    "verse": "9:6",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_136"
+  },
+  "137": {
+    "id": 137,
+    "order": "115.00000000000000000000",
+    "verse": "9:7",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_137"
+  },
+  "138": {
+    "id": 138,
+    "order": "116.00000000000000000000",
+    "verse": "9:8",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_138"
+  },
+  "139": {
+    "id": 139,
+    "order": "117.00000000000000000000",
+    "verse": "9:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_139"
+  },
+  "140": {
+    "id": 140,
+    "order": "118.00000000000000000000",
+    "verse": "9:17",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_140"
+  },
+  "141": {
+    "id": 141,
+    "order": "119.00000000000000000000",
+    "verse": "9:22",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_141"
+  },
+  "142": {
+    "id": 142,
+    "order": "120.00000000000000000000",
+    "verse": "10:1",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_142"
+  },
+  "144": {
+    "id": 144,
+    "order": "122.00000000000000000000",
+    "verse": "10:2",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_144"
+  },
+  "145": {
+    "id": 145,
+    "order": "123.00000000000000000000",
+    "verse": "10:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_145"
+  },
+  "147": {
+    "id": 147,
+    "order": "125.00000000000000000000",
+    "verse": "10:4",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_147"
+  },
+  "148": {
+    "id": 148,
+    "order": "126.00000000000000000000",
+    "verse": "10:8",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_148"
+  },
+  "149": {
+    "id": 149,
+    "order": "127.00000000000000000000",
+    "verse": "10:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_149"
+  },
+  "150": {
+    "id": 150,
+    "order": "128.00000000000000000000",
+    "verse": "10:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_150"
+  },
+  "151": {
+    "id": 151,
+    "order": "129.00000000000000000000",
+    "verse": "10:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_151"
+  },
+  "152": {
+    "id": 152,
+    "order": "130.00000000000000000000",
+    "verse": "10:12",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_152"
+  },
+  "153": {
+    "id": 153,
+    "order": "131.00000000000000000000",
+    "verse": "10:15",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_153"
+  },
+  "154": {
+    "id": 154,
+    "order": "132.00000000000000000000",
+    "verse": "10:22",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_154"
+  },
+  "155": {
+    "id": 155,
+    "order": "133.00000000000000000000",
+    "verse": "11:1",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_155"
+  },
+  "156": {
+    "id": 156,
+    "order": "134.00000000000000000000",
+    "verse": "11:5",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_156"
+  },
+  "157": {
+    "id": 157,
+    "order": "135.00000000000000000000",
+    "verse": "11:6",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_157"
+  },
+  "158": {
+    "id": 158,
+    "order": "136.00000000000000000000",
+    "verse": "11:7",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_158"
+  },
+  "159": {
+    "id": 159,
+    "order": "137.00000000000000000000",
+    "verse": "11:8",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_159"
+  },
+  "160": {
+    "id": 160,
+    "order": "138.00000000000000000000",
+    "verse": "11:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_160"
+  },
+  "161": {
+    "id": 161,
+    "order": "139.00000000000000000000",
+    "verse": "11:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_161"
+  },
+  "162": {
+    "id": 162,
+    "order": "140.00000000000000000000",
+    "verse": "11:20",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_162"
+  },
+  "163": {
+    "id": 163,
+    "order": "141.00000000000000000000",
+    "verse": "12:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_163"
+  },
+  "164": {
+    "id": 164,
+    "order": "142.00000000000000000000",
+    "verse": "12:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_164"
+  },
+  "165": {
+    "id": 165,
+    "order": "143.00000000000000000000",
+    "verse": "12:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_165"
+  },
+  "166": {
+    "id": 166,
+    "order": "144.00000000000000000000",
+    "verse": "12:7",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_166"
+  },
+  "167": {
+    "id": 167,
+    "order": "145.00000000000000000000",
+    "verse": "12:8",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_167"
+  },
+  "168": {
+    "id": 168,
+    "order": "146.00000000000000000000",
+    "verse": "12:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_168"
+  },
+  "169": {
+    "id": 169,
+    "order": "147.00000000000000000000",
+    "verse": "12:6",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_169"
+  },
+  "171": {
+    "id": 171,
+    "order": "149.00000000000000000000",
+    "verse": "12:5",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_171"
+  },
+  "172": {
+    "id": 172,
+    "order": "150.00000000000000000000",
+    "verse": "12:12",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_172"
+  },
+  "173": {
+    "id": 173,
+    "order": "151.00000000000000000000",
+    "verse": "12:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_173"
+  },
+  "174": {
+    "id": 174,
+    "order": "152.00000000000000000000",
+    "verse": "12:14",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_174"
+  },
+  "175": {
+    "id": 175,
+    "order": "153.00000000000000000000",
+    "verse": "12:15",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_175"
+  },
+  "176": {
+    "id": 176,
+    "order": "154.00000000000000000000",
+    "verse": "12:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_176"
+  },
+  "177": {
+    "id": 177,
+    "order": "155.00000000000000000000",
+    "verse": "12:18",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_177"
+  },
+  "178": {
+    "id": 178,
+    "order": "156.00000000000000000000",
+    "verse": "12:20",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_178"
+  },
+  "180": {
+    "id": 180,
+    "order": "158.00000000000000000000",
+    "verse": "12:24",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_180"
+  },
+  "182": {
+    "id": 182,
+    "order": "160.00000000000000000000",
+    "verse": "14:5",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_182"
+  },
+  "183": {
+    "id": 183,
+    "order": "161.00000000000000000000",
+    "verse": "14:4",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_183"
+  },
+  "184": {
+    "id": 184,
+    "order": "162.00000000000000000000",
+    "verse": "14:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_184"
+  },
+  "185": {
+    "id": 185,
+    "order": "163.00000000000000000000",
+    "verse": "14:2",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_185"
+  },
+  "186": {
+    "id": 186,
+    "order": "164.00000000000000000000",
+    "verse": "14:1",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 89,
+        "value": "Avot DeRabbi Natan B, 42",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_186"
+  },
+  "187": {
+    "id": 187,
+    "order": "165.00000000000000000000",
+    "verse": "13:27",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_187"
+  },
+  "188": {
+    "id": 188,
+    "order": "166.00000000000000000000",
+    "verse": "13:28",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_188"
+  },
+  "189": {
+    "id": 189,
+    "order": "167.00000000000000000000",
+    "verse": "13:23",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_189"
+  },
+  "190": {
+    "id": 190,
+    "order": "168.00000000000000000000",
+    "verse": "13:20",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_190"
+  },
+  "191": {
+    "id": 191,
+    "order": "169.00000000000000000000",
+    "verse": "13:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_191"
+  },
+  "192": {
+    "id": 192,
+    "order": "170.00000000000000000000",
+    "verse": "13:15",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_192"
+  },
+  "193": {
+    "id": 193,
+    "order": "171.00000000000000000000",
+    "verse": "13:12",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_193"
+  },
+  "194": {
+    "id": 194,
+    "order": "172.00000000000000000000",
+    "verse": "14:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_194"
+  },
+  "195": {
+    "id": 195,
+    "order": "173.00000000000000000000",
+    "verse": "14:15",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_195"
+  },
+  "196": {
+    "id": 196,
+    "order": "174.00000000000000000000",
+    "verse": "14:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_196"
+  },
+  "197": {
+    "id": 197,
+    "order": "175.00000000000000000000",
+    "verse": "14:18",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_197"
+  },
+  "199": {
+    "id": 199,
+    "order": "177.00000000000000000000",
+    "verse": "14:20",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_199"
+  },
+  "200": {
+    "id": 200,
+    "order": "178.00000000000000000000",
+    "verse": "14:22",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_200"
+  },
+  "201": {
+    "id": 201,
+    "order": "179.00000000000000000000",
+    "verse": "15:2",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_201"
+  },
+  "202": {
+    "id": 202,
+    "order": "180.00000000000000000000",
+    "verse": "15:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_202"
+  },
+  "203": {
+    "id": 203,
+    "order": "181.00000000000000000000",
+    "verse": "15:12",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_203"
+  },
+  "204": {
+    "id": 204,
+    "order": "182.00000000000000000000",
+    "verse": "15:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_204"
+  },
+  "205": {
+    "id": 205,
+    "order": "183.00000000000000000000",
+    "verse": "15:15",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_205"
+  },
+  "206": {
+    "id": 206,
+    "order": "184.00000000000000000000",
+    "verse": "15:17",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_206"
+  },
+  "207": {
+    "id": 207,
+    "order": "185.00000000000000000000",
+    "verse": "15:18",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_207"
+  },
+  "209": {
+    "id": 209,
+    "order": "187.00000000000000000000",
+    "verse": "15:19",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_209"
+  },
+  "210": {
+    "id": 210,
+    "order": "188.00000000000000000000",
+    "verse": "15:20",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_210"
+  },
+  "211": {
+    "id": 211,
+    "order": "189.00000000000000000000",
+    "verse": "15:26",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_211"
+  },
+  "212": {
+    "id": 212,
+    "order": "190.00000000000000000000",
+    "verse": "15:28",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_212"
+  },
+  "213": {
+    "id": 213,
+    "order": "191.00000000000000000000",
+    "verse": "15:29",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_213"
+  },
+  "214": {
+    "id": 214,
+    "order": "192.00000000000000000000",
+    "verse": "15:30",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_214"
+  },
+  "215": {
+    "id": 215,
+    "order": "193.00000000000000000000",
+    "verse": "15:31",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_215"
+  },
+  "216": {
+    "id": 216,
+    "order": "194.00000000000000000000",
+    "verse": "15:32",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_216"
+  },
+  "217": {
+    "id": 217,
+    "order": "195.00000000000000000000",
+    "verse": "15:33",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_217"
+  },
+  "218": {
+    "id": 218,
+    "order": "196.00000000000000000000",
+    "verse": "15:34",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_218"
+  },
+  "219": {
+    "id": 219,
+    "order": "197.00000000000000000000",
+    "verse": "15:35",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_219"
+  },
+  "220": {
+    "id": 220,
+    "order": "198.00000000000000000000",
+    "verse": "16:2",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_220"
+  },
+  "221": {
+    "id": 221,
+    "order": "199.00000000000000000000",
+    "verse": "16:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_221"
+  },
+  "222": {
+    "id": 222,
+    "order": "200.00000000000000000000",
+    "verse": "16:12",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_222"
+  },
+  "224": {
+    "id": 224,
+    "order": "202.00000000000000000000",
+    "verse": "16:17",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_224"
+  },
+  "225": {
+    "id": 225,
+    "order": "203.00000000000000000000",
+    "verse": "16:18",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_225"
+  },
+  "226": {
+    "id": 226,
+    "order": "204.00000000000000000000",
+    "verse": "16:19",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_226"
+  },
+  "227": {
+    "id": 227,
+    "order": "205.00000000000000000000",
+    "verse": "17:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_227"
+  },
+  "228": {
+    "id": 228,
+    "order": "206.00000000000000000000",
+    "verse": "18:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_228"
+  },
+  "229": {
+    "id": 229,
+    "order": "207.00000000000000000000",
+    "verse": "18:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_229"
+  },
+  "230": {
+    "id": 230,
+    "order": "208.00000000000000000000",
+    "verse": "18:17",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_230"
+  },
+  "231": {
+    "id": 231,
+    "order": "209.00000000000000000000",
+    "verse": "18:18",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_231"
+  },
+  "232": {
+    "id": 232,
+    "order": "210.00000000000000000000",
+    "verse": "19:4",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_232"
+  },
+  "233": {
+    "id": 233,
+    "order": "211.00000000000000000000",
+    "verse": "19:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_233"
+  },
+  "234": {
+    "id": 234,
+    "order": "212.00000000000000000000",
+    "verse": "19:21",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_234"
+  },
+  "235": {
+    "id": 235,
+    "order": "213.00000000000000000000",
+    "verse": "19:29",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_235"
+  },
+  "236": {
+    "id": 236,
+    "order": "214.00000000000000000000",
+    "verse": "20:5",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_236"
+  },
+  "237": {
+    "id": 237,
+    "order": "215.00000000000000000000",
+    "verse": "20:17",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_237"
+  },
+  "238": {
+    "id": 238,
+    "order": "216.00000000000000000000",
+    "verse": "20:22",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 92,
+        "value": "Avot DeRabbi Natan B, 7",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_238"
+  },
+  "239": {
+    "id": 239,
+    "order": "217.00000000000000000000",
+    "verse": "20:23",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_239"
+  },
+  "240": {
+    "id": 240,
+    "order": "218.00000000000000000000",
+    "verse": "20:24",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_240"
+  },
+  "241": {
+    "id": 241,
+    "order": "219.00000000000000000000",
+    "verse": "20:25",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_241"
+  },
+  "242": {
+    "id": 242,
+    "order": "220.00000000000000000000",
+    "verse": "20:26",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_242"
+  },
+  "243": {
+    "id": 243,
+    "order": "221.00000000000000000000",
+    "verse": "20:27",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_243"
+  },
+  "244": {
+    "id": 244,
+    "order": "222.00000000000000000000",
+    "verse": "20:28",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 94,
+        "value": "Avot DeRabbi Natan A, 8:5",
+        "order": "61.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_244"
+  },
+  "245": {
+    "id": 245,
+    "order": "223.00000000000000000000",
+    "verse": "21:8",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_245"
+  },
+  "246": {
+    "id": 246,
+    "order": "224.00000000000000000000",
+    "verse": "21:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_246"
+  },
+  "247": {
+    "id": 247,
+    "order": "225.00000000000000000000",
+    "verse": "21:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_247"
+  },
+  "248": {
+    "id": 248,
+    "order": "226.00000000000000000000",
+    "verse": "21:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_248"
+  },
+  "249": {
+    "id": 249,
+    "order": "227.00000000000000000000",
+    "verse": "21:12",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_249"
+  },
+  "250": {
+    "id": 250,
+    "order": "228.00000000000000000000",
+    "verse": "21:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_250"
+  },
+  "251": {
+    "id": 251,
+    "order": "229.00000000000000000000",
+    "verse": "21:14",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 93,
+        "value": "Avot DeRabbi Natan A, 32:3",
+        "order": "60.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_251"
+  },
+  "252": {
+    "id": 252,
+    "order": "230.00000000000000000000",
+    "verse": "21:15",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_252"
+  },
+  "253": {
+    "id": 253,
+    "order": "231.00000000000000000000",
+    "verse": "21:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_253"
+  },
+  "254": {
+    "id": 254,
+    "order": "232.00000000000000000000",
+    "verse": "21:18",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_254"
+  },
+  "255": {
+    "id": 255,
+    "order": "233.00000000000000000000",
+    "verse": "21:33",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_255"
+  },
+  "256": {
+    "id": 256,
+    "order": "234.00000000000000000000",
+    "verse": "21:34",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_256"
+  },
+  "257": {
+    "id": 257,
+    "order": "235.00000000000000000000",
+    "verse": "22:12",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_257"
+  },
+  "258": {
+    "id": 258,
+    "order": "236.00000000000000000000",
+    "verse": "22:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_258"
+  },
+  "259": {
+    "id": 259,
+    "order": "237.00000000000000000000",
+    "verse": "22:14",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_259"
+  },
+  "260": {
+    "id": 260,
+    "order": "238.00000000000000000000",
+    "verse": "22:15",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_260"
+  },
+  "261": {
+    "id": 261,
+    "order": "239.00000000000000000000",
+    "verse": "22:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_261"
+  },
+  "262": {
+    "id": 262,
+    "order": "240.00000000000000000000",
+    "verse": "22:17",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_262"
+  },
+  "263": {
+    "id": 263,
+    "order": "241.00000000000000000000",
+    "verse": "22:20",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_263"
+  },
+  "264": {
+    "id": 264,
+    "order": "242.00000000000000000000",
+    "verse": "22:25",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_264"
+  },
+  "265": {
+    "id": 265,
+    "order": "243.00000000000000000000",
+    "verse": "22:28",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_265"
+  },
+  "266": {
+    "id": 266,
+    "order": "244.00000000000000000000",
+    "verse": "22:30",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_266"
+  },
+  "267": {
+    "id": 267,
+    "order": "245.00000000000000000000",
+    "verse": "23:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_267"
+  },
+  "268": {
+    "id": 268,
+    "order": "246.00000000000000000000",
+    "verse": "23:4",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_268"
+  },
+  "269": {
+    "id": 269,
+    "order": "247.00000000000000000000",
+    "verse": "23:5",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_269"
+  },
+  "270": {
+    "id": 270,
+    "order": "248.00000000000000000000",
+    "verse": "23:8",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_270"
+  },
+  "271": {
+    "id": 271,
+    "order": "249.00000000000000000000",
+    "verse": "23:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_271"
+  },
+  "272": {
+    "id": 272,
+    "order": "250.00000000000000000000",
+    "verse": "23:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_272"
+  },
+  "273": {
+    "id": 273,
+    "order": "251.00000000000000000000",
+    "verse": "23:12",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_273"
+  },
+  "274": {
+    "id": 274,
+    "order": "252.00000000000000000000",
+    "verse": "23:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_274"
+  },
+  "275": {
+    "id": 275,
+    "order": "253.00000000000000000000",
+    "verse": "24:2",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_275"
+  },
+  "276": {
+    "id": 276,
+    "order": "254.00000000000000000000",
+    "verse": "24:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_276"
+  },
+  "277": {
+    "id": 277,
+    "order": "255.00000000000000000000",
+    "verse": "24:4",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_277"
+  },
+  "278": {
+    "id": 278,
+    "order": "256.00000000000000000000",
+    "verse": "24:7",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_278"
+  },
+  "279": {
+    "id": 279,
+    "order": "257.00000000000000000000",
+    "verse": "24:7",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_279"
+  },
+  "280": {
+    "id": 280,
+    "order": "258.00000000000000000000",
+    "verse": "24:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_280"
+  },
+  "281": {
+    "id": 281,
+    "order": "259.00000000000000000000",
+    "verse": "24:12",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_281"
+  },
+  "282": {
+    "id": 282,
+    "order": "260.00000000000000000000",
+    "verse": "24:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_282"
+  },
+  "283": {
+    "id": 283,
+    "order": "261.00000000000000000000",
+    "verse": "24:15",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_283"
+  },
+  "284": {
+    "id": 284,
+    "order": "262.00000000000000000000",
+    "verse": "24:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_284"
+  },
+  "285": {
+    "id": 285,
+    "order": "263.00000000000000000000",
+    "verse": "24:18",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_285"
+  },
+  "286": {
+    "id": 286,
+    "order": "264.00000000000000000000",
+    "verse": "24:20",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_286"
+  },
+  "287": {
+    "id": 287,
+    "order": "265.00000000000000000000",
+    "verse": "24:22",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_287"
+  },
+  "288": {
+    "id": 288,
+    "order": "266.00000000000000000000",
+    "verse": "25:2",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 95,
+        "value": "Avot DeRabbi Natan A, 12:5",
+        "order": "62.00000000000000000000"
+      },
+      {
+        "id": 96,
+        "value": "Avot DeRabbi Natan B, 8",
+        "order": "63.00000000000000000000"
+      },
+      {
+        "id": 97,
+        "value": "Avot DeRabbi Natan B, 24",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_288"
+  },
+  "289": {
+    "id": 289,
+    "order": "267.00000000000000000000",
+    "verse": "25:3",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 98,
+        "value": "Avot DeRabbi Natan B, 27",
+        "order": "65.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_289"
+  },
+  "290": {
+    "id": 290,
+    "order": "268.00000000000000000000",
+    "verse": "25:6",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_290"
+  },
+  "291": {
+    "id": 291,
+    "order": "269.00000000000000000000",
+    "verse": "26:6",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 99,
+        "value": "Avot DeRabbi Natan A, 12:4",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_291"
+  },
+  "292": {
+    "id": 292,
+    "order": "270.00000000000000000000",
+    "verse": "26:8",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_292"
+  },
+  "293": {
+    "id": 293,
+    "order": "271.00000000000000000000",
+    "verse": "26:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_293"
+  },
+  "294": {
+    "id": 294,
+    "order": "272.00000000000000000000",
+    "verse": "26:11",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 79,
+        "value": "Avot DeRabbi Natan B, 43",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_294"
+  },
+  "295": {
+    "id": 295,
+    "order": "273.00000000000000000000",
+    "verse": "26:12",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_295"
+  },
+  "296": {
+    "id": 296,
+    "order": "274.00000000000000000000",
+    "verse": "26:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_296"
+  },
+  "297": {
+    "id": 297,
+    "order": "275.00000000000000000000",
+    "verse": "26:14",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_297"
+  },
+  "298": {
+    "id": 298,
+    "order": "276.00000000000000000000",
+    "verse": "27:17",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_298"
+  },
+  "299": {
+    "id": 299,
+    "order": "277.00000000000000000000",
+    "verse": "28:1",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_299"
+  },
+  "300": {
+    "id": 300,
+    "order": "278.00000000000000000000",
+    "verse": "28:2",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_300"
+  },
+  "301": {
+    "id": 301,
+    "order": "279.00000000000000000000",
+    "verse": "28:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_301"
+  },
+  "302": {
+    "id": 302,
+    "order": "280.00000000000000000000",
+    "verse": "28:4",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_302"
+  },
+  "303": {
+    "id": 303,
+    "order": "281.00000000000000000000",
+    "verse": "28:5",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_303"
+  },
+  "304": {
+    "id": 304,
+    "order": "282.00000000000000000000",
+    "verse": "28:6",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_304"
+  },
+  "305": {
+    "id": 305,
+    "order": "283.00000000000000000000",
+    "verse": "28:7",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_305"
+  },
+  "307": {
+    "id": 307,
+    "order": "285.00000000000000000000",
+    "verse": "28:8",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 100,
+        "value": "Avot DeRabbi Natan A, 39:2",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_307"
+  },
+  "308": {
+    "id": 308,
+    "order": "286.00000000000000000000",
+    "verse": "28:9",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 91,
+        "value": "Avot DeRabbi Natan B, 12",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_308"
+  },
+  "309": {
+    "id": 309,
+    "order": "287.00000000000000000000",
+    "verse": "28:10",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 91,
+        "value": "Avot DeRabbi Natan B, 12",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_309"
+  },
+  "310": {
+    "id": 310,
+    "order": "288.00000000000000000000",
+    "verse": "28:11",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 90,
+        "value": "Avot DeRabbi Natan A, 6:2",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 91,
+        "value": "Avot DeRabbi Natan B, 12",
+        "order": "58.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_310"
+  },
+  "311": {
+    "id": 311,
+    "order": "289.00000000000000000000",
+    "verse": "28:12",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 101,
+        "value": "Avot DeRabbi Natan A, 12:4",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_311"
+  },
+  "312": {
+    "id": 312,
+    "order": "290.00000000000000000000",
+    "verse": "28:13",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 101,
+        "value": "Avot DeRabbi Natan A, 12:4",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_312"
+  },
+  "313": {
+    "id": 313,
+    "order": "291.00000000000000000000",
+    "verse": "28:14",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 101,
+        "value": "Avot DeRabbi Natan A, 12:4",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 102,
+        "value": "Avot DeRabbi Natan B, 25",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_313"
+  },
+  "314": {
+    "id": 314,
+    "order": "292.00000000000000000000",
+    "verse": "28:15",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_314"
+  },
+  "315": {
+    "id": 315,
+    "order": "293.00000000000000000000",
+    "verse": "28:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_315"
+  },
+  "316": {
+    "id": 316,
+    "order": "294.00000000000000000000",
+    "verse": "28:17",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 103,
+        "value": "Avot DeRabbi Natan A, 24:5",
+        "order": "70.00000000000000000000"
+      },
+      {
+        "id": 104,
+        "value": "Avot DeRabbi Natan B, 31",
+        "order": "71.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_316"
+  },
+  "317": {
+    "id": 317,
+    "order": "295.00000000000000000000",
+    "verse": "28:18",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_317"
+  },
+  "318": {
+    "id": 318,
+    "order": "296.00000000000000000000",
+    "verse": "28:19",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_318"
+  },
+  "319": {
+    "id": 319,
+    "order": "297.00000000000000000000",
+    "verse": "28:20",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_319"
+  },
+  "320": {
+    "id": 320,
+    "order": "298.00000000000000000000",
+    "verse": "28:21",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 102,
+        "value": "Avot DeRabbi Natan B, 25",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_320"
+  },
+  "321": {
+    "id": 321,
+    "order": "299.00000000000000000000",
+    "verse": "28:22",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 101,
+        "value": "Avot DeRabbi Natan A, 12:4",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 102,
+        "value": "Avot DeRabbi Natan B, 25",
+        "order": "69.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_321"
+  },
+  "322": {
+    "id": 322,
+    "order": "300.00000000000000000000",
+    "verse": "28:23",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 101,
+        "value": "Avot DeRabbi Natan A, 12:4",
+        "order": "68.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_322"
+  },
+  "323": {
+    "id": 323,
+    "order": "301.00000000000000000000",
+    "verse": "28:24",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_323"
+  },
+  "324": {
+    "id": 324,
+    "order": "302.00000000000000000000",
+    "verse": "28:25",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_324"
+  },
+  "325": {
+    "id": 325,
+    "order": "303.00000000000000000000",
+    "verse": "28:27",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_325"
+  },
+  "326": {
+    "id": 326,
+    "order": "304.00000000000000000000",
+    "verse": "28:28",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_326"
+  },
+  "327": {
+    "id": 327,
+    "order": "305.00000000000000000000",
+    "verse": "29:2",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_327"
+  },
+  "328": {
+    "id": 328,
+    "order": "306.00000000000000000000",
+    "verse": "29:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_328"
+  },
+  "329": {
+    "id": 329,
+    "order": "307.00000000000000000000",
+    "verse": "29:4",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_329"
+  },
+  "330": {
+    "id": 330,
+    "order": "308.00000000000000000000",
+    "verse": "29:14",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_330"
+  },
+  "331": {
+    "id": 331,
+    "order": "309.00000000000000000000",
+    "verse": "29:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_331"
+  },
+  "332": {
+    "id": 332,
+    "order": "310.00000000000000000000",
+    "verse": "29:17",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_332"
+  },
+  "333": {
+    "id": 333,
+    "order": "311.00000000000000000000",
+    "verse": "29:19",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_333"
+  },
+  "334": {
+    "id": 334,
+    "order": "312.00000000000000000000",
+    "verse": "29:23",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_334"
+  },
+  "335": {
+    "id": 335,
+    "order": "313.00000000000000000000",
+    "verse": "29:25",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_335"
+  },
+  "336": {
+    "id": 336,
+    "order": "314.00000000000000000000",
+    "verse": "30:1",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_336"
+  },
+  "337": {
+    "id": 337,
+    "order": "315.00000000000000000000",
+    "verse": "30:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_337"
+  },
+  "338": {
+    "id": 338,
+    "order": "316.00000000000000000000",
+    "verse": "30:4",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_338"
+  },
+  "339": {
+    "id": 339,
+    "order": "317.00000000000000000000",
+    "verse": "30:5",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 79,
+        "value": "Avot DeRabbi Natan B, 43",
+        "order": "47.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_339"
+  },
+  "340": {
+    "id": 340,
+    "order": "318.00000000000000000000",
+    "verse": "30:15",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_340"
+  },
+  "341": {
+    "id": 341,
+    "order": "319.00000000000000000000",
+    "verse": "30:19",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_341"
+  },
+  "342": {
+    "id": 342,
+    "order": "320.00000000000000000000",
+    "verse": "30:23",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_342"
+  },
+  "343": {
+    "id": 343,
+    "order": "321.00000000000000000000",
+    "verse": "30:24",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_343"
+  },
+  "344": {
+    "id": 344,
+    "order": "322.00000000000000000000",
+    "verse": "30:25",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_344"
+  },
+  "345": {
+    "id": 345,
+    "order": "323.00000000000000000000",
+    "verse": "31:1",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 77,
+        "value": "Avot DeRabbi Natan A, 2:5",
+        "order": "45.00000000000000000000"
+      },
+      {
+        "id": 78,
+        "value": "Avot DeRabbi Natan B, 2",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_345"
+  },
+  "346": {
+    "id": 346,
+    "order": "324.00000000000000000000",
+    "verse": "31:2",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 78,
+        "value": "Avot DeRabbi Natan B, 2",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_346"
+  },
+  "347": {
+    "id": 347,
+    "order": "325.00000000000000000000",
+    "verse": "31:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_347"
+  },
+  "348": {
+    "id": 348,
+    "order": "326.00000000000000000000",
+    "verse": "31:12",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_348"
+  },
+  "349": {
+    "id": 349,
+    "order": "327.00000000000000000000",
+    "verse": "31:14",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_349"
+  },
+  "350": {
+    "id": 350,
+    "order": "328.00000000000000000000",
+    "verse": "31:17",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 105,
+        "value": "Avot DeRabbi Natan A, 7:1",
+        "order": "72.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_350"
+  },
+  "351": {
+    "id": 351,
+    "order": "329.00000000000000000000",
+    "verse": "31:20",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 105,
+        "value": "Avot DeRabbi Natan A, 7:1",
+        "order": "72.00000000000000000000"
+      },
+      {
+        "id": 106,
+        "value": "Avot DeRabbi Natan B, 14",
+        "order": "73.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_351"
+  },
+  "353": {
+    "id": 353,
+    "order": "331.00000000000000000000",
+    "verse": "31:32",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 106,
+        "value": "Avot DeRabbi Natan B, 14",
+        "order": "73.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_353"
+  },
+  "354": {
+    "id": 354,
+    "order": "332.00000000000000000000",
+    "verse": "31:34",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_354"
+  },
+  "355": {
+    "id": 355,
+    "order": "333.00000000000000000000",
+    "verse": "31:35",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_355"
+  },
+  "356": {
+    "id": 356,
+    "order": "334.00000000000000000000",
+    "verse": "31:38",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_356"
+  },
+  "357": {
+    "id": 357,
+    "order": "335.00000000000000000000",
+    "verse": "31:39",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_357"
+  },
+  "358": {
+    "id": 358,
+    "order": "336.00000000000000000000",
+    "verse": "31:40",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_358"
+  },
+  "359": {
+    "id": 359,
+    "order": "337.00000000000000000000",
+    "verse": "32:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_359"
+  },
+  "360": {
+    "id": 360,
+    "order": "338.00000000000000000000",
+    "verse": "32:5",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_360"
+  },
+  "361": {
+    "id": 361,
+    "order": "339.00000000000000000000",
+    "verse": "32:6",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 82,
+        "value": "Avot DeRabbi Natan A, 37:13",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_361"
+  },
+  "362": {
+    "id": 362,
+    "order": "340.00000000000000000000",
+    "verse": "32:7",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 82,
+        "value": "Avot DeRabbi Natan A, 37:13",
+        "order": "49.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_362"
+  },
+  "363": {
+    "id": 363,
+    "order": "341.00000000000000000000",
+    "verse": "32:8",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_363"
+  },
+  "364": {
+    "id": 364,
+    "order": "342.00000000000000000000",
+    "verse": "32:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_364"
+  },
+  "365": {
+    "id": 365,
+    "order": "343.00000000000000000000",
+    "verse": "32:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_365"
+  },
+  "366": {
+    "id": 366,
+    "order": "344.00000000000000000000",
+    "verse": "33:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_366"
+  },
+  "367": {
+    "id": 367,
+    "order": "345.00000000000000000000",
+    "verse": "33:15",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_367"
+  },
+  "368": {
+    "id": 368,
+    "order": "346.00000000000000000000",
+    "verse": "33:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_368"
+  },
+  "369": {
+    "id": 369,
+    "order": "347.00000000000000000000",
+    "verse": "33:17",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_369"
+  },
+  "370": {
+    "id": 370,
+    "order": "348.00000000000000000000",
+    "verse": "33:22",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_370"
+  },
+  "371": {
+    "id": 371,
+    "order": "349.00000000000000000000",
+    "verse": "33:23",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_371"
+  },
+  "372": {
+    "id": 372,
+    "order": "350.00000000000000000000",
+    "verse": "33:23",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_372"
+  },
+  "373": {
+    "id": 373,
+    "order": "351.00000000000000000000",
+    "verse": "33:24",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_373"
+  },
+  "374": {
+    "id": 374,
+    "order": "352.00000000000000000000",
+    "verse": "33:25",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_374"
+  },
+  "375": {
+    "id": 375,
+    "order": "353.00000000000000000000",
+    "verse": "33:27",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_375"
+  },
+  "376": {
+    "id": 376,
+    "order": "354.00000000000000000000",
+    "verse": "33:28",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_376"
+  },
+  "377": {
+    "id": 377,
+    "order": "355.00000000000000000000",
+    "verse": "33:29",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_377"
+  },
+  "378": {
+    "id": 378,
+    "order": "356.00000000000000000000",
+    "verse": "33:30",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 107,
+        "value": "Avot DeRabbi Natan A, 34:11",
+        "order": "74.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_378"
+  },
+  "379": {
+    "id": 379,
+    "order": "357.00000000000000000000",
+    "verse": "34:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_379"
+  },
+  "380": {
+    "id": 380,
+    "order": "358.00000000000000000000",
+    "verse": "34:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_380"
+  },
+  "381": {
+    "id": 381,
+    "order": "359.00000000000000000000",
+    "verse": "34:19",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_381"
+  },
+  "382": {
+    "id": 382,
+    "order": "360.00000000000000000000",
+    "verse": "34:20",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_382"
+  },
+  "383": {
+    "id": 383,
+    "order": "361.00000000000000000000",
+    "verse": "34:22",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_383"
+  },
+  "384": {
+    "id": 384,
+    "order": "362.00000000000000000000",
+    "verse": "34:24",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_384"
+  },
+  "385": {
+    "id": 385,
+    "order": "363.00000000000000000000",
+    "verse": "34:26",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_385"
+  },
+  "387": {
+    "id": 387,
+    "order": "365.00000000000000000000",
+    "verse": "34:32",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_387"
+  },
+  "388": {
+    "id": 388,
+    "order": "366.00000000000000000000",
+    "verse": "34:33",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_388"
+  },
+  "389": {
+    "id": 389,
+    "order": "367.00000000000000000000",
+    "verse": "35:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_389"
+  },
+  "390": {
+    "id": 390,
+    "order": "368.00000000000000000000",
+    "verse": "36:2",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 108,
+        "value": "Avot DeRabbi Natan B, 40",
+        "order": "75.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_390"
+  },
+  "391": {
+    "id": 391,
+    "order": "369.00000000000000000000",
+    "verse": "36:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_391"
+  },
+  "392": {
+    "id": 392,
+    "order": "370.00000000000000000000",
+    "verse": "36:7",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_392"
+  },
+  "393": {
+    "id": 393,
+    "order": "371.00000000000000000000",
+    "verse": "36:8",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_393"
+  },
+  "394": {
+    "id": 394,
+    "order": "372.00000000000000000000",
+    "verse": "36:11",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 109,
+        "value": "Avot DeRabbi Natan A, 11:1",
+        "order": "76.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_394"
+  },
+  "395": {
+    "id": 395,
+    "order": "373.00000000000000000000",
+    "verse": "36:12",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 109,
+        "value": "Avot DeRabbi Natan A, 11:1",
+        "order": "76.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_395"
+  },
+  "396": {
+    "id": 396,
+    "order": "374.00000000000000000000",
+    "verse": "36:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_396"
+  },
+  "397": {
+    "id": 397,
+    "order": "375.00000000000000000000",
+    "verse": "36:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_397"
+  },
+  "398": {
+    "id": 398,
+    "order": "376.00000000000000000000",
+    "verse": "36:19",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_398"
+  },
+  "399": {
+    "id": 399,
+    "order": "377.00000000000000000000",
+    "verse": "36:21",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_399"
+  },
+  "400": {
+    "id": 400,
+    "order": "378.00000000000000000000",
+    "verse": "36:22",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_400"
+  },
+  "401": {
+    "id": 401,
+    "order": "379.00000000000000000000",
+    "verse": "36:27",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_401"
+  },
+  "402": {
+    "id": 402,
+    "order": "380.00000000000000000000",
+    "verse": "36:28",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_402"
+  },
+  "403": {
+    "id": 403,
+    "order": "381.00000000000000000000",
+    "verse": "36:31",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_403"
+  },
+  "404": {
+    "id": 404,
+    "order": "382.00000000000000000000",
+    "verse": "37:1",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_404"
+  },
+  "405": {
+    "id": 405,
+    "order": "383.00000000000000000000",
+    "verse": "37:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_405"
+  },
+  "406": {
+    "id": 406,
+    "order": "384.00000000000000000000",
+    "verse": "37:5",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_406"
+  },
+  "407": {
+    "id": 407,
+    "order": "385.00000000000000000000",
+    "verse": "37:6",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_407"
+  },
+  "408": {
+    "id": 408,
+    "order": "386.00000000000000000000",
+    "verse": "37:7",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_408"
+  },
+  "409": {
+    "id": 409,
+    "order": "387.00000000000000000000",
+    "verse": "37:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_409"
+  },
+  "410": {
+    "id": 410,
+    "order": "388.00000000000000000000",
+    "verse": "37:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_410"
+  },
+  "411": {
+    "id": 411,
+    "order": "389.00000000000000000000",
+    "verse": "37:15",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_411"
+  },
+  "412": {
+    "id": 412,
+    "order": "390.00000000000000000000",
+    "verse": "37:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_412"
+  },
+  "413": {
+    "id": 413,
+    "order": "391.00000000000000000000",
+    "verse": "37:20",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_413"
+  },
+  "414": {
+    "id": 414,
+    "order": "392.00000000000000000000",
+    "verse": "37:23",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_414"
+  },
+  "415": {
+    "id": 415,
+    "order": "393.00000000000000000000",
+    "verse": "38:1",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_415"
+  },
+  "416": {
+    "id": 416,
+    "order": "394.00000000000000000000",
+    "verse": "38:2",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_416"
+  },
+  "417": {
+    "id": 417,
+    "order": "395.00000000000000000000",
+    "verse": "38:3",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_417"
+  },
+  "418": {
+    "id": 418,
+    "order": "396.00000000000000000000",
+    "verse": "38:4",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_418"
+  },
+  "419": {
+    "id": 419,
+    "order": "397.00000000000000000000",
+    "verse": "38:7",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_419"
+  },
+  "420": {
+    "id": 420,
+    "order": "398.00000000000000000000",
+    "verse": "38:8",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_420"
+  },
+  "421": {
+    "id": 421,
+    "order": "399.00000000000000000000",
+    "verse": "38:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_421"
+  },
+  "422": {
+    "id": 422,
+    "order": "400.00000000000000000000",
+    "verse": "38:10",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_422"
+  },
+  "423": {
+    "id": 423,
+    "order": "401.00000000000000000000",
+    "verse": "38:11",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_423"
+  },
+  "424": {
+    "id": 424,
+    "order": "402.00000000000000000000",
+    "verse": "38:13",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_424"
+  },
+  "425": {
+    "id": 425,
+    "order": "403.00000000000000000000",
+    "verse": "38:14",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_425"
+  },
+  "427": {
+    "id": 427,
+    "order": "405.00000000000000000000",
+    "verse": "38:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_427"
+  },
+  "428": {
+    "id": 428,
+    "order": "406.00000000000000000000",
+    "verse": "38:22",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_428"
+  },
+  "429": {
+    "id": 429,
+    "order": "407.00000000000000000000",
+    "verse": "38:23",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_429"
+  },
+  "431": {
+    "id": 431,
+    "order": "409.00000000000000000000",
+    "verse": "38:35",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_431"
+  },
+  "432": {
+    "id": 432,
+    "order": "410.00000000000000000000",
+    "verse": "38:36",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_432"
+  },
+  "433": {
+    "id": 433,
+    "order": "411.00000000000000000000",
+    "verse": "38:37",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_433"
+  },
+  "434": {
+    "id": 434,
+    "order": "412.00000000000000000000",
+    "verse": "38:38",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_434"
+  },
+  "435": {
+    "id": 435,
+    "order": "413.00000000000000000000",
+    "verse": "38:41",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_435"
+  },
+  "436": {
+    "id": 436,
+    "order": "414.00000000000000000000",
+    "verse": "39:5",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_436"
+  },
+  "437": {
+    "id": 437,
+    "order": "415.00000000000000000000",
+    "verse": "39:9",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_437"
+  },
+  "438": {
+    "id": 438,
+    "order": "416.00000000000000000000",
+    "verse": "39:12",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_438"
+  },
+  "439": {
+    "id": 439,
+    "order": "417.00000000000000000000",
+    "verse": "39:13",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 87,
+        "value": "Avot DeRabbi Natan B, 44",
+        "order": "54.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_439"
+  },
+  "440": {
+    "id": 440,
+    "order": "418.00000000000000000000",
+    "verse": "39:14",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_440"
+  },
+  "441": {
+    "id": 441,
+    "order": "419.00000000000000000000",
+    "verse": "39:15",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_441"
+  },
+  "442": {
+    "id": 442,
+    "order": "420.00000000000000000000",
+    "verse": "39:16",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_442"
+  },
+  "443": {
+    "id": 443,
+    "order": "421.00000000000000000000",
+    "verse": "39:17",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_443"
+  },
+  "444": {
+    "id": 444,
+    "order": "422.00000000000000000000",
+    "verse": "39:18",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_444"
+  },
+  "445": {
+    "id": 445,
+    "order": "423.00000000000000000000",
+    "verse": "39:27",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_445"
+  },
+  "446": {
+    "id": 446,
+    "order": "424.00000000000000000000",
+    "verse": "39:28",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_446"
+  },
+  "447": {
+    "id": 447,
+    "order": "425.00000000000000000000",
+    "verse": "39:29",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_447"
+  },
+  "448": {
+    "id": 448,
+    "order": "426.00000000000000000000",
+    "verse": "39:30",
+    "quote": "",
+    "mentions": [],
+    "hiob_id": "hiob_verse_448"
+  }
+}
