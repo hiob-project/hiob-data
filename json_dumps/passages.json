@@ -1,0 +1,2800 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "mention": [
+      {
+        "id": 8,
+        "value": "Esther Rabbah I, Proem 9"
+      }
+    ],
+    "hiob_id": "hiob_mention_1",
+    "midrash": [
+      {
+        "id": 8,
+        "value": "Esther Rabbah I",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "passages": "Proem 9",
+    "verses": [
+      {
+        "id": 10,
+        "value": "34:30",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "quote": "רַבִּי יוּדָא בְּרַבִּי סִימוֹן פָּתַח (איוב לד, ל): מִמְּלֹךְ אָדָם חָנֵף מִמֹּקְשֵׁי עָם, רַבִּי יוֹחָנָן וְרֵישׁ לָקִישׁ, רַבִּי יוֹחָנָן אָמַר בְּשָׁעָה שֶׁהַמֶּלֶךְ חָנֵף וּמוֹשֵׁל עַל הַבְּרִיּוֹת, מִמֹּקְשֵׁי עָם, מִן קַשְׁיוּתֵיהֶן וְחוֹבֵיהֶן דִּבְרִיָּתָא דִּי לָא עָבְדִין רְעוּתֵיהּ דְּבָרְיָיא עָלְמָא, רַבִּי שִׁמְעוֹן בֶּן לָקִישׁ אוֹמֵר נוֹחַ לָהֶן לַבְּרִיּוֹת לְהַגְדִּיל לָהֶן כְּנָפַיִם וְלִפְרֹחַ בָּאֲוִיר, וְאַל יִמָּסְרוּ וְיִשְׁתַּעְבְּדוּ תַּחַת יַד מֶלֶךְ חָנֵף. דָּבָר אַחֵר, מִמְלֹךְ אָדָם חָנֵף, זֶה אֲחַשְׁוֵרוֹשׁ, שֶׁהָיָה חָנֵף, שֶׁהָרַג אֶת אִשְׁתּוֹ מִפְּנֵי אוֹהֲבוֹ, וּפַעַם אַחֶרֶת הָרַג אֶת אוֹהֲבוֹ מִפְּנֵי אִשְׁתּוֹ.",
+    "abstract": "Two readings: 1. God's absence in Esther is punishment for the faithless people who fell for Ahaserus' flattery (and replaced God). Beware of such a king 2. Ahaseurs' was fickle due to his like of flattery.",
+    "decontextualized_reception": [
+      {
+        "id": 22313,
+        "value": "Esther",
+        "color": "light-green"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Implicitly reads Job 30:29 using the Esther=Hester Panim Midrash?? also knows the feast as sin= flattery.",
+    "quotation_and_speakers": [
+      {
+        "id": 22360,
+        "value": "Elihu",
+        "color": "dark-cyan"
+      }
+    ],
+    "classic_parallels": null
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "mention": [
+      {
+        "id": 8,
+        "value": "Esther Rabbah I, Proem 11"
+      }
+    ],
+    "hiob_id": "hiob_mention_2",
+    "midrash": [
+      {
+        "id": 8,
+        "value": "Esther Rabbah I",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "passages": "Proem 11",
+    "verses": [
+      {
+        "id": 12,
+        "value": "38:15",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "quote": "אָמַר רַבִּי יוּדָא בְּרַבִּי סִימוֹן, אוֹרָה שֶׁנִּבְרֵאת בַּיּוֹם הָרִאשׁוֹן הָיָה אָדָם צוֹפֶה וּמַבִּיט בָּהּ מִסּוֹף הָעוֹלָם וְעַד סוֹפוֹ, וְכֵיוָן שֶׁצָּפָה הַקָּדוֹשׁ בָּרוּךְ הוּא בְּדוֹר אֱנוֹשׁ וּבְדוֹר הַמַּבּוּל וּבְדוֹר הַפְלָגָה שֶׁהֵן עֲתִידִין לַחֲטוֹא לְפָנָיו, עָמַד וּגְנָזָהּ מֵהֶם, הֲדָא הוּא דִכְתִיב (איוב לח, טו): וְיִמָּנַע מֵרְשָׁעִים אוֹרָם, וְהֵיכָן גְּנָזָהּ, בְּגַן עֵדֶן, הֲדָא הוּא דִכְתִיב (תהלים צז, יא): אוֹר זָרֻעַ לַצַּדִּיק וּלְיִשְׁרֵי לֵב שִׂמְחָה.",
+    "abstract": "God during creation, rather morning must have taken the light of the wicked away- so due to the Flood premptivly.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      },
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "For the next life and not for the Messiah. See my Book on Esther Rabba??",
+    "quotation_and_speakers": [],
+    "classic_parallels": null
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "mention": [
+      {
+        "id": 8,
+        "value": "Esther Rabbah I, 4:9"
+      }
+    ],
+    "hiob_id": "hiob_mention_3",
+    "midrash": [
+      {
+        "id": 8,
+        "value": "Esther Rabbah I",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "passages": "4:9",
+    "verses": [
+      {
+        "id": 3,
+        "value": "5:18",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "quote": "אָמַר רַבִּי חֲנִינָא בְּרֵיהּ דְּרַבִּי אַבָּהוּ, כְּתִיב (איוב ה, יח): כִּי הוּא יַכְאִיב וְיֶחְבָּשׁ יִמְחַץ וְיָדָו תִּרְפֶּינָה. בַּלָּשׁוֹן שֶׁנִּטְלָה מַלְכוּת מִזְּקֵנָהּ, שֶׁאָמַר לוֹ שְׁמוּאֵל (שמואל א טו, כח): וּנְתָנָהּ לְרֵעֲךָ הַטּוֹב מִמְּךָ, בּוֹ בַּלָּשׁוֹן חָזְרָה לוֹ הַמַּלְכוּת, הֲדָא הוּא דִכְתִיב: וּמַלְכוּתָהּ יִתֵּן הַמֶּלֶךְ לִרְעוּתָהּ הַטּוֹבָה מִמֶּנָּה.",
+    "abstract": "God promoted Esther using the same phrasing he demoted her ancestor Saul. God's ways are not like those of men.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Implictly, relies on Tannaitic parable/s about God.",
+    "quotation_and_speakers": [
+      {
+        "id": 22361,
+        "value": "Eliphaz",
+        "color": "darker-red"
+      }
+    ],
+    "classic_parallels": null
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "mention": [
+      {
+        "id": 8,
+        "value": "Esther Rabbah I, 6:3!"
+      }
+    ],
+    "hiob_id": "hiob_mention_4",
+    "midrash": [
+      {
+        "id": 8,
+        "value": "Esther Rabbah I",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "passages": "6:3!",
+    "verses": [
+      {
+        "id": 1,
+        "value": "1:1",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "quote": "הָיָה, אָמַר רַבִּי יוֹחָנָן כָּל מִי שֶׁנֶּאֱמַר בּוֹ הָיָה, הוּא תְּחִלָּתוֹ וְהוּא סוֹפוֹ. אֲתִיבוּן לֵיהּ וְהָכְתִיב (יחזקאל לג, כד): אֶחָד הָיָה אַבְרָהָם, מֵעַתָּה הוּא תְּחִלָּתוֹ וְהוּא סוֹפוֹ, אֲמַר לוֹן אַף הִיא לָא תָּבְרָה, דְּאָמַר רַבִּי חֲנִינָא וְרַבִּי יוֹחָנָן תַּרְוֵויהוֹן בֶּן שָׁלשׁ שָׁנִים הִכִּיר אַבְרָהָם אֶת בּוֹרְאוֹ, הֲדָא הוּא דִכְתִיב (בראשית כו, ה): עֵקֶב אֲשֶׁר שָׁמַע אַבְרָהָם בְּקֹלִי, מִנְיַן עֵקֶב שָׁמַע אַבְרָהָם בְּקוֹל בּוֹרְאוֹ, וַהֲווֹ שְׁנוֹתָיו מֵאָה שִׁבְעִים וְחָמֵשׁ, מַה מְּקַיֵּם בּוֹ, הָיָה, שֶׁהָיָה מְתֻקָּן לְהַדְרִיךְ כָּל הָעוֹלָם כֻּלּוֹ בִּתְשׁוּבָה, (בראשית ג, כב): הֵן הָאָדָם הָיָה, שֶׁהָיָה מְתֻקָּן לְמִיתָה. (בראשית ג, א): וְהַנָּחָשׁ הָיָה עָרוּם, מְתֻקָּן לְפֻרְעָנוּת. (בראשית ד, ב): וְקַיִּן הָיָה עֹבֵד אֲדָמָה, מְתֻקָּן לְגָלוּת, כְּמָא דְאַתְּ אָמַר (בראשית ד, טז): וַיֵּצֵא קַיִּן מִלִּפְנֵי ה' וגו' לוֹמַר נָע וָנָד. (איוב א, א): אִישׁ הָיָה בְאֶרֶץ עוּץ, מְתֻקָּן לְיִסּוּרִין. (בראשית ו, ט): נֹחַ אִישׁ צַדִּיק תָּמִים הָיָה, הָיָה מְתֻקָּן לְהַכִּיר בּוֹרְאוֹ. (שמות ג, א): וּמשֶׁה הָיָה רֹעֶה, הָיָה מְתֻקָּן לִגְאֻלָּה. מָרְדֳּכַי הָיָה מְתֻקָּן לִגְאֻלָּה.",
+    "abstract": "Index. All that are described or introduced with היה that intro already foreshadows their end. They have a puropse. Job was meant to suffer.",
+    "decontextualized_reception": [],
+    "narrative_reception": [
+      {
+        "id": 22323,
+        "value": "Job's Suffering",
+        "color": "darker-pink"
+      }
+    ],
+    "points_of_note": "Job does not really fit that well, as the others have some verb or adjective that might fit with their implied fates vs בארץ עוץ. Thus, might implicitly rely on Job suffering for Abraham homilies??",
+    "quotation_and_speakers": [],
+    "classic_parallels": null
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "mention": [
+      {
+        "id": 8,
+        "value": "Esther Rabbah I, 6:3"
+      }
+    ],
+    "hiob_id": "hiob_mention_5",
+    "midrash": [
+      {
+        "id": 8,
+        "value": "Esther Rabbah I",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "passages": "6:3",
+    "verses": [
+      {
+        "id": 6,
+        "value": "14:19",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "quote": "רַבִּי לֵוִי וְרַבָּנָן, רַבִּי לֵוִי אָמַר כָּל מִי שֶׁנֶּאֱמַר בּוֹ, הָיָה, רָאָה עוֹלָם חָדָשׁ. אָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָן וַחֲמִשָּׁה הֵן: נֹחַ, אֶתְמוֹל (איוב יד, יט): אֲבָנִים שָׁחֲקוּ מַיִם, דְּאָמַר רַבִּי לֵוִי בְּשֵׁם רַבִּי יוֹחָנָן אֲפִלּוּ אִצְטְרוּבּוֹלִין שֶׁל רֵחַיִם נִמּוֹחוּ בִּימֵי הַמַּבּוּל, וְהָכָא אָמַר (בראשית ט, יח): וַיִּהְיוּ בְנֵי נֹחַ הַיֹּצְאִים מִן הַתֵּבָה, לוֹמַר רָאָה עוֹלָם חָדָשׁ. יוֹסֵף, אֶתְמוֹל (תהלים קה, יח): עִנּוּ בַכֶּבֶל, וְעַכְשָׁו (בראשית מב, ו): וְיוֹסֵף הוּא הַשַּׁלִּיט עַל הָאָרֶץ, אֶלָּא רָאָה עוֹלָם חָדָשׁ. משֶׁה, אֶתְמוֹל בּוֹרֵחַ מִפְּנֵי פַּרְעֹה, וְעַכְשָׁו מְשַׁקְּעוֹ בַּיָּם, אֶלָּא שֶׁרָאָה עוֹלָם חָדָשׁ. אִיּוֹב, אֶתְמוֹל (איוב טז, יג): יִשְׁפֹּךְ לָאָרֶץ מְרֵרָתִי, וְעַכְשָׁו (איוב מב, י): וַיֹּסֶף ה' אֶת כָּל אֲשֶׁר לְאִיּוֹב לְמִשְׁנֶה, אֶלָּא רָאָה עוֹלָם חָדָשׁ. מָרְדֳּכַי, אֶתְמוֹל וַיִּלְבַּשׁ שַׂק וָאֵפֶר, וְעַכְשָׁו יָצָא מִלִּפְנֵי הַמֶּלֶךְ בִּלְבוּשׁ מַלְכוּת. וּשְׁמוֹ מָרְדֳּכַי. מַה מֹּר רֹאשׁ לְכָל הַבְּשָׂמִים, אַף מָרְדֳּכַי רֹאשׁ לַצַּדִּיקִים בְּדוֹרוֹ.",
+    "abstract": "The Flood was so potent that the water could erode stones. Even the cone-like lower mill stones.",
+    "decontextualized_reception": [
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Banal, imported?",
+    "quotation_and_speakers": [],
+    "classic_parallels": null
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "mention": [
+      {
+        "id": 8,
+        "value": "Esther Rabbah I, 6:3"
+      }
+    ],
+    "hiob_id": "hiob_mention_6",
+    "midrash": [
+      {
+        "id": 8,
+        "value": "Esther Rabbah I",
+        "order": "8.00000000000000000000"
+      }
+    ],
+    "passages": "6:3",
+    "verses": [
+      {
+        "id": 7,
+        "value": "16:13",
+        "order": "7.00000000000000000000"
+      },
+      {
+        "id": 13,
+        "value": "42:10",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "quote": "רַבִּי לֵוִי וְרַבָּנָן, רַבִּי לֵוִי אָמַר כָּל מִי שֶׁנֶּאֱמַר בּוֹ, הָיָה, רָאָה עוֹלָם חָדָשׁ. אָמַר רַבִּי שְׁמוּאֵל בַּר נַחְמָן וַחֲמִשָּׁה הֵן: נֹחַ, אֶתְמוֹל (איוב יד, יט): אֲבָנִים שָׁחֲקוּ מַיִם, דְּאָמַר רַבִּי לֵוִי בְּשֵׁם רַבִּי יוֹחָנָן אֲפִלּוּ אִצְטְרוּבּוֹלִין שֶׁל רֵחַיִם נִמּוֹחוּ בִּימֵי הַמַּבּוּל, וְהָכָא אָמַר (בראשית ט, יח): וַיִּהְיוּ בְנֵי נֹחַ הַיֹּצְאִים מִן הַתֵּבָה, לוֹמַר רָאָה עוֹלָם חָדָשׁ. יוֹסֵף, אֶתְמוֹל (תהלים קה, יח): עִנּוּ בַכֶּבֶל, וְעַכְשָׁו (בראשית מב, ו): וְיוֹסֵף הוּא הַשַּׁלִּיט עַל הָאָרֶץ, אֶלָּא רָאָה עוֹלָם חָדָשׁ. משֶׁה, אֶתְמוֹל בּוֹרֵחַ מִפְּנֵי פַּרְעֹה, וְעַכְשָׁו מְשַׁקְּעוֹ בַּיָּם, אֶלָּא שֶׁרָאָה עוֹלָם חָדָשׁ. אִיּוֹב, אֶתְמוֹל (איוב טז, יג): יִשְׁפֹּךְ לָאָרֶץ מְרֵרָתִי, וְעַכְשָׁו (איוב מב, י): וַיֹּסֶף ה' אֶת כָּל אֲשֶׁר לְאִיּוֹב לְמִשְׁנֶה, אֶלָּא רָאָה עוֹלָם חָדָשׁ. מָרְדֳּכַי, אֶתְמוֹל וַיִּלְבַּשׁ שַׂק וָאֵפֶר, וְעַכְשָׁו יָצָא מִלִּפְנֵי הַמֶּלֶךְ בִּלְבוּשׁ מַלְכוּת. וּשְׁמוֹ מָרְדֳּכַי. מַה מֹּר רֹאשׁ לְכָל הַבְּשָׂמִים, אַף מָרְדֳּכַי רֹאשׁ לַצַּדִּיקִים בְּדוֹרוֹ.",
+    "abstract": "Alternative all who were introduced with היה lived to see the world or themselves destroyed and restored. Index of five figures.",
+    "decontextualized_reception": [],
+    "narrative_reception": [
+      {
+        "id": 22324,
+        "value": "Job's Restoration",
+        "color": "gray"
+      }
+    ],
+    "points_of_note": "Job 16:13 due to ארץ possibly in Jospeh example? and ויסף-יוסף  if so original was ordered otherwise, before Moses. The implict lesson is the restoration of the Jews-audience.",
+    "quotation_and_speakers": [],
+    "classic_parallels": null
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "mention": [
+      {
+        "id": 9,
+        "value": "Esther Rabbah II, 7:2"
+      }
+    ],
+    "hiob_id": "hiob_mention_7",
+    "midrash": [
+      {
+        "id": 9,
+        "value": "Esther Rabbah II",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "passages": "7:2",
+    "verses": [
+      {
+        "id": 5,
+        "value": "12:23",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "quote": "דָּבָר אַחֵר, אַחַר הַדְּבָרִים הָאֵלֶּה, אָמַר רַבִּי לֵוִי זֶה שֶׁאָמַר הַכָּתוּב (תהלים צב, ח): בִּפְרֹחַ רְשָׁעִים כְּמוֹ עֵשֶׂב וַיָּצִיצוּ כָּל פֹּעֲלֵי אָוֶן, מַה כְּתִיב בְּסוֹף קְרָיָיה: לְהִשָּׁמְדָם עֲדֵי עַד, לֹא נִתְגַּדֵּל הָמָן אֶלָּא לְרָעָתוֹ, וְלָמָה גִדְּלוֹ, מָשָׁל לְגוּלְיָיר שֶׁקִּלֵּל לִבְנוֹ שֶׁל מֶלֶךְ, אָמַר הַמֶּלֶךְ אִם אֲנִי הוֹרְגוֹ הַכֹּל אוֹמְרִים גּוּלְיָיר הָרַג, עָשָׂה אוֹתוֹ טְרִיכוֹנוּס, וְאַחַר כָּךְ עָשָׂה אוֹתוֹ הֶגְמוֹן, וְאַחַר כָּךְ הִתִּיז אֶת רֹאשׁוֹ. כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא אִלּוּ נֶהֱרַג הָמָן כְּשֶׁיָּרַד וְיָעַץ לַאֲחַשְׁוֵרוֹשׁ לְבַטֵּל בִּנְיַן בֵּית הַמִּקְדָּשׁ, לֹא הָיָה מִי יוֹדְעוֹ, אֶלָּא יִתְגַּדֵּל וְאַחַר כָּךְ יִתָּלֶה, לְפִיכָךְ וַיָּשֶׂם אֶת כִּסְּאוֹ מֵעַל כָּל הַשָֹּׂרִים, וְאַחַר כָּךְ וַיִּתְלוּ אֶת הָמָן, הֲרֵי אוֹיְבֵי הַקָּדוֹשׁ בָּרוּךְ הוּא לְמַפַּלְתָּן הֵן מִתְגַּדְּלִין, וּכְתִיב (איוב יב, כג): מַשְׂגִּיא לַגּוֹיִם וַיְאַבְּדֵם.",
+    "abstract": "God promotes His enemies (like Haman) in order to facilitate their downfall and spread his fame. The use is very similar to the one in Job apart from the implied fame.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Reagrading Rome? as God raises nations per the verse. Many other verses in the chapter could have served instead otherwise.",
+    "quotation_and_speakers": [
+      {
+        "id": 22321,
+        "value": "רבי לוי",
+        "color": "darker-yellow"
+      }
+    ],
+    "classic_parallels": "~ Mekhiltot"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "mention": [
+      {
+        "id": 9,
+        "value": "Esther Rabbah II, 7:3!"
+      }
+    ],
+    "hiob_id": "hiob_mention_8",
+    "midrash": [
+      {
+        "id": 9,
+        "value": "Esther Rabbah II",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "passages": "7:3!",
+    "verses": [
+      {
+        "id": 8,
+        "value": "20:6",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 9,
+        "value": "20:7",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "quote": "דָּבָר אַחֵר, אַחַר הַדְּבָרִים הָאֵלֶּה, כְּתִיב (איוב כ, ו): אִם יַעֲלֶה לַשָּׁמַיִם שִׂיאוֹ, לְרוּמָא. וְרֹאשׁוֹ לָעָב יַגִּיעַ, לָעֲנָנָה. (איוב כ, ז): כְּגֶלְלוֹ לָנֶצַח יֹאבֵד, מַה גְּלָלִים הַלָּלוּ מְזֹהָמִין כָּךְ הוּא מְזֹהָם. (איוב כ, ז): רֹאָיו יֹאמְרוּ אַיּוֹ, חָמְיָין לֵיהּ וְלָא חָכְמִין לֵיהּ, אָן הוּא הָמָן וְאָן הוּא שַׁלְוָתוֹ.",
+    "abstract": "Continuation of previous homily. The wicked like Haman if risen even to the skies shall become like dung be lost forever. Thus, Haman's many friends he spoke with in Esther will act as if they can no longer see him. Where is his lost propseprity.",
+    "decontextualized_reception": [
+      {
+        "id": 22313,
+        "value": "Esther",
+        "color": "light-green"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Targumic phrasing. Could be poetic could imply Haman's haning= high and the account about his daughter throwing the chamberpot- dung, and Ahaserus covering his face= not seeing.",
+    "quotation_and_speakers": [
+      {
+        "id": 22322,
+        "value": "כתיב",
+        "color": "darker-cyan"
+      },
+      {
+        "id": 22320,
+        "value": "anonym",
+        "color": "light-green"
+      },
+      {
+        "id": 22364,
+        "value": "Zophar",
+        "color": "light-brown"
+      }
+    ],
+    "classic_parallels": "?BT Yoma, Sanhedrin; Gen. Rab 21: Lev Rab 16"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "mention": [
+      {
+        "id": 9,
+        "value": "Esther Rabbah II, 7:11!"
+      }
+    ],
+    "hiob_id": "hiob_mention_9",
+    "midrash": [
+      {
+        "id": 9,
+        "value": "Esther Rabbah II",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "passages": "7:11!",
+    "verses": [
+      {
+        "id": 4,
+        "value": "6:2",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "quote": "מֹאזְנַיִם, זֶה אִיּוֹב, שֶׁנֶּאֱמַר (איוב ו, ב): לוּ שָׁקוֹל יִשָּׁקֵל כַּעְשִׂי.",
+    "abstract": "Part of lengthy homily about the zodiac. Job chosen due to his poetic asking of his anger to be weighed as if via Libra.",
+    "decontextualized_reception": [],
+    "narrative_reception": [
+      {
+        "id": 22319,
+        "value": "Job as Jewish or Convert",
+        "color": "light-yellow"
+      }
+    ],
+    "points_of_note": "Implictly Jewish as all other figures are Jewish and thus can block Haman's use of their signs.",
+    "quotation_and_speakers": [
+      {
+        "id": 22320,
+        "value": "anonym",
+        "color": "light-green"
+      }
+    ],
+    "classic_parallels": "?BT Bava Batra, Contra!"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "mention": [
+      {
+        "id": 9,
+        "value": "Esther Rabbah II, 10:9"
+      }
+    ],
+    "hiob_id": "hiob_mention_10",
+    "midrash": [
+      {
+        "id": 9,
+        "value": "Esther Rabbah II",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "passages": "10:9",
+    "verses": [
+      {
+        "id": 2,
+        "value": "5:2",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "quote": "וּכְתִיב (איוב ה, ה): אֲשֶׁר קְצִירוֹ רָעֵב יֹאכֵל וְאֶל מִצִּנִּים יִקָּחֵהוּ וְשָׁאַף צַמִּים חֵילָם. אֲשֶׁר קְצִירוֹ, זֶה הָמָן. רָעֵב יֹאכֵל, זֶה מָרְדֳּכַי וְאֶסְתֵּר. וְאֶל מִצִּנִּים יִקָּחֵהוּ, לֹא בְזַיִין וְלֹא בְצִנָּה אֶלָּא בִּתְפִלָּה וּבְתַחֲנוּנִים, כְּמָה דְאַתְּ אָמַר (תהלים צא, ד): צִנָּה וְסֹחֵרָה אֲמִתּוֹ, זוֹ הִיא הַתְּפִלָּה הַמְּגִנָּה עַל הַצָּרָה כַּצִּנָּה שֶׁמְּגִנָּה עַל הָאָדָם בַּמִּלְחָמָה, וּבִזְכוּת הַתְּפִלָּה שֶׁנִּתְכַּנָּה לַצִּנָּה יִקָּחֵהוּ לְהָמָן. וּמִנַּיִן שֶׁעָשׂוּ תְּפִלָּה, הֲדָא הוּא דִכְתִיב: שַׂק וָאֵפֶר יֻצַּע לָרַבִּים, וּמַה תַּקָּנָה לְשַׂק וָאֵפֶר בְּלֹא תְּפִלָּה. וְשָׁאַף צַמִּים חֵילָם, וּמִי דָחַק לְמָמוֹנוֹ שֶׁל הָמָן, מָרְדֳּכַי וְאֶסְתֵּר וְהַמְצֻמָּתִים לָהֶם.",
+    "abstract": "Allegoic reading- Pitron. The fool whose harvest is taken is Haman. The hungry who take are Esther and Mordecai. Reading \"thorns\"? as shield= Prayer, their public prayer dedcued from the fast robbed Haman.",
+    "decontextualized_reception": [
+      {
+        "id": 22313,
+        "value": "Esther",
+        "color": "light-green"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Dobule use of צינה- מצמתים assuems Eliphaz is a prophet and thus events of Esther? The wicked in Job 5 as Haman works due to many verses where God undoes the advice of the wicked?",
+    "quotation_and_speakers": [
+      {
+        "id": 22320,
+        "value": "anonym",
+        "color": "light-green"
+      },
+      {
+        "id": 22361,
+        "value": "Eliphaz",
+        "color": "darker-red"
+      }
+    ],
+    "classic_parallels": "Variant of Lev Rab 28= PDRK 8"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "mention": [
+      {
+        "id": 9,
+        "value": "Esther Rabbah II, 10:15"
+      }
+    ],
+    "hiob_id": "hiob_mention_11",
+    "midrash": [
+      {
+        "id": 9,
+        "value": "Esther Rabbah II",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "passages": "10:15",
+    "verses": [
+      {
+        "id": 11,
+        "value": "37:23",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "quote": "אַתְּ מוֹצֵא שֶׁמִּדּוֹת טוֹבוֹת שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא בְּהַשְׁפֵּעַ בְּפִרוּי וְרִבּוּי, הַטּוֹב בְּרִבּוּי, הַחֶסֶד בְּרִבּוּי, הָרַחֲמִים בְּרִבּוּי, הַצְּדָקָה בְּרִבּוּי, הָאֱמוּנָה בְּרִבּוּי, הַפְּדוּת בְּרִבּוּי, הַבְּרָכָה בְּרִבּוּי, הַשֶּׁבַח בְּרִבּוּי, הַשָּׁלוֹם בְּרִבּוּי. הַטּוֹב בְּרִבּוּי, שֶׁנֶּאֱמַר (תהלים לא, כ): מָה רַב טוּבְךָ אֲשֶׁר צָפַנְתָּ לִירֵאֶיךָ. הַחֶסֶד בְּרִבּוּי, שֶׁנֶּאֱמַר (שמות לד, ו): וְרַב חֶסֶד וֶאֱמֶת. הָרַחֲמִים בְּרִבּוּי, שֶׁנֶּאֱמַר (תהלים קיט, קנו): רַחֲמֶיךָ רַבִּים ה'. הַצְּדָקָה בְּרִבּוּי, שֶׁנֶּאֱמַר (איוב לז, כג): וּמִשְׁפָּט וְרֹב צְדָקָה",
+    "abstract": "God’s virtues are shown in the abundance of grace, offerings, mercy, faith, and justice. Some of these have supporting prooftexts, with Job being one example. All of the verses use רב= great.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Liturgical?",
+    "quotation_and_speakers": [
+      {
+        "id": 22320,
+        "value": "anonym",
+        "color": "light-green"
+      },
+      {
+        "id": 22360,
+        "value": "Elihu",
+        "color": "dark-cyan"
+      }
+    ],
+    "classic_parallels": "Dama YT Peah, Kiddushin, narrative but only as illustration"
+  },
+  "44": {
+    "id": 44,
+    "order": "12.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 7:8 &1"
+      }
+    ],
+    "hiob_id": "hiob_mention_44",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "7:8 &1",
+    "verses": [
+      {
+        "id": 36,
+        "value": "42:12",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "45": {
+    "id": 45,
+    "order": "13.00000000000000000000",
+    "mention": [
+      {
+        "id": 3,
+        "value": "Tanhuma, Exodus 6:8"
+      }
+    ],
+    "hiob_id": "hiob_mention_45",
+    "midrash": [
+      {
+        "id": 3,
+        "value": "Tanhuma",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "passages": "Exodus 6:8",
+    "verses": [
+      {
+        "id": 13,
+        "value": "42:10",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "46": {
+    "id": 46,
+    "order": "14.00000000000000000000",
+    "mention": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber), Genesis 4:30"
+      }
+    ],
+    "hiob_id": "hiob_mention_46",
+    "midrash": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber)",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "passages": "Genesis 4:30",
+    "verses": [
+      {
+        "id": 13,
+        "value": "42:10",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "47": {
+    "id": 47,
+    "order": "15.00000000000000000000",
+    "mention": [
+      {
+        "id": 35,
+        "value": "Pesiqta Rabbati, 38"
+      }
+    ],
+    "hiob_id": "hiob_mention_47",
+    "midrash": [
+      {
+        "id": 35,
+        "value": "Pesiqta Rabbati",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "passages": "38",
+    "verses": [
+      {
+        "id": 13,
+        "value": "42:10",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "48": {
+    "id": 48,
+    "order": "16.00000000000000000000",
+    "mention": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II, 19:23"
+      }
+    ],
+    "hiob_id": "hiob_mention_48",
+    "midrash": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "passages": "19:23",
+    "verses": [
+      {
+        "id": 13,
+        "value": "42:10",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "49": {
+    "id": 49,
+    "order": "17.00000000000000000000",
+    "mention": [
+      {
+        "id": 37,
+        "value": "Exodus Rabbah II, 31:3"
+      }
+    ],
+    "hiob_id": "hiob_mention_49",
+    "midrash": [
+      {
+        "id": 37,
+        "value": "Exodus Rabbah II",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "passages": "31:3",
+    "verses": [
+      {
+        "id": 13,
+        "value": "42:10",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "50": {
+    "id": 50,
+    "order": "18.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 7:2 &4"
+      }
+    ],
+    "hiob_id": "hiob_mention_50",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "7:2 &4",
+    "verses": [
+      {
+        "id": 13,
+        "value": "42:10",
+        "order": "13.00000000000000000000"
+      },
+      {
+        "id": 37,
+        "value": "42:9",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 38,
+        "value": "42:8",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "51": {
+    "id": 51,
+    "order": "19.00000000000000000000",
+    "mention": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms, 17:1"
+      }
+    ],
+    "hiob_id": "hiob_mention_51",
+    "midrash": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "passages": "17:1",
+    "verses": [
+      {
+        "id": 38,
+        "value": "42:8",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "52": {
+    "id": 52,
+    "order": "20.00000000000000000000",
+    "mention": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber), Genesis 8:4"
+      }
+    ],
+    "hiob_id": "hiob_mention_52",
+    "midrash": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber)",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "passages": "Genesis 8:4",
+    "verses": [
+      {
+        "id": 38,
+        "value": "42:8",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "53": {
+    "id": 53,
+    "order": "21.00000000000000000000",
+    "mention": [
+      {
+        "id": 3,
+        "value": "Tanhuma, Exodus 2:9"
+      }
+    ],
+    "hiob_id": "hiob_mention_53",
+    "midrash": [
+      {
+        "id": 3,
+        "value": "Tanhuma",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "passages": "Exodus 2:9",
+    "verses": [
+      {
+        "id": 39,
+        "value": "41:26",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "54": {
+    "id": 54,
+    "order": "22.00000000000000000000",
+    "mention": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber), Exodus 2:8"
+      }
+    ],
+    "hiob_id": "hiob_mention_54",
+    "midrash": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber)",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "passages": "Exodus 2:8",
+    "verses": [
+      {
+        "id": 39,
+        "value": "41:26",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "55": {
+    "id": 55,
+    "order": "23.00000000000000000000",
+    "mention": [
+      {
+        "id": 39,
+        "value": "Exodus Rabbah I, 8:2"
+      }
+    ],
+    "hiob_id": "hiob_mention_55",
+    "midrash": [
+      {
+        "id": 39,
+        "value": "Exodus Rabbah I",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "passages": "8:2",
+    "verses": [
+      {
+        "id": 39,
+        "value": "41:26",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "56": {
+    "id": 56,
+    "order": "24.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 52"
+      }
+    ],
+    "hiob_id": "hiob_mention_56",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "52",
+    "verses": [
+      {
+        "id": 40,
+        "value": "41:10",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "57": {
+    "id": 57,
+    "order": "25.00000000000000000000",
+    "mention": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber), Genesis 11:3"
+      }
+    ],
+    "hiob_id": "hiob_mention_57",
+    "midrash": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber)",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "passages": "Genesis 11:3",
+    "verses": [
+      {
+        "id": 41,
+        "value": "41:8",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "58": {
+    "id": 58,
+    "order": "26.00000000000000000000",
+    "mention": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber), Genesis 4:10"
+      }
+    ],
+    "hiob_id": "hiob_mention_58",
+    "midrash": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber)",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "passages": "Genesis 4:10",
+    "verses": [
+      {
+        "id": 42,
+        "value": "41:4",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "59": {
+    "id": 59,
+    "order": "27.00000000000000000000",
+    "mention": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I, 14:2"
+      }
+    ],
+    "hiob_id": "hiob_mention_59",
+    "midrash": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "passages": "14:2",
+    "verses": [
+      {
+        "id": 43,
+        "value": "41:3",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "60": {
+    "id": 60,
+    "order": "28.00000000000000000000",
+    "mention": [
+      {
+        "id": 6,
+        "value": "Seder Eliyahu Rabbah, 19"
+      }
+    ],
+    "hiob_id": "hiob_mention_60",
+    "midrash": [
+      {
+        "id": 6,
+        "value": "Seder Eliyahu Rabbah",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "passages": "19",
+    "verses": [
+      {
+        "id": 43,
+        "value": "41:3",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "61": {
+    "id": 61,
+    "order": "29.00000000000000000000",
+    "mention": [
+      {
+        "id": 7,
+        "value": "Seder Eliyahu Zuta, 4"
+      }
+    ],
+    "hiob_id": "hiob_mention_61",
+    "midrash": [
+      {
+        "id": 7,
+        "value": "Seder Eliyahu Zuta",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "passages": "4",
+    "verses": [
+      {
+        "id": 43,
+        "value": "41:3",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "62": {
+    "id": 62,
+    "order": "30.00000000000000000000",
+    "mention": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber), Leviticus 7:15"
+      }
+    ],
+    "hiob_id": "hiob_mention_62",
+    "midrash": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber)",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "passages": "Leviticus 7:15",
+    "verses": [
+      {
+        "id": 43,
+        "value": "41:3",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "63": {
+    "id": 63,
+    "order": "31.00000000000000000000",
+    "mention": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber), Leviticus 8:10"
+      }
+    ],
+    "hiob_id": "hiob_mention_63",
+    "midrash": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber)",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "passages": "Leviticus 8:10",
+    "verses": [
+      {
+        "id": 43,
+        "value": "41:3",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "64": {
+    "id": 64,
+    "order": "32.00000000000000000000",
+    "mention": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms, 30:2"
+      }
+    ],
+    "hiob_id": "hiob_mention_64",
+    "midrash": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "passages": "30:2",
+    "verses": [
+      {
+        "id": 43,
+        "value": "41:3",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "65": {
+    "id": 65,
+    "order": "33.00000000000000000000",
+    "mention": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber), Exodus 4:24"
+      }
+    ],
+    "hiob_id": "hiob_mention_65",
+    "midrash": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber)",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "passages": "Exodus 4:24",
+    "verses": [
+      {
+        "id": 44,
+        "value": "40:30",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "66": {
+    "id": 66,
+    "order": "34.00000000000000000000",
+    "mention": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber), Deuteronomy 2:5"
+      }
+    ],
+    "hiob_id": "hiob_mention_66",
+    "midrash": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber)",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "passages": "Deuteronomy 2:5",
+    "verses": [
+      {
+        "id": 45,
+        "value": "40:27",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "67": {
+    "id": 67,
+    "order": "35.00000000000000000000",
+    "mention": [
+      {
+        "id": 35,
+        "value": "Pesiqta Rabbati, 25:2"
+      }
+    ],
+    "hiob_id": "hiob_mention_67",
+    "midrash": [
+      {
+        "id": 35,
+        "value": "Pesiqta Rabbati",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "passages": "25:2",
+    "verses": [
+      {
+        "id": 45,
+        "value": "40:27",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "68": {
+    "id": 68,
+    "order": "36.00000000000000000000",
+    "mention": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II, 21:18"
+      }
+    ],
+    "hiob_id": "hiob_mention_68",
+    "midrash": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "passages": "21:18",
+    "verses": [
+      {
+        "id": 46,
+        "value": "40:23",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "69": {
+    "id": 69,
+    "order": "37.00000000000000000000",
+    "mention": [
+      {
+        "id": 35,
+        "value": "Pesiqta Rabbati, 16:4"
+      }
+    ],
+    "hiob_id": "hiob_mention_69",
+    "midrash": [
+      {
+        "id": 35,
+        "value": "Pesiqta Rabbati",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "passages": "16:4",
+    "verses": [
+      {
+        "id": 46,
+        "value": "40:23",
+        "order": "24.00000000000000000000"
+      },
+      {
+        "id": 49,
+        "value": "40:15",
+        "order": "27.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "70": {
+    "id": 70,
+    "order": "38.00000000000000000000",
+    "mention": [
+      {
+        "id": 35,
+        "value": "Pesiqta Rabbati, 48:3"
+      }
+    ],
+    "hiob_id": "hiob_mention_70",
+    "midrash": [
+      {
+        "id": 35,
+        "value": "Pesiqta Rabbati",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "passages": "48:3",
+    "verses": [
+      {
+        "id": 46,
+        "value": "40:23",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "71": {
+    "id": 71,
+    "order": "39.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 11"
+      }
+    ],
+    "hiob_id": "hiob_mention_71",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "11",
+    "verses": [
+      {
+        "id": 46,
+        "value": "40:23",
+        "order": "24.00000000000000000000"
+      },
+      {
+        "id": 47,
+        "value": "40:20",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 48,
+        "value": "40:19",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "72": {
+    "id": 72,
+    "order": "40.00000000000000000000",
+    "mention": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms, 9:7"
+      }
+    ],
+    "hiob_id": "hiob_mention_72",
+    "midrash": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "passages": "9:7",
+    "verses": [
+      {
+        "id": 53,
+        "value": "40:18",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "73": {
+    "id": 73,
+    "order": "41.00000000000000000000",
+    "mention": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms, 18:32"
+      }
+    ],
+    "hiob_id": "hiob_mention_73",
+    "midrash": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "passages": "18:32",
+    "verses": [
+      {
+        "id": 50,
+        "value": "40:13",
+        "order": "28.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "74": {
+    "id": 74,
+    "order": "42.00000000000000000000",
+    "mention": [
+      {
+        "id": 37,
+        "value": "Exodus Rabbah II, 23:13"
+      }
+    ],
+    "hiob_id": "hiob_mention_74",
+    "midrash": [
+      {
+        "id": 37,
+        "value": "Exodus Rabbah II",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "passages": "23:13",
+    "verses": [
+      {
+        "id": 51,
+        "value": "40:10",
+        "order": "29.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "75": {
+    "id": 75,
+    "order": "43.00000000000000000000",
+    "mention": [
+      {
+        "id": 39,
+        "value": "Exodus Rabbah I, 3:6"
+      }
+    ],
+    "hiob_id": "hiob_mention_75",
+    "midrash": [
+      {
+        "id": 39,
+        "value": "Exodus Rabbah I",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "passages": "3:6",
+    "verses": [
+      {
+        "id": 52,
+        "value": "40:6",
+        "order": "30.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "77": {
+    "id": 77,
+    "order": "45.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 2:5"
+      }
+    ],
+    "hiob_id": "hiob_mention_77",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "2:5",
+    "verses": [
+      {
+        "id": 58,
+        "value": "1:8",
+        "order": "36.00000000000000000000"
+      },
+      {
+        "id": 345,
+        "value": "31:1",
+        "order": "323.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "78": {
+    "id": 78,
+    "order": "46.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 2"
+      }
+    ],
+    "hiob_id": "hiob_mention_78",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "2",
+    "verses": [
+      {
+        "id": 58,
+        "value": "1:8",
+        "order": "36.00000000000000000000"
+      },
+      {
+        "id": 345,
+        "value": "31:1",
+        "order": "323.00000000000000000000"
+      },
+      {
+        "id": 346,
+        "value": "31:2",
+        "order": "324.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "79": {
+    "id": 79,
+    "order": "47.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 43"
+      }
+    ],
+    "hiob_id": "hiob_mention_79",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "43",
+    "verses": [
+      {
+        "id": 69,
+        "value": "2:3",
+        "order": "47.00000000000000000000"
+      },
+      {
+        "id": 75,
+        "value": "2:10",
+        "order": "53.00000000000000000000"
+      },
+      {
+        "id": 103,
+        "value": "4:18",
+        "order": "81.00000000000000000000"
+      },
+      {
+        "id": 294,
+        "value": "26:11",
+        "order": "272.00000000000000000000"
+      },
+      {
+        "id": 339,
+        "value": "30:5",
+        "order": "317.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "80": {
+    "id": 80,
+    "order": "48.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 14:6"
+      }
+    ],
+    "hiob_id": "hiob_mention_80",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "14:6",
+    "verses": [
+      {
+        "id": 67,
+        "value": "1:21",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "82": {
+    "id": 82,
+    "order": "49.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 37:13"
+      }
+    ],
+    "hiob_id": "hiob_mention_82",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "37:13",
+    "verses": [
+      {
+        "id": 78,
+        "value": "3:1",
+        "order": "56.00000000000000000000"
+      },
+      {
+        "id": 79,
+        "value": "3:2",
+        "order": "57.00000000000000000000"
+      },
+      {
+        "id": 81,
+        "value": "3:3",
+        "order": "59.00000000000000000000"
+      },
+      {
+        "id": 90,
+        "value": "4:1",
+        "order": "68.00000000000000000000"
+      },
+      {
+        "id": 126,
+        "value": "8:1",
+        "order": "104.00000000000000000000"
+      },
+      {
+        "id": 361,
+        "value": "32:6",
+        "order": "339.00000000000000000000"
+      },
+      {
+        "id": 362,
+        "value": "32:7",
+        "order": "340.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "83": {
+    "id": 83,
+    "order": "50.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 9:5"
+      }
+    ],
+    "hiob_id": "hiob_mention_83",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "9:5",
+    "verses": [
+      {
+        "id": 88,
+        "value": "3:25",
+        "order": "66.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "84": {
+    "id": 84,
+    "order": "51.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 17"
+      }
+    ],
+    "hiob_id": "hiob_mention_84",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "17",
+    "verses": [
+      {
+        "id": 88,
+        "value": "3:25",
+        "order": "66.00000000000000000000"
+      },
+      {
+        "id": 89,
+        "value": "3:26",
+        "order": "67.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "85": {
+    "id": 85,
+    "order": "52.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 16"
+      }
+    ],
+    "hiob_id": "hiob_mention_85",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "16",
+    "verses": [
+      {
+        "id": 99,
+        "value": "4:12",
+        "order": "77.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "86": {
+    "id": 86,
+    "order": "53.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 38"
+      }
+    ],
+    "hiob_id": "hiob_mention_86",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "38",
+    "verses": [
+      {
+        "id": 101,
+        "value": "4:15",
+        "order": "79.00000000000000000000"
+      },
+      {
+        "id": 102,
+        "value": "4:16",
+        "order": "80.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "87": {
+    "id": 87,
+    "order": "54.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 44"
+      }
+    ],
+    "hiob_id": "hiob_mention_87",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "44",
+    "verses": [
+      {
+        "id": 56,
+        "value": "1:6",
+        "order": "34.00000000000000000000"
+      },
+      {
+        "id": 103,
+        "value": "4:18",
+        "order": "81.00000000000000000000"
+      },
+      {
+        "id": 125,
+        "value": "7:20",
+        "order": "103.00000000000000000000"
+      },
+      {
+        "id": 439,
+        "value": "39:13",
+        "order": "417.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "88": {
+    "id": 88,
+    "order": "55.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 1"
+      }
+    ],
+    "hiob_id": "hiob_mention_88",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "1",
+    "verses": [
+      {
+        "id": 135,
+        "value": "9:5",
+        "order": "113.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "89": {
+    "id": 89,
+    "order": "56.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 42"
+      }
+    ],
+    "hiob_id": "hiob_mention_89",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "42",
+    "verses": [
+      {
+        "id": 186,
+        "value": "14:1",
+        "order": "164.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "90": {
+    "id": 90,
+    "order": "57.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 6:2"
+      }
+    ],
+    "hiob_id": "hiob_mention_90",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "6:2",
+    "verses": [
+      {
+        "id": 6,
+        "value": "14:19",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 310,
+        "value": "28:11",
+        "order": "288.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "91": {
+    "id": 91,
+    "order": "58.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 12"
+      }
+    ],
+    "hiob_id": "hiob_mention_91",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "12",
+    "verses": [
+      {
+        "id": 6,
+        "value": "14:19",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 308,
+        "value": "28:9",
+        "order": "286.00000000000000000000"
+      },
+      {
+        "id": 309,
+        "value": "28:10",
+        "order": "287.00000000000000000000"
+      },
+      {
+        "id": 310,
+        "value": "28:11",
+        "order": "288.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "92": {
+    "id": 92,
+    "order": "59.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 7"
+      }
+    ],
+    "hiob_id": "hiob_mention_92",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "7",
+    "verses": [
+      {
+        "id": 238,
+        "value": "20:22",
+        "order": "216.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "93": {
+    "id": 93,
+    "order": "60.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 32:3"
+      }
+    ],
+    "hiob_id": "hiob_mention_93",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "32:3",
+    "verses": [
+      {
+        "id": 251,
+        "value": "21:14",
+        "order": "229.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "94": {
+    "id": 94,
+    "order": "61.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 8:5"
+      }
+    ],
+    "hiob_id": "hiob_mention_94",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "8:5",
+    "verses": [
+      {
+        "id": 244,
+        "value": "20:28",
+        "order": "222.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "95": {
+    "id": 95,
+    "order": "62.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 12:5"
+      }
+    ],
+    "hiob_id": "hiob_mention_95",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "12:5",
+    "verses": [
+      {
+        "id": 288,
+        "value": "25:2",
+        "order": "266.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "96": {
+    "id": 96,
+    "order": "63.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 8"
+      }
+    ],
+    "hiob_id": "hiob_mention_96",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "8",
+    "verses": [
+      {
+        "id": 288,
+        "value": "25:2",
+        "order": "266.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "97": {
+    "id": 97,
+    "order": "64.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 24"
+      }
+    ],
+    "hiob_id": "hiob_mention_97",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "24",
+    "verses": [
+      {
+        "id": 288,
+        "value": "25:2",
+        "order": "266.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "98": {
+    "id": 98,
+    "order": "65.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 27"
+      }
+    ],
+    "hiob_id": "hiob_mention_98",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "27",
+    "verses": [
+      {
+        "id": 289,
+        "value": "25:3",
+        "order": "267.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "99": {
+    "id": 99,
+    "order": "66.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 12:4"
+      }
+    ],
+    "hiob_id": "hiob_mention_99",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "12:4",
+    "verses": [
+      {
+        "id": 291,
+        "value": "26:6",
+        "order": "269.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "100": {
+    "id": 100,
+    "order": "67.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 39:2"
+      }
+    ],
+    "hiob_id": "hiob_mention_100",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "39:2",
+    "verses": [
+      {
+        "id": 307,
+        "value": "28:8",
+        "order": "285.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "101": {
+    "id": 101,
+    "order": "68.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 12:4"
+      }
+    ],
+    "hiob_id": "hiob_mention_101",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "12:4",
+    "verses": [
+      {
+        "id": 311,
+        "value": "28:12",
+        "order": "289.00000000000000000000"
+      },
+      {
+        "id": 312,
+        "value": "28:13",
+        "order": "290.00000000000000000000"
+      },
+      {
+        "id": 313,
+        "value": "28:14",
+        "order": "291.00000000000000000000"
+      },
+      {
+        "id": 321,
+        "value": "28:22",
+        "order": "299.00000000000000000000"
+      },
+      {
+        "id": 322,
+        "value": "28:23",
+        "order": "300.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "102": {
+    "id": 102,
+    "order": "69.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 25"
+      }
+    ],
+    "hiob_id": "hiob_mention_102",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "25",
+    "verses": [
+      {
+        "id": 313,
+        "value": "28:14",
+        "order": "291.00000000000000000000"
+      },
+      {
+        "id": 320,
+        "value": "28:21",
+        "order": "298.00000000000000000000"
+      },
+      {
+        "id": 321,
+        "value": "28:22",
+        "order": "299.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "103": {
+    "id": 103,
+    "order": "70.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 24:5"
+      }
+    ],
+    "hiob_id": "hiob_mention_103",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "24:5",
+    "verses": [
+      {
+        "id": 316,
+        "value": "28:17",
+        "order": "294.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "104": {
+    "id": 104,
+    "order": "71.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 31"
+      }
+    ],
+    "hiob_id": "hiob_mention_104",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "31",
+    "verses": [
+      {
+        "id": 316,
+        "value": "28:17",
+        "order": "294.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "105": {
+    "id": 105,
+    "order": "72.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 7:1"
+      }
+    ],
+    "hiob_id": "hiob_mention_105",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "7:1",
+    "verses": [
+      {
+        "id": 350,
+        "value": "31:17",
+        "order": "328.00000000000000000000"
+      },
+      {
+        "id": 351,
+        "value": "31:20",
+        "order": "329.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "106": {
+    "id": 106,
+    "order": "73.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 14"
+      }
+    ],
+    "hiob_id": "hiob_mention_106",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "14",
+    "verses": [
+      {
+        "id": 351,
+        "value": "31:20",
+        "order": "329.00000000000000000000"
+      },
+      {
+        "id": 353,
+        "value": "31:32",
+        "order": "331.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "107": {
+    "id": 107,
+    "order": "74.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 34:11"
+      }
+    ],
+    "hiob_id": "hiob_mention_107",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "34:11",
+    "verses": [
+      {
+        "id": 378,
+        "value": "33:30",
+        "order": "356.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "108": {
+    "id": 108,
+    "order": "75.00000000000000000000",
+    "mention": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B, 40"
+      }
+    ],
+    "hiob_id": "hiob_mention_108",
+    "midrash": [
+      {
+        "id": 2,
+        "value": "Avot DeRabbi Natan B",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "passages": "40",
+    "verses": [
+      {
+        "id": 390,
+        "value": "36:2",
+        "order": "368.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "109": {
+    "id": 109,
+    "order": "76.00000000000000000000",
+    "mention": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A, 11:1"
+      }
+    ],
+    "hiob_id": "hiob_mention_109",
+    "midrash": [
+      {
+        "id": 1,
+        "value": "Avot DeRabbi Natan A",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "passages": "11:1",
+    "verses": [
+      {
+        "id": 394,
+        "value": "36:11",
+        "order": "372.00000000000000000000"
+      },
+      {
+        "id": 395,
+        "value": "36:12",
+        "order": "373.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  }
+}
