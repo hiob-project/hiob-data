@@ -307,6 +307,11 @@
         "id": 56,
         "value": "Pirkei DeRabbi Eliezer, 52",
         "order": "24.00000000000000000000"
+      },
+      {
+        "id": 121,
+        "value": "Pirkei DeRabbi Eliezer, 52",
+        "order": "88.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_40"
@@ -436,6 +441,11 @@
         "id": 71,
         "value": "Pirkei DeRabbi Eliezer, 11",
         "order": "39.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "Pirkei DeRabbi Eliezer, 11",
+        "order": "80.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_46"
@@ -450,6 +460,11 @@
         "id": 71,
         "value": "Pirkei DeRabbi Eliezer, 11",
         "order": "39.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "Pirkei DeRabbi Eliezer, 11",
+        "order": "80.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_47"
@@ -464,6 +479,11 @@
         "id": 71,
         "value": "Pirkei DeRabbi Eliezer, 11",
         "order": "39.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "Pirkei DeRabbi Eliezer, 11",
+        "order": "80.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_48"
@@ -812,7 +832,13 @@
     "order": "62.00000000000000000000",
     "verse": "3:13",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 114,
+        "value": "Pirkei DeRabbi Eliezer, 12",
+        "order": "81.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_84"
   },
   "85": {
@@ -1160,7 +1186,13 @@
     "order": "99.00000000000000000000",
     "verse": "7:5",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 119,
+        "value": "Pirkei DeRabbi Eliezer, 22",
+        "order": "86.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_121"
   },
   "122": {
@@ -1514,7 +1546,13 @@
     "order": "143.00000000000000000000",
     "verse": "12:10",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 124,
+        "value": "Pirkei DeRabbi Eliezer, 34",
+        "order": "91.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_165"
   },
   "166": {
@@ -2177,6 +2215,16 @@
         "id": 93,
         "value": "Avot DeRabbi Natan A, 32:3",
         "order": "60.00000000000000000000"
+      },
+      {
+        "id": 118,
+        "value": "Pirkei DeRabbi Eliezer, 21",
+        "order": "85.00000000000000000000"
+      },
+      {
+        "id": 119,
+        "value": "Pirkei DeRabbi Eliezer, 22",
+        "order": "86.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_251"
@@ -2418,7 +2466,13 @@
     "order": "259.00000000000000000000",
     "verse": "24:12",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 123,
+        "value": "Pirkei DeRabbi Eliezer, 43",
+        "order": "90.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_281"
   },
   "282": {
@@ -2636,7 +2690,13 @@
     "order": "282.00000000000000000000",
     "verse": "28:6",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 120,
+        "value": "Pirkei DeRabbi Eliezer, 25",
+        "order": "87.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_304"
   },
   "305": {
@@ -2644,7 +2704,13 @@
     "order": "283.00000000000000000000",
     "verse": "28:7",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 120,
+        "value": "Pirkei DeRabbi Eliezer, 25",
+        "order": "87.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_305"
   },
   "307": {
@@ -2704,6 +2770,11 @@
         "id": 91,
         "value": "Avot DeRabbi Natan B, 12",
         "order": "58.00000000000000000000"
+      },
+      {
+        "id": 111,
+        "value": "Pirkei DeRabbi Eliezer, 6",
+        "order": "78.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_310"
@@ -3024,7 +3095,13 @@
     "order": "320.00000000000000000000",
     "verse": "30:23",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 117,
+        "value": "Pirkei DeRabbi Eliezer, 20",
+        "order": "84.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_342"
   },
   "343": {
@@ -3268,7 +3345,13 @@
     "order": "345.00000000000000000000",
     "verse": "33:15",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 124,
+        "value": "Pirkei DeRabbi Eliezer, 34",
+        "order": "91.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_367"
   },
   "368": {
@@ -3276,7 +3359,13 @@
     "order": "346.00000000000000000000",
     "verse": "33:16",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 124,
+        "value": "Pirkei DeRabbi Eliezer, 34",
+        "order": "91.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_368"
   },
   "369": {
@@ -3348,7 +3437,13 @@
     "order": "355.00000000000000000000",
     "verse": "33:29",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 116,
+        "value": "Pirkei DeRabbi Eliezer, 15",
+        "order": "83.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_377"
   },
   "378": {
@@ -3604,7 +3699,13 @@
     "order": "385.00000000000000000000",
     "verse": "37:6",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 110,
+        "value": "Pirkei DeRabbi Eliezer, 3",
+        "order": "77.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_407"
   },
   "408": {
@@ -3620,7 +3721,13 @@
     "order": "387.00000000000000000000",
     "verse": "37:9",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 111,
+        "value": "Pirkei DeRabbi Eliezer, 6",
+        "order": "78.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_409"
   },
   "410": {
@@ -3700,7 +3807,13 @@
     "order": "397.00000000000000000000",
     "verse": "38:7",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 119,
+        "value": "Pirkei DeRabbi Eliezer, 22",
+        "order": "86.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_419"
   },
   "420": {
@@ -3716,7 +3829,13 @@
     "order": "399.00000000000000000000",
     "verse": "38:9",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 112,
+        "value": "Pirkei DeRabbi Eliezer, 7",
+        "order": "79.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_421"
   },
   "422": {
@@ -3740,7 +3859,13 @@
     "order": "402.00000000000000000000",
     "verse": "38:13",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 124,
+        "value": "Pirkei DeRabbi Eliezer, 34",
+        "order": "91.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_424"
   },
   "425": {
@@ -3890,7 +4015,13 @@
     "order": "422.00000000000000000000",
     "verse": "39:18",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 115,
+        "value": "Pirkei DeRabbi Eliezer, 13",
+        "order": "82.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_444"
   },
   "445": {
@@ -3924,5 +4055,33 @@
     "quote": "",
     "mentions": [],
     "hiob_id": "hiob_verse_448"
+  },
+  "449": {
+    "id": 449,
+    "order": "427.00000000000000000000",
+    "verse": "41:25",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 115,
+        "value": "Pirkei DeRabbi Eliezer, 13",
+        "order": "82.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_449"
+  },
+  "450": {
+    "id": 450,
+    "order": "428.00000000000000000000",
+    "verse": "22:18",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 122,
+        "value": "Pirkei DeRabbi Eliezer, 47",
+        "order": "89.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_450"
   }
 }

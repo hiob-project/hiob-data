@@ -294,7 +294,7 @@
     "quotation_and_speakers": [
       {
         "id": 22321,
-        "value": "רבי לוי",
+        "value": "ר' לוי",
         "color": "darker-yellow"
       }
     ],
@@ -2789,6 +2789,898 @@
         "order": "373.00000000000000000000"
       }
     ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "110": {
+    "id": 110,
+    "order": "77.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 3"
+      }
+    ],
+    "hiob_id": "hiob_mention_110",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "3",
+    "verses": [
+      {
+        "id": 407,
+        "value": "37:6",
+        "order": "385.00000000000000000000"
+      }
+    ],
+    "quote": "הָאָרֶץ מֵאֵיזֶה מָקוֹם נִבְרֵאת? מִשֶּׁלֶג שֶׁתַּחַת כִּסֵּא הַכָּבוֹד, לָקַח וְזָרַק עַל הַמַּיִם וְנִקְפְּאוּ הַמַּיִם וְנַעֲשָׂה עֲפַר הָאָרֶץ, שֶׁנֶּאֱמַר (איוב לז, ו): ״כִּי לַשֶּׁלֶג יֹאמַר הֱוֵא אָרֶץ״.",
+    "abstract": "The Earth was created from snow from benathe the Throne of Glory.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Unusual compared to other similar descriptions.",
+    "quotation_and_speakers": [
+      {
+        "id": 22360,
+        "value": "Elihu",
+        "color": "dark-cyan"
+      },
+      {
+        "id": 22320,
+        "value": "anonym",
+        "color": "light-green"
+      },
+      {
+        "id": 22374,
+        "value": "שנאמר",
+        "color": "dark-yellow"
+      },
+      {
+        "id": 22375,
+        "value": "ר' אליעזר",
+        "color": "pink"
+      }
+    ],
+    "classic_parallels": ""
+  },
+  "111": {
+    "id": 111,
+    "order": "78.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 6"
+      }
+    ],
+    "hiob_id": "hiob_mention_111",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "6",
+    "verses": [
+      {
+        "id": 310,
+        "value": "28:11",
+        "order": "288.00000000000000000000"
+      },
+      {
+        "id": 409,
+        "value": "37:9",
+        "order": "387.00000000000000000000"
+      }
+    ],
+    "quote": "בִּתְקוּפַת תִּשְׁרֵי מַתְחִיל מֵחַלּוֹן נֹגַהּ וְהוֹלֵךְ וְסוֹבֵב לְקֶרֶן דְּרוֹמִית, חַלּוֹן אַחַר חַלּוֹן, עַד שֶׁהוּא מַגִּיעַ לְחַלּוֹן שַׁבְּתַאי. בִּתְקוּפַת טֵבֵת מַתְחִיל מֵחַלּוֹן שַׁבְּתַאי וְהוֹלֵךְ וְסוֹבֵב וְחוֹזֵר לְאַחֲרָיו, חַלּוֹן אַחַר חַלּוֹן, עַד שֶׁהוּא מַגִּיעַ לְחַלּוֹן תַּעֲלוּמָה, שֶׁבּוֹ הָאוֹר יוֹצֵא שֶׁנֶּאֱמַר (איוב כח, יא): ״וְתַעֲלוּמָה יוֹצֵא אוֹר״. בִּתְקוּפַת נִיסָן מַתְחִיל מֵחַלּוֹן תַּעֲלוּמָה שֶׁבּוֹ הָאוֹר יוֹצֵא וְהוֹלֵךְ אֶל קֶרֶן צְפוֹנִית, חַלּוֹן אַחַר חַלּוֹן, עַד שֶׁהוּא מַגִּיעַ לְחַלּוֹן נַעֲמָן. בִּתְקוּפַת תַּמּוּז מַתְחִיל מֵחַלּוֹן נַעֲמָן וְהוֹלֵךְ וְסוֹבֵב וְחוֹזֵר לְאַחֲרָיו, חַלּוֹן אַחַר חַלּוֹן, עַד שֶׁהוּא מַגִּיעַ לְחַלּוֹן חֶדֶר שֶׁבּוֹ רוּחַ סוּפָה יוֹצֵא, שֶׁנֶּאֱמַר (איוב לז, ט): ״מִן הַחֶדֶר תָּבוֹא סוּפָה וּמִמְּזָרִים קָרָה״.",
+    "abstract": "The sun moves throughout the year, entering and leaving through 366 different windows in the heavenly palace, with those from Job marking special seasonal shifts.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Comparison to Konen might be apt?",
+    "quotation_and_speakers": [
+      {
+        "id": 22363,
+        "value": "Job",
+        "color": "dark-brown"
+      },
+      {
+        "id": 22360,
+        "value": "Elihu",
+        "color": "dark-cyan"
+      },
+      {
+        "id": 22320,
+        "value": "anonym",
+        "color": "light-green"
+      }
+    ],
+    "classic_parallels": ""
+  },
+  "112": {
+    "id": 112,
+    "order": "79.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 7"
+      }
+    ],
+    "hiob_id": "hiob_mention_112",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "7",
+    "verses": [
+      {
+        "id": 421,
+        "value": "38:9",
+        "order": "399.00000000000000000000"
+      }
+    ],
+    "quote": "מְדוֹר הַלְּבָנָה בֵּין עָנָן לַעֲרָפֶל, עֲשׂוּיִין כְּמִין שְׁנֵי קְעָרוֹת כְּפוּיוֹת זוֹ עַל גַּבֵּי זוֹ, וְהוּא יוֹצֵא בֵּין שְׁנֵיהֶם. וּכְשֶׁהוּא מוֹלַד לְבָנָה, אֵלּוּ שְׁנֵי עֲנָנִים הוֹפְכִים אֶת פְּנֵיהֶם בְּרוּחַ מַעֲרָבִית וְהוּא יוֹצֵא מִבֵּין שְׁנֵיהֶם כְּמִין שׁוֹפָר. בַּלַּיְלָה הָרִאשׁוֹן מִדָּה אַחַת, בַּלַּיְלָה הַשְּׁנִיָּה מִדָּה שְׁנִיָּה, וְכֵן עַד חֶצְיוֹ שֶׁל חֹדֶשׁ, עַד שֶׁהוּא מִתְגַּלֶּה כֻּלּוֹ. וּמֵחֶצְיוֹ שֶׁל חֹדֶשׁ אֵלּוּ שְׁנֵי עֲנָנִים וְהוֹפְכִים אֶת פְּנֵיהֶם לְרוּחַ מִזְרָחִי. פְּאַת הַלְּבָנָה שֶׁיָּצָא מִתְּחִלָּה מַתְחִיל וְנִכְנָס וּמִתְכַּסֶּה בֵּין שְׁנֵיהֶם בַּלַּיְלָה הָרִאשׁוֹן מִדָּה אַחַת, בַּלַּיְלָה הַשְּׁנִיָּה מִדָּה שְׁנִית, עַד סוֹפוֹ שֶׁל חֹדֶשׁ עַד שֶׁמִּתְכַּסֶּה כֻּלּוֹ. וּמִנַּיִן שֶׁהוּא נָתוּן בֵּין שְׁנֵי עֲנָנִים? שֶׁנֶּאֱמַר: ״בְּשׂוּמִי עָנָן לְבֻשׁוֹ וַעֲרָפֶל חֲתֻלָּתוֹ״ (איוב לח, ט). וּמִנַּיִן שֶׁהוּא מִתְכַּסֶּה כֻּלּוֹ? שֶׁנֶּאֱמַר: ״תִּקְעוּ בַחֹדֶשׁ שׁוֹפָר בַּכֵּסֶה לְיוֹם חַגֵּנוּ״ (תהלים פא, ד), בְּיוֹם שֶׁמִּתְכַּסֶּה כֻּלּוֹ.",
+    "abstract": "The ebb and flow of the moon happen because it’s positioned between two clouds in the sky, and Job as the proof.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Again, comp. to Konen?",
+    "quotation_and_speakers": [
+      {
+        "id": 22362,
+        "value": "God",
+        "color": "darker-pink"
+      },
+      {
+        "id": 22320,
+        "value": "anonym",
+        "color": "light-green"
+      },
+      {
+        "id": 22374,
+        "value": "שנאמר",
+        "color": "dark-yellow"
+      }
+    ],
+    "classic_parallels": ""
+  },
+  "113": {
+    "id": 113,
+    "order": "80.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 11"
+      }
+    ],
+    "hiob_id": "hiob_mention_113",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "11",
+    "verses": [
+      {
+        "id": 46,
+        "value": "40:23",
+        "order": "24.00000000000000000000"
+      },
+      {
+        "id": 47,
+        "value": "40:20",
+        "order": "25.00000000000000000000"
+      },
+      {
+        "id": 48,
+        "value": "40:19",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "quote": "בַּשִּׁשִּׁי הוֹצִיא מִן הָאָרֶץ בְּהֵמוֹת שֶׁהוּא רָבוּץ בְּהַרְרֵי אֶלֶף, וּבְכָל יוֹם וָיוֹם בְּאֶלֶף הָרִים מַרְעִיתוֹ, וּבַלַּיְלָה הֵן נִצְמָחִין מֵאֲלֵיהֶן כְּאִלּוּ לֹא נָגַע בָּם, שֶׁנֶּאֱמַר: ״כִּי בוּל הָרִים יִשְׂאוּ לוֹ״. וּמֵימֵי הַיַּרְדֵּן לְהַשְׁקוֹתוֹ, שֶׁמֵּימֵי הַיַּרְדֵּן סוֹבְבִין לְכָל הָאָרֶץ, חֶצְיָן לְמַעְלָה מִן הָאָרֶץ וְחֶצְיָן לְמַטָּה מִן הָאָרֶץ, שֶׁנֶּאֱמַר: ״כִּי יָגִיחַ יַרְדֵּן אֶל פִּיהוּ״. וְהוּא מוּכָן לְיוֹם זֶבַח וּסְעוּדָה גְּדוֹלָה שֶׁל צַדִּיקִים, שֶׁנֶּאֱמַר: ״הָעֹשׂוֹ יַגֵּשׁ חַרְבּוֹ״.",
+    "abstract": "The Behemoth was created on the sixth day, miraculously fed with plants from a thousand mountains that regrow each day, and drinking from the Jordan River, which encircles all the land. In the end times, this mighty beast will provide food for the righteous.",
+    "decontextualized_reception": [],
+    "narrative_reception": [
+      {
+        "id": 22376,
+        "value": "God's Answer",
+        "color": "light-orange"
+      }
+    ],
+    "points_of_note": "The passahe assumes Behemoth and Leviathen are the same being, unlike other Feast traditions? Hyperbolic treatment of size and scope. A Cosmological river Jordan?",
+    "quotation_and_speakers": [
+      {
+        "id": 22320,
+        "value": "anonym",
+        "color": "light-green"
+      },
+      {
+        "id": 22374,
+        "value": "שנאמר",
+        "color": "dark-yellow"
+      },
+      {
+        "id": 22362,
+        "value": "God",
+        "color": "darker-pink"
+      }
+    ],
+    "classic_parallels": ""
+  },
+  "114": {
+    "id": 114,
+    "order": "81.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 12"
+      }
+    ],
+    "hiob_id": "hiob_mention_114",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "12",
+    "verses": [
+      {
+        "id": 84,
+        "value": "3:13",
+        "order": "62.00000000000000000000"
+      }
+    ],
+    "quote": "וְכֵיוָן שֶׁשָּׁמְעָה הָאָרֶץ הַלָּשׁוֹן הַזֶּה, עוֹד רָעֲדָה וְרָעֲשָׁה וְאָמְרָה לִפְנֵי בּוֹרְאָהּ: ״רִבּוֹן הָעוֹלָמִים, אֵין לִי כֹּחַ לָזוּן צֹאנוֹ שֶׁל אָדָם!״ אָמַר לָהּ הַקָּדוֹשׁ בָּרוּךְ הוּא: ״אֲנִי וְאַתְּ נָזוּן צֹאנוֹ שֶׁל אָדָם״, וְחָצוּ בֵּין שְׁנֵיהֶם: הַלַּיְלָה שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא וְהַיּוֹם לָאָרֶץ. מֶה עָשָׂה הַקָּדוֹשׁ בָּרוּךְ הוּא? בָּרָא שְׁנַת חַיִּים, וְאָדָם שׁוֹכֵב וְיָשֵׁן וְהוּא מְזוֹנוֹ וּרְפוּאָתוֹ וְחַיִּים לוֹ וּמָנוֹחַ לוֹ, שֶׁנֶּאֱמַר: ״יָשַׁנְתִּי אָז יָנוּחַ לִי״. וְהַקָּדוֹשׁ בָּרוּךְ הוּא סוֹמֵךְ עִם הָאָרֶץ וּמַשְׁקֶה אוֹתָהּ וְהִיא נוֹתֶנֶת פֵּרוֹתֶיהָ מָזוֹן לְכָל הַבְּרִיּוֹת. אֲבָל מְזוֹנוֹתָיו שֶׁל אָדָם הָרִאשׁוֹן – ״בְּעִצָּבוֹן תֹּאכֲלֶנָּה כָּל יְמֵי חַיֶּיךָ״.",
+    "abstract": "The Earth couldn’t support man’s flocks alone, so God sustains them at night with sleep and dew, and only during the day does the Earth feeds them.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Might work better with the doubling of Adam and Eve in this context, might be corruption. Mythical flocks? Shepherding reality?",
+    "quotation_and_speakers": [
+      {
+        "id": 22363,
+        "value": "Job",
+        "color": "dark-brown"
+      },
+      {
+        "id": 22320,
+        "value": "anonym",
+        "color": "light-green"
+      }
+    ],
+    "classic_parallels": ""
+  },
+  "115": {
+    "id": 115,
+    "order": "82.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 13"
+      }
+    ],
+    "hiob_id": "hiob_mention_115",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "13",
+    "verses": [
+      {
+        "id": 444,
+        "value": "39:18",
+        "order": "422.00000000000000000000"
+      },
+      {
+        "id": 449,
+        "value": "41:25",
+        "order": "427.00000000000000000000"
+      }
+    ],
+    "quote": "הַקִּנְאָה וְהַתַּאֲוָה וְהַכָּבוֹד מוֹצִיאִין אֶת הָאָדָם מִן הָעוֹלָם. אָמְרוּ מַלְאֲכֵי הַשָּׁרֵת לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא: ״רִבּוֹן כָּל הָעוֹלָמִים, מָה אָדָם וַתֵּדָעֵהוּ? אָדָם לַהֶבֶל דָּמָה, אֵין לוֹ אֶלָּא עֲפָרוֹ מִשֶּׁלּוֹ״. אָמַר לָהֶם: ״מַה שֶּׁאַתֶּם כֻּלְּכֶם מְקַלְּסִים אוֹתִי בָּעֶלְיוֹנִים, הוּא מְיַחֵד אוֹתִי בַּתַּחְתּוֹנִים. וְלֹא עוֹד, אֶלָּא יְכוֹלִים אַתֶּם לַעֲמֹד וְלִקְרֹא שֵׁמוֹת לְכָל הַבְּרִיּוֹת שֶׁבָּרָאתִי?״ וְעָמְדוּ וְלֹא יָכְלוּ. מִיָּד עָמַד אָדָם וְקָרָא שֵׁמוֹת לַכֹּל, שֶׁנֶּאֱמַר: ״וַיִּקְרָא הָאָדָם שֵׁמוֹת לְכָל הַבְּהֵמָה״. וְכָאן, כֵּיוָן שֶׁרָאוּ מַלְאֲכֵי הַשָּׁרֵת, שָׁבוּ לַאֲחוֹרֵיהֶם. אָמְרוּ מַלְאֲכֵי הַשָּׁרֵת: ״אִם אֵין אָנוּ בָּאִים בְּעֵצָה עַל אָדָם זֶה שֶׁיֶּחֱטָא לִפְנֵי בּוֹרְאוֹ, אֵין אָנוּ יְכוֹלִין בּוֹ״. \nוְהָיָה סָמָאֵל שַׂר גָּדוֹל בַּשָּׁמַיִם, וְהַחַיּוֹת מֵאַרְבַּע כְּנָפַיִם וּשְׂרָפִים מִשֵּׁשׁ כְּנָפַיִם, וְסָמָאֵל מִשְּׁנֵים עָשָׂר כְּנָפַיִם. מֶה עָשָׂה סָמָאֵל? לָקַח כַּת שֶׁלּוֹ וְיָרַד וְרָאָה כָּל הַבְּרִיּוֹת שֶׁבָּרָא הַקָּדוֹשׁ בָּרוּךְ הוּא בְּעוֹלָמוֹ, וְלֹא מָצָא בָּהֶם חָכָם לְהָרַע כַּנָּחָשׁ, שֶׁנֶּאֱמַר: ״וְהַנָּחָשׁ הָיָה עָרוּם״. וְהָיָה דְמוּתוֹ כְּמִין גָּמָל, וְעָלָה וְרָכַב עָלָיו. וְהַתּוֹרָה הָיְתָה צוֹעֶקֶת וְאוֹמֶרֶת: מָה סָמָאֵל? עַכְשָׁו נִבְרָא הָעוֹלָם, עֵת לִמְרֹד בַּמָּרוֹם? בְּעֵת בַּמָּרוֹם תְּמִידִיָּא? רִבּוֹן כָּל הָעוֹלָמִים ״תִּשְׂחַק לְסוּסוֹ וּלְרֹכְבוֹ״.",
+    "abstract": "Due to the angels’ envy of Adam's wisdom during the creation of man, despite him being formed from dust, Samael rebelled and inhabited the serpent to bring about the primordial sin.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "A well-researched narrative of Satan’s fall draws connections to the Quran and Syrian sources. The use of Job 39 interprets wisdom as the Torah within the story, with the horse serving as an allegory, leading to the need for the parable after the passage. It feels clunky. Job 41 is read in a way that suggests Samael equals Leviathan, which might reflect a Christian association.",
+    "quotation_and_speakers": [
+      {
+        "id": 22320,
+        "value": "anonym",
+        "color": "light-green"
+      },
+      {
+        "id": 22362,
+        "value": "God",
+        "color": "darker-pink"
+      }
+    ],
+    "classic_parallels": ""
+  },
+  "116": {
+    "id": 116,
+    "order": "83.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 15"
+      }
+    ],
+    "hiob_id": "hiob_mention_116",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "15",
+    "verses": [
+      {
+        "id": 377,
+        "value": "33:29",
+        "order": "355.00000000000000000000"
+      }
+    ],
+    "quote": "וְשֶׁל רָעָה יֵשׁ בָּהּ אַרְבָּעָה פְּתָחִים. עַל כָּל פֶּתַח וּפֶתַח שִׁבְעָה מַלְאָכִים עוֹמְדִים, אַרְבָּעָה מִבַּחוּץ וּשְׁלֹשָׁה מִבִּפְנִים. אֵלּוּ שֶׁבַּחוּץ רַחֲמָנִים וְאֵלּוּ שֶׁבִּפְנִים אַכְזָרִים. כְּשֶׁיָּבֹא אָדָם לְהִכָּנֵס, הָרַחֲמָנִים מְקַדְּמִין אוֹתוֹ: ״מַה לְּךָ וְלָאֵשׁ הַזּוֹ? מַה לְּךָ וְלַגֶּחָלִים הַלָּלוּ? שְׁמַע לָנוּ וְשׁוּב!״ אִם שָׁמַע לָהֶם – מוּטָב, וְאִם לָאו – אוֹמֵר לָהֶם: ״בָּהֶם חַיַּי!״ וְאָמְרוּ לוֹ: ״הֲרֵי נִכְנַסְתָּ לַפֶּתַח רִאשׁוֹן, אַל תִּכָּנֵס לַפֶּתַח שֵׁנִי!״ אִם רוֹצֶה לִכָּנֵס לַפֶּתַח שֵׁנִי, הָרַחֲמָנִים מְקַדְּמִין וְאוֹמְרִין לוֹ: ״מַה לְּךָ לִהְיוֹת מָחוּק מִתּוֹרַת אֱלֹהֶיךָ? אֵין מוּטָב לְךָ לִהְיוֹת חָקוּק בְּתוֹרַת אֱלֹהֶיךָ וְלֹא מָחוּק? שְׁמַע לָנוּ וְשׁוּב!״ אִם שׁוֹמֵעַ לָהֶם וְשָׁב – הֲרֵי מוּטָב, וְאִם לָאו – הֲרֵי הוּא אוֹמֵר לָהֶם: ״בָּהֶם חַיַּי!״ אָמַר לוֹ: ״הֲרֵי נִכְנַסְתָּ לַפֶּתַח שֵׁנִי, אַל תִּכָּנֵס לַפֶּתַח שְׁלִישִׁי!״ בָּא לְהִכָּנֵס בַּפֶּתַח הַשְּׁלִישִׁי, הָרַחֲמָנִין מְקַדְּמִין אוֹתוֹ וְאוֹמְרִין לוֹ: ״מַה לְּךָ לִהְיוֹת קוֹרְאִין אוֹתְךָ טָמֵא וְלֹא טָהוֹר? שְׁמַע לָנוּ וְשׁוּב!״ אִם שָׁמַע לָהֶן – הֲרֵי מוּטָב, וְאִם לָאו – הוּא אוֹמֵר לָהֶם: ״בָּהֶם חַיַּי!״ אָמְרוּ: ״הֲרֵי נִכְנַסְתָּ לַפֶּתַח שְׁלִישִׁי, אַל תִּכָּנֵס לַפֶּתַח רְבִיעִי!״ בָּא לִיכָּנֵס בַּפֶּתַח הָרְבִיעִי, הָרַחֲמָנִין מְקַדְּמִין אוֹתוֹ וְאוֹמְרִין לוֹ: ״הֲרֵי נִכְנַסְתָּ בְּכָל הַפְּתָחִים הַלָּלוּ וְלֹא שָׁמַעְתָּ וְשַׁבְתָּ! תָּשׁוּב עַד עַכְשָׁיו! הַקָּדוֹשׁ בָּרוּךְ הוּא מְקַבֵּל שָׁבִים, וְעַד עַכְשָׁו הַקָּדוֹשׁ בָּרוּךְ הוּא מוֹחֵל לַעֲוֹנוֹת וְסוֹלֵחַ, וְאוֹמֵר בְּכָל יוֹם: 'שׁוּבוּ בְּנֵי אָדָם!' שֶׁנֶּאֱמַר: 'תָּשֵׁב אֱנוֹשׁ עַד דַּכָּא'״. \nאָמְרוּ אַכְזָרִיִּים: ״הוֹאִיל וְלֹא שָׁמַע לָרִאשׁוֹנִים, יוֹצִיא רוּחוֹ״, שֶׁנֶּאֱמַר: ״תֵּצֵא רוּחוֹ יָשֻׁב לְאַדְמָתוֹ״. וַעֲלֵיהֶם הוּא אוֹמֵר: ״עַל שִׁלֵּשִׁים וְעַל רִבֵּעִים לְשֹׂנְאָי״. וְכָתוּב אַחֵר: ״הֶן כָּל אֵלֶּה יִפְעַל אֵל פַּעֲמַיִם שָׁלוֹשׁ עִם גָּבֶר״. וְכֵן הוּא קוֹרֵא לֶאֱלִיעֶזֶר.",
+    "abstract": "A depiction of the road to Hell as a grand palace with gates, where angels call out to stop you from going further, offering possible chances of redemption, and from Elihu you learn that you’re given three chances. The hell context comes from the verse before (v. 28).",
+    "decontextualized_reception": [
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "In a twist on the Hekhalot, instead of seeking to enter the Chariot and being blocked by guarding angels, one descends into Hell, where the angel can only plead. How does this compare to the brief Midrash about Hell?",
+    "quotation_and_speakers": [
+      {
+        "id": 22360,
+        "value": "Elihu",
+        "color": "dark-cyan"
+      },
+      {
+        "id": 22320,
+        "value": "anonym",
+        "color": "light-green"
+      }
+    ],
+    "classic_parallels": ""
+  },
+  "117": {
+    "id": 117,
+    "order": "84.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 20"
+      }
+    ],
+    "hiob_id": "hiob_mention_117",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "20",
+    "verses": [
+      {
+        "id": 342,
+        "value": "30:23",
+        "order": "320.00000000000000000000"
+      }
+    ],
+    "quote": "בְּאֶחָד בַּשַּׁבָּת נִכְנַס אָדָם בְּמֵי גִּיחוֹן הָעֶלְיוֹן עַד שֶׁהִגִּיעוּ מַיִם עַד צַוָּארוֹ וְנִתְעַנָּה שִׁבְעָה שַׁבָּתוֹת יָמִים עַד שֶׁנַּעֲשָׂה גוּפוֹ כְּמִין כְּבָרָה. אָמַר אָדָם לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא: ״רִבּוֹן כָּל הָעוֹלָמִים, הַעֲבֵר נָא חַטָּאתִי מֵעָלַי וְקַבֵּל אֶת תְּשׁוּבָתִי, וְיִלְמְדוּ כָּל הַדּוֹרוֹת שֶׁיֵּשׁ תְּשׁוּבָה וְאַתָּה מְקַבֵּל תְּשׁוּבַת הַשָּׁבִים״. מֶה עָשָׂה הַקָּדוֹשׁ בָּרוּךְ הוּא? פָּשַׁט יַד יְמִינוֹ וְהֶעֱבִיר אֶת חַטָּאתוֹ מֵעָלָיו וְקִבֵּל אֶת תְּשׁוּבָתוֹ, שֶׁנֶּאֱמַר: ״חַטָּאתִי אוֹדִיעֲךָ וַעֲוֹנִי לֹא כִסִּיתִי, סֶלָה״ – מִן הָעוֹלָם הַזֶּה וְסֶלָה מִן הָעוֹלָם הַבָּא. יָשַׁב וְדָרַשׁ בְּלִבּוֹ: ״וְאִם כִּי אָמַרְתִּי מָוֶת תְּשִׁיבֵנִי וּבֵית מוֹעֵד לְכָל חָי״. אָמַר אָדָם: ״עַד שֶׁאֲנִי בָּעוֹלָם אֶבְנֶה לִי בֵּית מָלוֹן לְרִבְצִי חוּץ לְהַר הַמּוֹרִיָּה״, וְחָצַב וּבָנָה לוֹ מָלוֹן לְרִבְצוֹ. אָמַר אָדָם: ״מָה הַלּוּחוֹת שֶׁהֵן עֲתִידִין לְהִכָּתֵב בְּאֶצְבָּעוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא וַעֲתִידִין מֵימֵי הַיַּרְדֵּן לִבְרֹחַ מִפְּנֵיהֶם, וְגוּפִי שֶׁנִּבַּל בִּשְׁתֵּי יָדָיו וְרוּחַ נִשְׁמַת פִּיו נָפַח בְּאַפִּי, וְאַחַר מוֹתִי יִקְּחוּ אוֹתִי וְאֶת עַצְמוֹתַי וְיַעֲשׂוּ לָהֶם עֲבוֹדָה זָרָה? אֶלָּא אַעֲמִיק אֲנִי אֲרוֹנִי לְמַטָּה מִן הַמְּעָרָה וְלִפְנִים מִן הַמְּעָרָה״. לְפִיכָךְ נִקְרֵאת מְעָרַת הַמַּכְפֵּלָה, שֶׁהִיא כְּפוּלָה, וְשָׁם הוּא נָתוּן: אָדָם וְחַוָּה, אַבְרָהָם וְשָׂרָה, יִצְחָק וְרִבְקָה, יַעֲקֹב וְלֵאָה. וּלְפִיכָךְ נִקְרֵאת קִרְיַת אַרְבַּע, שֶׁנִּקְבְּרוּ בָּהּ אַרְבַּע זוּגוֹת. וַעֲלֵיהֶם הַכָּתוּב אוֹמֵר: ״יָבֹא שָׁלוֹם יָנוּחוּ עַל מִשְׁכְּבוֹתָם הֹלֵךְ נְכֹחוֹ״.",
+    "abstract": "After being forgiven by God, Adam carved a home into a mountain not far from Moriah, the future site of the Temple, and near the gate to the Garden of Eden. Fearing that his body, which had been directly exposed to the Divine and could cause miracles—just as he reasoned the similarly touched Tablets of the Commandments would—might be worshipped as an idol after his death, he built a deep tomb for himself and Eve, which would later become the Cave of Machpelah.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "The use of the Job verse is tenuous, perhaps interpreting it as a plain truth that a house and a tomb are inevitable, with the phrase “house as tomb” fitting here. Maybe the actual point is to counter Job’s complaint before the verse that God ignores him, since He immediately pardoned Adam. A comparison to the \"Life of Adam and Eve\" is fitting and has already been suggested.",
+    "quotation_and_speakers": [
+      {
+        "id": 22320,
+        "value": "anonym",
+        "color": "light-green"
+      },
+      {
+        "id": 22363,
+        "value": "Job",
+        "color": "dark-brown"
+      }
+    ],
+    "classic_parallels": "Genesis Rabbah and Avot DeRabbi Natahan due to the count at such and such hour?"
+  },
+  "118": {
+    "id": 118,
+    "order": "85.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 21"
+      }
+    ],
+    "hiob_id": "hiob_mention_118",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "21",
+    "verses": [
+      {
+        "id": 251,
+        "value": "21:14",
+        "order": "229.00000000000000000000"
+      }
+    ],
+    "quote": "בָּא אֵלֶיהָ (וְרוֹכֶבֶת נָחָשׁ) [רוֹכֵב הַנָּחָשׁ] וְעִבְּרָה אֶת קַיִן, וְאַחַר כָּךְ עִבְּרָה אֶת הֶבֶל, שֶׁנֶּאֱמַר: ״וְהָאָדָם יָדַע אֶת חַוָּה אִשְׁתּוֹ״. מַהוּ ״יָדַע״? שֶׁהָיְתָה מְעֻבֶּרֶת. וְרָאֲתָה דְמוּתוֹ שֶׁלֹּא הָיָה מִן הַתַּחְתּוֹנִים אֶלָּא מִן הָעֶלְיוֹנִים, וְהִבִּיטָה וְאָמְרָה: ״קָנִיתִי אִישׁ אֶת ה'״. רַבִּי יִשְׁמָעֵאל אוֹמֵר: מִשָּׁם עָלוּ וְנִתְיַחֲסוּ כָּל דּוֹרוֹת הָרְשָׁעִים הַמּוֹרְדִים וְהַפּוֹשְׁעִים בַּמָּרוֹם וְאוֹמְרִים: ״אֵין אָנוּ צְרִיכִין לְטִפַּת גַּשְׁמֶיךָ״, שֶׁנֶּאֱמַר: ״וַיֹּאמְרוּ לָאֵל סוּר מִמֶּנּוּ״.",
+    "abstract": "The wicked who told God they did not need His rains are the descendants of Cain, who was born of Eve and Samael.",
+    "decontextualized_reception": [
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Research on the Targum suggests that the unavailable SA paper could still be Jewish rather than Gnostic. Typical reading of wicked in book of Job beyond the Cain as source of evil idea.",
+    "quotation_and_speakers": [
+      {
+        "id": 22378,
+        "value": "ר' ישמעאל",
+        "color": "darker-green"
+      },
+      {
+        "id": 22363,
+        "value": "Job",
+        "color": "dark-brown"
+      }
+    ],
+    "classic_parallels": ""
+  },
+  "119": {
+    "id": 119,
+    "order": "86.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 22"
+      }
+    ],
+    "hiob_id": "hiob_mention_119",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "22",
+    "verses": [
+      {
+        "id": 121,
+        "value": "7:5",
+        "order": "99.00000000000000000000"
+      },
+      {
+        "id": 251,
+        "value": "21:14",
+        "order": "229.00000000000000000000"
+      },
+      {
+        "id": 419,
+        "value": "38:7",
+        "order": "397.00000000000000000000"
+      }
+    ],
+    "quote": "רַבִּי יִשְׁמָעֵאל אוֹמֵר: מִשֵּׁת עָלוּ וְנִתְיַחֲסוּ כָּל הַבְּרִיּוֹת וְכָל דּוֹרוֹת הַצַּדִּיקִים, וּמִקַּיִן עָלוּ וְנִתְיַחֲסוּ כָּל דּוֹרוֹת הָרְשָׁעִים הַפּוֹשְׁעִים וְהַמּוֹרְדִים, שֶׁמָּרְדוּ בַּמָּקוֹם וְאָמְרוּ: ״אֵין אָנוּ צְרִיכִין לְטִפַּת גְּשָׁמֶיךָ וְלֹא לָדַעַת אֶת דְּרָכֶיךָ״, שֶׁנֶּאֱמַר: ״וַיֹּאמְרוּ לָאֵל סוּר מִמֶּנּוּ״...רַבִּי יְהוֹשֻׁעַ בֶּן קָרְחָה אוֹמֵר: הַמַּלְאָכִים אֵשׁ לוֹהֲטִים, שֶׁנֶּאֱמַר (תהילים קד, ד): ״מְשָׁרְתָיו אֵשׁ לֹהֵט״, וְהָאֵשׁ בָּאָה בִּבְעִילָה בְּבָשָׂר וָדָם וְאֵינָהּ שׂוֹרֶפֶת אֶת הַגּוּף. אֶלָּא בְּשָׁעָה שֶׁנָּפְלוּ מִן הַשָּׁמַיִם מִמְּקוֹם קְדֻשָּׁתָן, כֹּחָן וְקוֹמָתָן כִּבְנֵי אָדָם, וּלְבוּשָׁן גּוּשׁ עָפָר, שֶׁנֶּאֱמַר (איוב ז, ה): ״לָבַשׁ בְּשָׂרִי רִמָּה וְגוּשׁ עָפָר״...אָמַר רַבִּי יְהוֹשֻׁעַ בֶּן קָרְחָה: יִשְׂרָאֵל נִקְרְאוּ בְּנֵי אֱלֹהִים, שֶׁנֶּאֱמַר: ״בְּרׇן יַחַד כּוֹכְבֵי בֹקֶר וַיָּרִיעוּ כָּל בְּנֵי אֱלֹהִים״. וְאֵלּוּ עַד שֶׁהָיוּ בִּמְקוֹם קְדֻשָּׁתָן בַּשָּׁמַיִם נִקְרְאוּ בְּנֵי אֱלֹהִים, שֶׁנֶּאֱמַר: ״וְגַם אַחֲרֵי כֵן אֲשֶׁר יָבֹאוּ בְּנֵי הָאֱלֹהִים״.",
+    "abstract": "The first portion repates the passage from Chp. 21 but adds emphasis on Seth, reflecting gnostic theology. The second section describes how the fallen angels lost their fiery bodies and took on earthly ones. The third passage notes that both Israel and the angels are referred to as \"Sons of God.\"",
+    "decontextualized_reception": [
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Enochic? It must have been studied. Reading Job 7 on fallen angels seems to suggest certain reinterpretations, like truly guarding them as if they were mythical monsters, along with possibly other assumptions.",
+    "quotation_and_speakers": [
+      {
+        "id": 22378,
+        "value": "ר' ישמעאל",
+        "color": "darker-green"
+      },
+      {
+        "id": 22379,
+        "value": "ר' יהושע בן קרחה",
+        "color": "dark-pink"
+      },
+      {
+        "id": 22363,
+        "value": "Job",
+        "color": "dark-brown"
+      },
+      {
+        "id": 22362,
+        "value": "God",
+        "color": "darker-pink"
+      }
+    ],
+    "classic_parallels": ""
+  },
+  "120": {
+    "id": 120,
+    "order": "87.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 25"
+      }
+    ],
+    "hiob_id": "hiob_mention_120",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "25",
+    "verses": [
+      {
+        "id": 304,
+        "value": "28:6",
+        "order": "282.00000000000000000000"
+      },
+      {
+        "id": 305,
+        "value": "28:7",
+        "order": "283.00000000000000000000"
+      }
+    ],
+    "quote": "רַבִּי זְעִירָא אוֹמֵר: עֲשִׁירֵי שַׁלְוָה הָיוּ אַנְשֵׁי סְדוֹם מִן הָאָרֶץ הַטְּמֵאָה הַטּוֹבָה וְהַשְּׁמֵנָה שֶׁהָיוּ יוֹשְׁבִים עָלֶיהָ, שֶׁכָּל שֶׁצָּרִיךְ לָעוֹלָם הָיוּ מוֹצִיאִין מִמֶּנָּה. זָהָב הָיוּ מוֹצִיאִין מִמֶּנּוּ, שֶׁנֶּאֱמַר: ״וְעַפְרוֹת זָהָב לוֹ״. כֶּסֶף הָיוּ מוֹצִיאִין מִמֶּנָּה, שֶׁנֶּאֱמַר: ״כִּי יֵשׁ לַכֶּסֶף מוֹצָא״. אֲבָנִים טוֹבוֹת הָיוּ מוֹצִיאִין מִמֶּנָּה, שֶׁנֶּאֱמַר: ״מְקוֹם סַפִּיר אֲבָנֶיהָ״. לֶחֶם הָיוּ מוֹצִיאִין מִמֶּנָּה, שֶׁנֶּאֱמַר: ״אֶרֶץ מִמֶּנָּה יֵצֵא לָחֶם״. וְלֹא בָטְחוּ בְּצֵל יוֹצְרָם אֶלָּא עַל רֹב עָשְׁרָם, וְהָעֹשֶׁר דּוֹחֶה אֶת בְּעָלָיו מִיִּרְאַת שָׁמַיִם, שֶׁנֶּאֱמַר: ״הַבֹּטְחִים עַל חֵילָם״. \nרַבִּי נְתַנְאֵל אוֹמֵר: אַנְשֵׁי סְדֹם לֹא חָסוּ עַל כְּבוֹד קוֹנָם לִשְׁבֹּר אֹכֶל לָאוֹרֵחַ וְלַגֵּר, אֶלָּא סָבְבוּ אֶת כָּל הָאִילָנוֹת לְמַעְלָה מִפֵּרוֹתֵיהֶם כְּדֵי שֶׁלֹּא יִהְיוּ מְסוּרִין אֲפִלּוּ לְעוֹף הַשָּׁמַיִם, שֶׁנֶּאֱמַר: ״נָתִיב לֹא יְדָעוֹ עָיִט״.",
+    "abstract": "The men of Sodom enjoyed unparalleled riches from the land but did not attribute these to God, trusting only in their wealth. They were so stingy that they refused to honor God with proper hospitality, hiding all food in their lands so that even birds could not enjoy any, let alone any passerby.",
+    "decontextualized_reception": [
+      {
+        "id": 22381,
+        "value": "Sodom",
+        "color": "brown"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Only a latאer verse in the following passage from Ezekiel might directly reference Sodom. The assumption is that Job 28:5, which mentions a land overturned like fire, refers to Sodom due to the root הפ\"כ.",
+    "quotation_and_speakers": [
+      {
+        "id": 22363,
+        "value": "Job",
+        "color": "dark-brown"
+      },
+      {
+        "id": 22380,
+        "value": "ר' זעירא",
+        "color": "dark-blue"
+      },
+      {
+        "id": 22382,
+        "value": "ר' נתנאל",
+        "color": "green"
+      }
+    ],
+    "classic_parallels": "Bavli, Gen. Rab.??"
+  },
+  "121": {
+    "id": 121,
+    "order": "88.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 52"
+      }
+    ],
+    "hiob_id": "hiob_mention_121",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "52",
+    "verses": [
+      {
+        "id": 40,
+        "value": "41:10",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "quote": "הַמּוֹפֵת הָרְבִיעִי, מִיּוֹם שֶׁנִּבְרָא הָעוֹלָם לֹא הָיָה אָדָם חוֹלֶה, אֶלָּא בְּכָל מָקוֹם שֶׁהָיָה אָדָם, אִם בַּדֶּרֶךְ אִם בַּשּׁוּק, וְעָטַשׁ — הָיְתָה נַפְשׁוֹ יוֹצֵאת מִנְּחִירָיו וּמֵת, עַד שֶׁבָּא יַעֲקֹב אָבִינוּ וּבִקֵּשׁ רַחֲמִים עַל זֹאת וְאָמַר לִפְנֵי הַקָּדוֹשׁ בָּרוּךְ הוּא: ״רִבּוֹנוֹ שֶׁל עוֹלָם, אַל תִּקַּח אֶת נַפְשִׁי מִמֶּנִּי עַד אֲשֶׁר אֲנִי מְצַוֶּה אֶת בָּנַי וּבְנֵי בֵיתִי״. וְנֶעְתַּר לוֹ, שֶׁנֶּאֱמַר: ״וַיְהִי אַחֲרֵי הַדְּבָרִים הָאֵלֶּה וַיֹּאמֶר לְיוֹסֵף הִנֵּה אָבִיךָ חוֹלֶה״. וְשָׁמְעוּ כָּל מַלְכֵי הָאָרֶץ וְתָמְהוּ, שֶׁלֹּא הָיָה כָּמוֹהוּ מִיּוֹם שֶׁנִּבְרְאוּ שָׁמַיִם וָאָרֶץ. לְפִיכָךְ חַיָּב אָדָם לוֹמַר לַחֲבֵרוֹ בִּשְׁעַת עֲטִישׁוֹתָיו: ״חַיִּים!״ שֶׁנֶּהְפַּךְ מָוֶת הָעוֹלָם לְאוֹר, שֶׁנֶּאֱמַר (איוב מא, י): ״עֲטִישׁוֹתָיו תָּהֶל אוֹר״.",
+    "abstract": "The fourth precedent of seven that replaced what was natural before it was that, until Jacob asked for mercy from God, people would not become ill but would simply die from sneezing immediately. Thus, he is the first mentioned as sick in the biblical text. Consequently, one must say “life” (a form of “bless you”) when hearing a fellow sneeze, to commemorate that death in the world was transformed into light.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "The verse in Job mentions a sneeze, but the contrast between light and death isn’t very clear. The biblical text describes the Leviathan. Perhaps there are assumptions that a sneeze releases light or life gradually? some medical notions from the period might help. Else, the light is figurative as life and the use of the verse is even weaker.",
+    "quotation_and_speakers": [
+      {
+        "id": 22362,
+        "value": "God",
+        "color": "darker-pink"
+      },
+      {
+        "id": 22374,
+        "value": "שנאמר",
+        "color": "dark-yellow"
+      }
+    ],
+    "classic_parallels": ""
+  },
+  "122": {
+    "id": 122,
+    "order": "89.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 47"
+      }
+    ],
+    "hiob_id": "hiob_mention_122",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "47",
+    "verses": [
+      {
+        "id": 450,
+        "value": "22:18",
+        "order": "428.00000000000000000000"
+      }
+    ],
+    "quote": "רַבִּי יְהוּדָה אוֹמֵר, כְּתִיב (איוב כב, יח): ״וַעֲצַת רְשָׁעִים רָחֲקָה מֶנִּי״, זֶה עֲצָתוֹ שֶׁל בִּלְעָם הָרָשָׁע שֶׁיָּעַץ לְמִדְיָן וְנָפְלוּ מִיִּשְׂרָאֵל אַרְבָּעָה וְעֶשְׂרִים אֶלֶף. שֶׁאָמַר לָהֶם: ״אֵין אַתֶּם יְכוֹלִין לִפְנֵי הָעָם הַזֶּה כִּי אִם חָטְאוּ לִפְנֵי קוֹנֵיהֶם״. וְעָשׂוּ לָהֶם חֲנֻיּוֹת חוּץ לְמַחֲנֵה יִשְׂרָאֵל וְהָיוּ מוֹכְרִין כָּל מִמְכָּרָן בַּשּׁוּק. וְכֵן עָשׂוּ, וְהָיוּ בַּחוּרֵי יִשְׂרָאֵל יוֹצְאִין חוּץ לְמַחֲנֵה יִשְׂרָאֵל וְרוֹאִין אֶת בְּנוֹת מִדְיָן שֶׁהָיוּ כּוֹחֲלוֹת עֵינֵיהֶן כְּזוֹנוֹת וְלָקְחוּ מֵהֶן נָשִׁים וְתָעוּ אַחֲרֵיהֶן, שֶׁנֶּאֱמַר: ״וַיָּחֶל הָעָם לִזְנוֹת אֶת בְּנוֹת מוֹאָב״.",
+    "abstract": "Job kept well away from the counsel of the wicked Balaam, who had advised the Midianites on how to seduce the Israelite men.",
+    "decontextualized_reception": [
+      {
+        "id": 22311,
+        "value": "Exodus",
+        "color": "light-orange"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "The seduction narrative, along with its many versions, has been researched. The idea of using Balaam’s wicked advice, distant from Job, might suggest a portrayal of them as Pharaoh’s counselors.",
+    "quotation_and_speakers": [
+      {
+        "id": 22363,
+        "value": "Job",
+        "color": "dark-brown"
+      },
+      {
+        "id": 22383,
+        "value": "ר' יהודה",
+        "color": "deep-dark-green"
+      }
+    ],
+    "classic_parallels": ""
+  },
+  "123": {
+    "id": 123,
+    "order": "90.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 43"
+      }
+    ],
+    "hiob_id": "hiob_mention_123",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "43",
+    "verses": [
+      {
+        "id": 281,
+        "value": "24:12",
+        "order": "259.00000000000000000000"
+      }
+    ],
+    "quote": "רַבִּי נְחוּנְיָא בֶּן הַקָּנָה אוֹמֵר: תֵּדַע לְךָ כֹּחַ הַתְּשׁוּבָה. בֹּא וּרְאֵה מִפַּרְעֹה מֶלֶךְ מִצְרַיִם שֶׁמָּרַד בְּצוּר עֶלְיוֹן הַרְבֵּה מְאֹד, שֶׁנֶּאֱמַר: ״מִי ה' אֲשֶׁר אֶשְׁמַע בְּקוֹלוֹ״. וּבַלָּשׁוֹן שֶׁחָטָא בּוֹ בַּלָּשׁוֹן עָשָׂה תְשׁוּבָה, שֶׁנֶּאֱמַר: ״מִי כָמֹכָה בָּאֵלִם ה', מִי כָּמֹכָה נֶאְדָּר בַּקֹּדֶשׁ״. וְהִצִּילוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא בֵּין הַמֵּתִים. מִנַּיִן שֶׁלֹּא מֵת? שֶׁנֶּאֱמַר: ״כִּי עַתָּה שָׁלַחְתִּי אֶת יָדִי וָאַךְ אוֹתְךָ, וְאוּלָם בַּעֲבוּר זֹאת הֶעֱמַדְתִּיךָ״ וְכוּ'. וְהָלַךְ וּמָלַךְ בְּנִינְוֵה. וְהָיוּ אַנְשֵׁי נִינְוֵה כּוֹתְבִים מִכְתְּבֵי עָמָל וְגוֹזְלִים אִישׁ אֶת רֵעֵהוּ, וּבָאִים אִישׁ עַל רֵעֵהוּ בְּמִשְׁכַּב זָכוּר. וּבָא אֶצְלוֹ מַעֲשֵׂיהֶם הָרָעִים. וּכְשֶׁשָּׁלַח הַקָּדוֹשׁ בָּרוּךְ הוּא לְיוֹנָה לְהִנָּבֵא עָלֶיהָ לְהַחֲרִיבָהּ, שָׁמַע פַּרְעֹה וְעָמַד מִכִּסְאוֹ וְקָרַע בְּגָדָיו וְלָבַשׁ שַׂק וָאֵפֶר, וְהִכְרִיז בְּכָל עַמּוֹ שֶׁיָּצוּמוּ כָּל הָעָם שְׁנֵי יָמִים, וְכָל מִי שֶׁיַּעֲשֶׂה אֶת הַדְּבָרִים הַלָּלוּ יִשָּׂרֵף בָּאֵשׁ. מֶה עָשָׂה? הֶעֱמִיד הָאֲנָשִׁים מִצַּד אֶחָד וְהַנָּשִׁים מִצַּד אַחֵר, וְכָל בְּהֵמָה טְהוֹרָה מִצַּד אַחֵר. וְהַיְלָדִים רוֹאִים אֶת אִמּוֹתֵיהֶם וְרוֹצִין לִינֹק וּבוֹכִין, וְאִמּוֹתֵיהֶם רוֹאוֹת אֶת בְּנֵיהֶם וְרוֹצוֹת לְהָנִיקָם וּבוֹכוֹת. הַיְלָדִים ק״כ אֶלֶף וְג' אֲלָפִים, הַרְבֵּה מִשְּׁנֵים עָשָׂר רִבּוֹא, שֶׁנֶּאֱמַר: ״וַאֲנִי לֹא אָחוּס עַל נִינְוֵה הָעִיר הַגְּדוֹלָה״. אַרְבָּעִים שָׁנָה הֶאֱרִיךְ אַפּוֹ עִמָּהֶם כְּנֶגֶד אַרְבָּעִים יוֹם שֶׁשָּׁלַח אֶת יוֹנָה. וּלְאַחַר אַרְבָּעִים שָׁנָה שָׁבוּ לְמַעֲשֵׂיהֶם הָרָעִים הַרְבֵּה מִן הָרִאשׁוֹנִים, וְנִבְלְעוּ כַמֵּתִים בִּשְׁאוֹל תַּחְתִּיָּה, שֶׁנֶּאֱמַר: ״מֵעִיר מְתִים יִנְאָקוּ״.",
+    "abstract": "A lengthy narrative recounts the relapse of the repentant Ninevites and their sins, which ultimately highlight the mercy of God. Job confirms their punishment—the dead gasped from their city.",
+    "decontextualized_reception": [
+      {
+        "id": 22384,
+        "value": "Ninevites",
+        "color": "light-yellow"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "See Urabch on the polemical undertones with Christianity. Note some details of the crimes of the Ninevites might have been based on reading an unquoted verse in Job, like 9, for the suckling scene. Moreover, the association of the verse with Nineveh is based on העיר, a specific city, a diuq.",
+    "quotation_and_speakers": [
+      {
+        "id": 22363,
+        "value": "Job",
+        "color": "dark-brown"
+      },
+      {
+        "id": 22385,
+        "value": "ר' נחוניה בן הקנה",
+        "color": "light-purple"
+      }
+    ],
+    "classic_parallels": ""
+  },
+  "124": {
+    "id": 124,
+    "order": "91.00000000000000000000",
+    "mention": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer, 34"
+      }
+    ],
+    "hiob_id": "hiob_mention_124",
+    "midrash": [
+      {
+        "id": 5,
+        "value": "Pirkei DeRabbi Eliezer",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "passages": "34",
+    "verses": [
+      {
+        "id": 165,
+        "value": "12:10",
+        "order": "143.00000000000000000000"
+      },
+      {
+        "id": 367,
+        "value": "33:15",
+        "order": "345.00000000000000000000"
+      },
+      {
+        "id": 368,
+        "value": "33:16",
+        "order": "346.00000000000000000000"
+      },
+      {
+        "id": 424,
+        "value": "38:13",
+        "order": "402.00000000000000000000"
+      }
+    ],
+    "quote": "רַבִּי זְכַרְיָה אוֹמֵר: שְׁנַת הַלַּיְלָה דּוֹמָה לָעוֹלָם הַזֶּה, וְקִיצַת הַבֹּקֶר דּוֹמָה לָעוֹלָם הַבָּא. וּמַה שְּׁנַת הַלַּיְלָה? אָדָם שׁוֹכֵב וְיָשֵׁן וְרוּחוֹ שׁוֹטֶטֶת בְּכָל הָאָרֶץ וּמַגֶּדֶת לוֹ בַּחֲלוֹם כָּל דָּבָר שֶׁיִּהְיֶה, שֶׁנֶּאֱמַר: ״בַּחֲלוֹם בְּחֶזְיוֹן לַיְלָה... אָז יִגְלֶה אֹזֶן אֲנָשִׁים וּבְמֻסָרָם יַחְתֹּם״. כָּךְ הַמֵּתִים, רוּחוֹת מְשׁוֹטְטוֹת בְּכָל הָאָרֶץ וּמַגֶּדֶת לָהֶם כָּל דָּבָר שֶׁהָיָה, אֲבָל הֵם נוֹתְנִין שֶׁבַח וְרֶנֶן לְהַקָּדוֹשׁ בָּרוּךְ הוּא שֶׁהוּא עָתִיד לְהַחֲיוֹתָם, שֶׁנֶּאֱמַר: ״יַעְלְזוּ חֲסִידִים בְּכָבוֹד יְרַנְּנוּ עַל מִשְׁכְּבוֹתָם״. וִיקִיצַת הַבֹּקֶר דּוֹמָה לֶעָתִיד לָבוֹא, שֶׁנֶּאֱמַר: ״שַׂבְּעֵנוּ בַבֹּקֶר חַסְדֶּךָ וּנְרַנְּנָה וְנִשְׂמְחָה״ וְכוּ'...לֶעָתִיד לָבֹא הַקָּדוֹשׁ בָּרוּךְ הוּא אוֹחֵז בְּכַנְפוֹת הָאָרֶץ וּמְנַעֵר אוֹתָהּ מִכָּל טֻמְאָה, כְּאָדָם שֶׁמְּנַעֵר אֶת הַבֶּגֶד וּמַשְׁלִיךְ כָּל מַה שֶּׁבְּתוֹכָהּ וּמַשְׁלִיךְ אוֹתָהּ לַחוּץ, שֶׁנֶּאֱמַר: ״לֶאֱחֹז בְּכַנְפוֹת הָאָרֶץ וְיִנָּעֲרוּ רְשָׁעִים מִמֶּנָּה״.\n...רַבִּי עֲזַרְיָה אוֹמֵר: כָּל הַנְּפָשׁוֹת בְּיָדוֹ שֶׁל הַקָּדוֹשׁ בָּרוּךְ הוּא הֵם, שֶׁנֶּאֱמַר ״אֲשֶׁר בְּיָדוֹ נֶפֶשׁ כָּל חָי״. לְמָה הַדָּבָר דּוֹמֶה? לְאֶחָד שֶׁהָיָה מְהַלֵּךְ בַּשּׁוּק וּמַפְתֵּחַ בְּיָדוֹ. כָּל זְמַן שֶׁהַמַּפְתֵּחַ בְּיָדוֹ, כָּל מָמוֹנוֹ בְּיָדוֹ. כָּךְ הַקָּדוֹשׁ בָּרוּךְ הוּא, מַפְתֵּחַ שֶׁל בֵּית הַקְּבָרוֹת וּמַפְתֵּחַ אוֹצְרוֹת הַנְּשָׁמָה בְּיָדוֹ. לֶעָתִיד לָבֹא, הַקָּדוֹשׁ בָּרוּךְ הוּא פּוֹתֵחַ אֶת הַקְּבָרוֹת וּפוֹתֵחַ אֶת אוֹצְרוֹת הַנְּשָׁמָה, וּמַחֲזִיר כָּל רוּחַ וְרוּחַ בְּגוּף בָּשָׂר אִישׁ, שֶׁנֶּאֱמַר ״תְּשַׁלַּח רוּחֲךָ יִבָּרֵאוּן וּתְחַדֵּשׁ פְּנֵי אֲדָמָה״.",
+    "abstract": "Sleep is like death in this life, and waking up is like being brought back to life in the next life. In the Eschaton, God will cleanse the Land of all impurity—likely referring to the Holy Land as suggested earlier in the text... He holds the souls of the dead like precious treasures, and when the time comes, He will unlock His store of souls to bring about the resurrection.",
+    "decontextualized_reception": [
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Truly, some decontextualized ideas from Job, referencing either the present or the past, are read in relation to the Eschaton.",
+    "quotation_and_speakers": [
+      {
+        "id": 22360,
+        "value": "Elihu",
+        "color": "dark-cyan"
+      },
+      {
+        "id": 22362,
+        "value": "God",
+        "color": "darker-pink"
+      },
+      {
+        "id": 22363,
+        "value": "Job",
+        "color": "dark-brown"
+      },
+      {
+        "id": 22320,
+        "value": "anonym",
+        "color": "light-green"
+      },
+      {
+        "id": 22387,
+        "value": "ר' זכריה",
+        "color": "red"
+      },
+      {
+        "id": 22386,
+        "value": "ר' עזריה",
+        "color": "dark-purple"
+      }
+    ],
+    "classic_parallels": ""
+  },
+  "125": {
+    "id": 125,
+    "order": "92.00000000000000000000",
+    "mention": [],
+    "hiob_id": "hiob_mention_125",
+    "midrash": [],
+    "passages": "",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "126": {
+    "id": 126,
+    "order": "93.00000000000000000000",
+    "mention": [],
+    "hiob_id": "hiob_mention_126",
+    "midrash": [],
+    "passages": "",
+    "verses": [],
     "quote": "",
     "abstract": "",
     "decontextualized_reception": [],

@@ -265,6 +265,81 @@
         "id": 71,
         "value": "Pirkei DeRabbi Eliezer, 11",
         "order": "39.00000000000000000000"
+      },
+      {
+        "id": 110,
+        "value": "Pirkei DeRabbi Eliezer, 3",
+        "order": "77.00000000000000000000"
+      },
+      {
+        "id": 111,
+        "value": "Pirkei DeRabbi Eliezer, 6",
+        "order": "78.00000000000000000000"
+      },
+      {
+        "id": 112,
+        "value": "Pirkei DeRabbi Eliezer, 7",
+        "order": "79.00000000000000000000"
+      },
+      {
+        "id": 113,
+        "value": "Pirkei DeRabbi Eliezer, 11",
+        "order": "80.00000000000000000000"
+      },
+      {
+        "id": 114,
+        "value": "Pirkei DeRabbi Eliezer, 12",
+        "order": "81.00000000000000000000"
+      },
+      {
+        "id": 115,
+        "value": "Pirkei DeRabbi Eliezer, 13",
+        "order": "82.00000000000000000000"
+      },
+      {
+        "id": 116,
+        "value": "Pirkei DeRabbi Eliezer, 15",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 117,
+        "value": "Pirkei DeRabbi Eliezer, 20",
+        "order": "84.00000000000000000000"
+      },
+      {
+        "id": 118,
+        "value": "Pirkei DeRabbi Eliezer, 21",
+        "order": "85.00000000000000000000"
+      },
+      {
+        "id": 119,
+        "value": "Pirkei DeRabbi Eliezer, 22",
+        "order": "86.00000000000000000000"
+      },
+      {
+        "id": 120,
+        "value": "Pirkei DeRabbi Eliezer, 25",
+        "order": "87.00000000000000000000"
+      },
+      {
+        "id": 121,
+        "value": "Pirkei DeRabbi Eliezer, 52",
+        "order": "88.00000000000000000000"
+      },
+      {
+        "id": 122,
+        "value": "Pirkei DeRabbi Eliezer, 47",
+        "order": "89.00000000000000000000"
+      },
+      {
+        "id": 123,
+        "value": "Pirkei DeRabbi Eliezer, 43",
+        "order": "90.00000000000000000000"
+      },
+      {
+        "id": 124,
+        "value": "Pirkei DeRabbi Eliezer, 34",
+        "order": "91.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_5"
