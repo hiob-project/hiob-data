@@ -1,0 +1,9 @@
+[project]
+name = "hiob-data"
+version = "0.1.0"
+description = "Data dumps from Baserow for the HIOB project"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "acdh-baserow-pyutils>=0.11.0",
+]
