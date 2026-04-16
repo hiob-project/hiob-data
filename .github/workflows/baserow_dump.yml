@@ -2,7 +2,7 @@ name: Dump Entities from Baserow
 
 on:
   schedule:
-  - cron: "13 6 * * *"
+    - cron: "13 6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -25,6 +25,9 @@ jobs:
       - name: dump the data
         run: |
           python dump_data.py
+      - name: process the data
+        run: |
+          python process_data.py
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
