@@ -7,7 +7,7 @@
     "mentions": [
       {
         "id": 4,
-        "value": "Esther Rabbah I, 6:3!",
+        "value": "Esther Rabbah I, 6:3",
         "order": "4.00000000000000000000"
       }
     ],
@@ -49,7 +49,7 @@
     "mentions": [
       {
         "id": 9,
-        "value": "Esther Rabbah II, 7:11!",
+        "value": "Esther Rabbah II, 7:11",
         "order": "9.00000000000000000000"
       }
     ],
@@ -115,7 +115,7 @@
     "mentions": [
       {
         "id": 8,
-        "value": "Esther Rabbah II, 7:3!",
+        "value": "Esther Rabbah II, 7:3",
         "order": "8.00000000000000000000"
       }
     ],
@@ -129,7 +129,7 @@
     "mentions": [
       {
         "id": 8,
-        "value": "Esther Rabbah II, 7:3!",
+        "value": "Esther Rabbah II, 7:3",
         "order": "8.00000000000000000000"
       }
     ],
@@ -3475,7 +3475,7 @@
     "mentions": [
       {
         "id": 133,
-        "value": "Midrash Psalms, 24:1!",
+        "value": "Midrash Psalms, 24:1",
         "order": "100.00000000000000000000"
       }
     ],
@@ -4520,7 +4520,7 @@
     "mentions": [
       {
         "id": 130,
-        "value": "Midrash Psalms, 19:3!",
+        "value": "Midrash Psalms, 19:3",
         "order": "97.00000000000000000000"
       }
     ],
