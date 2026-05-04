@@ -4832,9 +4832,20 @@
   "170": {
     "id": 170,
     "order": "137.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms, 139:1"
+      }
+    ],
     "hiob_id": "hiob_mention_170",
-    "midrash": [],
+    "midrash": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms",
+        "order": "14.00000000000000000000"
+      }
+    ],
     "passages": "139:1",
     "verses": [
       {
@@ -5006,9 +5017,20 @@
   "175": {
     "id": 175,
     "order": "142.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms, 146:3"
+      }
+    ],
     "hiob_id": "hiob_mention_175",
-    "midrash": [],
+    "midrash": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms",
+        "order": "14.00000000000000000000"
+      }
+    ],
     "passages": "146:3",
     "verses": [
       {
