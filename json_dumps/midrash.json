@@ -962,5 +962,19 @@
       }
     ],
     "hiob_id": "hiob_text_40"
+  },
+  "43": {
+    "id": 43,
+    "order": "17.00000000000000000000",
+    "name": "Mekhilta DeRabbi Yishmael",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 235,
+        "value": "Mekhilta DeRabbi Yishmael, ",
+        "order": "201.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_43"
   }
 }

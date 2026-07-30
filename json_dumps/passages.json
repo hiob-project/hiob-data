@@ -6839,5 +6839,32 @@
     "points_of_note": "",
     "quotation_and_speakers": [],
     "classic_parallels": ""
+  },
+  "235": {
+    "id": 235,
+    "order": "201.00000000000000000000",
+    "mention": [
+      {
+        "id": 43,
+        "value": "Mekhilta DeRabbi Yishmael, "
+      }
+    ],
+    "hiob_id": "hiob_mention_235",
+    "midrash": [
+      {
+        "id": 43,
+        "value": "Mekhilta DeRabbi Yishmael",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "passages": "",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
   }
 }
