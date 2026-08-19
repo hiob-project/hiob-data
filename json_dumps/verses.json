@@ -3396,11 +3396,6 @@
         "id": 101,
         "value": "Avot DeRabbi Natan A, 12:4",
         "order": "68.00000000000000000000"
-      },
-      {
-        "id": 170,
-        "value": "Midrash Psalms, 139:1",
-        "order": "137.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_322"
@@ -3410,13 +3405,7 @@
     "order": "301.00000000000000000000",
     "verse": "28:24",
     "quote": "",
-    "mentions": [
-      {
-        "id": 170,
-        "value": "Midrash Psalms, 139:1",
-        "order": "137.00000000000000000000"
-      }
-    ],
+    "mentions": [],
     "hiob_id": "hiob_verse_323"
   },
   "324": {

@@ -739,9 +739,15 @@
       }
     ],
     "quote": "",
-    "abstract": "",
+    "abstract": "How Job's companions were saved from Hell",
     "decontextualized_reception": [],
-    "narrative_reception": [],
+    "narrative_reception": [
+      {
+        "id": 23364,
+        "value": "The Companions",
+        "color": "darker-pink"
+      }
+    ],
     "points_of_note": "",
     "quotation_and_speakers": [],
     "classic_parallels": ""
@@ -1371,10 +1377,16 @@
       }
     ],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "The Behemoth.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Comp. Pirqe. R. Eli. 11",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -1447,8 +1459,14 @@
       }
     ],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "The Behemoth cluster",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -1486,9 +1504,15 @@
     ],
     "quote": "",
     "abstract": "",
-    "decontextualized_reception": [],
+    "decontextualized_reception": [
+      {
+        "id": 22311,
+        "value": "Exodus",
+        "color": "light-orange"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Fate of the Wicked in Job read about Amalek.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -1622,9 +1646,20 @@
       }
     ],
     "quote": "",
-    "abstract": "",
+    "abstract": "On Job's charity and being born circumcised",
     "decontextualized_reception": [],
-    "narrative_reception": [],
+    "narrative_reception": [
+      {
+        "id": 22319,
+        "value": "Job as Jewish or Convert",
+        "color": "light-yellow"
+      },
+      {
+        "id": 22392,
+        "value": "Job's Charity",
+        "color": "orange"
+      }
+    ],
     "points_of_note": "",
     "quotation_and_speakers": [],
     "classic_parallels": ""
@@ -1718,12 +1753,18 @@
       }
     ],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Index on Creation.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
-    "classic_parallels": ""
+    "classic_parallels": "Many."
   },
   "80": {
     "id": 80,
@@ -1814,9 +1855,15 @@
       }
     ],
     "quote": "",
-    "abstract": "",
+    "abstract": "How the biblical dialog worked in terms of speaking order.",
     "decontextualized_reception": [],
-    "narrative_reception": [],
+    "narrative_reception": [
+      {
+        "id": 23364,
+        "value": "The Companions",
+        "color": "darker-pink"
+      }
+    ],
     "points_of_note": "",
     "quotation_and_speakers": [],
     "classic_parallels": ""
@@ -1885,10 +1932,16 @@
       }
     ],
     "quote": "",
-    "abstract": "",
+    "abstract": "On Job's faith as fear based.",
     "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
+    "narrative_reception": [
+      {
+        "id": 23368,
+        "value": "Job's Faith",
+        "color": "darker-green"
+      }
+    ],
+    "points_of_note": "Also contains a legend about Jehoiachin",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -1956,8 +2009,14 @@
       }
     ],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Names for idols.",
+    "decontextualized_reception": [
+      {
+        "id": 22358,
+        "value": "Hapax legomenon",
+        "color": "light-red"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -2004,8 +2063,14 @@
       }
     ],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Nature of angels.",
+    "decontextualized_reception": [
+      {
+        "id": 23367,
+        "value": "Angels",
+        "color": "dark-brown"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -2156,8 +2221,14 @@
       }
     ],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "The tale of the Beginning of R. Akiva",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -2549,10 +2620,21 @@
       }
     ],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Death of Moses.",
+    "decontextualized_reception": [
+      {
+        "id": 22366,
+        "value": "Moses narrative",
+        "color": "dark-brown"
+      },
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Wisdom read as Moses's soul.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -2653,9 +2735,15 @@
       }
     ],
     "quote": "",
-    "abstract": "",
+    "abstract": "On his hospitality",
     "decontextualized_reception": [],
-    "narrative_reception": [],
+    "narrative_reception": [
+      {
+        "id": 22392,
+        "value": "Job's Charity",
+        "color": "orange"
+      }
+    ],
     "points_of_note": "",
     "quotation_and_speakers": [],
     "classic_parallels": ""
@@ -2691,9 +2779,15 @@
       }
     ],
     "quote": "",
-    "abstract": "",
+    "abstract": "On Job's hospitality.",
     "decontextualized_reception": [],
-    "narrative_reception": [],
+    "narrative_reception": [
+      {
+        "id": 22392,
+        "value": "Job's Charity",
+        "color": "orange"
+      }
+    ],
     "points_of_note": "",
     "quotation_and_speakers": [],
     "classic_parallels": ""
@@ -2797,8 +2891,14 @@
     "quote": "",
     "abstract": "",
     "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
+    "narrative_reception": [
+      {
+        "id": 22392,
+        "value": "Job's Charity",
+        "color": "orange"
+      }
+    ],
+    "points_of_note": "See 7:1",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -4295,9 +4395,15 @@
     ],
     "quote": "",
     "abstract": "",
-    "decontextualized_reception": [],
+    "decontextualized_reception": [
+      {
+        "id": 23365,
+        "value": "rain",
+        "color": "dark-cyan"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Naturalistic",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -4686,7 +4792,18 @@
     ],
     "quote": "",
     "abstract": "",
-    "decontextualized_reception": [],
+    "decontextualized_reception": [
+      {
+        "id": 22389,
+        "value": "Praises for the Jews",
+        "color": "darker-red"
+      },
+      {
+        "id": 23367,
+        "value": "Angels",
+        "color": "dark-brown"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4789,8 +4906,14 @@
       }
     ],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "David vs Saul.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4819,44 +4942,6 @@
         "id": 334,
         "value": "29:23",
         "order": "312.00000000000000000000"
-      }
-    ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
-    "quotation_and_speakers": [],
-    "classic_parallels": ""
-  },
-  "170": {
-    "id": 170,
-    "order": "137.00000000000000000000",
-    "mention": [
-      {
-        "id": 38,
-        "value": "Midrash Psalms, 139:1"
-      }
-    ],
-    "hiob_id": "hiob_mention_170",
-    "midrash": [
-      {
-        "id": 38,
-        "value": "Midrash Psalms",
-        "order": "14.00000000000000000000"
-      }
-    ],
-    "passages": "139:1",
-    "verses": [
-      {
-        "id": 322,
-        "value": "28:23",
-        "order": "300.00000000000000000000"
-      },
-      {
-        "id": 323,
-        "value": "28:24",
-        "order": "301.00000000000000000000"
       }
     ],
     "quote": "",
@@ -4942,9 +5027,20 @@
     ],
     "quote": "",
     "abstract": "",
-    "decontextualized_reception": [],
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      },
+      {
+        "id": 22315,
+        "value": "Zophar",
+        "color": "light-pink"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Agrees with Zophar",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -5079,9 +5175,15 @@
     ],
     "quote": "",
     "abstract": "",
-    "decontextualized_reception": [],
+    "decontextualized_reception": [
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Also the patriarchs",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -5188,9 +5290,20 @@
     ],
     "quote": "",
     "abstract": "",
-    "decontextualized_reception": [],
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      },
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "It is the original verison?",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -5426,12 +5539,18 @@
       }
     ],
     "quote": "",
-    "abstract": "",
+    "abstract": "The whip index.",
     "decontextualized_reception": [],
-    "narrative_reception": [],
+    "narrative_reception": [
+      {
+        "id": 22323,
+        "value": "Job's Suffering",
+        "color": "darker-pink"
+      }
+    ],
     "points_of_note": "",
     "quotation_and_speakers": [],
-    "classic_parallels": ""
+    "classic_parallels": "Critical of Job in favor of David."
   },
   "188": {
     "id": 188,
@@ -5626,9 +5745,21 @@
     ],
     "quote": "",
     "abstract": "",
-    "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
+    "narrative_reception": [
+      {
+        "id": 22323,
+        "value": "Job's Suffering",
+        "color": "darker-pink"
+      }
+    ],
+    "points_of_note": "Meybe reads David as Job",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -5894,9 +6025,15 @@
     ],
     "quote": "",
     "abstract": "",
-    "decontextualized_reception": [],
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Focuses on water.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -6031,7 +6168,13 @@
     ],
     "quote": "",
     "abstract": "",
-    "decontextualized_reception": [],
+    "decontextualized_reception": [
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -6109,7 +6252,7 @@
     "abstract": "",
     "decontextualized_reception": [],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Compare 139:1, parallel",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -6215,8 +6358,14 @@
       }
     ],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Creation of Man.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -6389,9 +6538,15 @@
         "order": "100.00000000000000000000"
       }
     ],
-    "quote": "",
+    "quote": "[ב] דבר אחר [קיד, א] [בצאת ישראל ממצרים זהו שאמר הכתוב] שירו (לו) [לאלהים] זמרו שמו סולו לרוכב בערבות (תהלים סח ה), מה שירו, צפו לאלהים, כמו שנאמר לא תשורני עין רואי (איוב ז ח). דבר אחר אמרו לפניו שירים וזמרים, מהו סולו, ר' יהודה אמר קילסו, ר' נחמיה אמר שפרו לפניו דרכיכם, כענין שנאמר סולו סולו המסלה (ישעיה סב י). לרוכב בערבות. רבנן אמרו שני רקיעין הם, שנאמר לרוכב בשמי שמי קדם (תהלים סח לד). רבותינו אמרו שלש, שנאמר השמים ושמי השמים (מ\"א =מלכים א'= ח כז), ר' אלעזר אומר שבעה הן, וילון רקיע שחק זבול מעון מכון ערבות, וכבודו של הקב\"ה בערבות, אמר ר' חלפתא בן יעקב בשם ר' יהודה בר סימון ראה הקב\"ה מעשיהן של צדיקים, וערב עליו מעשיהם. אמר ר' פנחס הכהן בר חמא הרקיע ששמו ערבות הקב\"ה זורע מעשה הצדיקים והם עושים פירות, שנאמר כי פרי מעלליהם יאכלו (ישעיה ג י).",
     "abstract": "",
-    "decontextualized_reception": [],
+    "decontextualized_reception": [
+      {
+        "id": 22358,
+        "value": "Hapax legomenon",
+        "color": "light-red"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -6428,8 +6583,14 @@
       }
     ],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Where Adam learnt the Havdalah.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -6460,9 +6621,15 @@
         "order": "100.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "ו] [פז, ד] אזכיר רהב ובבל. אמר ר' יהודה בר סימון עתידין אומות העולם להביא דורונות למלך המשיח שנאמר ולציון יאמר איש ואיש יולד בה (/תהלים פ\"ז/ פסוק ו), אלו משיחי ה', משיח בן דוד, ומשיח בן אפרים, ואין יולד אלא הרמת ראש, כמה דאת אמר בטרם הרים יולדו (תהלים צ ב), והן עצמן למלך המשיח דורונות, שנאמר תשורי מראש אמנה (שה\"ש =שיר השירים= ד ח), למה נקרא שמה תשורה, שמסתכלין בה ומזמרין, כענין שנאמר לא תשורני עין רואי (איוב ז ח), וכיון שהן באין אצל מלך המשיח הוא אומר להם יש ביניכם ישראל הביאו אותם לי, שנאמר הבו לה' משפחות עמים (תהלים צו ז), עמים משפחות של ישראל הביאו לי, אמר ר' אחא לא דרך בזיון אלא דרך כבוד, שנאמר הבו לה' כבוד ועוז הבו לה' כבוד שמו (שם שם /תהלים צ\"ו/ ח), הבו לה' אותן שכיבדו שמו בעולם, אמר ר' יהודה ואמרי לה אמר ר' ברכיה בשם ר' יהודה בעת ההיא יובל שי (ישעיה יח ז), ש\"י ב\"ם בא\"ת ב\"ש, כלומר יוביל בם כל העמים ישראל דורון למלך המשיח, שיהיו מביאין את ישראל, שנאמר והביאו את כל אחיכם מכל הגוים מנחה לה' בסוסים וברכב ובצבים (בפרדות) [ובפרדים] ובכרכרות וגו' (ישעיה סו כ), אמר ר' ברכיה הבחורים מרכיבין על הסוסים, התלמידים שאין בהם כח ברכב, הנשים והילדים בצבים בעגלות, כמו שנאמר שש עגלות צב (במדבר ז ג), הזקנים בפרדות שהולכות במנוחה, והזקנים שבזקנים שאינן יכולין (להשען) [להטען], עושה להם כמין אסלאות, ומציעין בהם כרים של מילת, וטוענין אותן על כתיפן, וסומכים אותם בידיהם, מהו נכבדות מדובר בך, שהן מביאין אותם דרך כבוד, וכשנפטרין לילך מאצל מלך המשיח, מספרין האומות אצל המשיח בכבודן של ישראל, ואומרים זה כהן וזה לוי וזה ישראל, ולמה לפי שנמכרו לעבדים ונשתכחו ייחוסיהן מפני שעבוד גליות, ונשתכחו ונעשו גוים על ידי האונסים. אמר ר' אלעזר וגם מהם אקח לכהנים ללוים אמר ה' (ישעיה סו כא), מן הגוים שמביאים למלך המשיח את ישראל, מהם מסיים כל מי שהוא כהן או לוי או ישראל, וגם מהם אקח מן המביאים ולא מן המובאים, וגם מהם אקח אמר ה', והיכן אמר ה', אמר ר' פנחס [הכהן] בר חמא הנסתרות לה' אלהינו (דברים כט כח).",
+    "abstract": "Eschatological gift for the Messiah. Job serves as a linguistic proof text.",
+    "decontextualized_reception": [
+      {
+        "id": 22358,
+        "value": "Hapax legomenon",
+        "color": "light-red"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -6502,7 +6669,7 @@
     "abstract": "",
     "decontextualized_reception": [],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Compare 92:9",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -6531,9 +6698,15 @@
         "order": "88.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ה] [דבר אחר [כד, א] לה' הארץ ומלואה]. ר' עזריה ור' נחמיה [ור' ברכיה] אמרו משל למלך שהיה לו שני אפיטרופין, אחד היה ממונה על מה שהיה בבית, ואחד היה ממונה על מה שבשדות, [אותו הממונה על מה שבבית, היה יודע כל מה שבבית וכל מה שבשדות, והממונה על מה שבשדות, לא היה יודע אלא מה שבשדות בלבד], כך משה שעלה למרום, היה יודע העליונים והתחתונים, וקילס להקב\"ה בהם, שנאמר הן לה' אלהיך השמים ושמי השמים הארץ וכל אשר בה (דברים י יד), ודוד שלא עלה למרום קילס להקב\"ה במה שהוא יודע, שנאמר לה' הארץ ומלואה. [בשביל ארבעה דברים חזר הקב\"ה שלא תהיה הארץ שותה, אלא למעלה, בשביל הזרעים שלא להביא טללים רעים, ושיהיה הגבוה שותה כנמוך, ושיהיו הכל נושאין עיניהם למרום, מה טעם, לשום שפלים למרום (איוב ה יא), וכן הדא הוא דכתיב לה' הארץ ומלואה]. אמר ר' פנחס מלך בשר ודם כשהוא בקיטון אינו בטרקלין, וכשהוא בטרקלין אינו בקיטון, אבל הקב\"ה מלא את העליונים ואת התחתונים, שנאמר הודו על ארץ ושמים (תהלים קמח יג), וכתיב את השמים ואת הארץ אני מלא (ירמיה כג כד). בשר ודם יש לו צאן ואין לו מרעה, ויש שיש לו מרעה ואין לו צאן, ויש שיש לו צאן ומרעה ואינו יודע לרעות, ואינו יודע מרעית טובה, אבל הקב\"ה אינו כן, אלא יש לו צאן, אלו ישראל, (ואתנה) [ואתן] צאני צאן מרעיתי (יחזקאל לד לא), ויודע מרעית, שנאמר במרעה טוב ארעה אותם (שם שם /יחזקאל ל\"ד/ יד), ויש לו מרעה, לה' הארץ ומלואה, ויודע לרעות, שנאמר אני ארעה צאני (שם שם /יחזקאל ל\"ד/ טו).",
+    "abstract": "The rain is meant to make the low-suffering people pray up to the heavens.",
+    "decontextualized_reception": [
+      {
+        "id": 23365,
+        "value": "rain",
+        "color": "dark-cyan"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -6571,7 +6744,13 @@
     ],
     "quote": "",
     "abstract": "",
-    "decontextualized_reception": [],
+    "decontextualized_reception": [
+      {
+        "id": 23365,
+        "value": "rain",
+        "color": "dark-cyan"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -6602,11 +6781,17 @@
         "order": "85.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[יד] [עח, מח] ויסגר לברד בעירם. כיון שהיתה מכת הברד עתידה לבוא, אמר משה לפרעה שלח העז את מקנך (שמות ט יט), אמר פרעה וכי עכשיו אנו באים לשמוע דבריו של בן עמרם, אמר רעיא בתרייתי מה דהוה חד שרביט הוה משתברא ליה, כיון שבא הברד נעשה ככותל הזה מפני צאנו, הוי ויסגר לברד בעירם, ולא היו יכולות לילך, והיה המצרי אומר אוי לאותו האיש, מה הוא עושה, נוטלה לשחטה ומאכיל בניו ממנה, כיון ששחטה היה נוטל בשרה על כתפו, והיה העוף יורד על כתפו ואוכל, שנאמר ומקניהם לרשפים, כענין שנאמר ובני רשף יגביהו עוף (איוב ה ז).",
+    "abstract": "The Egyptians tried to capitalize on the death of their flocks in the hail plague by pre-butchering, but birds would steal their meat.",
+    "decontextualized_reception": [
+      {
+        "id": 22311,
+        "value": "Exodus",
+        "color": "light-orange"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "It’s unusual to think of Reshef as a bird rather than an angel or demon.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -6651,9 +6836,15 @@
         "order": "65.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[כג] דבר אחר [קד, כה] זה הים גדול ורחב ידים. זה גיהנם, שנאמר לכן הרחיבה שאול נפשה (ישעיה ה יד). שם רמש ואין מספר. אלו הרשעים והמינין והאפיקורסים. חיות קטנות עם גדולות. קטן וגדול שם הוא ועבד חפשי מאדניו (איוב ג יט). שם אניות יהלכון. כי הולך האדם אל בית עלמו (קהלת יב ה). [לויתן זה יצרת לשחק בו]. מהו לויתן זה יצרת לשחק בו, טיבוי מן ואת מלוותא. כולם אליך ישברון. אלו המתים שעיניהם תלויות לתחיית המתים, שבתחיית המתים כתיב ירנו ישבי סלע מראש הרים יצוחו ישימו לה' כבוד (ישעיה מב יא יב), וכאן כתיב יהי כבוד ה' לעולם, מה כבוד האמור כאן בתחיית המתים, אף כבוד האמור כאן בתחיית המתים, באותה שעה הם אומרם לך שירה, הדא הוא  דכתיב שירו לה' שיר חדש (שם שם /ישעיהו מ\"ב/ י). דבר אחר שם אניות יהלכון. אמר ר' יצחק בר מריון אלולי שכתוב הנותן בים דרך (שם /ישעיהו/ מג טז) מי שהיה יורד בים היה מת.",
+    "abstract": "The nature of Hell versus Resurrection.",
+    "decontextualized_reception": [
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -6684,11 +6875,17 @@
         "order": "63.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ה] דבר אחר [ח, ג] מפי עוללים ויונקים. רבי ור' יוסי הגלילי, רבי אומר עוללים אלו שבחוץ, וכן הוא אומר להכרית עולל מחוץ (ירמיה ט כ), וכתיב עוללים שאלו להם [וגו' נשמו בחוצות] (איכה ד ד ה), יונקים אלו שבמעי אמן, ר' יוסי הגלילי אומר עוללים אלו שמבפנים, שנאמר כעוללים לא ראו אור (איוב ג טז), יונקים אלו שמבחוץ, שנאמר יונק שדי אמי (שה\"ש =שיר השירים= ח א). רב ור' לוי, רב אמר נעשו כרסותיהן של אמן כאספקלריא המאירה, מיד התינוקות פירשו מדדיהן, ועוללים מטיבורן, אמר ר' לוי הנס האחרון גדול מן הראשון, שחזרו כרסות אמותיהן במקומן, ותינוקות חזרו לדדיהן, והעוללים לטיבורן, פתחו פיהם אלו ואלו ואמרו שירה, שנאמר מפי עוללים ויונקים יסדת עז. למען צורריך, שנים, להשבית איוב ומתנקם, שנים, הרי ארבע מלכיות. דבר אחר למען צורריך. בגין שנאיכון יהבית לכון אורייתא.",
+    "abstract": "linguistic proof text for fetuses as ‘olelyim",
+    "decontextualized_reception": [
+      {
+        "id": 22358,
+        "value": "Hapax legomenon",
+        "color": "light-red"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "// 8:5",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -6717,11 +6914,17 @@
         "order": "63.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ה] דבר אחר [ח, ג] מפי עוללים ויונקים. רבי ור' יוסי הגלילי, רבי אומר עוללים אלו שבחוץ, וכן הוא אומר להכרית עולל מחוץ (ירמיה ט כ), וכתיב עוללים שאלו להם [וגו' נשמו בחוצות] (איכה ד ד ה), יונקים אלו שבמעי אמן, ר' יוסי הגלילי אומר עוללים אלו שמבפנים, שנאמר כעוללים לא ראו אור (איוב ג טז), יונקים אלו שמבחוץ, שנאמר יונק שדי אמי (שה\"ש =שיר השירים= ח א). רב ור' לוי, רב אמר נעשו כרסותיהן של אמן כאספקלריא המאירה, מיד התינוקות פירשו מדדיהן, ועוללים מטיבורן, אמר ר' לוי הנס האחרון גדול מן הראשון, שחזרו כרסות אמותיהן במקומן, ותינוקות חזרו לדדיהן, והעוללים לטיבורן, פתחו פיהם אלו ואלו ואמרו שירה, שנאמר מפי עוללים ויונקים יסדת עז. למען צורריך, שנים, להשבית איוב ומתנקם, שנים, הרי ארבע מלכיות. דבר אחר למען צורריך. בגין שנאיכון יהבית לכון אורייתא.",
+    "abstract": "linguistic proof text for fetuses as ‘olelyim",
+    "decontextualized_reception": [
+      {
+        "id": 22358,
+        "value": "Hapax legomenon",
+        "color": "light-red"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "//58:4",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -6750,11 +6953,17 @@
         "order": "49.00000000000000000000"
       }
     ],
-    "quote": "",
+    "quote": "[ב] ר' מאיר אומר וידעת עם לבבך [כי כאשר ייסר איש את בנו ה' אלהיך מיסרך (דברים ח ה)], אתה ולבך יודעים מעשים שעשיתי עמך ויסורים שהבאתי עליך שלא לפי מעשיך הבאתי עליך ייסורין. ר' שמעון [בן יוחאי] אומר טובים יסורין ששלש מתנות טובות ניתנו לישראל בהן, ואומות העולם מתאוין להם ולא ניתנו להם אלא בזכות הייסורין, ואלו הן התורה והעולם הבא וארץ ישראל, תורה מניין, שנאמר לדעת חכמה ומוסר (משלי א ב), ואומר אשרי הגבר אשר תיסרנו יה ומתורתך תלמדנו (/תהלים צ\"ד/ פסוק יב), ארץ ישראל מניין, שנאמר וידעת עם לבבך כי כאשר ייסר איש את בנו ה' אלהיך מיסרך (דברים ח ה), כמה דמפרגל בר נש ית בריה ה' אלהיך מפרגל לך, מה כתיב בתריה, כי ה' אלהיך מביאך אל ארץ טובה (דברים ח ז), העולם הבא מניין, דכתיב ודרך חיים תוכחות מוסר (משלי ו כג), אמרת צא וראה איזה הוא דרך שמביאה את האדם לחיי העולם הבא, הוי אומר אלו הייסורין. [ר' יוסי בר יהודה אומר חביבים ייסורין לפני הקב\"ה] ששמו של הקב\"ה [חל] על מי שהייסורין באין עליו, שנאמר כי [כאשר ייסר איש את בנו] ה' אלהיך מיסרך (דברים ח ה). תיסרנו יה, קודם מיסרך, ואח\"כ מנחילך תורה וארץ ישראל וחיי עולם הבא. ר' נתן בר יוסי אומר חביבין ייסורין שהברית כרותה להן לישראל, שנאמר והבאתי אתכם במסרת הברית (יחזקאל כ לז), ר' אליעזר בן יעקב אומר הרי הוא אומר כי את אשר יאהב ה' יוכיח וכאב את בן ירצה (משלי ג יב), אל תקרי וכאב אלא וכאב, מי גרם לכם לרצות לאביכם שבשמים, הוי אומר הייסורין. (ר' נתן) [ר' נחמי'] אומר חביבין ייסורין כשם שהקרבנות מרצין כך ייסורין מרצין, בקרבנות כתיב ונרצה לכפר עליו (ויקרא א ד), ובייסורין כתיב וכאב את בן ירצה (משלי שם /ג'/) וכתיב והם ירצו את עונם (ויקרא כו מג), ולא עוד אלא שהיסורין (חביבין) [מרצים יותר] מן הקרבנות שהקרבנות בממונו וייסורין בגוף, שנאמר וכל אשר לאיש יתן בעד נפשו (איוב ב ד), לפיכך אשרי הגבר אשר תיסרנו יה, למה, ומתורתך תלמדנו.",
     "abstract": "",
-    "decontextualized_reception": [],
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "”Sufferings of Love”, uses Satan’s stance skin for skin as proof and true.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -6783,11 +6992,17 @@
         "order": "45.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
+    "quote": "[א] [קא, א] לדוד מזמור חסד ומשפט אשירה [לך ה' אזמרה]. זהו שאמר הכתוב ויגבה ה' צבאות במשפט [והאל הקדוש נקדש בצדקה] (ישעיה ה טז), אם במשפט ויגבה ה' צבאות במשפט, ואם בצדקה והאל הקדוש נקדש בצדקה. אמר ר' הונא בשם ר' אחא כך אמר [דוד] לפני הקב\"ה אם חסד אתה עושה עמי אשירה, ואם משפט אתה עושה עמי אשירה, בין כך ובין כך לך ה' אזמרה. אמר ר' יהודה בן פלייא [הוא שאיוב אמר] ה' נתן וה' לקח [יהי שם ה' מבורך] (איוב א כא), כשנתן הוא לבדו, וכשלקח הוא ובית דינו, ברוך הוא כשנתן, וברוך הוא כשלקח, בין כך ובין כך יהי שם ה' מבורך, הוי לך ה' אזמרה. אמר ר' ברכיה בשם ר' לוי ואתה מרום לעולם ה' (תהלים צב ט), ידך מן עיליתא, תמן תנינן על הטוב מברך הטוב והמטיב, ועל הרעה ברוך דיין האמת. אמר ר' תנחום בר יודן באלהים אהלל דבר בה' אהלל דבר (תהלים נו יא), אם בא עלי בדין, כדבר שנאמר אשר ירשיעון אלהים (שמות כב ח), אף על פי כן אהלל דבר, ואם בא עלי ברחמים, כדבר שנאמר ה' ה' אל רחום וחנון (שם /שמות/ לד ו), אהלל דבר, בין כך ובין כך אהלל דבר. ורבנן אמרי צרה ויגון אמצא ובשם ה' אקרא (תהלים קטז ג ד), [כוס ישועות אשא ובשם ה' אקרא (שם שם /תהלים קט\"ז/ יג)], (הוי לך ה' אזמרה) [בין כך ובין כך לך ה' אקרא].",
+    "abstract": "Job’s acceptance of his fate is comparable to David’s.",
     "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
+    "narrative_reception": [
+      {
+        "id": 23368,
+        "value": "Job's Faith",
+        "color": "darker-green"
+      }
+    ],
+    "points_of_note": "Positive analogy to David unlike whip one (26:2), about the blessing",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -6832,10 +7047,16 @@
         "order": "33.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
+    "quote": "[ג] [נ, יט] פיך שלחת ברעה ולשונך תצמיד מרמה. ר' יוסי בן חלפתא כשהיה נער היה משחק עם הנערים, ראה אותו איש אחד, אמר ליה יש לומר לאביך שאתה משחק עם הנערים, אמר לו ר' יוסי חייך מה איכפת לך, אם תאמר לאבי הוא מכה אותי, ואתה מרגיל לשונך להיות אומר לשון הרע, הוי פיך שלחת ברעה ולשונך תצמיד מרמה. [זובח תודה יכבדנני. חביבה תודה מכל הקרבנות, שלא היו באין אלא על העבירות, וכן תמצא באיוב, שנאמר אולי חטאו בני (איוב א ה), אבל התודה באה על חנם, וכן הוא אומר הנה שמוע מזבח טוב (ש\"א =שמואל א'= טו כב), ואומר זבח ומנחה לא חפצת וגו' (תהלים מ ז). יכבדנני. בעולם הזה ובעולם הבא. ושם דרך. אלו המדליקים נרות במבואות האפלים. אראנו בישע אלהים. ישועת בשר ודם יש אחריה שעבוד, ישועת הקב\"ה אין אחריה שעבוד, וכן הוא אומר ישראל נושע בה' תשועת עולמים וגו' (ישעיה מה יז)].",
+    "abstract": "Job impcltly negative- sacrifices worse than giving thanks. A tale of sages, also.",
     "decontextualized_reception": [],
-    "narrative_reception": [],
+    "narrative_reception": [
+      {
+        "id": 23368,
+        "value": "Job's Faith",
+        "color": "darker-green"
+      }
+    ],
     "points_of_note": "",
     "quotation_and_speakers": [],
     "classic_parallels": ""
