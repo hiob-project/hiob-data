@@ -239,7 +239,7 @@
     "mentions": [
       {
         "id": 44,
-        "value": "Ecclesiastes Rabbah, 7:8 &1",
+        "value": "Ecclesiastes Rabbah, 7:19 & 8:1",
         "order": "12.00000000000000000000"
       }
     ],
@@ -1904,13 +1904,7 @@
     "order": "154.00000000000000000000",
     "verse": "12:16",
     "quote": "",
-    "mentions": [
-      {
-        "id": 203,
-        "value": "Midrash Psalms, 7:3",
-        "order": "169.00000000000000000000"
-      }
-    ],
+    "mentions": [],
     "hiob_id": "hiob_verse_176"
   },
   "177": {
@@ -2135,7 +2129,7 @@
     "mentions": [
       {
         "id": 191,
-        "value": "",
+        "value": "Midrash Psalms, 53:2",
         "order": "158.00000000000000000000"
       }
     ],
@@ -2176,7 +2170,13 @@
     "order": "180.00000000000000000000",
     "verse": "15:10",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 47,
+        "value": "Pesiqta Rabbati, 38",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_202"
   },
   "203": {
@@ -2469,11 +2469,6 @@
     "quote": "",
     "mentions": [
       {
-        "id": 183,
-        "value": "",
-        "order": "150.00000000000000000000"
-      },
-      {
         "id": 184,
         "value": "Midrash Psalms, 33:1",
         "order": "151.00000000000000000000"
@@ -2554,8 +2549,13 @@
     "mentions": [
       {
         "id": 131,
-        "value": "Midrash Psalms, 19:4",
+        "value": "Midrash Psalms, 9:11",
         "order": "98.00000000000000000000"
+      },
+      {
+        "id": 244,
+        "value": "Midrash Psalms, 19:6",
+        "order": "210.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_243"
@@ -3116,7 +3116,7 @@
     "mentions": [
       {
         "id": 174,
-        "value": "Midrash Psalms, 92:4",
+        "value": "Midrash Psalms, 92:3",
         "order": "141.00000000000000000000"
       }
     ],
@@ -3521,7 +3521,13 @@
     "order": "314.00000000000000000000",
     "verse": "30:1",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 47,
+        "value": "Pesiqta Rabbati, 38",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_336"
   },
   "337": {
@@ -3929,7 +3935,13 @@
     "order": "353.00000000000000000000",
     "verse": "33:27",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 47,
+        "value": "Pesiqta Rabbati, 38",
+        "order": "15.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_375"
   },
   "376": {
@@ -4016,6 +4028,11 @@
         "id": 132,
         "value": "Midrash Psalms, 19:10",
         "order": "99.00000000000000000000"
+      },
+      {
+        "id": 245,
+        "value": "Midrash Psalms, 19:13",
+        "order": "211.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_383"
@@ -4511,6 +4528,11 @@
         "id": 130,
         "value": "Midrash Psalms, 19:3",
         "order": "97.00000000000000000000"
+      },
+      {
+        "id": 243,
+        "value": "Midrash Psalms, 19:4",
+        "order": "209.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_433"

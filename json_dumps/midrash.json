@@ -359,6 +359,36 @@
         "id": 60,
         "value": "Seder Eliyahu Rabbah, 19",
         "order": "28.00000000000000000000"
+      },
+      {
+        "id": 279,
+        "value": "Seder Eliyahu Rabbah, 8",
+        "order": "245.00000000000000000000"
+      },
+      {
+        "id": 280,
+        "value": "Seder Eliyahu Rabbah, 14",
+        "order": "246.00000000000000000000"
+      },
+      {
+        "id": 281,
+        "value": "Seder Eliyahu Rabbah, 16",
+        "order": "247.00000000000000000000"
+      },
+      {
+        "id": 282,
+        "value": "Seder Eliyahu Rabbah, 17",
+        "order": "248.00000000000000000000"
+      },
+      {
+        "id": 283,
+        "value": "Seder Eliyahu Rabbah, 18",
+        "order": "249.00000000000000000000"
+      },
+      {
+        "id": 284,
+        "value": "Seder Eliyahu Rabbah, 29",
+        "order": "250.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_6"
@@ -373,6 +403,21 @@
         "id": 61,
         "value": "Seder Eliyahu Zuta, 4",
         "order": "29.00000000000000000000"
+      },
+      {
+        "id": 285,
+        "value": "Seder Eliyahu Zuta, 3",
+        "order": "251.00000000000000000000"
+      },
+      {
+        "id": 287,
+        "value": "Seder Eliyahu Zuta, 10",
+        "order": "253.00000000000000000000"
+      },
+      {
+        "id": 288,
+        "value": "Seder Eliyahu Zuta, 20",
+        "order": "254.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_7"
@@ -458,13 +503,83 @@
     "mentions": [
       {
         "id": 44,
-        "value": "Ecclesiastes Rabbah, 7:8 &1",
+        "value": "Ecclesiastes Rabbah, 7:19 & 8:1",
         "order": "12.00000000000000000000"
       },
       {
         "id": 50,
         "value": "Ecclesiastes Rabbah, 7:2 &4",
         "order": "18.00000000000000000000"
+      },
+      {
+        "id": 246,
+        "value": "Ecclesiastes Rabbah, 1, 7 [2]",
+        "order": "212.00000000000000000000"
+      },
+      {
+        "id": 247,
+        "value": "Ecclesiastes Rabbah, 2:1 [2]",
+        "order": "213.00000000000000000000"
+      },
+      {
+        "id": 248,
+        "value": "Ecclesiastes Rabbah, 3:1 [20]",
+        "order": "214.00000000000000000000"
+      },
+      {
+        "id": 249,
+        "value": "Ecclesiastes Rabbah, 3:1 [10]",
+        "order": "215.00000000000000000000"
+      },
+      {
+        "id": 250,
+        "value": "Ecclesiastes Rabbah, 3:1 [16]",
+        "order": "216.00000000000000000000"
+      },
+      {
+        "id": 256,
+        "value": "Ecclesiastes Rabbah, 5:1 [2]",
+        "order": "222.00000000000000000000"
+      },
+      {
+        "id": 257,
+        "value": "Ecclesiastes Rabbah, 5:4 [24]",
+        "order": "223.00000000000000000000"
+      },
+      {
+        "id": 258,
+        "value": "Ecclesiastes Rabbah, 5:1 [10]",
+        "order": "224.00000000000000000000"
+      },
+      {
+        "id": 259,
+        "value": "Ecclesiastes Rabbah, 7:4 [3]",
+        "order": "225.00000000000000000000"
+      },
+      {
+        "id": 260,
+        "value": "Ecclesiastes Rabbah, 7:3",
+        "order": "226.00000000000000000000"
+      },
+      {
+        "id": 261,
+        "value": "Ecclesiastes Rabbah, 8:10",
+        "order": "227.00000000000000000000"
+      },
+      {
+        "id": 262,
+        "value": "Ecclesiastes Rabbah, 9:1 [2]",
+        "order": "228.00000000000000000000"
+      },
+      {
+        "id": 263,
+        "value": "Ecclesiastes Rabbah, 9:11 [1]",
+        "order": "229.00000000000000000000"
+      },
+      {
+        "id": 264,
+        "value": "Ecclesiastes Rabbah, 12:1 [6]",
+        "order": "230.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_34"
@@ -494,6 +609,11 @@
         "id": 70,
         "value": "Pesiqta Rabbati, 48:3",
         "order": "38.00000000000000000000"
+      },
+      {
+        "id": 272,
+        "value": "Pesiqta Rabbati, 26",
+        "order": "238.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_35"
@@ -513,6 +633,61 @@
         "id": 68,
         "value": "Numbers Rabbah II, 21:18",
         "order": "36.00000000000000000000"
+      },
+      {
+        "id": 242,
+        "value": "Numbers Rabbah II, 15:21",
+        "order": "208.00000000000000000000"
+      },
+      {
+        "id": 251,
+        "value": "Numbers Rabbah II, 17:2",
+        "order": "217.00000000000000000000"
+      },
+      {
+        "id": 254,
+        "value": "Numbers Rabbah II, 19:33",
+        "order": "220.00000000000000000000"
+      },
+      {
+        "id": 255,
+        "value": "Numbers Rabbah II, 20:9, 11, 12",
+        "order": "221.00000000000000000000"
+      },
+      {
+        "id": 265,
+        "value": "Numbers Rabbah II, 21:2",
+        "order": "231.00000000000000000000"
+      },
+      {
+        "id": 266,
+        "value": "Numbers Rabbah II, 21:18",
+        "order": "232.00000000000000000000"
+      },
+      {
+        "id": 267,
+        "value": "Numbers Rabbah II, 21:22",
+        "order": "233.00000000000000000000"
+      },
+      {
+        "id": 268,
+        "value": "Numbers Rabbah II, ",
+        "order": "234.00000000000000000000"
+      },
+      {
+        "id": 269,
+        "value": "Numbers Rabbah II, 22:2, 5",
+        "order": "235.00000000000000000000"
+      },
+      {
+        "id": 270,
+        "value": "Numbers Rabbah II, 23:6",
+        "order": "236.00000000000000000000"
+      },
+      {
+        "id": 271,
+        "value": "Numbers Rabbah II, 23:9",
+        "order": "237.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_36"
@@ -532,6 +707,16 @@
         "id": 74,
         "value": "Exodus Rabbah II, 23:13",
         "order": "42.00000000000000000000"
+      },
+      {
+        "id": 252,
+        "value": "Exodus Rabbah II, 18:3",
+        "order": "218.00000000000000000000"
+      },
+      {
+        "id": 253,
+        "value": "Exodus Rabbah II, 19:1",
+        "order": "219.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_37"
@@ -584,7 +769,7 @@
       },
       {
         "id": 131,
-        "value": "Midrash Psalms, 19:4",
+        "value": "Midrash Psalms, 9:11",
         "order": "98.00000000000000000000"
       },
       {
@@ -684,7 +869,7 @@
       },
       {
         "id": 174,
-        "value": "Midrash Psalms, 92:4",
+        "value": "Midrash Psalms, 92:3",
         "order": "141.00000000000000000000"
       },
       {
@@ -748,6 +933,11 @@
         "order": "157.00000000000000000000"
       },
       {
+        "id": 191,
+        "value": "Midrash Psalms, 53:2",
+        "order": "158.00000000000000000000"
+      },
+      {
         "id": 192,
         "value": "Midrash Psalms, 139:4",
         "order": "159.00000000000000000000"
@@ -781,11 +971,6 @@
         "id": 202,
         "value": "Midrash Psalms, 78:7",
         "order": "168.00000000000000000000"
-      },
-      {
-        "id": 203,
-        "value": "Midrash Psalms, 7:3",
-        "order": "169.00000000000000000000"
       },
       {
         "id": 204,
@@ -921,6 +1106,21 @@
         "id": 234,
         "value": "Midrash Psalms, 50:3",
         "order": "200.00000000000000000000"
+      },
+      {
+        "id": 243,
+        "value": "Midrash Psalms, 19:4",
+        "order": "209.00000000000000000000"
+      },
+      {
+        "id": 244,
+        "value": "Midrash Psalms, 19:6",
+        "order": "210.00000000000000000000"
+      },
+      {
+        "id": 245,
+        "value": "Midrash Psalms, 19:13",
+        "order": "211.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_38"
@@ -954,6 +1154,71 @@
         "id": 59,
         "value": "Numbers Rabbah I, 14:2",
         "order": "27.00000000000000000000"
+      },
+      {
+        "id": 180,
+        "value": "Numbers Rabbah I, 2:8",
+        "order": "147.00000000000000000000"
+      },
+      {
+        "id": 181,
+        "value": "Numbers Rabbah I, 3:1",
+        "order": "148.00000000000000000000"
+      },
+      {
+        "id": 197,
+        "value": "Numbers Rabbah I, 4:4",
+        "order": "163.00000000000000000000"
+      },
+      {
+        "id": 198,
+        "value": "Numbers Rabbah I, 6:2",
+        "order": "164.00000000000000000000"
+      },
+      {
+        "id": 216,
+        "value": "Numbers Rabbah I, 7:5",
+        "order": "182.00000000000000000000"
+      },
+      {
+        "id": 226,
+        "value": "Numbers Rabbah I, 8:9",
+        "order": "192.00000000000000000000"
+      },
+      {
+        "id": 232,
+        "value": "Numbers Rabbah I, 9:1",
+        "order": "198.00000000000000000000"
+      },
+      {
+        "id": 236,
+        "value": "Numbers Rabbah I, 10:1",
+        "order": "202.00000000000000000000"
+      },
+      {
+        "id": 237,
+        "value": "Numbers Rabbah I, 11:2",
+        "order": "203.00000000000000000000"
+      },
+      {
+        "id": 238,
+        "value": "Numbers Rabbah I, 12:3",
+        "order": "204.00000000000000000000"
+      },
+      {
+        "id": 239,
+        "value": "Numbers Rabbah I, 13:4",
+        "order": "205.00000000000000000000"
+      },
+      {
+        "id": 240,
+        "value": "Numbers Rabbah I, 14:1",
+        "order": "206.00000000000000000000"
+      },
+      {
+        "id": 241,
+        "value": "Numbers Rabbah I, 14:22",
+        "order": "207.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_40"
@@ -971,5 +1236,184 @@
       }
     ],
     "hiob_id": "hiob_text_43"
+  },
+  "44": {
+    "id": 44,
+    "order": "18.00000000000000000000",
+    "name": "Deuteronomy Rabbah [Lieberman]",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 144,
+        "value": "Deuteronomy Rabbah [Lieberman], Devarim [2:4]",
+        "order": "111.00000000000000000000"
+      },
+      {
+        "id": 145,
+        "value": "Deuteronomy Rabbah [Lieberman], Va'tchanan",
+        "order": "112.00000000000000000000"
+      },
+      {
+        "id": 146,
+        "value": "Deuteronomy Rabbah [Lieberman], Eikav",
+        "order": "113.00000000000000000000"
+      },
+      {
+        "id": 147,
+        "value": "Deuteronomy Rabbah [Lieberman], Nitzavim",
+        "order": "114.00000000000000000000"
+      },
+      {
+        "id": 148,
+        "value": "Deuteronomy Rabbah [Lieberman], Vayelekh",
+        "order": "115.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_44"
+  },
+  "45": {
+    "id": 45,
+    "order": "19.00000000000000000000",
+    "name": "Deuteronomy Rabbah",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 149,
+        "value": "Deuteronomy Rabbah, 2:4",
+        "order": "116.00000000000000000000"
+      },
+      {
+        "id": 150,
+        "value": "Deuteronomy Rabbah, 2:37",
+        "order": "117.00000000000000000000"
+      },
+      {
+        "id": 151,
+        "value": "Deuteronomy Rabbah, 5:4",
+        "order": "118.00000000000000000000"
+      },
+      {
+        "id": 152,
+        "value": "Deuteronomy Rabbah, 5:9",
+        "order": "119.00000000000000000000"
+      },
+      {
+        "id": 153,
+        "value": "Deuteronomy Rabbah, 5:12",
+        "order": "120.00000000000000000000"
+      },
+      {
+        "id": 154,
+        "value": "Deuteronomy Rabbah, 5:13",
+        "order": "121.00000000000000000000"
+      },
+      {
+        "id": 155,
+        "value": "Deuteronomy Rabbah, 5:15",
+        "order": "122.00000000000000000000"
+      },
+      {
+        "id": 156,
+        "value": "Deuteronomy Rabbah, 7:3",
+        "order": "123.00000000000000000000"
+      },
+      {
+        "id": 157,
+        "value": "Deuteronomy Rabbah, 8, 2&7",
+        "order": "124.00000000000000000000"
+      },
+      {
+        "id": 158,
+        "value": "Deuteronomy Rabbah, 9:9& 11:10",
+        "order": "125.00000000000000000000"
+      },
+      {
+        "id": 159,
+        "value": "Deuteronomy Rabbah, 11:6",
+        "order": "126.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_45"
+  },
+  "46": {
+    "id": 46,
+    "order": "20.00000000000000000000",
+    "name": "Song of Songs Zuta",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 160,
+        "value": "Song of Songs Zuta, 1:1",
+        "order": "127.00000000000000000000"
+      },
+      {
+        "id": 161,
+        "value": "Song of Songs Zuta, 3:10",
+        "order": "128.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_46"
+  },
+  "47": {
+    "id": 47,
+    "order": "21.00000000000000000000",
+    "name": "Ruth Zuta",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 162,
+        "value": "Ruth Zuta, 3:18",
+        "order": "129.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_47"
+  },
+  "48": {
+    "id": 48,
+    "order": "22.00000000000000000000",
+    "name": "Lamentations Zuta",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 163,
+        "value": "Lamentations Zuta, 1:14 [version A+B]",
+        "order": "130.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_48"
+  },
+  "49": {
+    "id": 49,
+    "order": "23.00000000000000000000",
+    "name": "Pitron Torah",
+    "info_about_text": "",
+    "mentions": [
+      {
+        "id": 273,
+        "value": "Pitron Torah, Vayikra",
+        "order": "239.00000000000000000000"
+      },
+      {
+        "id": 274,
+        "value": "Pitron Torah, Vayehi",
+        "order": "240.00000000000000000000"
+      },
+      {
+        "id": 275,
+        "value": "Pitron Torah, Vayedaber",
+        "order": "241.00000000000000000000"
+      },
+      {
+        "id": 276,
+        "value": "Pitron Torah, Shelach Lecha",
+        "order": "242.00000000000000000000"
+      },
+      {
+        "id": 277,
+        "value": "Pitron Torah, Korach",
+        "order": "243.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_49"
   }
 }

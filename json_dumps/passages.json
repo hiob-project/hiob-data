@@ -511,7 +511,7 @@
     "mention": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 7:8 &1"
+        "value": "Ecclesiastes Rabbah, 7:19 & 8:1"
       }
     ],
     "hiob_id": "hiob_mention_44",
@@ -522,7 +522,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "7:8 &1",
+    "passages": "7:19 & 8:1",
     "verses": [
       {
         "id": 36,
@@ -532,7 +532,13 @@
     ],
     "quote": "",
     "abstract": "",
-    "decontextualized_reception": [],
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -627,13 +633,40 @@
         "id": 13,
         "value": "42:10",
         "order": "13.00000000000000000000"
+      },
+      {
+        "id": 202,
+        "value": "15:10",
+        "order": "180.00000000000000000000"
+      },
+      {
+        "id": 336,
+        "value": "30:1",
+        "order": "314.00000000000000000000"
+      },
+      {
+        "id": 375,
+        "value": "33:27",
+        "order": "353.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
+    "quote": "ילמדנו רבינו אם היתה קטטה בין אדם לחבירו כיצד מתכפר לו ביום הכפורים, כך שנו רבותינו (לשון המשנה) עבירות שבין אדם למקום יום הכיפורים מכפר, עבירות שבינו לבין חבירו אין יום הכיפורים מכפר עד שירצה את חבירו (יומא פ\"ח מ\"ט), ואם הלך לרצותו ולא קיבל עליו מה יעשה, אמר רבי שמואל בר נחמן יביא עשרה בני אדם ויעמידם שורה ויאמר לפניהם קטטה הייתה ביני ובין פלוני וביקשתי ממנו לפייסו ולא רצה לקבל אלא הרי [הוא] בסרבנו נעניתי לו, ומניין, שכן הוא אומר ישור על אנשים [ויאמר חטאתי וישר העויתי] וגו' (איוב ל\"ג כ\"ז) והקדוש ברוך הוא רואה שמשפיל עצמו ומכפר לעונותיו, שכל זמן שאדם בזדונו אין נמחלים לו, רצונך לידע, כל זמן שהיה איוב עומד כנגד חביריו וחביריו כנגדו הייתה מידת הדין מתוחה, כך אנו מוצאים שאיוב אמר להם ועתה שחקו עלי צעירים ממני לימים (שם /איוב/ ל' א') והם אומרין לו גם שב גם ישיש בנו (שם /איוב/ ט\"ו י'), כשנרצה להם ובקש רחמים עליהם אותה שעה שב עליו הקדוש ברוך הוא שנאמר וה' שב את שבות איוב (שם /איוב/ מ\"ב י') אימתי בהתפללו בעד רעהו (שם /איוב מ\"ב/) וכן הוא אומר ונתן לך רחמים ורחמך (דברים י\"ג י\"ח), אמר רבי יוסי בן דורמסקית סימן זה יהא בידך, כל זמן שאתה מרחם על חבירך המקום מרחם (עליכם) [עליך], אברהם מפני (מה קנה) [שבקש] רחמים על אבימלך ונתפלל בעדו מיד נטל שכרו שנ' ויתפלל אברהם [אל האלהים] וירפא אלהים את אבימלך ואת אשתו (בראשית כ' י\"ז), ומה שכר נטל, שנפקדה אשתו וילדה לו בן שנאמר וה' פקד את שרה [כאשר אמר] ויעש ה' לשרה כאשר דבר (שם /בראשית/ כ\"א א').",
+    "abstract": "Job was restored when he asked for mercy for his companions who had wronged him, setting a precedent for Yom Kippur.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
+    "narrative_reception": [
+      {
+        "id": 22324,
+        "value": "Job's Restoration",
+        "color": "gray"
+      }
+    ],
+    "points_of_note": "Midrash Harninu. // Num. Rab. II 19:23",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -662,11 +695,17 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
+    "quote": "כג [כא, ז] ויבא העם אל משה ויאמרו חטאנו, ידעו שדברו במשה ונשתטחו לפניו ואמרו התפלל אל ה' ויסר מעלינו וגו' נחש יחיד היה ויתפלל להודיעך ענותנותו של משה שלא נשתהה לבקש עליהם רחמים ולהודיעך כח התשובה כיון שאמרו חטאנו מיד נתרצה להם שאין המוחל נעשה אכזרי וכן הוא אומר (בראשית כ) ויתפלל אברהם אל האלהים וירפא אלהים וכן הוא אומר (איוב מב) וה' שב את שבות איוב בהתפללו בעד רעהו, ומנין שאם סרח אדם לחבירו ואמר לו חטאתי שנקרא חוטא אם אינו מוחל לו שנא' (שמואל א יב) גם אנכי חלילה לי מחטוא לה' מחדול להתפלל בעדכם אימתי כשבאו ואמרו חטאנו שנא' (שם /שמואל א'/ יב) (ויאמרו כל העם אל שמואל התפלל בעד עבדיך וגו' כי יספנו על כל חטאתינו) ויאמר העם אל שמואל חטאנו כי עברנו את פי ה' ואת דבריך השיב חלילה לי מחטא לה', ויאמר אל משה עשה לך שרף והיה כל הנשוך לא נשוך נחש בלבד אלא אמר כל הנשוך אפילו נשוך מפתן ועקרב וחיה רעה וכלב, ויעש משה נחש נחושת וישימהו על הנס זרקו לאויר ועמ",
+    "abstract": "Job example of the importance of seeking forgiveness for others.",
     "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
+    "narrative_reception": [
+      {
+        "id": 22324,
+        "value": "Job's Restoration",
+        "color": "gray"
+      }
+    ],
+    "points_of_note": "// Pesiq. Rab. 38",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -695,11 +734,23 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
+    "quote": "ג ד\"א אם כסף תלוה את עמי, הה\"ד (קהלת ה) יש רעה חולה ראיתי תחת השמש עושר שמור לבעליו לרעתו ואבד העושר ההוא בענין רע, אשרי אדם שהוא עומד בנסיונו שאין בריה שאין הקב\"ה מנסה אותה, העשיר מנסהו אם תהא ידו פתוחה לעניים, ומנסה העני אם יכול לקבל יסורין ואינו כועס שנאמר (ישעיה נח) ועניים מרודים תביא בית, ואם עמד העשיר בנסיונו ועושה צדקות הרי הוא אוכל ממונו בעוה\"ז והקרן קיימת לו לעולם הבא והקב\"ה מצילו מדינה של גיהנם, שנאמר (תהלים מא) אשרי משכיל אל דל ביום רעה ימלטהו ה', ואם עמד העני בנסיונו ואינו מבעט הרי הוא נוטל כפלים לע\"ל שנאמר (שם /תהלים/ יח) כי אתה עם עני תושיע, ממי אתה למד מאיוב שנתייסר בעוה\"ז ושלם לו הקב\"ה כפלים שנאמר (איוב מב) ויוסף ה' את כל אשר לאיוב למשנה, אבל העשיר שעינו רעה הולך הוא וממונו מן העוה\"ז שנא' (קהלת ה) ואבד העושר ההוא בענין רע שעינו רעה כנגד גבאי צדקה למה שגלגל הוא בעולם לא מי שהוא עשיר היום עשיר למחר ומי שהוא עני היום עני למחר, אלא לזה מוריד ולזה מעלה שנאמר (תהלים עה) כי אלהים שופט זה ישפיל וזה ירים, בא וראה יש עושר שהוא עושה רע לבעליו ויש עושר שעושה טוב לבעליו, עושה רע לבעליו זה עשרו של קרח שהוא היה עשיר מכל ישראל וכתיב (במדבר טז) וירדו הם וכל אשר להם חיים שאולה, ד\"א זה עשרו של המן הרשע שנאמר (אסתר ה) ויספר להם המן את כבוד עשרו, וכתיב ותלו אותו ואת בניו על העץ, ושהוא טוב לבעליו זה עשרו של יהושפט שנא' (ד\"ה =דברי הימים= ב יח) ויהי ליהושפט עשר וכבוד לרב, ומה היה לו ויצעק יהושפט וה' עזרו, ויש גבורה שהיא טובה לבעליה ויש שהיא רעה לבעליה, טובה לבעליה זה דוד שכתוב (ש\"א =שמואל א'= יח) הכה שאול באלפיו ודוד ברבבותיו, ומשם אהבוהו כל ישראל שנאמר (שם /שמואל א' י\"ח/) וכל ישראל ויהודה אוהב את דוד, רעה לבעליה זו גבורתו של גלית שהיה עומד ומחרף ומה היה לו שמת ככלב שנאמר (שם /שמואל א'/ יז) ויראו הפלשתים כי מת גבורם וינוסו, ויש חכמה טובה לבעליה ויש רעה לבעליה, טובה לבעליה, זה יהושע שנאמר (דברים לד) ויהושע בן נון מלא רוח חכמה למה הוא דומה לגיפיון שמשקה כל המדינה והכל משבחין אותו אמר להם אחד שבחו למעין שמספיק לזה, כך היו משבחים ליהושע שהיה משקה כל ישראל מחכמתו אמר להם שבחו למשה שכך העמיד שנאמר (שם /דברים ל\"ד/) כי סמך משה את ידיו עליו, רעה לבעליה, זה בלעם שנא' (במדבר כד) נאם שומע אמרי אל, ומה היה לו (שם /במדבר/ לא) ואת בלעם בן בעור הרגו בחרב לכך נאמר עושר שמור לבעליו לרעתו.",
+    "abstract": "Job is an example of the poor who endured suffering and was rewarded with double the property.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
+    "narrative_reception": [
+      {
+        "id": 22324,
+        "value": "Job's Restoration",
+        "color": "gray"
+      }
+    ],
+    "points_of_note": "It doesn’t suggest that Job is the rich, generous type like in TesJ and ARN. Controversial?",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -909,11 +960,17 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "ח, ב פרעה היה אחד מד' בני אדם שעשו עצמן אלוהות והרעו לעצמן: חירם, נבוכדנאצר ופרעה ויואש מלך יהודה. חירם מנין? שנאמר: בן אדם אמר לנגיד צר [... יען גבה לבך] ותאמר אל אני (יחזקאל כח). ומנין ששיחת לנפשו? שנאמר: גבה לבך ביפיך שחת חכמתך על יפעתך על ארץ השלכתיך לפני מלכים נתתיך לראוה בך (שם /יחזקאל כ\"ח/). נבוכדנאצר עשה עצמו אלוה, כדכתיב: [אעלה] על במתי עב אדמה לעליון (ישעיהו יד). אמר לו הקב\"ה: רשע, אך אל שאול תורד אל ירכתי בור (שם /ישעיהו י\"ד/). מה עשה לו הקב\"ה? הגלהו למדבר עד שהוא במלכותו והאכילהו עשב כבהמות, שנאמר: עשבא כתורין לך יטעמון (דניאל ד). והיו הבהמות והחיות רואין אותו כדמות נקבה, שנאמר: ושד בהמות יחיתן (חבקוק ב), כענין שנאמר: לא תתחתן בם (דברים ז), ועל כל זאת - ולבב אנש יהיב לה (דניאל ז), דכתיב: ולקצת יומיא אנה נבוכדנצר עיני לשמיא נטלת ומנדעי עלי יתוב (שם /דניאל/ ד). פרעה עשה עצמו אלוה, דכתיב: לי יארי ואני עשיתני (יחזקאל כט). מסרו הקב\"ה ביד אויביו, שנאמר: הנני נתן את פרעה חפרע מלך [מצרים ביד איביו] (ירמיהו מד). מאי חפרע? כענין שנאמר: ופרע את ראש האשה (במדבר ה), וכתיב: ביום ההוא יהיה מצרים כנשים (ישעיהו יט). יואש מנין שעשה עצמו אלוה? כדכתיב: ואחרי מות יהוידע באו שרי יהודה וישתחוו למלך אז שמע המלך אליהם (דה\"ב =דברי הימים ב'= כד). מהו וישתחוו למלך? שעשו ממנו אלוה. אמרו לו: אילולי שאתה אלוה, לא יצאת לאחר שבע שנים מבית קדשי הקדשים. אמר להם: כך הוא, וקבל על עצמו ליעשות אלוה והשחית לנפשו, שנאמר: ויהי לתקופת השנה עלה עליו חיל ארם (שם /דברי הימים ב' כ\"ד/), ואת יואש עשו שפטים (שם /דברי הימים ב' כ\"ד/). אל תקרי שפטים אלא שפוטים, וכתיב: ובלכתם ממנו כי עזבו אתו במחליים רבים [...] וימת [...] ולא קברהו בקברות המלכים (שם /דברי הימים ב' כ\"ד/). ומי גרם לפרעה? על שאמר: לי יארי ואני עשיתני. לפיכך אמר הקב\"ה למשה: ראה נתתיך אלהים לפרעה (/שמות/ ז'). כי גבה מעל גבה שמר וגבהים עליהם (קהלת ה). לך ועשה מי שעשה עצמו אלוה שחץ בעולם, על שהגביה עצמו, שנאמר: את כל גבה יראה הוא מלך על כל בני שחץ (איוב מא). וכי גבוה יראה ושפל ממנו אינו רואה? והכתיב: עיני ה' המה משוטטים בכל הארץ (זכריה ד)? אלא אמר ר' ברכיה: אלו הגוותנין העושין עצמן אלוהות והקב\"ה עושה מהם שחצים בעולם, כגון נבוכדנאצר, שנאמר: ומן בני אנשא טריד (דניאל ה), וכן סנחריב נתגאה ונעשה שחץ בעולם, שנאמר: ויהי בלילה [ההוא] ויצא מלאך ה' ויך במחנה אשור (מל\"ב =מלכים ב'= יט), לכך - את כל גבה יראה, שהקב\"ה מראה שחץ של גיוותנין לכל הבריות. אמר ר' ברכיה: אם יסתר איש במסתרים ואני לא אראנו נאם ה' (ירמיהו כג). אמר ר' בנימין בר' לוי: ישב אדם בזוית ויעסוק בתורה, אני מראהו לבריות, ואם יטמין אדם עצמו לעבודה זרה - מנין שאני מראהו לבריות? שנאמר: אם יסתר איש במסתרים ואני לא אראנו נאם ה'. אמר ר' חמא בר חנינא: אני ממלא הימנו העליונים והתחתונים ומראה שחץ לבריות. לפיכך",
+    "abstract": "God punished those who made themselves false gods, and so Moses was made to appear like a god to Pharaoh.",
+    "decontextualized_reception": [
+      {
+        "id": 22311,
+        "value": "Exodus",
+        "color": "light-orange"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "// Midr. Ps.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -1074,11 +1131,28 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
+    "quote": "ד\"א וירם מאגג מלכו, אילו רשעים גמורין שבישראל, שמכניסין יגון ואנחה בלבבן בשעת מיתתן בשביל מעשים שעשו, וחזרו ועשו תשובה ומיתין מתוך התשובה, אילו ואילו בני העולם הבא. \n העטופים ברעב בראש כל חוצות (איכה שם /ב'/), אמרו, כשירד משה מהר סיני וראה את הסירוחין שסרחו ישראל במעשיהן, נסתכל בהן בלוחות וראה שפרח כתבן מעליהן, שיברן תחת ההר, ומיד (נתעלם) [נתאלם], שוב לא היה יכול להשיב דבר, באותה שעה נגזרה גזירה על ישראל שילמד אותן מתוך הצער ומתוך השעבוד, מתוך הטילטול ומתוך הטירוף, מתוך הדחק מתוך שאין להם מזונות, בשכר אותו הצער שנצטערו עתיד הקב\"ה לשלם שכרן לישראל לימות המשיח כפול ומכופל, שנאמר הנה ה' אלהים בחזק יבא וזרועו מושלה לו וגו' (ישעיה מ' י'), מי הקדימני ואשלם (איוב מ\"א ג'), לטובתי נשברה רגל פרתי כדי שתהא משכורתי שלימה, וכן אהרן אומר, אילמלי קרח לא עמד עלי, אותו ברית מנין לי, שנאמר זכרון לבני ישראל למען אשר לא יקרב איש זר (במדבר י\"ז ה'), לכך (נאמר) [אמר] לטובתי נשברה רגל פרתי כדי שתהא משכורתי שלימה",
+    "abstract": "The Golden Calf shows that the extra suffering which followed would eventually be rewarded by God. Job here serves as a hint for an entire Midrash on this, as in Pesiq. Rab. 25:2, supported by a similar oblique reference to the Aba Judan narrative.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      },
+      {
+        "id": 22311,
+        "value": "Exodus",
+        "color": "light-orange"
+      }
+    ],
+    "narrative_reception": [
+      {
+        "id": 22324,
+        "value": "Job's Restoration",
+        "color": "gray"
+      }
+    ],
+    "points_of_note": "// SEliZ 4",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -1111,7 +1185,7 @@
     "abstract": "",
     "decontextualized_reception": [],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "// SeliR 19",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -1305,11 +1379,17 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "עשר תעשר כך פתח רבי תנחומא בי רבי זש\"ה כבד ה' מהוניך [ומראשית כל תבואתך] (משלי ג' ט'), אמר הקדוש ברוך הוא לא אמרתי לך כבדני משלך אלא משלי, כבד ה' ממה שחננך מהוניך, בן ביתי אתה, אם נתתי לך ויש [לי] בידך, תן לי משלי, וכן הוא אומר מי הקדימני ואשלם (איוב מ\"א ג'), מי מל לשמי את [בנו] שלא אני הקדמתי ונתתי לו בן, מי עשה לי מזוזה ומעקה שלא אני הקדמתי ונתתי לו בית, מי מפריש בכורות וראשית הגז שלא אני הקדמתי ונתתי לו צאן, מי עשה טלית וציצית שלא הקדמתי ונתתי לו (חכמה) [מכסה], מי אמר לי שירה עד שלא עשיתי לו נסים, שלא תאמר מרבה עלינו מצות הוא, אמר הקדוש ברוך הוא לא בקשתי משלכם אלא משלי בקשתי, אמרתי לך שתביא לי קרבן, שלא תאמר משלך בקשתי ראה מה כתבתי לך שור או כשב או עז (ויקרא כ\"ב כ\"ז), אימתי אתה מביאו קרבן משאתן לך כי יולד (שם /ויקרא כ\"ב/), כך אמרתי לך עשר תעשר, שלא תאמר שמא משלך בקשתי ראה מה כתבתי לך עשר תעשר את כל תבואת זרעך, אימתי כשאתן לך ראשון היוצא השדה שנה שנה, הוי אם כבדתם את הקדוש ברוך הוא במצוה שנתן לך, אין אתה מכבדו משלך אלא משלו, כבד את ה' מהונך ממה שחננך, נתן לך בן מול אותו, נתן לך בית עשה מזוזה ומעקה, נתן לך חצר עשה סוכה, נתן לך צאן הפרש בכורות וראשית הגז, נתן לך בהמה לא תחטא בהם אלא עשה מצות שלא תחרוש בשור וחמור ולא תרביע כלאים, נתן לך כסף וזהב עשה בהם מצות, עשר תעשר את כל מהו את כל אפילו ממונך...",
+    "abstract": "In Job, God says that He asks to be honored with what He has already given you.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "// Midr. Ps. and more",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -1419,7 +1499,7 @@
     "abstract": "",
     "decontextualized_reception": [],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Addition?",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -1574,9 +1654,15 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "יג אשירה לה' כי גאה גאה, הה\"ד (איוב מ) עדה נא גאון וגבה, הכל מתגאין זה על זה חשך מתגאה על התהום שהוא למעלה הימנו, והרוח מתגאה על המים שהוא למעלה הימנו, והאש מתגאה על הרוח שהוא למעלה הימנו, והשמים מתגאים על האש שהם למעלה ממנו והקב\"ה מתגאה על הכל, הוי כי גאה גאה, א\"ר אבין ד' מיני גאים נבראו בעולם, גאה שבבריות אדם, גאה שבעופות נשר, גאה שבבהמות שור, גאה שבחיות ארי, וכולן נטלו מלכות ונתנה להם גדולה והם קבועים תחת המרכבה של הקב\"ה שנאמר (יחזקאל א) ודמות פניהם פני אדם, ופני אריה ופני שור ופני נשר, וכל כך למה כדי שלא יתגאו בעולם וידעו שיש מלכות שמים עליהם, וע\"ז נאמר (קהלת ה) כי גבוה מעל גבוה שומר וגבוהים עליהם, הוי כי גאה גאה.",
+    "abstract": "All feel pride for being above another thing but God has pride over all.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -1607,9 +1693,15 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "דבר אחר: אמר הקב\"ה - כשאני מבקש, אחד מן המלאכים שהוא אחד משלישו של עולם פושט ידו מן השמים ומגעת לארץ, שנאמר: וישלח תבנית יד ויקחני בציצת ראשי (שם /יחזקאל/ ח), וכשבקשתי - שלש מהם עשיתים יושבים תחת האילן, שנאמר: והשענו תחת העץ (/בראשית/ יח). כשאני מבקש - כבודי מלא עולם, שנאמר: הלא את השמים ואת הארץ אני מלא (ירמיהו כג), וכשבקשתי - [ויען ה'] את איוב מן הסערה (איוב לח), וכשאני מבקש - מתוך הסנה (/שמות/ ג').",
+    "abstract": "God can choose to reveal Himself in things that are as grand or as small as He desires.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -3982,7 +4074,7 @@
     "mention": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 19:4"
+        "value": "Midrash Psalms, 9:11"
       }
     ],
     "hiob_id": "hiob_mention_131",
@@ -3993,7 +4085,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "19:4",
+    "passages": "9:11",
     "verses": [
       {
         "id": 243,
@@ -4152,11 +4244,17 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[א] [קיא, א] [הללויה] אודה ה' בכל לבב בסוד ישרים ועדה. זהו שאמר הכתוב והיה על כל הר גבוה (ישעיה ל כה), וכתיב והיה אור הלבנה כאור החמה (שם שם /ישעיהו ל'/ כו) ואימתי ביום הרג רב בנפול מגדלים (שם שם /ישעיהו ל'/ כה), אלו הרשעים שגבוהין כמגדל, ומונעין את האור מלבוא בעולם, וכתיב וימנע מרשעים אורם (איוב לח טו), וכתיב כן יאבדו [כל] אויביך ה' (שופטים ה לא), אותה השעה ואוהביו כצאת השמש בגבורתו (שם שם /שופטים ה'/), ואותה השעה הקב\"ה מרפא שבר עמו, שנאמר ביום חבוש ה' את שבר עמו (ישעיה ל כו) [במה הוא מרפא, שמשפיל הרשעים ביום הרג רב, כמה הם] המונים המונים בעמק החרוץ (יואל ד יד), מהו החרוץ, שכל שנופל שם דינו חרוץ, וכן הוא אומר והיו חללי ה' ביום ההוא מקצה הארץ ועד קצה הארץ (ירמיה כה לג), עד עכשיו אין אנו יודעין כמה הם, עד שבא דוד ואמר ידין בגוים מלא גויות וגו' (תהלים קי ו), נהרות יורדין מדמן של רשעים, והעוף בא לשתות מן הנחל ההוא של דם, שנאמר מנחל בדרך ישתה (שם שם /תהלים ק\"י/ ז), מהו על כן ירים ראש (שם שם /תהלים ק\"י/), בא לשתות והנחל עושה גלים, והגל בא לשוטפו, והוא מרים ראשו, אמר דוד הלל יהודיה אני עתיד ליתן לך, ולכך נאמר הללויה אודה ה' בכל לבב, בכל לב ולא בלב חלוק, בסוד ישרים ועדה, לפי שהקב\"ה מגלה סוד [לישראל, וכן הוא אומר כי לא יעשה ה' אלהים דבר כי אם גלה סודו] אל עבדיו הנביאים (עמוס ג ז), וכן ישראל נקראו נביאים, שנאמר אל תירא עבדי יעקב וישרון בחרתי בו כי אצק מים על צמא [וגו'] אצק רוחי (עליך) [על זרעך וגו'] וצמחו בבין חציר (ישעיה מד ב ג ד), ואין צריכין מי שילמדם, אלא זה יאמר לה' אני וזה יקרא בשם (אלהי) יעקב (שם שם /ישעיהו מ\"ד/ ה), זו הנבואה, שנאמר וקרא (עליה את כל הקריאה הזאת) [אליה את הקריאה אשר אנכי דובר אליך] (יונה ג ב), ומי גרם להם סוד שגיליתי להם, לכך נאמר בסוד ישרים ועדה.",
+    "abstract": "The wicked block the eschatological light, but they will be destroyed.",
+    "decontextualized_reception": [
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "End of days, instead.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -4185,9 +4283,20 @@
         "order": "402.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ב] [מו, ג] על כן לא נירא בהמיר ארץ. אמרו בני קרח אל תיראו ביום שעתיד הקב\"ה לנער את הארץ, שנאמר לאחוז בכנפות הארץ וינערו רשעים ממנה (איוב לח יג), וכתיב כי הנני בורא (השמים החדשים והארץ החדשה) [שמים חדשים וארץ חדשה] (ישעיה סה יז), והיכן הצדיקים עמדו באותה שעה, יהיו דבוקים בכסא הכבוד תחת כנפי השכינה, שנאמר ואתם הדבקים בה' אלהיכם חיים כלכם היום (דברים ד ד).",
+    "abstract": "Don’t fear the End Times, when the Earth will tremble, for God will shake off the wicked from it.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      },
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4218,9 +4327,20 @@
         "order": "398.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[כג] [כב, י] כי אתה גוחי. כמה דאת אמר בגיחו מרחם יצא (איוב לח ח). מבטיחי על שדי אמי. אמרה אסתר נתעברה אמי מת אבא, ילדה אמי ומתה היא, והבטחתני ונתת לי שדים חילוף שדי אמי, שנאמר ויהי אומן את הדסה (אסתר ב ז), אשתו של מרדכי היתה מינקת את אסתר, ומרדכי היה אומן אותה.",
+    "abstract": "Proof of reading \"you are my midwife\" for a newly born.",
+    "decontextualized_reception": [
+      {
+        "id": 22313,
+        "value": "Esther",
+        "color": "light-green"
+      },
+      {
+        "id": 22358,
+        "value": "Hapax legomenon",
+        "color": "light-red"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4251,10 +4371,16 @@
         "order": "395.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
+    "quote": "[ח] [קג, ה] המשביע בטוב עדיך. ר' יוחנן פתר קרא בסיני, בשעה שקבלו ישראל את התורה ירדו ששים ריבוא של מלאכי השרת ונתנו עטרות בראשיהון. ר' אבא בר כהנא בשם ר' יוחנן אמר מאה ועשרים ריבוא, והי' אחד נותן עטרה בראשו, ואחד חוגרו זיין. ר' יודן אומר הלבישן פורפיראות, שנאמר ואלבשך רקמה (יחזקאל טז י). ר' הונא דציפורין אמר זוניאות חגרו, שנאמר ואחבשך בשש (שם שם /יחזקאל ט\"ז/), ר' שמעון [בן יוחאי] אומר כלי זיין נתן להם ושם המפורש כתוב עליו, הוי המשביע בטוב עדיך. [המשביע בטוב עדיך תתחדש כנשר נעוריכי]. ר' יודן פתר באיוב (אזור) [אזר] נא כגבר חלציך (איוב לח ג), כאדם שישב באשפה ומנער עצמו, כך איוב מנער את עצמו מן הייסורין",
+    "abstract": "God's answer had already called Job to shake off his suffering.",
     "decontextualized_reception": [],
-    "narrative_reception": [],
+    "narrative_reception": [
+      {
+        "id": 22324,
+        "value": "Job's Restoration",
+        "color": "gray"
+      }
+    ],
     "points_of_note": "",
     "quotation_and_speakers": [],
     "classic_parallels": ""
@@ -4284,9 +4410,15 @@
         "order": "395.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[לא] [יח, לח] ארדוף אויבי ואשיגם. בגדוד עמלק, שנאמר (הארדף) [ארדף] אחרי הגדוד הזה האשיגנו (ש\"א =שמואל א'= ל ח). ולא אשוב עד כלותם. שנאמר ויכם דוד מהנשף ועד הערב למחרתם (שם שם /שמואל א' ל'/ יז). אמחצם ולא יוכלו קום. מכת מחיצה. ותאזרני חיל למלחמה. בשביל שתחלת בריתו לחייל, לפיכך תכריע קמי תחתי. כתוב אחד אומר ותזרני חיל (ש\"ב =שמואל ב'= כב מ), לשון זר זהב (שמות כה כד), רמז למלכות, וכתוב אחד אומר ותאזרני חיל למלחמה (תהלים יח מ), רמז לגבורה, שנאמר אזר נא כגבר חלציך (איוב לח ג).",
+    "abstract": "Resolves spelling contradictions by using a verse from Job as part of a dual reading of the same word, in this case, heroism.",
+    "decontextualized_reception": [
+      {
+        "id": 22358,
+        "value": "Hapax legomenon",
+        "color": "light-red"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4350,9 +4482,15 @@
         "order": "389.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[א] [נ, א] מזמור לאסף אל אלהים ה' דבר ויקרא ארץ. שאלו המינין את ר' שמלאי מהו דכתיב אל אלהים ה' דבר, אמר להן דברו ויקראו אין כתיב כאן, אלא דבר ויקרא, אמרו לו תלמידיו רבינו לאלו דחית בקנה הרצוץ, אבל לנו מה אתה משיב, אמר להם שלשתן שם אחד, כאינש דאמר אומנון בניין ארכיטקטינן. ולמה הזכיר כאן שמו של הקב\"ה שלש פעמים, מלמד שבשלשה שמות ברא הקב\"ה את עולמו, כנגד שלש מדות טובות שבהן נברא העולם, בחכמה ובתכונה ובדעת, שנאמר ה' בחכמה יסד ארץ כונן שמים בתבונה בדעתו תהומות נבקעו (משלי ג יט כ), וכנגדן נבנה אהל מועד ומשכן, שנאמר ואמלא אותו רוח אלהים בחכמה ובתבונה ובדעת (שמות לא ג), כיוצא בדבר כי ה' אלהיך אש אוכלה [הוא אל קנא] (דברים ד כד), וכן בני גד אמרו אל אלהים ה' [אל אלהים ה'] הוא יודע (יהושע כב כב), מה ראו להזכיר השם שני פעמים [אל אלהים ה'], כנגד ג' שבהן נקרא העולם, אל אלהים ה' שבהן נתנה תורה, שנאמר אנכי ה' אלהיך אל קנא (דברים ה ט), לכך נאמר אל אלהים ה' דבר ויקרא ארץ, יכול אחד לעצמו ואחד לעצמו נברא, לא נבראו אלא שניהם יחד. שנאמר אף ידי יסדה ארץ וימיני טפחה שמים קורא אני אליהם יעמדו יחדו (ישעיה מח יג), (הוי) ממזרח שמש עד מבואו, בשר ודם כשהוא צר צורה הוא מתחיל בראשו וגומר ברגלו, או מתחיל ברגלו וגומר בראשו, אבל הקב\"ה אינו כן, אלא כשהוא צר את האדם צר אותו בבת אחת, וכן הוא אומר כי יוצר הכל הוא (ירמיה י טז), הוי ממזרח שמש עד מבואו. ומניין בראו מציון, שנאמר מציון מכלל יופי, מכלל יופיו של עולם, מהו הופיע האיר, ואין הופיע אלא אורה, שנאמר והופיע אור עננו (איוב לז טו). ומניין שבעולם הוא מדבר, נאמר כאן מכלל, ונאמר להלן ויכולו השמים והארץ וכל צבאם (בראשית ב א), וכשסתרו מציון מתחיל, שנאמר ונתתי את ירושלים לגלים (ירמיה ט י), ואחר כך שממה תהיה כל הארץ (שם /ירמיהו/ ד כז), ואומר והיתה הארץ לשממה על יושביה (מיכה ז יג), ובזמן שיחדש הקב\"ה את עולמו, מציון מחדשו, שנאמר נכון יהיה הר בית ה' בראש ההרים (ישעיה ב ב).",
+    "abstract": "The verse shows that light was present at the creation of man and the world, and it will also be there in their restoration.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4410,15 +4548,37 @@
   "144": {
     "id": 144,
     "order": "111.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 44,
+        "value": "Deuteronomy Rabbah [Lieberman], Devarim [2:4]"
+      }
+    ],
     "hiob_id": "hiob_mention_144",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 44,
+        "value": "Deuteronomy Rabbah [Lieberman]",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "passages": "Devarim [2:4]",
     "verses": [],
     "quote": "",
     "abstract": "",
     "decontextualized_reception": [],
-    "narrative_reception": [],
+    "narrative_reception": [
+      {
+        "id": 23364,
+        "value": "The Companions",
+        "color": "darker-pink"
+      },
+      {
+        "id": 22323,
+        "value": "Job's Suffering",
+        "color": "darker-pink"
+      }
+    ],
     "points_of_note": "",
     "quotation_and_speakers": [],
     "classic_parallels": ""
@@ -4426,14 +4586,31 @@
   "145": {
     "id": 145,
     "order": "112.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 44,
+        "value": "Deuteronomy Rabbah [Lieberman], Va'tchanan"
+      }
+    ],
     "hiob_id": "hiob_mention_145",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 44,
+        "value": "Deuteronomy Rabbah [Lieberman]",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "passages": "Va'tchanan",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Death of Moses. Not in the other version.",
+    "decontextualized_reception": [
+      {
+        "id": 22366,
+        "value": "Moses narrative",
+        "color": "dark-brown"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4442,30 +4619,64 @@
   "146": {
     "id": 146,
     "order": "113.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 44,
+        "value": "Deuteronomy Rabbah [Lieberman], Eikav"
+      }
+    ],
     "hiob_id": "hiob_mention_146",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 44,
+        "value": "Deuteronomy Rabbah [Lieberman]",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "passages": "Eikav",
     "verses": [],
     "quote": "",
-    "abstract": "",
+    "abstract": "Job was almost like one of the patriarchs.",
     "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
+    "narrative_reception": [
+      {
+        "id": 23368,
+        "value": "Job's Faith",
+        "color": "darker-green"
+      }
+    ],
+    "points_of_note": "// Pesiqta Rabbati, partial",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
   "147": {
     "id": 147,
     "order": "114.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 44,
+        "value": "Deuteronomy Rabbah [Lieberman], Nitzavim"
+      }
+    ],
     "hiob_id": "hiob_mention_147",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 44,
+        "value": "Deuteronomy Rabbah [Lieberman]",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "passages": "Nitzavim",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Sinai revelation.",
+    "decontextualized_reception": [
+      {
+        "id": 22311,
+        "value": "Exodus",
+        "color": "light-orange"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4474,14 +4685,31 @@
   "148": {
     "id": 148,
     "order": "115.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 44,
+        "value": "Deuteronomy Rabbah [Lieberman], Vayelekh"
+      }
+    ],
     "hiob_id": "hiob_mention_148",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 44,
+        "value": "Deuteronomy Rabbah [Lieberman]",
+        "order": "18.00000000000000000000"
+      }
+    ],
+    "passages": "Vayelekh",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "The study of embryos.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4490,15 +4718,38 @@
   "149": {
     "id": 149,
     "order": "116.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah, 2:4"
+      }
+    ],
     "hiob_id": "hiob_mention_149",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "passages": "2:4",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
-    "narrative_reception": [],
+    "abstract": "Job seemed to utter nothing but rebukes, despite being the most righteous among the nations.",
+    "decontextualized_reception": [
+      {
+        "id": 22389,
+        "value": "Praises for the Jews",
+        "color": "darker-red"
+      }
+    ],
+    "narrative_reception": [
+      {
+        "id": 22323,
+        "value": "Job's Suffering",
+        "color": "darker-pink"
+      }
+    ],
     "points_of_note": "",
     "quotation_and_speakers": [],
     "classic_parallels": ""
@@ -4506,94 +4757,196 @@
   "150": {
     "id": 150,
     "order": "117.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah, 2:37"
+      }
+    ],
     "hiob_id": "hiob_mention_150",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "passages": "2:37",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "List of Israel as wife of God.",
+    "decontextualized_reception": [
+      {
+        "id": 22389,
+        "value": "Praises for the Jews",
+        "color": "darker-red"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Clothing emphasis.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
   "151": {
     "id": 151,
     "order": "118.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah, 5:4"
+      }
+    ],
     "hiob_id": "hiob_mention_151",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "passages": "5:4",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Hands of God.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "/ / Eccles. Rab. 3:1 [16]",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
   "152": {
     "id": 152,
     "order": "119.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah, 5:9"
+      }
+    ],
     "hiob_id": "hiob_mention_152",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "passages": "5:9",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Kings as inferior to God.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Classical theme. Mekhilta, Bavli, and more.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
   "153": {
     "id": 153,
     "order": "120.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah, 5:12"
+      }
+    ],
     "hiob_id": "hiob_mention_153",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "passages": "5:12",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Merit of peace vs sun and stars.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "/ / Bavli",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
   "154": {
     "id": 154,
     "order": "121.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah, 5:13"
+      }
+    ],
     "hiob_id": "hiob_mention_154",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "passages": "5:13",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Golden calf episode.",
+    "decontextualized_reception": [
+      {
+        "id": 22311,
+        "value": "Exodus",
+        "color": "light-orange"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Diffrent than Bavli.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
   "155": {
     "id": 155,
     "order": "122.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah, 5:15"
+      }
+    ],
     "hiob_id": "hiob_mention_155",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "passages": "5:15",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "God does not kill idolaters and merit of peace.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4602,30 +4955,64 @@
   "156": {
     "id": 156,
     "order": "123.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah, 7:3"
+      }
+    ],
     "hiob_id": "hiob_mention_156",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "passages": "7:3",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Torah compared to Aher.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Part of a known web of sources on Elisha. // Eccles. Rab.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
   "157": {
     "id": 157,
     "order": "124.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah, 8, 2&7"
+      }
+    ],
     "hiob_id": "hiob_mention_157",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "passages": "8, 2&7",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Merit of Torah.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4634,14 +5021,31 @@
   "158": {
     "id": 158,
     "order": "125.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah, 9:9& 11:10"
+      }
+    ],
     "hiob_id": "hiob_mention_158",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "passages": "9:9& 11:10",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Versions of Death of Moses",
+    "decontextualized_reception": [
+      {
+        "id": 22366,
+        "value": "Moses narrative",
+        "color": "dark-brown"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4650,30 +5054,69 @@
   "159": {
     "id": 159,
     "order": "126.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah, 11:6"
+      }
+    ],
     "hiob_id": "hiob_mention_159",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 45,
+        "value": "Deuteronomy Rabbah",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "passages": "11:6",
     "verses": [],
     "quote": "",
-    "abstract": "",
+    "abstract": "Merit of fear of God.",
     "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
+    "narrative_reception": [
+      {
+        "id": 23368,
+        "value": "Job's Faith",
+        "color": "darker-green"
+      }
+    ],
+    "points_of_note": "Part of a debate dating back to the Tannaim, possibly with developments in the TY literature, like this.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
   "160": {
     "id": 160,
     "order": "127.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 46,
+        "value": "Song of Songs Zuta, 1:1"
+      }
+    ],
     "hiob_id": "hiob_mention_160",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 46,
+        "value": "Song of Songs Zuta",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "passages": "1:1",
     "verses": [],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[א] שיר השירים. רבי נתן אומר מלאכי השרת אמרו אותה, שנאמר שיר השירים, המשוררים לפני הקב\"ה מלך מלכי המלכים ואומרים ק' ק' ק' =קדוש קדוש קדוש=. רבן גמליאל אומר הקב\"ה אמרה שנאמר שיר השירים, השיר הנבחר מכל השירים ואמרוה האבות והצדיקים והנביאים ומלאכי השרת, מי אמרה, מי שהשלום שלו (בנוהג) [ונוהג] שלום (על) [עם] כל בריות, החמה זורחת על הצדיקים ועל הרשעים ועושה שלום בין מלאכיו, שכן הוא אומר עושה שלום במרומיו (איוב כ\"ה ג') הברקים שטחין מתוך המים והמים אינם מכבין אישן של ברקים והברקים אין שורפים את המים, הרקיע של מים, החמה והלבנה והכוכבים והמזלות של אש רצים ומהלכים ואינם מזיקים זה את זה, ואתה מוצא (במרכבות) [במכותיו של] פרעה [ברד] ואש מתלקחת בתוך הברד, (שמות ט' כ\"ד), שהיו מעורבים שניהם כאחד ולא היו מזיקים זה לזה, וכן בהר סיני ברד וגחלי אש (תהלים י\"ח י\"ג). בארץ אי אפשר לשור לראות את הארי, שהרי שונא, לשור, אבל במרום השור והארי שניהם במרכבה ושלום ביניהם ואוהבים זה לזה, שנאמר ופניהם איש אל אחיו (שמות כ\"ה כ'), שהיו נוהגים אהבה ורעות, שנאמר עושה שלום במרומיו (איוב כ\"ה ב') . רבי אומר מי שהשלים לבנים מה שקיים לאבות שאומר כי גר יהיה זרעך וגו' [וגם את הגוי אשר יעבודו דן אנכי] (בראשית ט\"ו י\"ג י\"ד) בשתי אותיות קיים לו שהוא גואלם ובשבעים [אותיות] גאלם, שנאמר במסות באותות ובמפותים /ובמופתים/ ובמלחמה וגו' (דברים ד' ל\"ד), כנגד שבעים שירדו עם יעקב למצרים, ובשבעים שנתנו לו כנגד שבעים לשונות, שנאמר יצב גבולות עמים למספר בני ישראל (שם /דברים/ ל\"ב ח'), כנגדן נקראו לישראל שבעים שמות ולירושלים שבעים ולתורה שבעים, כנגד שבעים שמות שנקראו להקב\"ה.",
+    "abstract": "Gods keeps the peace between angles of diffrent nature.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      },
+      {
+        "id": 23367,
+        "value": "Angels",
+        "color": "dark-brown"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4682,31 +5125,65 @@
   "161": {
     "id": 161,
     "order": "128.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 46,
+        "value": "Song of Songs Zuta, 3:10"
+      }
+    ],
     "hiob_id": "hiob_mention_161",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 46,
+        "value": "Song of Songs Zuta",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "passages": "3:10",
     "verses": [],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "תוכו רצוף אהבה. אלו נפשות של צדיקים, שהן נתונות עמו במרום. שלשה הם שנכנסו זה לפנים מזה, ומשה נגש אל הערפל (שמות כ' י\"ח). לפנים ממנו צדק ומשפט שנאמר צדק ומשפט מכון כסאך (תהלים פ\"ט ט\"ו). ולפנים ממנו נפשות הצדיקים, שנאמר אשר בידו נפש כל חי וגו' (איוב י\"ב י') , ואומר והיתה נפש אדוני צרורה בצרור החיים את ה' אלהיך (שמ\"א =שמואל א'= כ\"ה כ\"ט).\n רצוף אהבה. נפשות הצדיקים שאהבו את הקב\"ה. שנאמר זרע אברהם אוהבי (ישעיה מ\"א ח'). וכן הוא אומר להנחיל אוהבי יש (משלי ח' כ\"א).",
+    "abstract": "God watches over the souls of the righteous in the afterlife.",
+    "decontextualized_reception": [
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "// Midr. Ps.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
   "162": {
     "id": 162,
     "order": "129.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 47,
+        "value": "Ruth Zuta, 3:18"
+      }
+    ],
     "hiob_id": "hiob_mention_162",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 47,
+        "value": "Ruth Zuta",
+        "order": "21.00000000000000000000"
+      }
+    ],
+    "passages": "3:18",
     "verses": [],
-    "quote": "",
-    "abstract": "",
+    "quote": "[יח] ותאמר שבי בתי וגו'. שאין אנו מאנשים שאינם כשרים המדברים דבר וחוזרים בהם, וכן הוא אומר בצדקתי החזקתי ולא (אטה) [ארפה] (איוב כ\"ז ו'), ולפיכך אמרה נעמי לרות כי לא ישקוט האיש וגו'.",
+    "abstract": "Job is an example of a worthy person who stays true to his word.",
     "decontextualized_reception": [],
-    "narrative_reception": [],
+    "narrative_reception": [
+      {
+        "id": 23368,
+        "value": "Job's Faith",
+        "color": "darker-green"
+      }
+    ],
     "points_of_note": "",
     "quotation_and_speakers": [],
     "classic_parallels": ""
@@ -4714,16 +5191,44 @@
   "163": {
     "id": 163,
     "order": "130.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 48,
+        "value": "Lamentations Zuta, 1:14 [version A+B]"
+      }
+    ],
     "hiob_id": "hiob_mention_163",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 48,
+        "value": "Lamentations Zuta",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "passages": "1:14 [version A+B]",
     "verses": [],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
+    "quote": "[יד] כתיב נחמו נחמו עמי (ישעיה מ' א'), למה שני פעמים, רבי אומר לפי שכל מכות שלהן כפולות שכן ירמיה היה אומר שבר על שבר נקרא (ירמיה ד' כ'). בכו תבכה בלילה (איכה א' ב'), עיני עיני יורדה מים (שם שם /איכה א'/ ט\"ז), חטא חטאה ירושלם (שם שם /איכה א'/ ח'), וכל כך למה, לפי שחטאו בכפלים, שנאמר כי שתים רעות עשה עמי (ירמיה ב' י\"ג), וכיון שחטאו בכפלים לקו בכפלים, שנאמר כי לקחה מיד ה' כפלים בכל חטאתיה (ישעיה מ' ב') ולפי שמכותיה כפולות כך נחמותיה כפולות, שנאמר נחמו נחמו עמי (שם /ישעיהו/ מ' א'), עורי עורי (שם /ישעיהו/ נ\"ב א'), קומי אורי כי בא אורך (שם /ישעיהו/ ס'), אנכי אנכי הוא מוחה פשעיך (שם /ישעיהו/ מ\"ג כ\"ה), אנכי אנכי הוא מנחמכם (שם שם /ישעיהו נ\"א/ י\"ב), אנכי אנכי הוא מוחה פשעיך (שם /ישעיהו/ מ\"ג כ\"ה), שוש אשיש בה' (שם /ישעיהו/ ס\"א י'), סולו סולו (שם /ישעיהו/ ס\"ב י'), וכן לכן בארצכם משנה יירשו (שם /ישעיהו/ ס\"א ז'), אמרו לו הכל אתה נותן בכפלים, כי מכת אויב הכיתיך (ירמיה ל' י\"ד), [אמר להם אל תאמרו כן, אלא כי מכת אויב הכיתיך], מה עשיתי לאיוב ויוסף ה' את כל אשר לאיוב למשנה (איוב מ\"ב י') , אמר להם הקב\"ה מה לאיוב הוספתי, לבני על אחת כמה וכמה, לכן בארצכם משנה יירשו (ישעיה ס\"א ז').",
+    "abstract": "Job is a precedent that God will double the fortunes of the Jews in the land.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      },
+      {
+        "id": 22389,
+        "value": "Praises for the Jews",
+        "color": "darker-red"
+      }
+    ],
+    "narrative_reception": [
+      {
+        "id": 22324,
+        "value": "Job's Restoration",
+        "color": "gray"
+      }
+    ],
+    "points_of_note": "// Pesiq. Rab. 26",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -4752,9 +5257,20 @@
         "order": "360.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[יא] [ט, ט] והוא ישפוט תבל בצדק. אמר ר' לוי בשעה שהוא דן את האומות, בלילה דן אותם, בשעה שהן ישנים מן העבירות, שנאמר רגע ימותו וחצות לילה וגו' (איוב לד כ), וישראל דנן ביום, בשעה שהן עסוקים במצות. ר' אלכסנדרי אמר לא קמת מנהון רות רחב צפורה ויתרו. אמר ר' יהושע בן לוי כתוב אחד אומר יתרא הישראלי (ש\"ב =שמואל ב'= יז כה), וכתוב [אחד אומר] (יתרא) [יתר] הישמעאלי (דה\"א =דברי הימים א'= ב יז), ר' שמואל בר נחמני אמר ישמעאלי היה, ולמה קורהו ישראלי, שפעם אחת נכנס לבית המדרש, ושמע ישי שהיה אומר פנו אלי והושעו כל אפסי ארץ (ישעיה מה כב), מיד נתגייר, ונתן לו ישי את בתו, ורבנן אמרו ישראל היה, ולמה נקרא שמו ישמעאלי, שחידד עצמו חרבו כישמעאל ונעצו בבית המדרש, ואומר או נהרוג או נהרג, או אקיים אני את דברי רבותי, עמוני ולא עמונית מואבי ולא מואבית, ומנין שנתן לו ישי את בתו, שכן כתיב ואחיותיהם צרויה ואביגיל וגו' ואביגיל ילדה את עמשא ואבי עמשא (יתרא הישראלי) [יתר הישמעאלי] (דה\"א =דברי הימים א'= ב' יז). [והוא ישפוט תבל. כל השביעים חביבין, אדם שת אנוש (קין) [קינן] מהללאל ירד חנוך (דה\"א =דברי הימים א'= א ב ג), וכתיב ויתהלך חנוך את האלהים (בראשית ה כד). אברהם יצחק יעקב לוי קהת עמרם משה, וכתיב ומשה עלה אל האלהים (שמות יט ג). אצם הששי דויד השביעי (דה\"א =דברי הימים א'= ב טו). שאול איש בושת דוד שלמה רחבעם אביה אסא, וכתיב ויקרא אסא אל ה' אלהיו (דה\"ב =דברי הימים ב'= יד י). בשנים, והשביעית תשמטנה ונטשתה (שמות כג יא). בימים, ויברך אלהים את יום השביעי (בראשית ב ג). בחדשים, בחדש השביעי באחד לחדש (ויקרא כג כד). בשמים, רקיע שמים שחקים זבול מעון מכון ערבות, וכתיב סולו לרוכב בערבות (תהלים סח ה). בארצות, ארץ אדמה ארקא גיא ציה נשיה תבל, וכתיב והוא ישפוט תבל בצדק (תהלים ט ט)",
+    "abstract": "God judges the nations at night while they sleep, and the Jews when they fulfill commandments.",
+    "decontextualized_reception": [
+      {
+        "id": 22389,
+        "value": "Praises for the Jews",
+        "color": "darker-red"
+      },
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4834,9 +5350,15 @@
         "order": "344.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ד] אמר ר' אלעזר בשם ר' יוסי בן זימרא כל הנביאים שהיו מתנבאים לא היו יודעין מה היו מתנבאין, אלא משה וישעיה הם היו יודעין, משה אמר יערף כמטר לקחי (דברים לב ב), ישעיה אמר הנה אנכי והילדים אשר נתן לי ה' לאותות ולמופתים בישראל (ישעיה ח יח), אמר ר' יהושע הכהן בר נחמיה אף אליהו היה מתנבא והיה יודע, שנאמר ודעת שפתי ברור מללו (איוב לג ג), אמר ר' אלעזר בשם ר' יוסי בן זימרא שמואל רבן של נביאים היה מתנבא ולא היה יודע, שנאמר וישלח ה' את ירובעל ואת בדן ואת יפתח ואת שמואל (ש\"א =שמואל א'= יב יא), ואותי אינו אומר, אלא ואת שמואל, שלא היה יודע מה היה מתנבא, אמר ר' לוי בשם ר' חנינא אחד עשר מזמורים שאמר משה בטכסיס של נביאים אמרן, ולמה לא נכתבו בתורה, לפי שאלו דברי תורה ואלו דברי נבואה.",
+    "abstract": "Proof that Elihu, implied to be Elijah, knew he was prophesying.",
+    "decontextualized_reception": [
+      {
+        "id": 22318,
+        "value": "Elihu",
+        "color": "dark-cyan"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4944,9 +5466,20 @@
         "order": "312.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "סב] [קיט, קלא] פי פערתי ואשאפה. פערתי פי לתורתך, למה כי למצותיך יאבתי, כשם שפוערים פיהם בני אדם למלקוש, וכה\"א ויחלו כמטר לי ופיהם פערו למלקוש (איוב כט כג), למה מטר היא התורה, וכן משה אומר יערף כמטר לקחי וגו' (דברים לב ב), לכך נאמר פי פערתי, כמו התנינים שואפים רוח, כך אני הייתי שואף לתורתך.",
+    "abstract": "Proof that men open their mouths yearning to drink the last rain of the year, and so too for the Torah.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      },
+      {
+        "id": 23365,
+        "value": "rain",
+        "color": "dark-cyan"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -4977,11 +5510,27 @@
         "order": "290.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ב] [ח, ב] ה' אדונינו מה אדיר שמך בכל הארץ. אמר רבי מצינו בשלשה מקומות שהיו המלאכים מדיינין כנגד הקב\"ה, באדם, במתן תורה, ובמשכן, באדם כשבקש הקב\"ה לבראות את האדם, נמלך במלאכים, ואמר להם נעשה אדם (בראשית א כו), אמרו לו מה אנוש כי תזכרנו (תהלים ח ה), אמר להם מחר תראו חכמתו, כיון שבראו מה עשה הקב\"ה, כינס כל חיה ובהמה ועוף לפני מלאכי השרת, התחיל שואל להם מה שמו של זה, ולא היו יודעין, אמר להם מבקשים אתם לידע חכמתו של זה, שאני שואל אותו יאמר לי שמותם, ויקרא שמות לכלם, מה עשה הקב\"ה, העביר כל מין ומין לפני אדם, שנאמר ויצר ה' אלהים מן האדמה [כל חית השדה] (בראשית ב יט), אמר ר' אחא והלא כבר נאמר ויעש אלהים את חית הארץ (שם /בראשית/ א כה), ומה תלמוד לומר ויצר, אלא להלן כתיב ויעש, וכאן כתיב ויצר, לשון כינוס, כענין שנאמר כי תצור אל עיר (דברים כ יט), ויבא אל האדם לראות מה יקרא לו (האדם) (בראשית ב יט), וכי אין הכל צפוי לפני הקב\"ה שכתוב לראות, מה לראות, אלא להראות למלאכי השרת חכמתו של אדם, ומה שמו שהתקין הקב\"ה שיקרא שם לכל דבר, אמר לו הקב\"ה ואתה מה שמך, אמר לו לי נאה להקראות אדם, שנבראתי מן האדמה, אמר לו אני מה שמי, אמר לו אתה נאה להקרא אדני, שאתה אדון לכל, לכך נאמר אני ה' הוא שמי (ישעיה מב ח), הוא שמי שקרא לי אדם הראשון, מיד אמר להם הקב\"ה ראו מה חכמתו, ואתם אומרים מה אנוש כי תזכרנו. וכן במתן תורה, כשבא הקב\"ה ליתן תורה בסיני לישראל, התחילו המלאכים מדיינין לפני הקב\"ה, ואמרו מה אנוש כי תזכרנו, ה' אדונינו מה אדיר שמך בכל הארץ אשר תנה הודך על השמים, אמרו לפניו רבונו, של עולם נאה הוא לך שתתן תורה בשמים, למה שאנו קדושים וטהורים, והיא טהורה וקדושה, אנו חיים, ותורתך עץ חיים, מוטב שתהא אצלנו, אמר להם אינה ראויה להתקיים בעליונים, שנאמר ולא תמצא בארץ החיים (איוב כח יג), וכי יש ארץ למעלה, והיכן היא מתקיימת בתחתונים, שנאמר אנכי עשיתי ארץ ואדם עליה בראתי (ישעיה מה יב), ר' נחמיה בשם ר' יהודה אומר משל לאדם שהיה לו בן, והיה חסר אצבע אחת, והולך אביו ללמדו סריקה שירקיריס וכל עיסקה של אומנות, אותה אומנות צריכה לכלן אצבעות, אחר ימים בא אביו אצלו, אמר לו למה לא למדת לבני אומנות זו, אמר ליה אומנות זו צריכה כל האצבעות, ובנך חסר אצבע אחת, ואתה מבקש שילמוד בנך אומנות סריקוס שירקיריס, כך אמר הקב\"ה אין התורה מתקיימת אצלכם, לפי שאין פריה ורביה ביניכם. ולא טומאה, ולא מיתה וחולי, אלא כלכם קדושים, ובתורה כתיב אדם כי ימות באהל (במדבר יט יד), זאת תהיה תורת המצורע (ויקרא יד ב), אשה כי תזריע (שם /ויקרא/ יב ב), ואשה כי יזוב (שם /ויקרא/ טו כה), את זה תאכלו (שם /ויקרא/ יא ט), את זה לא תאכלו (שם שם /ויקרא י\"א/ ד), לכך נאמר ולא תמצא בארץ החיים (איוב כח יג). [ועשה הקב\"ה חסדו, ונתן אותה למשה, ככלותו לדבר כל הדברים אל המלאכים, וכיון שעלה משה ולא ירד, עשו ישראל אותו מעשה, ונשתברו הלוחות, שמחו מלאכי השרת, ואמרו עכשיו תחזור התורה אלינו, וכשעלה משה לקבלה פעם שניה, אמרו מלאכי השרת רבונו של עולם והלא אתמול עברו עליה, שכתבת בה לא יהיה לך אלהים אחרים (שמות כ ג), אמר להם הקב\"ה בכל יום הייתם קטיגורין ביני לבין ישראל, לא אתם כשירדתם אצל אברהם אכלתם בשר בחלב, שנאמר ויקח חמאה וחלב ובן הבקר וגו' ויאכלו (בראשית יח ח), ותינוק שלהם כשהוא בא מבית רבו, ואמו נותנת לו פת ובשר וגבינה לאכול, והוא אומר לה, היום למדני רבי, לא תבשל גדי בחלב אמו (שמות לד כו), לא מצאו לו מענה, באותה שעה אמר הקב\"ה למשה, כתב לך את הדברים האלה (שם שם /שמות ל\"ד/ כז), עד שאין להם מענה ותשובה]. וכשבקש הקב\"ה להשרות שכינתו במשכן, אמרו המלאכים לפני הקב\"ה רבונו של עולם מה אנוש כי תזכרנו. ר' יהודה בשם ר' אייבו ור' יהודה ב\"ר סימון אמרו שניהם מפסוק אחד, מלכי צבאות ידודון ידודון (תהלים סח יג), פיתקין היו משליכין, כדבר שנאמר ואל עמי ידו גורל (יואל ד ג), אמר להם הקב\"ה חייכם כך אני אעשה, כסה השמים הודו ותהלתו מלאה הארץ (חבקוק ג ג), אמר להם חייכם שכינה אצלי היא, שנאמר ותהלתו מלאה הארץ, אמרו לו המלאכים כנאיתה בארעא, אמר להן דוד אף על פי תדע לך שכן הוא, שנאמר הללו את ה' מן השמים (תהלים קמח א), הודו על ארץ ושמים (שם שם /תהלים קמ\"ח/ יג), תחלה על הארץ, ואחר כך על השמים, לכך נאמר ה' אדונינו מה אדיר שמך בכל הארץ אשר תנה הודך על השמים.",
+    "abstract": "The Torah is not for the Angels. Part of debate with Angels and giving it to Moses.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      },
+      {
+        "id": 22366,
+        "value": "Moses narrative",
+        "color": "dark-brown"
+      },
+      {
+        "id": 23367,
+        "value": "Angels",
+        "color": "dark-brown"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "// Bavli",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -5069,11 +5618,17 @@
         "order": "290.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ב] דבר אחר [ג, א] מזמור לדוד בברחו. זהו שאמר הכתוב לא ידע אנוש ערכה (איוב כח יג), אמר ר' אלעזר לא ניתנו פרשיותיה של תורה על הסדר, שאם ניתנו על הסדר, כל מי שהוא קורא בהם היה יכול להחיות מתים, ולעשות מופתים, לכך נתעלמה סדורה של תורה, והוא גלוי לפני הקב\"ה, שנאמר ומי כמוני יקרא ויגידה ויערכה לי (ישעיה מד ז), ר' יעקב בשם ר' אחא אמר למה נסמכה פרשת גוג ומגוג לפרשת אבשלום, לומר לך שקשה הבן הרע לאביו יותר ממלחמות גוג ומגוג, ר' יהושע בן לוי ביקש לישב על הספר הזה, יצאת בת קול ואמרה אל תפיחי את הישן, ר' ישמעאל בקש לישב על הספר הזה לפני רבו, אמר כתיב סמוכים לעד לעולם עשוים באמת וישר (תהלים קיא ח).",
+    "abstract": "Man cannot know the true order of Torah portions.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "See Nir, S. “’The True Order of the Psalms’: Midrash Psalms, Saʿadiah Gaon and \nthe Impact of Muslim Concepts of Scripture on the Medieval Jewish \nReception of the Psalms,” in “By My God I Can Leap over a Wall”: \nInterreligious Horizons in Psalms and Psalms Studies, Herders Biblische \nStudien 96, ed. C. Frevel (Freiburg: Herder Verlag, 2020), 326–51.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -5083,7 +5638,7 @@
     "mention": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 92:4"
+        "value": "Midrash Psalms, 92:3"
       }
     ],
     "hiob_id": "hiob_mention_174",
@@ -5094,7 +5649,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "92:4",
+    "passages": "92:3",
     "verses": [
       {
         "id": 301,
@@ -5102,9 +5657,20 @@
         "order": "279.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ג] [קמו, ד] תצא רוחו ישוב לאדמתו ביום ההוא אבדו עשתנותיו. משל למה הדבר דומה, לנאד שהוא נפוח ומלא רוח ועומד בארץ, מי שהוא רואה אותו מרחוק מתירא ממנו, סבור שהוא כלום, מה עשה הגיע אצלו וראהו שהוא נאד, ונגע בו ונפל ויצא הרוח שבו שמלאו, אמר אותו האיש מזה הייתי מתיירא לא היה בו כלום, אבל הרוח היא המעמדת אותו, כך אמר הקב\"ה אין הבשר כלום, שנאמר כל הבשר חציר וגו' (ישעיה מ ו), וכה\"א אף כי אנוש רמה וגו' (איוב כה ו), אינו עומד אלא על הרוח, יצאת הרוח מיד נעשה עפר, וכן הוא אומר תצא רוחו ישוב לאדמתו וגו', כך אמר הקב\"ה אני בראתי את האדם הזה, והוא עומד ומתגאה, בא סנחריב הרשע ונתגאה וחרף וגדף ויצאת רוחו, מיד אבדו עשתנותיו, וכן פרעה, וכן המן, וכן כל רשעי עולם מחרפים ומגדפין, והן רוח, יצאת רוחן אבדו עשתונותיהן, רצונכם פרקליט שהוא עומד לעולם, בטחו בו בכל עת, ואתם עומדים, שנאמר אשרי שאל יעקב בעזרו וגו', אם אתם יודעים במי אתם בוטחים, במי שעשה שמים וארץ, משמתחתי את השמים, והרקעתי את הארץ, שמא זזו ממקומן, כך מי שהוא בוטח בי אין שכרו פוסק לעולם, לכך נאמר אשרי שאל יעקב בעזרו וגו', מה כתיב אחריו, עושה שמים וארץ וגו', מהו וכל אשר בם, מכאן אתה למד כנגד כל הבריות שיש לו בארץ, כך יש לו בים, לכך נאמר את הים ואת כל אשר בם.",
+    "abstract": "Man depends on the divine breath whtihin and therfore flesh is nothing unlike God.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      },
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5212,9 +5778,25 @@
         "order": "252.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[לה] [קיט, פט] לעולם ה' דברך נצב בשמים. אמר ישעיהו יבש חציר נבל ציץ וגו' ודבר אלהינו יקום לעולם (ישעיה מ ז ח), וכן אמר דוד לעולם ה' וגו', ולמה הוא נצב, שאינו נעשה לא על פי עד אחד ולא על פי שנים, אלא כל ב\"ד העליון מתמנין עליה, ומהו אומר אל נערץ בסוד קדושים רבה (תהלים פט ח), וכן דניאל אומר בגזרת עירין פתגמא וגו' (דניאל ד יד), וכה\"א בשנת שלש (לבלשאצר מלך בבל) [לכורש מלך פרס] דבר נגלה לדניאל וגו' (שם /דניאל/ י א), ולמה הוא אומר וצבא גדול (שם שם /דניאל י'/), אומר שצבא גדול מתמנין בה, לכך נאמר ואמת הדבר וצבא גדול (שם /דניאל י'/), אמר איוב הוא באחד ומי ישיבנו (איוב כג יג), אמרו למיכיהו אתה מה ראית, אמר ראיתי את ה' יושב על (כסא וצבא) [כסאו וכל צבא] וגו' (מ\"א =מלכים א'= כב יט), ויאמר ה' (ומי) [מי] יפתה וגו', ויאמר זה (אומר) בכה וזה אומר בכה (שם שם /מלכים א' כ\"ב/ כ), הרי ישראל מתמנין עליו, לכך נאמר לעולם ה' דברך נצב בשמים.",
+    "abstract": "God doesn’t make decisions without the testimony of the Divine court, and Job stands as proof of God’s supremacy before it.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      },
+      {
+        "id": 23367,
+        "value": "Angels",
+        "color": "dark-brown"
+      },
+      {
+        "id": 22389,
+        "value": "Praises for the Jews",
+        "color": "darker-red"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5245,9 +5827,15 @@
         "order": "239.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[יג] [צ, ה] זרמתם שנה יהיו. אלו תשע מאות ושבעים וארבעה דורות שהיו קודם לבריאת עולם ונשטפו כהרף עין בשביל שהיו רעים. ר' יוחנן אמר למה ב של בראשית גדולה ביותר, לפי שהיא מצטרפת לשני ביתי\"ן למלא ארבע, בראשית בגימטריא תתקע\"ד הוו, כיצד תש\"ר הרי תשע מאות, א' דבראשית מתחלף עם ל' דאלב\"ם הרי שלשים, י' מתחלף עם מ' דאתב\"ש הרי ארבעים, ב' שהיא גדולה כשני ביתי\"ן מצטרפת לחשבון ארבעה, הרי תשע מאות ושבעים וארבעה, ואחר כך ברא אלהים את השמים ואת הארץ. ומה זרמתם, ר' יוחנן אמר זרו תמו, ר' שמעון בן לקיש אמר זרו מתורתך רימה נגעה בהם, רבי אומר זרייתך לשעה היתה. דבר אחר זרמתם שנה יהיו. כיון שנשטפו בזרם מים כשינה יהיו כחלום מהקיץ, וכן הוא אומר אשר קומטו ולא עת (ונהר) [נהר] יוצק יסודם (איוב כב טז).",
+    "abstract": "Proof of reading flow like “sleep,” as the fate of the generations after the Flood.",
+    "decontextualized_reception": [
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5310,14 +5898,36 @@
   "180": {
     "id": 180,
     "order": "147.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I, 2:8"
+      }
+    ],
     "hiob_id": "hiob_mention_180",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "passages": "2:8",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Deaths of Jacob, moses and the tribes.",
+    "decontextualized_reception": [
+      {
+        "id": 22366,
+        "value": "Moses narrative",
+        "color": "dark-brown"
+      },
+      {
+        "id": 23370,
+        "value": "Jacob",
+        "color": "dark-red"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5326,14 +5936,31 @@
   "181": {
     "id": 181,
     "order": "148.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I, 3:1"
+      }
+    ],
     "hiob_id": "hiob_mention_181",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "passages": "3:1",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Wisdom as righteousness.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5364,31 +5991,20 @@
         "order": "215.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
-    "quotation_and_speakers": [],
-    "classic_parallels": ""
-  },
-  "183": {
-    "id": 183,
-    "order": "150.00000000000000000000",
-    "mention": [],
-    "hiob_id": "hiob_mention_183",
-    "midrash": [],
-    "passages": "33:1",
-    "verses": [
+    "quote": "[ה] [כג, ג] נפשי ישובב. נפשי ישובב בתורה, [שנאמר תורת ה' תמימה משיבת נפש (תהלים יט ח)]. ינחני במעגלי צדק. במן בשליו במי באר בענני כבוד, ולא שיש לי זכות, אלא למען שמו. גם כי אלך בגיא צלמות. בקדקדו של מדבר. לא אירא רע כי אתה עמדי. שנאמר וה' הולך לפניהם יומם (שמות יג כא). שבטך ומשענתך. שבטך [אלו היסורין, ומשענתך] זו תורה. [דבר אחר] שבטך ומשענתך. זו משען ומשענה (ישעיה ג א), משען זו תורה שבכתב, ומשענה זו תורה שבעל פה. המה ינחמוני. יכול בלא יסורין, תלמוד לומר אך, יכול בעולם הזה, תלמוד לומר אך טוב וחסד ירדפוני כל ימי חיי, בעולם הזה. ושבתי בבית ה' לאורך ימים. לעולם הבא. תערוך לפני שלחן, זה שלחן של מן ושליו. נגד צוררי. איסי בן עקיבא אומר גובהו של מן ששים אמה, ומי שאינו מאמין אל יראה באותה הטובה, שנאמר אל ירא בפלגות נהרי נחלי דבש וחמאה (איוב כ יז).",
+    "abstract": "Those who don’t believe in the great abundance of the manna won’t receive it in the afterlife.",
+    "decontextualized_reception": [
       {
-        "id": 236,
-        "value": "20:5",
-        "order": "214.00000000000000000000"
+        "id": 22311,
+        "value": "Exodus",
+        "color": "light-orange"
+      },
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5419,9 +6035,15 @@
         "order": "214.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[א] [לג, א] רננו צדיקים בה' לישרים נאוה תהלה. זהו שאמר הכתוב נפת תטופנה שפתותיך כלה (שה\"ש =שיר השירים= ד יא), אמר הקב\"ה אוהב אני לשמוע את קולך, בין מרננה, ובין מהללה, אל תמנעי קולך, למה כי קולך ערב (שם /שיר השירים/ ב יד), אמרו לו הרי יעקב מרנן, אמר להם על מי, לא עלי, שמחה היא לי בין מרנן בין משבח, שנאמר רנו ליעקב שמחה (ירמיה לא ו), וכתיב נפת תטופנה שפתותיך כלה, הרי בשפתותיך, בלשונך דכתיב דבש וחלב תחת לשונך (שה\"ש =שיר השירים= ד יא), בחיכך דכתיב וחכך כיין הטוב (שם /שיר השירים/ ז י), בגרונך דכתיב רוממות אל בגרונם (תהלים קמט ו). הכל מרננים, צדיקים מרננים, שנאמר רננו צדיקים בה', הרשעים מרננים, דכתיב כי רננת רשעים מקרוב (איוב כ ה), וכן את מוצא בפרעה, כיון שבאו אצלו משה ואהרן, בתחלה אמר מי ה' (שמות ה ב), כיון שקיבל מטרופוסו, התחיל לומר ה' הצדיק ואני ועמי הרשעים (שם /שמות/ ט כז), אבל אין הרשעים מרננים לפניו עד שהביא עליהם מכות, אבל הצדיקים אינו כן, רננו צדיקים אל ה' אין כתיב כאן, אלא בה', בזמן שרואין אותו מיד מרננים, שנאמר וירא ישראל את היד הגדולה (שמות יד לא), מיד התחילו מרננים, אז ישיר משה (שם /שמות/ טו א), וכן הוא אומר ויבא משה ואהרן אל אהל מועד [וגו'] ותצא אש מלפני ה' [וגו'] וירא כל העם וירונו (ויקרא ט כג כד). וכן בימי שלמה ראה מה כתיב, וכל (העם) [בני ישראל רואים] ברדת האש וכבוד ה' על הבית [וגו' וישתחוו והודות לה' כי טוב כי לעולם חסדו] (דה\"ב =דברי הימים ב'= ז ג), לכך נאמר רננו צדיקים בה', הכל מרננים לפניו, שמים וארץ, שמש וירח והכוכבים ומלאכים, שנאמר הללו את ה' מן השמים [הללוהו במרומים, הללוהו כל מלאכיו וגו', הללוהו שמש וירח וגו'] (תהלים קמח א ב ג), ואף על פי שהכל מרננים לפניו, רינון של צדיקים ושל ישרים ותמימים נאה לפניו, שנאמר רננו צדיקים בה' לישרים נאוה תהלה. הודו לה' בכנור [וגו'] שירו לו שיר חדש. למי שעשה חדשה, שהניח השמים ושיכן שכינתו בארץ, שנאמר ועשו לי (משכן) [מקדש] ושכנתי בתוכם (שמות כה ח).",
+    "abstract": "Even the wicked praise God but only after being smitten.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5452,9 +6074,20 @@
         "order": "210.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ג] [דבר אחר [ז, א] שגיון לדוד]. זהו שאמר הכתוב עמו עוז ותושיה לו שוגג ומשגה (איוב יב יו), עוז זו תורה, שנאמר ה' עז לעמו יתן (תהלים כט יא), תושיה זו תורה, אמר ר' יהושע בן לוי למה נקרא שמה תושיה, שמתשת כח הגוף והעינים. מהו שוגג ומשגה, אמר ר' שמעון בן לקיש נביאים ונבואותיהם, ר' יוחנן אמר שטיא ושטיתא, רבנן אמרו אם שגה אדם בדברי תורה, משיגים אותו, הדא הוא דכתיב ואף אמנם שגיתי אתי תלין משוגתי (איוב יט ד), וכן הוא אומר באהבתה תשגה תמיד (משלי ה יט), לא דיין לאדם שתורתו ממתנת לו בחייו, אלא אף בשעת מיתתו עמו, אמר דוד על אותה אני מבקש שגיון לדוד. מהו על דברי כוש בן ימיני. אמר ר' חיננא בר פפא מה אדוניתו של יוסף תבעה אותו, שנאמר שכבה עמי (בראשית לט ז), ואומר בא אלי העבד העברי (שם שם /בראשית ל\"ט/ יז), אף שאול אמר כי הקים בני את עבדי עלי לארב (ש\"א =שמואל א'= כב ח), כשם שבאת הכושית פטרונתו של יוסף עליו בדברים, כך בא שאול בן ימיני עלי בדברים. אמר ר' אחא והלא כל התועב עצמו אינו נענש, למה אמר דוד עליו כך, על ידי שאמר שירה על מפלתו, שנאמר אשר שר לה' על דברי כוש בן ימיני, וכתיב בנפול אויבך אל תשמח (משלי כד יז), [אמר ליה הקב\"ה לדוד אילו היה מזלו של שאול מזלך ומזלך מזלו, כמה דוד הייתי מאבד מפניו].",
+    "abstract": "Shigayon read as misreading of Torah.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      },
+      {
+        "id": 22358,
+        "value": "Hapax legomenon",
+        "color": "light-red"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5485,9 +6118,15 @@
         "order": "205.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[נד] [קיט, קכב] ערוב עבדך לטוב. מהו ערוב עבדך וגו', שלא ארד לגיהנם, אם אין את ערבני מי יוכל לערבני. וכן חזקיה אמר כסוס עגור כן אצפצף אהגה כיונה וגו' ה' עשקה לי ערבני (ישעיה לח יד), וכן איוב אמר שימה נא ערבני עמך וגו' (איוב יז ג), אמר איוב אלו היה ממון או כסף או זהב או מרגליות הייתי ערב בדבר ההוא, אבל הנפש מי יוכל ומי נותן נפשו תחת נפש חברו, מי יוכל לערבני, אם אין את ערבני מי יוכל לערבני, לכך נאמר ערוב עבדך לטוב וגו', שאעשה רצונך והבא עלי את הטובה ואל יעשקוני זדים.",
+    "abstract": "Job says that he cannot use riches as collateral to avoid going to Hell, so God needs to vouch for one’s prayers.",
+    "decontextualized_reception": [
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5577,9 +6216,15 @@
         "order": "183.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[לז] [קיט, צ] לדור ודור אמונתך וגו'. השמים והארץ עומדין על האמונה, שנאמר חסדי ה' עולם אשירה לדור ודור וגו' (תהלים פט ב), וכה\"א מי יאמר זכיתי (לבבי) [לבי] טהרתי מחטאתי (משלי כ ט), הן בקדושיו לא יאמין (וכוכבים) [ושמים] לא זכו בעיניו (איוב טו טו), ומי נמלט והכל עומדין בדין, לכך נאמר למשפטיך עמדו היום וגו'.",
+    "abstract": "The Earth stands under judgment, and everything, including the stars from Job, will be judged.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5610,20 +6255,42 @@
         "order": "177.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ח] [יז, ז] הפלה חסדיך מושיע חוסים. אמר דוד לפני הקב\"ה רבונו של עולם תן לי מאותה רטייה המופלאה שיש לך, ואיזהו זו מחילה וסליחה, שנאמר הסולח לכל עונכי הרופא לכל תחלואיכי (תהלים קג ג). שמרני כאישון בת עין. אמר ר' יודן בשם ר' לוי אין בית רובע בחללו של עולם שאין בו תשעה קבין מזיקין, והאדם פושט ידו לתוך המזיק והקב\"ה שומרו. אמר ר' יהושע בן לוי בשעה שאדם הולך בדרך, איקוניא של מלאכים מהלכין לפניו, ומכריזין ואומרים תנו מקום לאיקוניא של הקב\"ה, וכן הוא אומר כי מלאכיו יצוה לך לשמרך בכל דרכיך (תהלים צא יא), ורבנן אמרי פראמא נתונה לפני עיניהם של מזיקין כחמורים הללו של טוחנין, ובשעה שעונותיו של אדם גורמין לו, הכיסוי מתגלה, ומביט לאדם, ופניו משתנים, שנאמר משנה פניו ותשלחהו (איוב יד כ), ומביט בו והוא ניזוק, לכך מסר הקב\"ה כל המלאכים הללו לשמור אותו, אלף משמאלו ורבבה מימינו, שנאמר יפול מצדך אלף ורבבה מימינך אליך לא יגש (תהלים צא ז), ולמה של ימין יותר משל שמאל, מפני שיד ימין שולטת בכל המצות, לכך רבבה מימינו, אבל של שמאל שאינה שולטת אלא במצות תפילין, [שנאמר וקשרתם לאות על ידיך (דברים ו ח), לכך נמסרו לשמאל] אלף. מהו אליך לא יגש. אמר הקב\"ה בנוהג שבעולם מלך יוצא לדרך, וכל הלגיונות יוצאין עמו לשמרו, והוא זקוק לתת להם פרנסתן ומזונתן, אבל אני מסרתי לכם אלף משמאל ורבבה מימין, שיהו משמרין אותך, ואין אחד נוגש אצלך ואומר זן אותי ופרנסני, אמר רב חנינא לא נאמר ימסרו מצדך אלף, אלא יפול מצדך אלף, מהו יפול, שאם יבואו עליך מזיקין, אותן המלאכים מפילין אותם לפניך. דבר אחר מהו יפול, שהקב\"ה משלימן עמך, כמה שנאמר וממנשה נפלו על דויד (דה\"א =דברי הימים א'= יב כ). כל המלאכים הללו שנמסרו לאדם שיהיו משמרין אותו, ואימתי הוא משומר, בשעה שהוא משמר את התורה. אמר ר' אלעזר הקפר, אמר לו הקב\"ה לאדם, תהא נרי בידך ונרך בידי, נרי בידך, דכתיב כי נר מצוה ותורה אור (משלי ו כג), נרך בידי, דכתיב נר (אלהים) [ה'] נשמת אדם (שם /משלי/ כ כז), אם שומר אתה שלי, אני אשמור את שלך. אמר ר' חייא משל לשני בני אדם שהיה להם שני כרמים, לאחד היה לו בגליל, ואחד היה לו ביהודה, זה שבגליל היה לו כרמו ביהודה, וזה ביהודה היה לו כרמו בגליל, לימים הגיעו זה אצל זה, אמר אחד לחבירו שמור לי כרמי שבגליל, ואני אשמור כרמך שביהודה, ואם אתה מאבד כרמי שביהודה, אני מאבד כרמך שבגליל, כך אמר הקב\"ה לישראל שמור מצותי וחיה (משלי ד ד), אם תשמרו את תורותי, אני אשמור אתכם, שנאמר אם שמור תשמרון (דברים יא כב), אם שמור תשמרון. [אמר ר' יוחנן גדולה תורה מן המצות, שמצוה בפני תורה כנר בפני חמה, שנאמר כי נר מצוה ותורה",
+    "abstract": "Proof that when God wants to punish, He allows the demons to see the sinner.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      },
+      {
+        "id": 23367,
+        "value": "Angels",
+        "color": "dark-brown"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Comp. bPesah",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
   "191": {
     "id": 191,
     "order": "158.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms, 53:2"
+      }
+    ],
     "hiob_id": "hiob_mention_191",
-    "midrash": [],
+    "midrash": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms",
+        "order": "14.00000000000000000000"
+      }
+    ],
     "passages": "53:2",
     "verses": [
       {
@@ -5632,11 +6299,17 @@
         "order": "175.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ב] [נג, ד] (הכל) [כולו] סג. ולהלן כתיב הכל סר (תהלים יד ג), כל שהוא סר מן הדרך יכול לחזור בתשובה, אבל כאן (הכל) [כולו] סג הכל נעשו סיגים. יחדו נאלחו. נאלחים מבחוץ ומלאים רשע מבפנים. [דבר אחר (הכל) [כולו] סג יחדו נאלחו, אלו אנשי סדום שנעשו סיגים, ועשו עצמן אחות, כמה דאת אמר ואת האח לפניו מבוערת (ירמיה לו כב). אין עושה טוב אין גם אחד. אין שם אברהם נמנה עמהם, ואין אחד אלא אברהם, שנאמר אחד היה אברהם (יחזקאל לג כד), התחיל אברהם אומר לא ישבתי עם מתי שוא [וגו'] שנאתי קהל מרעים (תהלים כו ד ה), מיד ויסע משם אברהם (בראשית כ א), זהו שאמר הכתוב ואולם הר נופל יבול וצור יעתק ממקומו (איוב יד יח), הר נופל יבול, זה סדום וחברותיה, וצור יעתק ממקומו, זה אברהם, ואין צור אלא אברהם, שנאמר הביטו אל צור חצבתם [הביטו אל אברהם אביכם] (ישעיה נא א ב), מיד ויסע משם אברהם, אמר לו הקב\"ה אברהם אין לך עסק עמהם, שנאמר אלהים משמים השקיף על בני אדם לראות היש משכיל דורש את אלהים (הכל) [כלו] סג יחדו]. דבר אחר נאלחו. נעשו אחים לאלהים אחרים. אמר הקב\"ה למלאכי השרת, צאו וראו מה בני האדם עושין בארץ, אמרו לו אין עושה טוב. אוכלי עמי אכלו לחם. קדש ישראל לה' (ירמיה ב ג), אמרו הרשעים אף הטובה שהיא באה אין הקב\"ה קורא אותה, הוי (ה') [אלהים] לא קראו. שם פחדו פחד. הצדיקים פחדו שראו אחיתופל בגיהנם, ואמרו לאותו צדיק עשה כן, לנו על אחת כמה וכמה, והקב\"ה דנו ומראה את הצדיקים והם שמחין, לכך נאמר לא היה פחד, ומה טעם, כי אלהים בדור צדיק. דבר אחר אמר הקב\"ה (למלכיות) אני אמרתי שיהיו ישראל מעלים ארנונא [למלכיות] כשם שהגוים מעלים, אני אמרתי פחד שתתנו עליהם פחד מסיות, ולא שתתנו עליהם פחד של שמד, לא היה פחד, לפי שמסרו עצמם למיתה, והנשארים מהם ניצלו בזכות הרוגי שמד, שנאמר [כי] (ה') [אלהים] בדור צדיק, להלן כתיב עצת עני תבישו כי ה' מחסהו (תהלים יד ו), מהו עצת עני, אמר ר' יהודה אמר הקב\"ה לאומות העולם בניתם בתי עבודה זרה שלכם, וכיון שאני אומר לכם בנו את ירושלים, אתם אומרים עניה סוערה לא נוחמה (ישעיה נד יא), הוי עצת עני תבישו, וכאן הוא אומר הבישותה כי (ה') [אלהים] מאסם (תהלים נג ו), כסבורים אתם שה' מאסם, והלא כבר נאמר לא מאסתים (ויקרא כו מד), מי יתן מציון ישועות ישראל בשוב (ה') [אלהים] שבות עמו יגל יעקב ישמח ישראל, ועשו וישמעאל מתאנחים.",
+    "abstract": "Allegory of Sodom and Abraham. Uses the height of looking over Sodom.",
+    "decontextualized_reception": [
+      {
+        "id": 22381,
+        "value": "Sodom",
+        "color": "brown"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "// Pirqe. R. Eli",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -5665,9 +6338,15 @@
         "order": "174.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ד] [קלט, ד] כי אין מלה בלשוני הן ה' ידעת כלה. כך אמר דוד לפני הקב\"ה אתה ידעת שבתי וקומי, ולא עוד אלא (על) כל פסיעה ופסיעה שאני עתיד לפסוע כבר גלויה לפניך, וכן אמר הכתוב כי (אתה) [עתה] צעדי תספור (איוב יד טז), ולא מעכשו, אלא עד שלא באתי לעולם, וכה\"א לירמיהו בטרם אצרך בבטן ידעתיך (ירמיה א ה), וכן אמר (הכתוב) [ישעיה] לסנחריב יען התרגזך אלי ושאננך עלה באזני (מ\"ב =מלכים ב'= יט כח). א\"ל שוטה מה אתה סבור, הלא ידעת אם לא שמעת, ושבתך וצאתך ובואך ידעתי ואת התרגזך אלי (שם שם /מלכים ב' י\"ט/ כז), לכך נאמר כי אין מלה בלשוני, אין מזמור אין נצח אין שיחה שאני עתיד לומר שאינם גלויין לפניך, לכך נאמר כי אין מלה בלשוני הן ה' (אתה) ידעת.",
+    "abstract": "Proof that God knows every step a person will take.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5788,25 +6467,48 @@
         "order": "160.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ב] דבר אחר [כז, א] [ה' אורי וישעי]. זהו שאמר הכתוב נר לרגלי דבריך ואור לנתיבתי (תהלים קיט קה), למה הרשעים דומין, למי שמהלך באישון לילה ואפילה, הגיע לאבן ונכשל בה, הגיע לגומץ ונפל בו, וכך הוא אומר דרך רשעים באפלה [לא ידעו במה יכשלו] (משלי ד יט), ולמה הצדיקים דומין, למי שמהלך בדרך, ובידו נר דלוק, הגיע לאבן ונשמר ממנה שלא יכשל, הגיע לגומץ ונשמר עצמו שלא יפול לתוכו, כך אמר דוד באתי לחלל את השבת, והאירה לי התורה, שנאמר זכור את יום השבת (שמות כ ח), באתי לניאוף, התורה האירה לי, שנאמר מות יומת הנואף והנואפת (ויקרא כ י), הדא הוא דכתיב נר לרגלי דבריך ואור לנתיבתי. דבר אחר [נר לרגלי דבריך ואור לנתיבתי]. אם נר למה אור, ואם אור למה נר, אלא אמר דוד כשאני מתחיל בדברי תורה, מעט אני מתחיל בהן והן נובעין, וכשאני נכנס לתוכה נפתחין לי שערים הרבה, לכך אמר דוד נר ואור. דבר אחר נר לרגלי דבריך ואור לנתיבתי. אימתי אמר דוד פסוק זה, כשהיה מהלך לעמק רפאים, אף על פי כן לא הלך למלחמה עד ששאל באורים ותומים, וכן את מוצא כשהלך שמואל למשוח את דוד, היו מלאכי השרת מקטרגין אותו לפני הקב\"ה, ואמרו רבונו של עולם מפני מה נטלת המלכות משאול ונתת לדוד, אמר להם אני אומר לכם מה בין שאול לדוד, שאול הלך ושאל באורים ותומים, כיון שראה שבאו עליו פלשתים אמר לכהן אסוף ידך, ולא המתין עד שיגמור את הדבר, שנאמר ויהי עד דבר שאול אל הכהן [וגו', ויאמר שאול אל הכהן אסוף ידך] (ש\"א =שמואל א'= יד יט), אבל דוד בשעה שראה את הפלשתים באין עליו בעמק רפאים, מיד התחיל לשאול באורים ותומים, שנאמר ויוסיפו עוד פלשתים [לעלות] וינטשו בעמק רפאים וישאל (עוד) דוד (באלהים) [בה'] ויאמר לא תעלה הסב (מעליהם) [אל אחריהם] (ש\"ב =שמואל ב'= ה כב כג), אין לך רשות לפשוט יד בהן, אפילו אם היו קרבין אצלך, עד שתראה ראשי האילנות מנענעין, שנאמר ויהי (בשומעך) [בשמעך] את קול (הצעדה) [צעדה] בראשי הבכאים (שם שם /שמואל ב' ה'/ כד), ולא מאחריהן, אז תחרץ (שם שם /שמואל ב' ה'/), לשון חיתוך, כענין שנאמר אם חרוצים ימיו (איוב יד ה), ולמה נתן לו סימן בראשי הבכאים ולא מאחריהם, אמר ר' ברכיה מיני אילנות שכולם מלאים קוצים, שכל הנוגע בהם מיד בוכה, ללמדך שכל זמן שישראל שרויים בצער, כאילו צער לפני הקב\"ה, שנאמר בכל צרתם לו צר (ישעיה סג ט). כיוצא בדבר אתה אומר וירא מלאך ה' אליו בלבת אש מתוך הסנה (שמות ג ב), ולמה מתוך הסנה, ולא מתוך אילן אחר, אלא על שם עמו אנכי בצרה (תהלים צא טו), כיון שבאו פלשתים, היו ישראל רואין אותן, ולא היו רחוקין מהם אפילו ארבע אמות, אמרו ישראל לדוד למה אנו עומדין, אמר להם כבר נצטויתי מן השמים, שלא לפשוט יד בהם, עד שנראה ראשי האילנות מנענעין, ואם נפשוט יד בהן מיד אנו מתין, ואם אין נפשוט יד מהן מיד הורגין אותנו, ומוטב שנמות צדיקים ולא נמות חייבין, אלא אני ואתם נתלה עינינו להקב\"ה, מיד נדדו כל האילנות, ומיד פשטו בהם, שנאמר ויעש דוד [כן] כאשר צוהו (אלהים) [ה'] ויך את הפלשתים (ש\"ב =שמואל ב'= ה כה), אמר הקב\"ה למלאכי השרת, ראו מה בין דוד לשאול, מי גרם לדוד שניצל, דברו של הקב\"ה שקיים והאיר לו, לכך נאמר נר לרגלי דבריך.",
+    "abstract": "Verse is proof of cutting reading.",
+    "decontextualized_reception": [
+      {
+        "id": 22358,
+        "value": "Hapax legomenon",
+        "color": "light-red"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Davidic narrative with parallels.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
   "197": {
     "id": 197,
     "order": "163.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I, 4:4"
+      }
+    ],
     "hiob_id": "hiob_mention_197",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "passages": "4:4",
     "verses": [],
     "quote": "",
     "abstract": "",
-    "decontextualized_reception": [],
+    "decontextualized_reception": [
+      {
+        "id": 22358,
+        "value": "Hapax legomenon",
+        "color": "light-red"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5815,14 +6517,31 @@
   "198": {
     "id": 198,
     "order": "164.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I, 6:2"
+      }
+    ],
     "hiob_id": "hiob_mention_198",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "passages": "6:2",
     "verses": [],
     "quote": "",
     "abstract": "",
-    "decontextualized_reception": [],
+    "decontextualized_reception": [
+      {
+        "id": 23370,
+        "value": "Jacob",
+        "color": "dark-red"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5853,9 +6572,15 @@
         "order": "164.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "א] [עד, א] משכיל לאסף למה אלהים זנחת לנצח יעשן אפך בצאן מרעיתך. זהו שאמר הכתוב אתה ידעת ה' זכרני ופקדני והנקם לי [מרודפי אל לארך אפך תקחני] (ירמיה טו טו), אתה ארך אפים, שנאמר ואתה ה' אל רחום וחנון [ארך אפים וגו'] (תהלים פו טו), ואני קצר רוח וילוד אשה, שנאמר אדם ילוד אשה קצר ימים ושבע רוגז (איוב יד א), ואם אתה בא להאריך עמנו אין בנו ממש ומתים אנחנו. וכן אסף אמר למה אלהים זנחת לנצח. עד עכשיו עשן אפך עולה לפניך, יעשן אפך בצאן מרעיתך, אמר לו מפני מה אתה מסתיר את פניך ממני, כאדם המסתיר פניו מן העשן, וכן הוא אומר עד מתי עשנת בתפלת עמך (תהלים פ ה), אותה מרעיתך ששכחת אותה. זכור עדתך קנית קדם גאלת שבט נחלתך. מהו קדם, מלמד שקנאם הקב\"ה לישראל קודם שנברא העולם, שנאמר אדני מעון אתה היית לנו בדור ודור בטרם הרים יולדו (תהלים צ א ב).",
+    "abstract": "Man per the verse is short of days and of temper, whereas God is the inverse.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5886,11 +6611,17 @@
         "order": "429.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ה] [קלט, ה] אחור וקדם צרתני. מהו אחור וקדם דו פרצופין נבראו כך היה אדם הראשון מאחוריו היה צורת חוה, וכה\"א ויבן ה' אלהים את הצלע (בראשית ב כב), לכך נאמר אחור וקדם צרתני וגו'. רב ושמואל, חד אמר פרצוף, וחד אמר זנב, בשלמא למאן דאמר פרצוף, היינו דכתיב אחור וקדם צרתני, אלא למאן דאמר זנב מאי אחור וקדם צרתני, כדאמר ר' אמי דאמר ר' אמי אחור למעשה בראשית וקדם לפורעניות, פורעניות דמאי, אי לימא משום קללה, הא בתחלה נתקלל נחש ולבסוף חוה ולבסוף אדם, אלא לפורעניות המבול, שנאמר וימח את כל היקום אשר על פני האדמה מאדם עד בהמה (שם /בראשית/ ז כג), ולמאן דאמר פרצוף, הי מיניהו סגיא ברישא, מסתברא דזכר מסגי ברישא, דתניא לא יהלך אדם אחר אשה בדרך ואפילו היא אשתו, נזדמנה לו על הגשר יסלקנה לצדדין וכל העובר אחרי אשה בנהר אין לו חלק לעולם הבא. ד\"א אחור וקדם צרתני. א\"ר יוחנן אם זוכה אדם אוכל ב' עולמות אחור וקדם, ואם לאו הוא בא ליתן דין וחשבון, שנאמר ותשת עלי כפיך כד\"א כפך מעלי הרחק (איוב יג כא). א\"ר אליעזר אנדרוגינוס נבראו שנאמר זכר ונקבה (בראם) [ברא אותם] (בראשית א כז), א\"ר שמואל דו פרצופין בראו, ומנסרו ועשהו גב לכאן וגב לכאן, ר' תנחומא בשם ר' ברכיה בשם ר' אלעזר אומר גולם בראו, והיה מוטל מראש העולם ועד סופו, הה\"ד גלמי ראו עיניך. ר' יהודה ברבי נחמיה בשם ר' שמעון בשם ר' אלעזר מלא כל העולם כלו בראו ממזרח ועד מערב, שנאמר אחור וקדם צרתני, מצפון לדרום, שנאמר מקצה הארץ ועד קצה הארץ (דברים כח סד), ומנין אף בחללו של עולם, שנאמר ותשת עלי כפיך. א\"ר אלעזר אחור למעשה יום אחרון, וקדם למעשה יום ראשון, הוא דעתיה דר' אלעזר, דא\"ר אלעזר תוצא הארץ נפש חיה (בראשית א כד), זו רוחו של אדם הראשון, אמר ר' שמעון בן לקיש אחור למעשה יום האחרון וקדם למעשה בראשית, זה דעתיה דריש לקיש, דאמר ריש לקיש ורוח אלהים מרחפת על פני המים (שם שם /בראשית א'/ ב), זה רוחו של אדם הראשון, א\"ר סימון אחור לכל המעשים וקדם לכל העונשים. אמר ר' שמואל בר תנחום אף קלוסו אינו אלא באחרונה, הה\"ד הללו את ה' מן הארץ וגו' עד מלכי ארץ וכל לאומים (תהלים קמח ז יא), א\"ר שמלאי כשם שקלוסו אינו אלא אחר בהמה חיה ועוף, כך בריאתו אינו אלא אחר בהמה חיה ועוף, שנאמר זאת (הבהמה) [החיה] אשר תאכלו (ויקרא יא ב), ולבסוף אשה כי תזריע (שם /ויקרא/ יב ב). ותשת עלי כפיך. מכאן לאדם ולבית המקדש שנבראו בשתי ידים, וכתיב ידיך עשוני ויכוננוני הבינני ואלמדה מצותיך (תהלים קיט עג), וכתיב מקדש ה' כוננו ידיך וגו' (שמות טו יז).",
+    "abstract": "Job verse is proof that God both protects in the afterlife and can judge, by diffrent uses of \"palm\".",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Implies Job was guilty unlike R. Yohanan's Talmudic positions.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -5919,9 +6650,15 @@
         "order": "169.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ג] [קא, ז] לא ישב בקרב ביתי עושה רמיה. אמר ר' יהושע בן לוי צריך אדם להיות עלוב בתוך ביתו, וכל שכן בביתו של הקב\"ה. דובר שקרים לא יכון לנגד עיני. ארבע כיתות אינן רואות פני השכינה, ואלו הן. [כת לצים, דכתיב ובמושב לצים לא ישב (תהלים א א), כת חנפים, דכתיב כי לא לפניו חנף יבוא (איוב יג טז), כת מספרי] לשון הרע, שנאמר מלשני בסתר רעהו אותו [אצמית גבה עינים ורחב לבב אותו] לא אוכל (/תהלים ק\"א/ פסוק ה), אל תקרי אותו אלא אתו, כת שקרים, דכתיב דובר שקרים לא יכון לנגד עיני.",
+    "abstract": "Job verse isproof for one of four groups unable to see the Shekinah—the (false) flatterers.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -5952,44 +6689,17 @@
         "order": "170.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ז] [עח, לג] ויכל בהבל ימיהם ושנותם בבהלה. ר' יונתן ור' נתן, [ר' יונתן אומר] מתשעה באב לתשעה באב היו מתים, ר' נתן אומר בכל שעה היו מתלהטין ושנותם בבהלה. אם הרגם ודרשוהו ושבו ושחרו אל. אפילו אם הורג אותנו לו אנחנו מקוים, ולו אנו בעיין, שנאמר הן יקטלני לו איחל (איוב יג טו). ויפתוהו בפיהם [וגו']. ואף על פי כן והוא רחום יכפר עון.",
+    "abstract": "Jews still wish for God even if He kills them. but He is merciful.",
+    "decontextualized_reception": [
+      {
+        "id": 22389,
+        "value": "Praises for the Jews",
+        "color": "darker-red"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
-    "quotation_and_speakers": [],
-    "classic_parallels": ""
-  },
-  "203": {
-    "id": 203,
-    "order": "169.00000000000000000000",
-    "mention": [
-      {
-        "id": 38,
-        "value": "Midrash Psalms, 7:3"
-      }
-    ],
-    "hiob_id": "hiob_mention_203",
-    "midrash": [
-      {
-        "id": 38,
-        "value": "Midrash Psalms",
-        "order": "14.00000000000000000000"
-      }
-    ],
-    "passages": "7:3",
-    "verses": [
-      {
-        "id": 176,
-        "value": "12:16",
-        "order": "154.00000000000000000000"
-      }
-    ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "Fits Tannaitic reading of this verse.",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -6023,8 +6733,8 @@
         "order": "153.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
+    "quote": "[ה] דבר אחר [צג, ג] נשאו נהרות ה'. אמר ר' ברכיה בשם בן עזאי בן זומא המים היו עולים ומגיעים לכסא הכבוד, כדכתיב ורוח אלהים מרחפת על פני המים (בראשית א ב), וכן הוא אומר כנשר יעיר קנו על גוזליו ירחף (דברים לב יא), [כשהיה הדבור יוצא מפי הגבורה יקוו המים (בראשית א ט), עלו מקצות הארץ ההרים והגבעות (ונתפרצו) [ונתפרדו] על כל הארץ, ונעשית עמקים עמקים על תוכה של ארץ, והמים נתגלגלו ונקוו לעמקים, שנאמר ולמקוה המים קרא ימים (שם /בראשית/ א ט), מיד נתגאו המים ועלו לכסות הארץ כבתחלה, עד שגער בהן הקב\"ה, וכבשן תחת כפות רגליו, [ומדדן בשעלו שלא להוסיף ולא לגרוע], ועשה חול גדר לים, כאדם שהוא עושה גדר לכרמו, וכשהן עולין ורואין את החול לפניהם, חוזרין לאחוריהן, שנאמר האותי לא תיראו נאם ה' [אם מפני לא תחילו] אשר שמתי חול גבול לים (ירמיה ה כב), ועד שלא נקוו המים נבראו התהומות, ואלו הן התהומות, אלו שמתחת לארץ, שהארץ על התהומות היא נרקעת כאניה שהיא צפה בלב ים, כך הארץ מרוקעת, על המים, שנאמר לרוקע הארץ על המים (תהלים קלו ו)], ולהיכן הלכו אותן המים ר' ברכיה בשם ר' יודן בן לוי ור' יהודה [הלוי] ב\"ר שלום אמר לשתי קערות בשעה שאחת מלאה ואחת ריקנית, [מפנה המלאה לתוך ריקנית], אבל אם היו שתיהן מלאות מה הוא יכול לעשות, הנודות שהן נפוחות ממלאות את הטרקלין, ובשעה שהרוח יוצא מהן, הן נפנות למקום אחד, כך היה כל העולם מלא מים במים, מה עשה הקב\"ה כבש עליהן ויצאה הרוח מהן, שנאמר הן יעצר במים ויבשו (איוב יב טו), וכן הוא אומר ודורך על (במותי) [במתי] ים (שם /איוב/ ט ח), ואומר כונס כנד מי הים (תהלים לג ז), ולהיכן הלכו, ר' לוי אמר מלחשים אלו באלו ואמרו להיכן נלך, והקב\"ה אומר להם דרך ים [דרך ים, ר' אבא בר כהנא אמר] להדך פלן להדך פלן, ר' הונא אמר להדך ימא להדך ימא, [אמר ר' ברכיה בשם ר' עזאי קולו של הקב\"ה היה מטטור לפניהם], שנאמר קול ה' על המים, הוי ישאו נהרות דכים.",
+    "abstract": "God pressed upon the primordial waters, moving them away from the land.",
     "decontextualized_reception": [
       {
         "id": 22309,
@@ -6062,9 +6772,15 @@
         "order": "142.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[כה] [כב, יג] סבבוני פרים רבים. אלו אוכלוסין של אחשורוש. אבירי בשן כתרוני, מכתרן לי, כמה דאת אמר כתרו את בנימן (שופטים כ מג). ר' אחא אמר אלו בניו של המן שממתינין לה עד שתפול, כמה דאת אמר רשע מכתיר את הצדיק (חבקוק א ד). פצו עלי פיהם אריה טורף ושואג. מה אריה גוהר על טרפו ומפספסו, כך אחשורוש גוהר עלי ומפספסני. כמים נשפכתי והתפרדו כל עצמותי. שלא נדבק בי עצם מעצמי. היה לבי כדונג. כהדין שעוותא. יבש כחרש כחי. כחרש הזה שאין בו לחלוחית. ולשוני (מדובק) [מודבק]. מלקוחי. [שנדבק לשוני לוושטי]. למה נקרא מלקחיים, שהן כמין מלקחיים ליקח את האוכל, וזה החיך, מן הדא תדבק לשוני לחכי (תהלים קלז ו), וכתיב וחך אוכל יטעם לו (איוב יב יא). דבר אחר ולשוני מודבק מלקוחי. שהוא דבוק לחכי, שביטלני משתי תורות, תורה שבכתב ותורה שבעל פה, כמה דאת אמר כי לקח טוב נתתי לכם (משלי ד ב). ולעפר מות תשפתני. למה אני דומה לכירה שהיא מונחת בפרשת דרכים, והיו עוברין ושבין שופתין קדירותיהן עליה",
+    "abstract": "Proof for reading, \"roof of mouth\".",
+    "decontextualized_reception": [
+      {
+        "id": 22358,
+        "value": "Hapax legomenon",
+        "color": "light-red"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -6095,12 +6811,24 @@
         "order": "140.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[א] [סח, א] למנצח (מזמור) לדוד [מזמור] יקום אלהים יפוצו אויביו. זהו שאמר הכתוב בקום (רשע) [רשעים] יסתר אדם [ובאבדם ירבו צדיקים] (משלי כח כח), למה שהקב\"ה דן בהם את הצדיקים, כשהרשעים מושלים אין לצדיקים קומה זקופה, ולא פתחון פה, אבדו הרשעים רבו הצדיקים, לכך נאמר בקום (רשע) [רשעים] יסתר אדם [ובאבדם ירבו צדיקים]. וכן דבורה אומרת כן יאבדו כל אויביך ה' [ואוהביו כצאת השמש בגבורתו] (שופטים ה לא), אבדו הרשעים, מיד ואוהביו כצאת השמש בגבורתו. וכן דוד אמר אשמרה לפי מחסום בעוד רשע לנגדי (תהלים לט ב), מכאן שאין לצדיקים פתחון פה וקומה זקופה לפני הרשעים, אמר דוד עשה להם כמו שעשית לראשונים, כשם שאמר לך משה קומה ה' ויפוצו אויביך (במדבר י לה), כן עשה להם, יקום אלהים יפוצו אויביו (/תהלים ס\"ח/ פסוק ב), וכן צופר הנעמתי אמר ועיני רשעים תכלינה ומנוס אבד מנהם (איוב יא כ), אין להם מנוסה להיכן נסים, ותקותם מפח נפש (שם שם /איוב י\"א/), וכן ירמיה אמר יאבדו מארעא (ומתחות) [ומן תחות] שמיא אלה (ירמיה י יא), לכך נאמר יקום אלהים יפוצו אויביו.",
+    "abstract": "The wicked cannot escape judgment.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
-    "quotation_and_speakers": [],
+    "quotation_and_speakers": [
+      {
+        "id": 22364,
+        "value": "Zophar",
+        "color": "light-brown"
+      }
+    ],
     "classic_parallels": ""
   },
   "207": {
@@ -6128,11 +6856,17 @@
         "order": "139.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ח] [ה, ו] לא יתיצבו הוללים לנגד עיניך. אלו שלבם מלא הוללות דבר אחר הוללים, אלו שמביאין (יללה) [אללי] לעולם. דבר אחר הוללים ערבוביא, כמה דאת אמר לשחוק אמרתי מהולל (קהלת ב ב). אמר ר' יששכר אדם עומד ומחרף ועושה גדושין של עבירות, ואומר הקב\"ה יעשה תשובה, וראוי לו כאילו לא חטא, הדא הוא דכתיב וירא און ולא יתבונן (איוב יא יא). ר' סימון פתר קריא בישמעאל, ויפקח אלהים את עיניה ותרא באר מים (בראשית כא יט), [בשעה שהגלה נבוכדנאצר את ישראל, היו ידיהם כפותין לאחוריהם, ונתונין בשלשלאות, והולכין ערומים כבהמות, כיון שעברו על בני ישמעאל, אמרו להגמונים עשו עמנו חסד להעבירונו על אחינו בני ישמעאל, ועשו כן, ויצאו לקראתם בפת וציר עמה, ונאדות ריקים נפוחים, כשראו ישראל כך היו סבורים שהיו מלאים מים, והיו נושכים בשיניהם באותן נודות, ונכנס הרוח במיעיהם ומתו]. אמרו מלאכי השרת לפני הקב\"ה רבונו של עולם אדם שהוא עתיד להמית בניך בצמא אתה מעלה לו את הבאר, הוא שאמר ישעיה משא בערב [וגו' לקראת צמא התיו מים] (ישעיה כא יג), אמר להם הקב\"ה עכשיו מה הוא צדיק או רשע, אמרו לו צדיק, אמר להן איני דן את האדם אלא לפי מעשיו של אותה שעה, שנאמר באשר הוא שם (בראשית כא יז), ולא כשעה שהוא עתיד להיות שם. ר' חנינא [בר פפא] פתר קריא בירבעם, [ושניהם לבדם בשדה (מ\"א =מלכים א'= יא כט)], שהוא שקול כאחיה השילוני, שנאמר וישבו שניהם יחדו, שישבו לברר מעשי מרכבה, ועמדו מלאכי השרת לפני הקב\"ה ואמרו לפניו רבש\"ע אדם שהוא עתיד להעמיד שני עגלים, אתה מגלה לו מעשה מרכבה, אמר להן עכשיו מה הוא צדיק או רשע, אמרו לו צדיק, אמר להן איני דן את האדם אלא לפי שעתו. שנאת כל פועלי און. זה דואג ואחיתופל, שהיתה פעולתן אמת, ועשו אותה של שקר.",
+    "abstract": "God treats those who repent as if He never saw their wrongdoing.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "// EikhaR",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -6205,11 +6939,17 @@
         "order": "138.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[יא] [קיט, כ] גרסה נפשי לתאבה אל משפטך בכל עת. מהו גרסה נפשי, א\"ל לא היה להרחיק פרשה אחת הייתי פותח את הפרשה והייתי רואה היפה הימנה לא היה לי פנאי להרחיק, ובשביל כן הייתי גורס, אלא מי יוכל להרחיק, שכבר נאמר ארוכה מארץ מדה ורחבה מני ים (איוב יא ט), בשביל כן הייתי גורס אותה, לכך נאמר גרסה וגו'.",
+    "abstract": "Studying one parasha at a time is enough, as the Torah is vaster than the earth and the sea.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "See 104:22",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -6281,11 +7021,17 @@
         "order": "138.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[כב] דבר אחר [קד, כה] זה הים גדול ורחב ידים. זו תורה, שנאמר ארוכה מארץ מדה ורחבה מני ים (איוב יא ט). שם רמש ואין מספר. אלו המסכתות. ויש אומרים אלו המשניות דבר קפרא ודרב חייא ודרב ודרבנן בבלאי. חיות קטנות עם גדולות. אלו התלמידים הקטנים עם הגדולים. שם אניות יהלכון. אלו בני התלמידים זה אומר טהור וזה אומר טמא, דמנהגין עלמא כספינתא הדא. לויתן זה יצרת לשחק בו. שכל מי שמתלוה עמהם עתיד לשחק עמהם לעתיד לבא.",
+    "abstract": "The Torah as a sea, part of an allegory where the ocean represents the rabbinic world.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "// 18:21. More so // 119:11",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -6314,11 +7060,22 @@
         "order": "138.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[כא] [יח, יח] יצילני מאויבי עז. ר' סימון פתר לה בחדש השלישי, יצילני מאויבי עז, זה פרעה, שנאמר אמר אויב (שמות טו ט). ומשנאי כי אמצו ממני. אלו המצריים. יקדמוני ביום אידי. זה עמלק, [שנאמר אשר קרך בדרך (דברים כה יח)]. ויהי ה' למשען לי. וידי משה כבדים (שמות יז יב), ויחלוש יהושע (שם שם /שמות י\"ז/ יג). ויוציאני למרחב. שנתן לי את התורה שנקראת רחבה, שנאמר ארוכה מארץ מדה ורחבה מני ים (איוב יא ט). יחלצני כי חפץ בי. שהציל אותי מן המגפה, וכפר לי עון העגל. יגמלני ה' כצדקי. מדבר בשבט לוי שלא היה באותו מעשה, מהו כבור ידי ישיב לי, [אמר ר' פנחס כברירות שעשו ידי ישיב לי]. כי שמרתי דרכי ה'. במעשה העגל. ולא רשעתי מאלהי. ויעמוד משה בשער המחנה [ויאמר מי לה' אלי] (שמות לב כו). ר' ברכיה בשם ר' שמעון בן לקיש אמר מאן לא בעי מיהוי קריבו דמלכא, אלא כיון שאמר מי לה' אלי, מי שלא נתן נזם לעגל יבא אלי, מיד ויאספו אליו כל בני לוי (שמות שם /ל\"ב/). כי כל משפטיו לנגדי. יורו משפטיך ליעקב (דברים לג י). וחקותיו לא אסיר מני. ודרשת והגידו לך את דבר המשפט (דברים יז ט). ואהי תמים עמו. וללוי אמר תמיך ואוריך (דברים לג ח), מאי טעמא, בשביל ואשתמר מעוני. וישב ה' לי כצדקי. על כן לא היה ללוי חלק ונחלה עם אחיו ה' הוא נחלתו (דברים י ט). כבור ידי (ישיב לי) [לנגד עיניו]. והיתה לו ולזרעו אחריו (במדבר כה יג). עם חסיד תתחסד. לאיש חסידך (דברים לג ח). עם גבר תמים. שזכה ללבוש אורים ותומים",
+    "abstract": "The Torah is wider than the sea, during the Exodus.",
+    "decontextualized_reception": [
+      {
+        "id": 22311,
+        "value": "Exodus",
+        "color": "light-orange"
+      },
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
     "narrative_reception": [],
-    "points_of_note": "",
+    "points_of_note": "// 104:22",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   },
@@ -6429,9 +7186,15 @@
         "order": "117.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[א] [מו, א] למנצח לבני קרח על עלמות שיר. זהו שאמר הכתוב עושה גדולות עד אין חקר ונפלאות עד אין מספר (איוב ט י), אין אדם יכול לספר גדולותיו ונפלאותיו של הקב\"ה, וכן הוא אומר לעושה נפלאות גדולות לבדו (תהלים קלו ד), מהו לבדו, הוא לבדו יודע מה שעושה לך, כך בני קרח אמרו על עלמות שיר, מעולמין הן הדברים שראינו, ואין אנו יודעין מה ראינו. דבר אחד על עלמות שיר. שני עולמות ראינו, עולמות של צדיקים, ועולמות של רשעים, ראו עיניהם דינן של אותם הבוטחים על חילם ובעשרם, שנאמר הבוטחים על חילם וברב עשרם יתהללו (תהלים מט ז), אותה שעה מה הם יכולים לעשות אין עשרם עמד להם, וכן הוא אומר גם כספם גם זהבם לא יוכל להצילם (צפניה א יח), ואל יאמר אדם אבי כשר היה, הריני ניצול בשבילו, אחי צדיק היה הוא ימלטני, אין אברהם מציל לישמעאל, ולא יעקב מציל לעשו, וכתיב אח לא פדה יפדה איש (תהלים מט ח), מהו אח, הצדיק אומר על אותו היום שרואה בנו או אחיו נידון לגיהנם, אח כמה קשה אותו היום, ואין יכול לפדותו, לכך נאמר אח לא פדה יפדה איש. ויקר פדיון נפשם (שם שם /תהלים מ\"ט/ ט). אמרו לפני הקב\"ה ולמה הוא יקר, אמר להם הקב\"ה לא אמרתי לכם קחו אותי עד שהוא בזול, אני אמרתי ושוחד לא תקח (שמות כג ח), ואני אמרתי לכם תנו לי שוחד ואני מקבל מכם, שנאמר שוחד מחיק רשע יקח (משלי יז כג), אילו נתתם לי באותה שעה הייתי מקבל, עכשיו איני מקבל, לכך ויקר פדיון נפשם. וחדל לעולם (תהלים שם /מ\"ט/). מי שהוא חדל באותו יום, לא ליום ולא לשנה, אלא וחדל לעולם. ויחי עוד לנצח לא יראה השחת (שם שם /תהלים מ\"ט/ י). ולהיכן הם הולכין לשאול. כצאן לשאול שתו מות ירעם וירדו בם ישרים לבקר (שם שם /תהלים מ\"ט/ טו). מהו לבקר, מלמד שהיו צדיקים יורדין בבקר ומבקרין אותם, אמרו לבני קרח מה הצדיקים עושים אותה שעה אומרים שירה, שנאמר אלהים לנו מחסה ועוז (שם /תהלים/ מו ב), כל צרה וצרה שמגעת אלינו נמצא לנו, מלך בשר ודם אומרים לו עזור בצרה, ואינו יודע לעשות עד שיגיע אצלו, אבל הקב\"ה אינו כן, עזרה בצרות נמצא מאוד (שם שם /תהלים מ\"ו/), שכל צרה וצרה שמגעת אלינו נמצא לנו, וכן הוא אומר עמו אנכי בצרה אחלצהו ואכבדהו (שם /תהלים/ צא טו).",
+    "abstract": "No one can fully recount all of God’s wonders and amazing deeds.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -6440,14 +7203,31 @@
   "216": {
     "id": 216,
     "order": "182.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I, 7:5"
+      }
+    ],
     "hiob_id": "hiob_mention_216",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "passages": "7:5",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "He who refuses to lend his vessels will become a leper.",
+    "decontextualized_reception": [
+      {
+        "id": 23371,
+        "value": "Charity",
+        "color": "dark-red"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -6478,9 +7258,15 @@
         "order": "114.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ה] תניא ר' יוסי אומר אוי להם לבריות שרואות ואינם יודעים מה רואות, עומדין ואינם יודעין על מה עומדים, הארץ על מה היא עומדת, על העמודים, שנאמר המרגיז ארץ ממקומה ועמודיה יתפלצון (איוב ט ו), ועמודים על המים, שנאמר לרוקע הארץ על המים, ומים על ההרים, שנאמר על הרים יעמדו מים (תהלים קד ו), והרים על הרוח, שנאמר כי (הנני) [הנה] יוצר הרים ובורא רוח (עמוס ד יג), ורוח בסערה, שנאמר רוח סערה עושה דברו (תהלים קמח ח), וסערה תלוי בזרועו של הקב\"ה, שנאמר ומתחת זרועות עולם (דברים לג כז), וחכמים אומרים על י\"ב עמודים עומדת, שנאמר יצב גבולות עמים למספר בני ישראל (שם /דברים/ לב ח), וי\"א על ז' עמודים עומדת [שנאמר חצבה עמודיה שבעה (משלי ט א)], ר' אלעזר בן שמוע אומר על עמוד א' עומדת, וצדיק שמו, שנאמר וצדיק יסוד עולם (שם /משלי/ י כה).",
+    "abstract": "The Earth stands on pillars-stilts.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -6505,9 +7291,15 @@
     ],
     "passages": "72:4",
     "verses": [],
-    "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "quote": "[ד] דבר אחר [עב, ב] ידין עמך בצדק. אמר ר' יוסי בר חלפתא בכל בוקר ובוקר אדם נידון, שנאמר ותפקדנו לבקרים (איוב ז יח). ישפוט עניי עם יושיע (עני ואביון) [לבני אביון]. כמה שנאמר ושפט בצדק דלים (ישעיה יא ד). ייראוך עם שמש. בעולם הזה שצריכין לאור החמה. ולפני ירח דור דורים. פנים בפנים כנגד הירח קודם שיסתלק אורו, שנאמר וחפרה הלבנה ובושה החמה (שם /ישעיהו/ כד כג), ואומר לא יהיה לך [עוד] השמש לאור יומם [ולנוגה הירח לא יאיר לך] (שם /ישעיהו/ ס יט). מהו דור דורים. דור שאין אחריו דור. דבר אחר ייראוך עם שמש. זו תפלת השחר שקורין קריאת שמע עם הנץ החמה. ולפני ירח. זו תפלת המנחה שצריכה קודם שיחשיך ויצטרך העולם לאור הירח. רבותינו אמרו ייראוך עם שמש. זו תפלה של בין הערבים",
+    "abstract": "God reassesses each person every morning.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -6539,7 +7331,7 @@
       }
     ],
     "quote": "[ב] דבר אחר [קיד, א] [בצאת ישראל ממצרים זהו שאמר הכתוב] שירו (לו) [לאלהים] זמרו שמו סולו לרוכב בערבות (תהלים סח ה), מה שירו, צפו לאלהים, כמו שנאמר לא תשורני עין רואי (איוב ז ח). דבר אחר אמרו לפניו שירים וזמרים, מהו סולו, ר' יהודה אמר קילסו, ר' נחמיה אמר שפרו לפניו דרכיכם, כענין שנאמר סולו סולו המסלה (ישעיה סב י). לרוכב בערבות. רבנן אמרו שני רקיעין הם, שנאמר לרוכב בשמי שמי קדם (תהלים סח לד). רבותינו אמרו שלש, שנאמר השמים ושמי השמים (מ\"א =מלכים א'= ח כז), ר' אלעזר אומר שבעה הן, וילון רקיע שחק זבול מעון מכון ערבות, וכבודו של הקב\"ה בערבות, אמר ר' חלפתא בן יעקב בשם ר' יהודה בר סימון ראה הקב\"ה מעשיהן של צדיקים, וערב עליו מעשיהם. אמר ר' פנחס הכהן בר חמא הרקיע ששמו ערבות הקב\"ה זורע מעשה הצדיקים והם עושים פירות, שנאמר כי פרי מעלליהם יאכלו (ישעיה ג י).",
-    "abstract": "",
+    "abstract": "Shiru is not song but to look to God.",
     "decontextualized_reception": [
       {
         "id": 22358,
@@ -6798,14 +7590,31 @@
   "226": {
     "id": 226,
     "order": "192.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I, 8:9"
+      }
+    ],
     "hiob_id": "hiob_mention_226",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "passages": "8:9",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Converts after death.",
+    "decontextualized_reception": [
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -7009,14 +7818,31 @@
   "232": {
     "id": 232,
     "order": "198.00000000000000000000",
-    "mention": [],
+    "mention": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I, 9:1"
+      }
+    ],
     "hiob_id": "hiob_mention_232",
-    "midrash": [],
-    "passages": "",
+    "midrash": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "passages": "9:1",
     "verses": [],
     "quote": "",
-    "abstract": "",
-    "decontextualized_reception": [],
+    "abstract": "Wicked as the adulteress.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
     "quotation_and_speakers": [],
@@ -7085,6 +7911,1791 @@
     "decontextualized_reception": [],
     "narrative_reception": [],
     "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "236": {
+    "id": 236,
+    "order": "202.00000000000000000000",
+    "mention": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I, 10:1"
+      }
+    ],
+    "hiob_id": "hiob_mention_236",
+    "midrash": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "passages": "10:1",
+    "verses": [],
+    "quote": "",
+    "abstract": "Fear of God as wisdom.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
+    "narrative_reception": [
+      {
+        "id": 23368,
+        "value": "Job's Faith",
+        "color": "darker-green"
+      }
+    ],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "237": {
+    "id": 237,
+    "order": "203.00000000000000000000",
+    "mention": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I, 11:2"
+      }
+    ],
+    "hiob_id": "hiob_mention_237",
+    "midrash": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "passages": "11:2",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "R. Moshe?",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "238": {
+    "id": 238,
+    "order": "204.00000000000000000000",
+    "mention": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I, 12:3"
+      }
+    ],
+    "hiob_id": "hiob_mention_238",
+    "midrash": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "passages": "12:3",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 22366,
+        "value": "Moses narrative",
+        "color": "dark-brown"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "239": {
+    "id": 239,
+    "order": "205.00000000000000000000",
+    "mention": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I, 13:4"
+      }
+    ],
+    "hiob_id": "hiob_mention_239",
+    "midrash": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "passages": "13:4",
+    "verses": [],
+    "quote": "",
+    "abstract": "Judah fits Job's depiction of the wise.",
+    "decontextualized_reception": [
+      {
+        "id": 22389,
+        "value": "Praises for the Jews",
+        "color": "darker-red"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "240": {
+    "id": 240,
+    "order": "206.00000000000000000000",
+    "mention": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I, 14:1"
+      }
+    ],
+    "hiob_id": "hiob_mention_240",
+    "midrash": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "passages": "14:1",
+    "verses": [],
+    "quote": "",
+    "abstract": "The great assembly was prevented by a verse from Job from adding Solomon to the list of Mishnaic damned.",
+    "decontextualized_reception": [
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "241": {
+    "id": 241,
+    "order": "207.00000000000000000000",
+    "mention": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I, 14:22"
+      }
+    ],
+    "hiob_id": "hiob_mention_241",
+    "midrash": [
+      {
+        "id": 40,
+        "value": "Numbers Rabbah I",
+        "order": "16.00000000000000000000"
+      }
+    ],
+    "passages": "14:22",
+    "verses": [],
+    "quote": "",
+    "abstract": "How Moses’ revelation worked.",
+    "decontextualized_reception": [
+      {
+        "id": 22366,
+        "value": "Moses narrative",
+        "color": "dark-brown"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "242": {
+    "id": 242,
+    "order": "208.00000000000000000000",
+    "mention": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II, 15:21"
+      }
+    ],
+    "hiob_id": "hiob_mention_242",
+    "midrash": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "passages": "15:21",
+    "verses": [],
+    "quote": "",
+    "abstract": "Murder of elders during Godlen Calf episode.",
+    "decontextualized_reception": [
+      {
+        "id": 22311,
+        "value": "Exodus",
+        "color": "light-orange"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "243": {
+    "id": 243,
+    "order": "209.00000000000000000000",
+    "mention": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms, 19:4"
+      }
+    ],
+    "hiob_id": "hiob_mention_243",
+    "midrash": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "passages": "19:4",
+    "verses": [
+      {
+        "id": 433,
+        "value": "38:37",
+        "order": "411.00000000000000000000"
+      }
+    ],
+    "quote": "[ד] [דבר אחר [יט, ב] השמים מספרים כבוד אל]. זהו שאמר הכתוב מי יספר שחקים (בגאוה) [בחכמה] ונבלי שמים מי ישכיב (איוב לח לז), אמר ר' שמואל בר אבא ידע אנא בשבילי דרקיע כשבילי דנהרדעא, וכי שמואל עלה לרקיע, אלא על ידי שהוא יגע בחכמתה של תורה, למד מתוכה מה שיש בשחקים. אמר ר' הושעיא כחלל שבין מים התחתונים לרקיע, כך יש חלל בין מים העליונים לרקיע. אמר ר' פנחס [הכהן] בר חמא מקרא מלא הוא, שנאמר ויעש אלהים את הרקיע ויבדל בין המים אשר מתחת לרקיע ובין המים אשר מעל לרקיע (בראשית א ז), אשר על הרקיע אינו אומר, אלא אשר מעל לרקיע, [שמים העליונים תלוים באויר ומזיע המים העליונים הגשמים יורדין], שנאמר משקה הרים מעליותיו (תהלים קד יג), וכי ר' הושעיא עלה לרקיע, אלא על ידי שהיה יגע בחכמתה של תורה, למד מתוכה כל מה שיש ברקיע.",
+    "abstract": "Who can know what is in the heavens.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Polemic against Hekhalot mysticism, possibly also against the Bavli.",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "244": {
+    "id": 244,
+    "order": "210.00000000000000000000",
+    "mention": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms, 19:6"
+      }
+    ],
+    "hiob_id": "hiob_mention_244",
+    "midrash": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "passages": "19:6",
+    "verses": [
+      {
+        "id": 243,
+        "value": "20:27",
+        "order": "221.00000000000000000000"
+      }
+    ],
+    "quote": "[ו] דבר אחר [יט, ב] השמים מספרים כבוד אל. [אמר ר' יעקב בן זבדי] משל לגבור שנכנס במדינה, ולא היו יודעין גבורתו, אמר להם פקח אחד, מאבנא דהוא מתגושש בה, אתם יודעין כח גבורתו, כך מן השמים אנו למדין כחו של הקב\"ה, אמר ר' יהושע בן לוי לפי שהוא אומר את השמים ואת הארץ אני מלא (ירמיה כג כד), יכול שכבודו מלא עליונים ותחתונים, והלא כבר נאמר כי אראה שמיך מעשה אצבעותיך ירח וכוכבים אשר כוננתה (תהלים ח ד), אין בה אלא כדי משמוש אצבעו של הקב\"ה, משל למלך שהיה מתח וילון על פתח פלטין שלו, אמר המלך כל מי שהוא חכם, יאמר מה השלמה הזאת, כל מי שהוא עשיר, יעשה כמותה, וכל מי שהוא גבור יגע בה, כך הקב\"ה מתח את השמים כדוק של עין, שנאמר הנוטה כדוק שמים (ישעיה מ כב), מלמד שפירשו כמין וילון, אמר הקב\"ה כל מי שהוא חכם יאמר מה השלמה הזאת, וכל מי שהוא עשיר יעשה כמוה, וכל מי שהוא גבור יבא ויגע בה. אמר ר' פנחס הכהן בר חמא ממה שהשמים מורידין [גשמים], והארץ מגדלת, והבריות אוכלין ומקלסין להקב\"ה, לפיכך השמים מספרים כבוד אל, חס ושלום כשישראל חטאו מה כתיב, יגלו שמים עונו (איוב כ כז), כיצד וחרה אף ה' בכם ועצר את השמים (דברים יא יז), וכשישראל זוכין מה כתיב, יפתח ה' לך את אוצרו הטוב את השמים (שם /דברים/ כח יב).",
+    "abstract": "When the Jews sin, God witholds rain. thus, the sky reveals inequity.",
+    "decontextualized_reception": [
+      {
+        "id": 23365,
+        "value": "rain",
+        "color": "dark-cyan"
+      },
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "245": {
+    "id": 245,
+    "order": "211.00000000000000000000",
+    "mention": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms, 19:13"
+      }
+    ],
+    "hiob_id": "hiob_mention_245",
+    "midrash": [
+      {
+        "id": 38,
+        "value": "Midrash Psalms",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "passages": "19:13",
+    "verses": [
+      {
+        "id": 383,
+        "value": "34:22",
+        "order": "361.00000000000000000000"
+      }
+    ],
+    "quote": "[יג] [יט, ז] מקצה השמים מוצאו. שבאחד בתקופת תמוז אין צל לכל בריה תחתיו. ותקופתו על קצותם. רבנן אמרי יש גיהנם לעתיד לבא, שנאמר אשר אור לו בציון (ישעיה לא ט). ר' ינאי ור' שמעון בן לקיש אמרי תרווייהו אין גיהנם לעתיד לבא, אלא השמש הזה מלהט את הרשעים, שנאמר כי הנה היום בא בוער כתנור (מלאכי ג יט). את מוצא שהוא נתון בנרתיק, ונתון בגלגל, ובריכה של מים שעל גבי הרקיע עוברת תחתיו, והוא מפשר חמתו במים אשר מעל לרקיע, ואף על פי כן אין נסתר מחמתו, ומה עושה הקב\"ה ליום הדין, מוציא החמה ושולף אותה מנרתיקה, ומביאה לרקיע השני, ודן בה את הרשעים והוא שורפן, שנאמר כי הנה היום בא בוער כתנור (שם /מלאכי ג'/). אמר ר' יהושע בן לוי הקב\"ה צדקה עשה עם כל באי עולם שלא נתנו ברקיע הראשון, שאלמלי נתנו ברקיע הראשון, לא היה צל לכל בריה תחתיו, שנאמר אין נסתר מחמתו, ולמי שהוא עוסק בתורה מה כתיב בתריה, תורת ה' תמימה משיבת נפש, וכן הוא אומר אין חשך ואין צלמות להסתר שם פועלי און (איוב לד כב), ומי נסתר, מי שעוסק בתורה, שנאמר זכרו תורת משה עבדי (מלאכי ג כב), וכתיב תורת ה' תמימה משיבת נפש, שעמדה לפניו לשיבתו לתחיית המתים, כמה דאת אמר והיה לך למשיב נפש (רות ד טו).",
+    "abstract": "Nowhere to hide form the fire in Hell in the World to Come. Torah saves.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      },
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Contrast Bavli",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "246": {
+    "id": 246,
+    "order": "212.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 1, 7 [2]"
+      }
+    ],
+    "hiob_id": "hiob_mention_246",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "1, 7 [2]",
+    "verses": [],
+    "quote": "",
+    "abstract": "The wind in Job 1 is like in Jonah.",
+    "decontextualized_reception": [
+      {
+        "id": 23365,
+        "value": "rain",
+        "color": "dark-cyan"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "// Bavli",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "247": {
+    "id": 247,
+    "order": "213.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 2:1 [2]"
+      }
+    ],
+    "hiob_id": "hiob_mention_247",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "2:1 [2]",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      },
+      {
+        "id": 22381,
+        "value": "Sodom",
+        "color": "brown"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "248": {
+    "id": 248,
+    "order": "214.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 3:1 [20]"
+      }
+    ],
+    "hiob_id": "hiob_mention_248",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "3:1 [20]",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Snow",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "249": {
+    "id": 249,
+    "order": "215.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 3:1 [10]"
+      }
+    ],
+    "hiob_id": "hiob_mention_249",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "3:1 [10]",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "250": {
+    "id": 250,
+    "order": "216.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 3:1 [16]"
+      }
+    ],
+    "hiob_id": "hiob_mention_250",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "3:1 [16]",
+    "verses": [],
+    "quote": "",
+    "abstract": "The hands of God.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "251": {
+    "id": 251,
+    "order": "217.00000000000000000000",
+    "mention": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II, 17:2"
+      }
+    ],
+    "hiob_id": "hiob_mention_251",
+    "midrash": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "passages": "17:2",
+    "verses": [],
+    "quote": "",
+    "abstract": "Job's suffering was intended for Abraham, but the Akedah prevented it.",
+    "decontextualized_reception": [],
+    "narrative_reception": [
+      {
+        "id": 22323,
+        "value": "Job's Suffering",
+        "color": "darker-pink"
+      }
+    ],
+    "points_of_note": "Comp. Bavli",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "252": {
+    "id": 252,
+    "order": "218.00000000000000000000",
+    "mention": [
+      {
+        "id": 37,
+        "value": "Exodus Rabbah II, 18:3"
+      }
+    ],
+    "hiob_id": "hiob_mention_252",
+    "midrash": [
+      {
+        "id": 37,
+        "value": "Exodus Rabbah II",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "passages": "18:3",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 22358,
+        "value": "Hapax legomenon",
+        "color": "light-red"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "253": {
+    "id": 253,
+    "order": "219.00000000000000000000",
+    "mention": [
+      {
+        "id": 37,
+        "value": "Exodus Rabbah II, 19:1"
+      }
+    ],
+    "hiob_id": "hiob_mention_253",
+    "midrash": [
+      {
+        "id": 37,
+        "value": "Exodus Rabbah II",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "passages": "19:1",
+    "verses": [],
+    "quote": "",
+    "abstract": "Ways God makes pure for impure.",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "254": {
+    "id": 254,
+    "order": "220.00000000000000000000",
+    "mention": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II, 19:33"
+      }
+    ],
+    "hiob_id": "hiob_mention_254",
+    "midrash": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "passages": "19:33",
+    "verses": [],
+    "quote": "",
+    "abstract": "Death of Moses.",
+    "decontextualized_reception": [
+      {
+        "id": 22366,
+        "value": "Moses narrative",
+        "color": "dark-brown"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Comapre Deut. Rab.",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "255": {
+    "id": 255,
+    "order": "221.00000000000000000000",
+    "mention": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II, 20:9, 11, 12"
+      }
+    ],
+    "hiob_id": "hiob_mention_255",
+    "midrash": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "passages": "20:9, 11, 12",
+    "verses": [],
+    "quote": "",
+    "abstract": "Balaam's inferior prophecy.",
+    "decontextualized_reception": [
+      {
+        "id": 22366,
+        "value": "Moses narrative",
+        "color": "dark-brown"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Comp. Tanhuma and Nir, S. Characterization in Midrash and Medieval Jewish Bible \nCommentaries.” Bible and Its Reception 8, ed. Robert Paul \nSeesengood (Atlanta: SBL Press, December 2024), Chp. 2.",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "256": {
+    "id": 256,
+    "order": "222.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 5:1 [2]"
+      }
+    ],
+    "hiob_id": "hiob_mention_256",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "5:1 [2]",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      },
+      {
+        "id": 22381,
+        "value": "Sodom",
+        "color": "brown"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "257": {
+    "id": 257,
+    "order": "223.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 5:4 [24]"
+      }
+    ],
+    "hiob_id": "hiob_mention_257",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "5:4 [24]",
+    "verses": [],
+    "quote": "",
+    "abstract": "List about Torah sudy",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "258": {
+    "id": 258,
+    "order": "224.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 5:1 [10]"
+      }
+    ],
+    "hiob_id": "hiob_mention_258",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "5:1 [10]",
+    "verses": [],
+    "quote": "",
+    "abstract": "Dress in Hell.",
+    "decontextualized_reception": [
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "259": {
+    "id": 259,
+    "order": "225.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 7:4 [3]"
+      }
+    ],
+    "hiob_id": "hiob_mention_259",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "7:4 [3]",
+    "verses": [],
+    "quote": "",
+    "abstract": "Names of the Midwives.",
+    "decontextualized_reception": [
+      {
+        "id": 22311,
+        "value": "Exodus",
+        "color": "light-orange"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "260": {
+    "id": 260,
+    "order": "226.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 7:3"
+      }
+    ],
+    "hiob_id": "hiob_mention_260",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "7:3",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      },
+      {
+        "id": 22381,
+        "value": "Sodom",
+        "color": "brown"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "261": {
+    "id": 261,
+    "order": "227.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 8:10"
+      }
+    ],
+    "hiob_id": "hiob_mention_261",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "8:10",
+    "verses": [],
+    "quote": "",
+    "abstract": "The wicked shall reamin dead.",
+    "decontextualized_reception": [
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "262": {
+    "id": 262,
+    "order": "228.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 9:1 [2]"
+      }
+    ],
+    "hiob_id": "hiob_mention_262",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "9:1 [2]",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "263": {
+    "id": 263,
+    "order": "229.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 9:11 [1]"
+      }
+    ],
+    "hiob_id": "hiob_mention_263",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "9:11 [1]",
+    "verses": [],
+    "quote": "",
+    "abstract": "Job wealth was so blessed his sheep and goats killed wolves.",
+    "decontextualized_reception": [],
+    "narrative_reception": [
+      {
+        "id": 22392,
+        "value": "Job's Charity",
+        "color": "orange"
+      }
+    ],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "264": {
+    "id": 264,
+    "order": "230.00000000000000000000",
+    "mention": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah, 12:1 [6]"
+      }
+    ],
+    "hiob_id": "hiob_mention_264",
+    "midrash": [
+      {
+        "id": 34,
+        "value": "Ecclesiastes Rabbah",
+        "order": "10.00000000000000000000"
+      }
+    ],
+    "passages": "12:1 [6]",
+    "verses": [],
+    "quote": "",
+    "abstract": "Decomposition.",
+    "decontextualized_reception": [
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "265": {
+    "id": 265,
+    "order": "231.00000000000000000000",
+    "mention": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II, 21:2"
+      }
+    ],
+    "hiob_id": "hiob_mention_265",
+    "midrash": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "passages": "21:2",
+    "verses": [],
+    "quote": "ב [כז, טו - טז] וידבר משה אל ה' יפקוד ה' וגו', הלכה אם ראה הרבה אוכלוסין של בני אדם אומר בא\"י אלהינו מלך העולם חכם הרזים, כשם שאין פרצופותיהן דומין זה לזה כך אין דעתן שוין זה לזה אלא כל אחד ואחד יש לו דעה בפני עצמו וכה\"א (איוב כח) לעשות לרוח משקל לרוחות של כל בריה ובריה, תדע לך שהוא כן שכן משה מבקש מן הקב\"ה בשעת מיתה אמר לפניו רבש\"ע גלוי וידוע לפניך דעתן של כל אחד ואחד ואין דעתן של בניך דומין זה לזה וכשאני מסתלק מהן בבקשה ממך מנה עליהם מנהיג שיהא סובלם לאחד ואחד לפי דעתו שנאמר יפקד ה' הרוח אינו אומר אלא הרוחות זש\"ה (ישעיה מה) האותיות שאלוני על בני ועל פועל ידי תצוני, משל למה\"ד למלך שנשא אשה והיה לו שושבין, בכל זמן שהמלך כועס על אשתו השושבין מפייס ומתרצה המלך לאשתו, בא השושבין למות התחיל מבקש מן המלך בבקשה ממך תן דעתך על אשתך אמר לו המלך אם אתה מצוני על אשתי צוה את אשתי עלי שתהא זהירה בכבודי, כביכול כך אמר לו הקב\"ה על שאתה מצווני עליהם יפקד ה' צוה אותם שיהיו זריזין בכבודי מה כתיב (במדבר כח) צו את בני ישראל את קרבני לחמי תחלה הסדיר להן הקרבנות.",
+    "abstract": "Job is proof that God created each person's soul to be unique. Death of Moses follows.",
+    "decontextualized_reception": [
+      {
+        "id": 22309,
+        "value": "Creation",
+        "color": "dark-gray"
+      },
+      {
+        "id": 22366,
+        "value": "Moses narrative",
+        "color": "dark-brown"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "// Midr. Ps.",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "266": {
+    "id": 266,
+    "order": "232.00000000000000000000",
+    "mention": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II, 21:18"
+      }
+    ],
+    "hiob_id": "hiob_mention_266",
+    "midrash": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "passages": "21:18",
+    "verses": [],
+    "quote": "",
+    "abstract": "The Behemoth.",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": "Comp. Pirq. Rab. Eli.; Midr. Ps.. Pesiq. Rab."
+  },
+  "267": {
+    "id": 267,
+    "order": "233.00000000000000000000",
+    "mention": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II, 21:22"
+      }
+    ],
+    "hiob_id": "hiob_mention_267",
+    "midrash": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "passages": "21:22",
+    "verses": [],
+    "quote": "",
+    "abstract": "God only asks of people what they can do.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "268": {
+    "id": 268,
+    "order": "234.00000000000000000000",
+    "mention": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II, "
+      }
+    ],
+    "hiob_id": "hiob_mention_268",
+    "midrash": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "passages": "",
+    "verses": [],
+    "quote": "",
+    "abstract": "Positive fear of God. Job and Abraham.",
+    "decontextualized_reception": [],
+    "narrative_reception": [
+      {
+        "id": 23368,
+        "value": "Job's Faith",
+        "color": "darker-green"
+      }
+    ],
+    "points_of_note": "See also Deut. Rab. and Tanhcuma.",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "269": {
+    "id": 269,
+    "order": "235.00000000000000000000",
+    "mention": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II, 22:2, 5"
+      }
+    ],
+    "hiob_id": "hiob_mention_269",
+    "midrash": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "passages": "22:2, 5",
+    "verses": [],
+    "quote": "",
+    "abstract": "Moses struggled in vain to save himself from death.",
+    "decontextualized_reception": [
+      {
+        "id": 22366,
+        "value": "Moses narrative",
+        "color": "dark-brown"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "Contrast Moses' death narratives, such as Deut. Rab.",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "270": {
+    "id": 270,
+    "order": "236.00000000000000000000",
+    "mention": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II, 23:6"
+      }
+    ],
+    "hiob_id": "hiob_mention_270",
+    "midrash": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "passages": "23:6",
+    "verses": [],
+    "quote": "",
+    "abstract": "Job was implied to be righteous.",
+    "decontextualized_reception": [],
+    "narrative_reception": [
+      {
+        "id": 22324,
+        "value": "Job's Restoration",
+        "color": "gray"
+      }
+    ],
+    "points_of_note": "// Midr. Ps. but shorter here.",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "271": {
+    "id": 271,
+    "order": "237.00000000000000000000",
+    "mention": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II, 23:9"
+      }
+    ],
+    "hiob_id": "hiob_mention_271",
+    "midrash": [
+      {
+        "id": 36,
+        "value": "Numbers Rabbah II",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "passages": "23:9",
+    "verses": [],
+    "quote": "",
+    "abstract": "Beasts can teach one wisdom.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "272": {
+    "id": 272,
+    "order": "238.00000000000000000000",
+    "mention": [
+      {
+        "id": 35,
+        "value": "Pesiqta Rabbati, 26"
+      }
+    ],
+    "hiob_id": "hiob_mention_272",
+    "midrash": [
+      {
+        "id": 35,
+        "value": "Pesiqta Rabbati",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "passages": "26",
+    "verses": [],
+    "quote": "",
+    "abstract": "In dialogue with Mother Zion, Job serves as the precedent for the restoration of Jerusalem.",
+    "decontextualized_reception": [],
+    "narrative_reception": [
+      {
+        "id": 22324,
+        "value": "Job's Restoration",
+        "color": "gray"
+      }
+    ],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "273": {
+    "id": 273,
+    "order": "239.00000000000000000000",
+    "mention": [
+      {
+        "id": 49,
+        "value": "Pitron Torah, Vayikra"
+      }
+    ],
+    "hiob_id": "hiob_mention_273",
+    "midrash": [
+      {
+        "id": 49,
+        "value": "Pitron Torah",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "passages": "Vayikra",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "274": {
+    "id": 274,
+    "order": "240.00000000000000000000",
+    "mention": [
+      {
+        "id": 49,
+        "value": "Pitron Torah, Vayehi"
+      }
+    ],
+    "hiob_id": "hiob_mention_274",
+    "midrash": [
+      {
+        "id": 49,
+        "value": "Pitron Torah",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "passages": "Vayehi",
+    "verses": [],
+    "quote": "",
+    "abstract": "God makes pure from impure.",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "Comp. Num. Rab.",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "275": {
+    "id": 275,
+    "order": "241.00000000000000000000",
+    "mention": [
+      {
+        "id": 49,
+        "value": "Pitron Torah, Vayedaber"
+      }
+    ],
+    "hiob_id": "hiob_mention_275",
+    "midrash": [
+      {
+        "id": 49,
+        "value": "Pitron Torah",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "passages": "Vayedaber",
+    "verses": [],
+    "quote": "",
+    "abstract": "Job learned from Moses. Also, God reveals sins only when one does not repent.",
+    "decontextualized_reception": [
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      },
+      {
+        "id": 22366,
+        "value": "Moses narrative",
+        "color": "dark-brown"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "276": {
+    "id": 276,
+    "order": "242.00000000000000000000",
+    "mention": [
+      {
+        "id": 49,
+        "value": "Pitron Torah, Shelach Lecha"
+      }
+    ],
+    "hiob_id": "hiob_mention_276",
+    "midrash": [
+      {
+        "id": 49,
+        "value": "Pitron Torah",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "passages": "Shelach Lecha",
+    "verses": [],
+    "quote": "",
+    "abstract": "Job died during the Spies episode.",
+    "decontextualized_reception": [],
+    "narrative_reception": [
+      {
+        "id": 22324,
+        "value": "Job's Restoration",
+        "color": "gray"
+      }
+    ],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "277": {
+    "id": 277,
+    "order": "243.00000000000000000000",
+    "mention": [
+      {
+        "id": 49,
+        "value": "Pitron Torah, Korach"
+      }
+    ],
+    "hiob_id": "hiob_mention_277",
+    "midrash": [
+      {
+        "id": 49,
+        "value": "Pitron Torah",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "passages": "Korach",
+    "verses": [],
+    "quote": "",
+    "abstract": "A divine flame honors the sacrifices of the companions.",
+    "decontextualized_reception": [],
+    "narrative_reception": [
+      {
+        "id": 23364,
+        "value": "The Companions",
+        "color": "darker-pink"
+      }
+    ],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "278": {
+    "id": 278,
+    "order": "244.00000000000000000000",
+    "mention": [],
+    "hiob_id": "hiob_mention_278",
+    "midrash": [],
+    "passages": "23:9",
+    "verses": [],
+    "quote": "ויאמרו החרטומים אל פרעה אצבע אלהים היא ועל הים לקו נ' מכות שנאמר וירא ישראל את היד הגדולה והיד ה' אצבעות וה' פעמים י' הרי נ', וכן אתה מוצא באיוב שבאו עליו נ' מכות שנאמר (איוב יט) חנוני חנוני אתם רעי כי יד אלוה נגעה בי, ר' אליעזר אומר מ' מכות לקו המצרים במצרים ומאתים על הים שכל מכה ומכה שהיתה באה עליהן היו באות ד', כשם שנאמר (תהלים עח) יהרוג בברד גפנם וכתיב (שם /תהלים ע\"ח/) חרון אפו עברה וזעם וצרה משלחת מלאכי רעים, עברה אחת זעם שתים צרה שלש משלחת מלאכי רעים ד' הוי באצבע לקו מ' מכות וביד מאתים, הוי משפט עשה, ומהו נודע ה' כדכתיב וידעו מצרים כי אני ה' בשעה שאעשה הדין לפרעה שכן כתיב אחריו בהכבדי בפרעה, וכתיב (שם /תהלים/ ט) בפועל כפיו נוקש רשע זה פרעה מה אמר כל הבן הילוד וגו', ואף הקב\"ה עשה לו כשם שעשה שנאמר (תהלים קלו) ונער פרעה וחילו בים סוף, מהו הגיון סלה, אמרו ישראל מה עלינו לעשות אלא לומר שירים וזמרים שנאמר אז ישיר משה, אז ישירו משה ובני ישראל אינו אומר אלא אז ישיר משה, אריב\"ל מכאן שנאמרה הפרשה על פי משה ואח\"כ אמרוה אבותינו על הים.",
+    "abstract": "Job implied like one of the Egyptian magicians and was struck by 50 plagues.",
+    "decontextualized_reception": [
+      {
+        "id": 22311,
+        "value": "Exodus",
+        "color": "light-orange"
+      }
+    ],
+    "narrative_reception": [
+      {
+        "id": 22323,
+        "value": "Job's Suffering",
+        "color": "darker-pink"
+      }
+    ],
+    "points_of_note": "Has other late parallels.",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "279": {
+    "id": 279,
+    "order": "245.00000000000000000000",
+    "mention": [
+      {
+        "id": 6,
+        "value": "Seder Eliyahu Rabbah, 8"
+      }
+    ],
+    "hiob_id": "hiob_mention_279",
+    "midrash": [
+      {
+        "id": 6,
+        "value": "Seder Eliyahu Rabbah",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "passages": "8",
+    "verses": [],
+    "quote": "",
+    "abstract": "God went against His usual way from Job when dealing with Pharaoh.",
+    "decontextualized_reception": [
+      {
+        "id": 22311,
+        "value": "Exodus",
+        "color": "light-orange"
+      }
+    ],
+    "narrative_reception": [
+      {
+        "id": 22323,
+        "value": "Job's Suffering",
+        "color": "darker-pink"
+      }
+    ],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "280": {
+    "id": 280,
+    "order": "246.00000000000000000000",
+    "mention": [
+      {
+        "id": 6,
+        "value": "Seder Eliyahu Rabbah, 14"
+      }
+    ],
+    "hiob_id": "hiob_mention_280",
+    "midrash": [
+      {
+        "id": 6,
+        "value": "Seder Eliyahu Rabbah",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "passages": "14",
+    "verses": [],
+    "quote": "",
+    "abstract": "Labor and Torah.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "281": {
+    "id": 281,
+    "order": "247.00000000000000000000",
+    "mention": [
+      {
+        "id": 6,
+        "value": "Seder Eliyahu Rabbah, 16"
+      }
+    ],
+    "hiob_id": "hiob_mention_281",
+    "midrash": [
+      {
+        "id": 6,
+        "value": "Seder Eliyahu Rabbah",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "passages": "16",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "282": {
+    "id": 282,
+    "order": "248.00000000000000000000",
+    "mention": [
+      {
+        "id": 6,
+        "value": "Seder Eliyahu Rabbah, 17"
+      }
+    ],
+    "hiob_id": "hiob_mention_282",
+    "midrash": [
+      {
+        "id": 6,
+        "value": "Seder Eliyahu Rabbah",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "passages": "17",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 23367,
+        "value": "Angels",
+        "color": "dark-brown"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "// ShirZ 1:1",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "283": {
+    "id": 283,
+    "order": "249.00000000000000000000",
+    "mention": [
+      {
+        "id": 6,
+        "value": "Seder Eliyahu Rabbah, 18"
+      }
+    ],
+    "hiob_id": "hiob_mention_283",
+    "midrash": [
+      {
+        "id": 6,
+        "value": "Seder Eliyahu Rabbah",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "passages": "18",
+    "verses": [],
+    "quote": "",
+    "abstract": "The Sages bless every table.",
+    "decontextualized_reception": [
+      {
+        "id": 22389,
+        "value": "Praises for the Jews",
+        "color": "darker-red"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "284": {
+    "id": 284,
+    "order": "250.00000000000000000000",
+    "mention": [
+      {
+        "id": 6,
+        "value": "Seder Eliyahu Rabbah, 29"
+      }
+    ],
+    "hiob_id": "hiob_mention_284",
+    "midrash": [
+      {
+        "id": 6,
+        "value": "Seder Eliyahu Rabbah",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "passages": "29",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 23367,
+        "value": "Angels",
+        "color": "dark-brown"
+      },
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "~ SeliR 17",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "285": {
+    "id": 285,
+    "order": "251.00000000000000000000",
+    "mention": [
+      {
+        "id": 7,
+        "value": "Seder Eliyahu Zuta, 3"
+      }
+    ],
+    "hiob_id": "hiob_mention_285",
+    "midrash": [
+      {
+        "id": 7,
+        "value": "Seder Eliyahu Zuta",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "passages": "3",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 22314,
+        "value": "Nature of God",
+        "color": "dark-pink"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "286": {
+    "id": 286,
+    "order": "252.00000000000000000000",
+    "mention": [],
+    "hiob_id": "hiob_mention_286",
+    "midrash": [],
+    "passages": "",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "287": {
+    "id": 287,
+    "order": "253.00000000000000000000",
+    "mention": [
+      {
+        "id": 7,
+        "value": "Seder Eliyahu Zuta, 10"
+      }
+    ],
+    "hiob_id": "hiob_mention_287",
+    "midrash": [
+      {
+        "id": 7,
+        "value": "Seder Eliyahu Zuta",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "passages": "10",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 22310,
+        "value": "Flood",
+        "color": "darker-orange"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "288": {
+    "id": 288,
+    "order": "254.00000000000000000000",
+    "mention": [
+      {
+        "id": 7,
+        "value": "Seder Eliyahu Zuta, 20"
+      }
+    ],
+    "hiob_id": "hiob_mention_288",
+    "midrash": [
+      {
+        "id": 7,
+        "value": "Seder Eliyahu Zuta",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "passages": "20",
+    "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [
+      {
+        "id": 22377,
+        "value": "The Afterlife",
+        "color": "light-cyan"
+      }
+    ],
+    "narrative_reception": [],
+    "points_of_note": "// Pirqe. Rab. Eli. ?",
     "quotation_and_speakers": [],
     "classic_parallels": ""
   }
