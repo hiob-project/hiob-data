@@ -197,6 +197,31 @@
         "id": 129,
         "value": "Tanhuma, Exodus 2:2",
         "order": "96.00000000000000000000"
+      },
+      {
+        "id": 290,
+        "value": "Tanhuma, Mishpatim 11",
+        "order": "256.00000000000000000000"
+      },
+      {
+        "id": 292,
+        "value": "Tanhuma, Tazria 6",
+        "order": "258.00000000000000000000"
+      },
+      {
+        "id": 293,
+        "value": "Tanhuma, Beshalach 23",
+        "order": "259.00000000000000000000"
+      },
+      {
+        "id": 304,
+        "value": "Tanhuma, Mishpatim 11",
+        "order": "270.00000000000000000000"
+      },
+      {
+        "id": 305,
+        "value": "Tanhuma, Ki Tisa 12",
+        "order": "271.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_3"
@@ -251,6 +276,21 @@
         "id": 66,
         "value": "Tanhuma (Buber), Deuteronomy 2:5",
         "order": "34.00000000000000000000"
+      },
+      {
+        "id": 291,
+        "value": "Tanhuma (Buber), Tazria 8",
+        "order": "257.00000000000000000000"
+      },
+      {
+        "id": 301,
+        "value": "Tanhuma (Buber), Vayera 10",
+        "order": "267.00000000000000000000"
+      },
+      {
+        "id": 303,
+        "value": "Tanhuma (Buber), Bereshit 13",
+        "order": "269.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_4"
@@ -614,6 +654,16 @@
         "id": 272,
         "value": "Pesiqta Rabbati, 26",
         "order": "238.00000000000000000000"
+      },
+      {
+        "id": 296,
+        "value": "Pesiqta Rabbati, 10",
+        "order": "262.00000000000000000000"
+      },
+      {
+        "id": 299,
+        "value": "Pesiqta Rabbati, 23",
+        "order": "265.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_35"
@@ -717,6 +767,16 @@
         "id": 253,
         "value": "Exodus Rabbah II, 19:1",
         "order": "219.00000000000000000000"
+      },
+      {
+        "id": 294,
+        "value": "Exodus Rabbah II, 21:7",
+        "order": "260.00000000000000000000"
+      },
+      {
+        "id": 298,
+        "value": "Exodus Rabbah II, 30:11",
+        "order": "264.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_37"
@@ -1140,6 +1200,11 @@
         "id": 75,
         "value": "Exodus Rabbah I, 3:6",
         "order": "43.00000000000000000000"
+      },
+      {
+        "id": 300,
+        "value": "Exodus Rabbah I, 12:4",
+        "order": "266.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_39"
@@ -1350,6 +1415,11 @@
         "id": 161,
         "value": "Song of Songs Zuta, 3:10",
         "order": "128.00000000000000000000"
+      },
+      {
+        "id": 295,
+        "value": "Song of Songs Zuta, 1:19",
+        "order": "261.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_46"
@@ -1412,6 +1482,16 @@
         "id": 277,
         "value": "Pitron Torah, Korach",
         "order": "243.00000000000000000000"
+      },
+      {
+        "id": 297,
+        "value": "Pitron Torah, Vayikra",
+        "order": "263.00000000000000000000"
+      },
+      {
+        "id": 302,
+        "value": "Pitron Torah, Vezot Haberachah",
+        "order": "268.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_49"

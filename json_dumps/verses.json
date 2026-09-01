@@ -755,6 +755,20 @@
     "mentions": [],
     "hiob_id": "hiob_verse_72"
   },
+  "452": {
+    "id": 452,
+    "order": "50.50000000000000000000",
+    "verse": "2:7",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 290,
+        "value": "Tanhuma, Mishpatim 11",
+        "order": "256.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_452"
+  },
   "73": {
     "id": 73,
     "order": "51.00000000000000000000",
@@ -839,6 +853,16 @@
         "id": 82,
         "value": "Avot DeRabbi Natan A, 37:13",
         "order": "49.00000000000000000000"
+      },
+      {
+        "id": 272,
+        "value": "Pesiqta Rabbati, 26",
+        "order": "238.00000000000000000000"
+      },
+      {
+        "id": 298,
+        "value": "Exodus Rabbah II, 30:11",
+        "order": "264.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_81"
@@ -1128,6 +1152,21 @@
         "id": 225,
         "value": "Midrash Psalms, 78:14",
         "order": "191.00000000000000000000"
+      },
+      {
+        "id": 280,
+        "value": "Seder Eliyahu Rabbah, 14",
+        "order": "246.00000000000000000000"
+      },
+      {
+        "id": 299,
+        "value": "Pesiqta Rabbati, 23",
+        "order": "265.00000000000000000000"
+      },
+      {
+        "id": 300,
+        "value": "Exodus Rabbah I, 12:4",
+        "order": "266.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_107"
@@ -1493,7 +1532,23 @@
     "order": "118.00000000000000000000",
     "verse": "9:17",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 291,
+        "value": "Tanhuma (Buber), Tazria 8",
+        "order": "257.00000000000000000000"
+      },
+      {
+        "id": 292,
+        "value": "Tanhuma, Tazria 6",
+        "order": "258.00000000000000000000"
+      },
+      {
+        "id": 293,
+        "value": "Tanhuma, Beshalach 23",
+        "order": "259.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_140"
   },
   "141": {
@@ -2214,22 +2269,6 @@
     ],
     "hiob_id": "hiob_verse_205"
   },
-  "206": {
-    "id": 206,
-    "order": "184.00000000000000000000",
-    "verse": "15:17",
-    "quote": "",
-    "mentions": [],
-    "hiob_id": "hiob_verse_206"
-  },
-  "207": {
-    "id": 207,
-    "order": "185.00000000000000000000",
-    "verse": "15:18",
-    "quote": "",
-    "mentions": [],
-    "hiob_id": "hiob_verse_207"
-  },
   "209": {
     "id": 209,
     "order": "187.00000000000000000000",
@@ -2339,7 +2378,13 @@
     "order": "200.00000000000000000000",
     "verse": "16:12",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 294,
+        "value": "Exodus Rabbah II, 21:7",
+        "order": "260.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_222"
   },
   "224": {
@@ -2783,7 +2828,23 @@
     "order": "245.00000000000000000000",
     "verse": "23:3",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 303,
+        "value": "Tanhuma (Buber), Bereshit 13",
+        "order": "269.00000000000000000000"
+      },
+      {
+        "id": 304,
+        "value": "Tanhuma, Mishpatim 11",
+        "order": "270.00000000000000000000"
+      },
+      {
+        "id": 305,
+        "value": "Tanhuma, Ki Tisa 12",
+        "order": "271.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_267"
   },
   "268": {
@@ -3891,7 +3952,23 @@
     "order": "348.00000000000000000000",
     "verse": "33:22",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 295,
+        "value": "Song of Songs Zuta, 1:19",
+        "order": "261.00000000000000000000"
+      },
+      {
+        "id": 296,
+        "value": "Pesiqta Rabbati, 10",
+        "order": "262.00000000000000000000"
+      },
+      {
+        "id": 297,
+        "value": "Pitron Torah, Vayikra",
+        "order": "263.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_370"
   },
   "371": {
@@ -4064,7 +4141,13 @@
     "order": "365.00000000000000000000",
     "verse": "34:32",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 301,
+        "value": "Tanhuma (Buber), Vayera 10",
+        "order": "267.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_387"
   },
   "388": {
@@ -4716,5 +4799,33 @@
       }
     ],
     "hiob_id": "hiob_verse_451"
+  },
+  "454": {
+    "id": 454,
+    "order": "430.00000000000000000000",
+    "verse": "23:2",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 302,
+        "value": "Pitron Torah, Vezot Haberachah",
+        "order": "268.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_454"
+  },
+  "455": {
+    "id": 455,
+    "order": "431.00000000000000000000",
+    "verse": "40:4",
+    "quote": "",
+    "mentions": [
+      {
+        "id": 302,
+        "value": "Pitron Torah, Vezot Haberachah",
+        "order": "268.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_455"
   }
 }

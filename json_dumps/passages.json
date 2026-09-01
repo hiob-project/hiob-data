@@ -9168,7 +9168,13 @@
       }
     ],
     "passages": "26",
-    "verses": [],
+    "verses": [
+      {
+        "id": 81,
+        "value": "3:3",
+        "order": "59.00000000000000000000"
+      }
+    ],
     "quote": "",
     "abstract": "In dialogue with Mother Zion, Job serves as the precedent for the restoration of Jerusalem.",
     "decontextualized_reception": [],
@@ -9432,7 +9438,13 @@
       }
     ],
     "passages": "14",
-    "verses": [],
+    "verses": [
+      {
+        "id": 107,
+        "value": "5:7",
+        "order": "85.00000000000000000000"
+      }
+    ],
     "quote": "",
     "abstract": "Labor and Torah.",
     "decontextualized_reception": [
@@ -9707,6 +9719,539 @@
     "midrash": [],
     "passages": "",
     "verses": [],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "290": {
+    "id": 290,
+    "order": "256.00000000000000000000",
+    "mention": [
+      {
+        "id": 3,
+        "value": "Tanhuma, Mishpatim 11"
+      }
+    ],
+    "hiob_id": "hiob_mention_290",
+    "midrash": [
+      {
+        "id": 3,
+        "value": "Tanhuma",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "passages": "Mishpatim 11",
+    "verses": [
+      {
+        "id": 452,
+        "value": "2:7",
+        "order": "50.50000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "// Exodus Rabbah",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "291": {
+    "id": 291,
+    "order": "257.00000000000000000000",
+    "mention": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber), Tazria 8"
+      }
+    ],
+    "hiob_id": "hiob_mention_291",
+    "midrash": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber)",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "passages": "Tazria 8",
+    "verses": [
+      {
+        "id": 140,
+        "value": "9:17",
+        "order": "118.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "292": {
+    "id": 292,
+    "order": "258.00000000000000000000",
+    "mention": [
+      {
+        "id": 3,
+        "value": "Tanhuma, Tazria 6"
+      }
+    ],
+    "hiob_id": "hiob_mention_292",
+    "midrash": [
+      {
+        "id": 3,
+        "value": "Tanhuma",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "passages": "Tazria 6",
+    "verses": [
+      {
+        "id": 140,
+        "value": "9:17",
+        "order": "118.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "293": {
+    "id": 293,
+    "order": "259.00000000000000000000",
+    "mention": [
+      {
+        "id": 3,
+        "value": "Tanhuma, Beshalach 23"
+      }
+    ],
+    "hiob_id": "hiob_mention_293",
+    "midrash": [
+      {
+        "id": 3,
+        "value": "Tanhuma",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "passages": "Beshalach 23",
+    "verses": [
+      {
+        "id": 140,
+        "value": "9:17",
+        "order": "118.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "294": {
+    "id": 294,
+    "order": "260.00000000000000000000",
+    "mention": [
+      {
+        "id": 37,
+        "value": "Exodus Rabbah II, 21:7"
+      }
+    ],
+    "hiob_id": "hiob_mention_294",
+    "midrash": [
+      {
+        "id": 37,
+        "value": "Exodus Rabbah II",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "passages": "21:7",
+    "verses": [
+      {
+        "id": 222,
+        "value": "16:12",
+        "order": "200.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "Gospel parody and post-biblical tradition",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "295": {
+    "id": 295,
+    "order": "261.00000000000000000000",
+    "mention": [
+      {
+        "id": 46,
+        "value": "Song of Songs Zuta, 1:19"
+      }
+    ],
+    "hiob_id": "hiob_mention_295",
+    "midrash": [
+      {
+        "id": 46,
+        "value": "Song of Songs Zuta",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "passages": "1:19",
+    "verses": [
+      {
+        "id": 370,
+        "value": "33:22",
+        "order": "348.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "296": {
+    "id": 296,
+    "order": "262.00000000000000000000",
+    "mention": [
+      {
+        "id": 35,
+        "value": "Pesiqta Rabbati, 10"
+      }
+    ],
+    "hiob_id": "hiob_mention_296",
+    "midrash": [
+      {
+        "id": 35,
+        "value": "Pesiqta Rabbati",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "passages": "10",
+    "verses": [
+      {
+        "id": 370,
+        "value": "33:22",
+        "order": "348.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "297": {
+    "id": 297,
+    "order": "263.00000000000000000000",
+    "mention": [
+      {
+        "id": 49,
+        "value": "Pitron Torah, Vayikra"
+      }
+    ],
+    "hiob_id": "hiob_mention_297",
+    "midrash": [
+      {
+        "id": 49,
+        "value": "Pitron Torah",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "passages": "Vayikra",
+    "verses": [
+      {
+        "id": 370,
+        "value": "33:22",
+        "order": "348.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "298": {
+    "id": 298,
+    "order": "264.00000000000000000000",
+    "mention": [
+      {
+        "id": 37,
+        "value": "Exodus Rabbah II, 30:11"
+      }
+    ],
+    "hiob_id": "hiob_mention_298",
+    "midrash": [
+      {
+        "id": 37,
+        "value": "Exodus Rabbah II",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "passages": "30:11",
+    "verses": [
+      {
+        "id": 81,
+        "value": "3:3",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "See Weiss",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "299": {
+    "id": 299,
+    "order": "265.00000000000000000000",
+    "mention": [
+      {
+        "id": 35,
+        "value": "Pesiqta Rabbati, 23"
+      }
+    ],
+    "hiob_id": "hiob_mention_299",
+    "midrash": [
+      {
+        "id": 35,
+        "value": "Pesiqta Rabbati",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "passages": "23",
+    "verses": [
+      {
+        "id": 107,
+        "value": "5:7",
+        "order": "85.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "300": {
+    "id": 300,
+    "order": "266.00000000000000000000",
+    "mention": [
+      {
+        "id": 39,
+        "value": "Exodus Rabbah I, 12:4"
+      }
+    ],
+    "hiob_id": "hiob_mention_300",
+    "midrash": [
+      {
+        "id": 39,
+        "value": "Exodus Rabbah I",
+        "order": "15.00000000000000000000"
+      }
+    ],
+    "passages": "12:4",
+    "verses": [
+      {
+        "id": 107,
+        "value": "5:7",
+        "order": "85.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "301": {
+    "id": 301,
+    "order": "267.00000000000000000000",
+    "mention": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber), Vayera 10"
+      }
+    ],
+    "hiob_id": "hiob_mention_301",
+    "midrash": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber)",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "passages": "Vayera 10",
+    "verses": [
+      {
+        "id": 387,
+        "value": "34:32",
+        "order": "365.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "302": {
+    "id": 302,
+    "order": "268.00000000000000000000",
+    "mention": [
+      {
+        "id": 49,
+        "value": "Pitron Torah, Vezot Haberachah"
+      }
+    ],
+    "hiob_id": "hiob_mention_302",
+    "midrash": [
+      {
+        "id": 49,
+        "value": "Pitron Torah",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "passages": "Vezot Haberachah",
+    "verses": [
+      {
+        "id": 454,
+        "value": "23:2",
+        "order": "430.00000000000000000000"
+      },
+      {
+        "id": 455,
+        "value": "40:4",
+        "order": "431.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "303": {
+    "id": 303,
+    "order": "269.00000000000000000000",
+    "mention": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber), Bereshit 13"
+      }
+    ],
+    "hiob_id": "hiob_mention_303",
+    "midrash": [
+      {
+        "id": 4,
+        "value": "Tanhuma (Buber)",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "passages": "Bereshit 13",
+    "verses": [
+      {
+        "id": 267,
+        "value": "23:3",
+        "order": "245.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "304": {
+    "id": 304,
+    "order": "270.00000000000000000000",
+    "mention": [
+      {
+        "id": 3,
+        "value": "Tanhuma, Mishpatim 11"
+      }
+    ],
+    "hiob_id": "hiob_mention_304",
+    "midrash": [
+      {
+        "id": 3,
+        "value": "Tanhuma",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "passages": "Mishpatim 11",
+    "verses": [
+      {
+        "id": 267,
+        "value": "23:3",
+        "order": "245.00000000000000000000"
+      }
+    ],
+    "quote": "",
+    "abstract": "",
+    "decontextualized_reception": [],
+    "narrative_reception": [],
+    "points_of_note": "",
+    "quotation_and_speakers": [],
+    "classic_parallels": ""
+  },
+  "305": {
+    "id": 305,
+    "order": "271.00000000000000000000",
+    "mention": [
+      {
+        "id": 3,
+        "value": "Tanhuma, Ki Tisa 12"
+      }
+    ],
+    "hiob_id": "hiob_mention_305",
+    "midrash": [
+      {
+        "id": 3,
+        "value": "Tanhuma",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "passages": "Ki Tisa 12",
+    "verses": [
+      {
+        "id": 267,
+        "value": "23:3",
+        "order": "245.00000000000000000000"
+      }
+    ],
     "quote": "",
     "abstract": "",
     "decontextualized_reception": [],
