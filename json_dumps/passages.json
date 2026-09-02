@@ -9747,17 +9747,59 @@
     "passages": "Mishpatim 11",
     "verses": [
       {
+        "id": 59,
+        "value": "1:9",
+        "order": "37.00000000000000000000"
+      },
+      {
         "id": 452,
         "value": "2:7",
         "order": "50.50000000000000000000"
+      },
+      {
+        "id": 267,
+        "value": "23:3",
+        "order": "245.00000000000000000000"
+      },
+      {
+        "id": 399,
+        "value": "36:21",
+        "order": "377.00000000000000000000"
       }
     ],
-    "quote": "",
-    "abstract": "",
+    "quote": "את העני עמך. אמרו רבותינו זכרונם לברכה: כל היסורין לצד אחד והעניות לצד אחד. בשעה שבא השטן לקטרג את איוב, כמה דאת אמר: ויען השטן את ה' ויאמר החנם ירא איוב אלהים (איוב א, ט). אמר לו הקדוש ברוך הוא לאיוב: מה אתה רוצה עניות או יסורים? אמר לו: מקבל אני כל היסורים שבעולם ולא עניות. היאך אעמד על המקח בשוק ואין בידי פרוטה. מיד ויצא השטן את פני ה' ויך את איוב בשחין רע מכף רגלו עד קדקדו (איוב ב, ז). התחיל צווח, מי יתן ידעתי ואמצאהו אבוא עד תכונתו (איוב כג, ג), כנגד מדת הדין. אמר לו אליהו: מה אתה עומד ומונה, ולא את הוא שבחרת ביסורים יותר מן העניות, שנאמר: השמר אל תפן אל און כי על זה בחרת מעני (איוב לו, כא).",
+    "abstract": "Poverty is worse than any suffering; as proof, God let Job choose between poverty and suffering, and he was afraid of poverty. Nonetheless, after being struck with boils, he complained of unfair judgment, so Elihu reminded him that this was the choice he had made.",
     "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "// Exodus Rabbah",
-    "quotation_and_speakers": [],
+    "narrative_reception": [
+      {
+        "id": 22323,
+        "value": "Job's Suffering",
+        "color": "darker-pink"
+      }
+    ],
+    "points_of_note": "// Exodus Rabbah. Poverty in Palestine?",
+    "quotation_and_speakers": [
+      {
+        "id": 22320,
+        "value": "anonym",
+        "color": "light-green"
+      },
+      {
+        "id": 22360,
+        "value": "Elihu",
+        "color": "dark-cyan"
+      },
+      {
+        "id": 22363,
+        "value": "Job",
+        "color": "dark-brown"
+      },
+      {
+        "id": 23377,
+        "value": "Satan",
+        "color": "light-yellow"
+      }
+    ],
     "classic_parallels": ""
   },
   "291": {

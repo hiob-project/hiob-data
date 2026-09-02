@@ -636,7 +636,13 @@
     "order": "37.00000000000000000000",
     "verse": "1:9",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 290,
+        "value": "Tanhuma, Mishpatim 11",
+        "order": "256.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_59"
   },
   "60": {
@@ -2830,6 +2836,11 @@
     "quote": "",
     "mentions": [
       {
+        "id": 290,
+        "value": "Tanhuma, Mishpatim 11",
+        "order": "256.00000000000000000000"
+      },
+      {
         "id": 303,
         "value": "Tanhuma (Buber), Bereshit 13",
         "order": "269.00000000000000000000"
@@ -4261,7 +4272,13 @@
     "order": "377.00000000000000000000",
     "verse": "36:21",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 290,
+        "value": "Tanhuma, Mishpatim 11",
+        "order": "256.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_399"
   },
   "400": {
