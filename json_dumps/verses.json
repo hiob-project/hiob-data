@@ -2616,13 +2616,7 @@
     "order": "222.00000000000000000000",
     "verse": "20:28",
     "quote": "",
-    "mentions": [
-      {
-        "id": 94,
-        "value": "Avot DeRabbi Natan A, 8:5",
-        "order": "61.00000000000000000000"
-      }
-    ],
+    "mentions": [],
     "hiob_id": "hiob_verse_244"
   },
   "245": {
@@ -2670,7 +2664,13 @@
     "order": "228.00000000000000000000",
     "verse": "21:13",
     "quote": "",
-    "mentions": [],
+    "mentions": [
+      {
+        "id": 93,
+        "value": "Avot DeRabbi Natan A, 32:3",
+        "order": "60.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_250"
   },
   "251": {
@@ -3043,19 +3043,9 @@
     "quote": "",
     "mentions": [
       {
-        "id": 95,
-        "value": "Avot DeRabbi Natan A, 12:5",
-        "order": "62.00000000000000000000"
-      },
-      {
         "id": 96,
         "value": "Avot DeRabbi Natan B, 8",
         "order": "63.00000000000000000000"
-      },
-      {
-        "id": 97,
-        "value": "Avot DeRabbi Natan B, 24",
-        "order": "64.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_288"
@@ -3084,6 +3074,11 @@
         "id": 175,
         "value": "Midrash Psalms, 146:3",
         "order": "142.00000000000000000000"
+      },
+      {
+        "id": 307,
+        "value": "Avot DeRabbi Natan A, 19:2",
+        "order": "272.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_290"
@@ -3093,13 +3088,7 @@
     "order": "269.00000000000000000000",
     "verse": "26:6",
     "quote": "",
-    "mentions": [
-      {
-        "id": 99,
-        "value": "Avot DeRabbi Natan A, 12:4",
-        "order": "66.00000000000000000000"
-      }
-    ],
+    "mentions": [],
     "hiob_id": "hiob_verse_291"
   },
   "292": {
@@ -3243,13 +3232,7 @@
     "order": "285.00000000000000000000",
     "verse": "28:8",
     "quote": "",
-    "mentions": [
-      {
-        "id": 100,
-        "value": "Avot DeRabbi Natan A, 39:2",
-        "order": "67.00000000000000000000"
-      }
-    ],
+    "mentions": [],
     "hiob_id": "hiob_verse_307"
   },
   "308": {
@@ -3463,13 +3446,7 @@
     "order": "300.00000000000000000000",
     "verse": "28:23",
     "quote": "",
-    "mentions": [
-      {
-        "id": 101,
-        "value": "Avot DeRabbi Natan A, 12:4",
-        "order": "68.00000000000000000000"
-      }
-    ],
+    "mentions": [],
     "hiob_id": "hiob_verse_322"
   },
   "323": {
@@ -4059,13 +4036,7 @@
     "order": "356.00000000000000000000",
     "verse": "33:30",
     "quote": "",
-    "mentions": [
-      {
-        "id": 107,
-        "value": "Avot DeRabbi Natan A, 34:11",
-        "order": "74.00000000000000000000"
-      }
-    ],
+    "mentions": [],
     "hiob_id": "hiob_verse_378"
   },
   "379": {
@@ -4220,13 +4191,7 @@
     "order": "372.00000000000000000000",
     "verse": "36:11",
     "quote": "",
-    "mentions": [
-      {
-        "id": 109,
-        "value": "Avot DeRabbi Natan A, 11:1",
-        "order": "76.00000000000000000000"
-      }
-    ],
+    "mentions": [],
     "hiob_id": "hiob_verse_394"
   },
   "395": {
@@ -4234,13 +4199,7 @@
     "order": "373.00000000000000000000",
     "verse": "36:12",
     "quote": "",
-    "mentions": [
-      {
-        "id": 109,
-        "value": "Avot DeRabbi Natan A, 11:1",
-        "order": "76.00000000000000000000"
-      }
-    ],
+    "mentions": [],
     "hiob_id": "hiob_verse_395"
   },
   "396": {

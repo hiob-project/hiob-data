@@ -3,7 +3,7 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "name": "Avot DeRabbi Natan A",
-    "info_about_text": "",
+    "info_about_text": "The long gestation makes it hard to date any single account. Job, however, is already seen as an example of a sage and the book a source of wisdom (apart from 7:1 and 40).",
     "mentions": [
       {
         "id": 77,
@@ -36,26 +36,6 @@
         "order": "60.00000000000000000000"
       },
       {
-        "id": 94,
-        "value": "Avot DeRabbi Natan A, 8:5",
-        "order": "61.00000000000000000000"
-      },
-      {
-        "id": 95,
-        "value": "Avot DeRabbi Natan A, 12:5",
-        "order": "62.00000000000000000000"
-      },
-      {
-        "id": 99,
-        "value": "Avot DeRabbi Natan A, 12:4",
-        "order": "66.00000000000000000000"
-      },
-      {
-        "id": 100,
-        "value": "Avot DeRabbi Natan A, 39:2",
-        "order": "67.00000000000000000000"
-      },
-      {
         "id": 101,
         "value": "Avot DeRabbi Natan A, 12:4",
         "order": "68.00000000000000000000"
@@ -71,14 +51,9 @@
         "order": "72.00000000000000000000"
       },
       {
-        "id": 107,
-        "value": "Avot DeRabbi Natan A, 34:11",
-        "order": "74.00000000000000000000"
-      },
-      {
-        "id": 109,
-        "value": "Avot DeRabbi Natan A, 11:1",
-        "order": "76.00000000000000000000"
+        "id": 307,
+        "value": "Avot DeRabbi Natan A, 19:2",
+        "order": "272.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_text_1"
@@ -143,11 +118,6 @@
         "id": 96,
         "value": "Avot DeRabbi Natan B, 8",
         "order": "63.00000000000000000000"
-      },
-      {
-        "id": 97,
-        "value": "Avot DeRabbi Natan B, 24",
-        "order": "64.00000000000000000000"
       },
       {
         "id": 98,
@@ -466,7 +436,7 @@
     "id": 8,
     "order": "8.00000000000000000000",
     "name": "Esther Rabbah I",
-    "info_about_text": "",
+    "info_about_text": "Based on an Amoraic Midrash, the references to Job align best with Palestinian texts such as Leviticus and Genesis Rabbah.",
     "mentions": [
       {
         "id": 1,
@@ -505,7 +475,7 @@
     "id": 9,
     "order": "9.00000000000000000000",
     "name": "Esther Rabbah II",
-    "info_about_text": "",
+    "info_about_text": "Late Medieval completion of the Esther Midrashim. Collecting materials and adding interpretive notes to them in order to broaden the context of Esther’s reception, rather than that of Job.",
     "mentions": [
       {
         "id": 7,
