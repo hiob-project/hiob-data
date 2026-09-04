@@ -3,8 +3,8 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "name": "Avot DeRabbi Natan A",
-    "info_about_text": "The long gestation makes it hard to date any single account. Job, however, is already seen as an example of a sage and the book a source of wisdom (apart from 7:1 and 40).",
-    "mentions": [
+    "info": "The long gestation makes it hard to date any single account. Job, however, is already seen as an example of a sage and the book a source of wisdom (apart from 7:1 and 40).",
+    "passages": [
       {
         "id": 77,
         "value": "Avot DeRabbi Natan A, ",
@@ -62,8 +62,8 @@
     "id": 2,
     "order": "2.00000000000000000000",
     "name": "Avot DeRabbi Natan B",
-    "info_about_text": "The long gestation makes it difficult to favor any particular sources over version A, and vice versa. Some are older, while some parallels appear more medieval. Overall, it seems more critical than version A regarding Job and his companions.",
-    "mentions": [
+    "info": "The long gestation makes it difficult to favor any particular sources over version A, and vice versa. Some are older, while some parallels appear more medieval. Overall, it seems more critical than version A regarding Job and his companions.",
+    "passages": [
       {
         "id": 78,
         "value": "Avot DeRabbi Natan B, 2",
@@ -151,8 +151,8 @@
     "id": 3,
     "order": "3.00000000000000000000",
     "name": "Tanhuma",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 45,
         "value": "Tanhuma, ",
@@ -200,8 +200,8 @@
     "id": 4,
     "order": "4.00000000000000000000",
     "name": "Tanhuma (Buber)",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 46,
         "value": "Tanhuma (Buber), ",
@@ -269,8 +269,8 @@
     "id": 5,
     "order": "5.00000000000000000000",
     "name": "Pirkei DeRabbi Eliezer",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 71,
         "value": "Pirkei DeRabbi Eliezer, 11",
@@ -358,8 +358,8 @@
     "id": 6,
     "order": "6.00000000000000000000",
     "name": "Seder Eliyahu Rabbah",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 60,
         "value": "Seder Eliyahu Rabbah, 19",
@@ -402,8 +402,8 @@
     "id": 7,
     "order": "7.00000000000000000000",
     "name": "Seder Eliyahu Zuta",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 61,
         "value": "Seder Eliyahu Zuta, 4",
@@ -431,8 +431,8 @@
     "id": 8,
     "order": "8.00000000000000000000",
     "name": "Esther Rabbah I",
-    "info_about_text": "Based on an Amoraic Midrash, the references to Job align best with Palestinian texts such as Leviticus and Genesis Rabbah.",
-    "mentions": [
+    "info": "Based on an Amoraic Midrash, the references to Job align best with Palestinian texts such as Leviticus and Genesis Rabbah.",
+    "passages": [
       {
         "id": 1,
         "value": "Esther Rabbah I, ",
@@ -470,8 +470,8 @@
     "id": 9,
     "order": "9.00000000000000000000",
     "name": "Esther Rabbah II",
-    "info_about_text": "Late Medieval completion of the Esther Midrashim. Collecting materials and adding interpretive notes to them in order to broaden the context of Esther’s reception, rather than that of Job.",
-    "mentions": [
+    "info": "Late Medieval completion of the Esther Midrashim. Collecting materials and adding interpretive notes to them in order to broaden the context of Esther’s reception, rather than that of Job.",
+    "passages": [
       {
         "id": 7,
         "value": "Esther Rabbah II, ",
@@ -504,8 +504,8 @@
     "id": 34,
     "order": "10.00000000000000000000",
     "name": "Ecclesiastes Rabbah",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 44,
         "value": "Ecclesiastes Rabbah, ",
@@ -593,8 +593,8 @@
     "id": 35,
     "order": "11.00000000000000000000",
     "name": "Pesiqta Rabbati",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 47,
         "value": "Pesiqta Rabbati, 38",
@@ -637,8 +637,8 @@
     "id": 36,
     "order": "12.00000000000000000000",
     "name": "Numbers Rabbah II",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 48,
         "value": "Numbers Rabbah II, ",
@@ -711,8 +711,8 @@
     "id": 37,
     "order": "13.00000000000000000000",
     "name": "Exodus Rabbah II",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 49,
         "value": "Exodus Rabbah II, ",
@@ -750,8 +750,8 @@
     "id": 38,
     "order": "14.00000000000000000000",
     "name": "Midrash Psalms",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 51,
         "value": "Midrash Psalms, ",
@@ -1154,8 +1154,8 @@
     "id": 39,
     "order": "15.00000000000000000000",
     "name": "Exodus Rabbah I",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 55,
         "value": "Exodus Rabbah I, ",
@@ -1178,8 +1178,8 @@
     "id": 40,
     "order": "16.00000000000000000000",
     "name": "Numbers Rabbah I",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 59,
         "value": "Numbers Rabbah I, ",
@@ -1257,8 +1257,8 @@
     "id": 43,
     "order": "17.00000000000000000000",
     "name": "Mekhilta DeRabbi Yishmael",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 235,
         "value": "Mekhilta DeRabbi Yishmael, ",
@@ -1271,8 +1271,8 @@
     "id": 44,
     "order": "18.00000000000000000000",
     "name": "Deuteronomy Rabbah [Lieberman]",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 144,
         "value": "Deuteronomy Rabbah [Lieberman], ",
@@ -1305,8 +1305,8 @@
     "id": 45,
     "order": "19.00000000000000000000",
     "name": "Deuteronomy Rabbah",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 149,
         "value": "Deuteronomy Rabbah, ",
@@ -1369,8 +1369,8 @@
     "id": 46,
     "order": "20.00000000000000000000",
     "name": "Song of Songs Zuta",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 160,
         "value": "Song of Songs Zuta, ",
@@ -1393,8 +1393,8 @@
     "id": 47,
     "order": "21.00000000000000000000",
     "name": "Ruth Zuta",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 162,
         "value": "Ruth Zuta, ",
@@ -1407,8 +1407,8 @@
     "id": 48,
     "order": "22.00000000000000000000",
     "name": "Lamentations Zuta",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 163,
         "value": "Lamentations Zuta, ",
@@ -1421,8 +1421,8 @@
     "id": 49,
     "order": "23.00000000000000000000",
     "name": "Pitron Torah",
-    "info_about_text": "",
-    "mentions": [
+    "info": "",
+    "passages": [
       {
         "id": 273,
         "value": "Pitron Torah, ",
