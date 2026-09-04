@@ -11,7 +11,9 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_1"
+    "hiob_id": "hiob_verse_1",
+    "canonical_meaning": null,
+    "voices": []
   },
   "2": {
     "id": 2,
@@ -25,7 +27,9 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_2"
+    "hiob_id": "hiob_verse_2",
+    "canonical_meaning": null,
+    "voices": []
   },
   "3": {
     "id": 3,
@@ -39,7 +43,9 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_3"
+    "hiob_id": "hiob_verse_3",
+    "canonical_meaning": null,
+    "voices": []
   },
   "4": {
     "id": 4,
@@ -53,7 +59,9 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_4"
+    "hiob_id": "hiob_verse_4",
+    "canonical_meaning": null,
+    "voices": []
   },
   "5": {
     "id": 5,
@@ -67,7 +75,9 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_5"
+    "hiob_id": "hiob_verse_5",
+    "canonical_meaning": null,
+    "voices": []
   },
   "6": {
     "id": 6,
@@ -91,7 +101,9 @@
         "order": "58.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_6"
+    "hiob_id": "hiob_verse_6",
+    "canonical_meaning": null,
+    "voices": []
   },
   "7": {
     "id": 7,
@@ -105,7 +117,9 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_7"
+    "hiob_id": "hiob_verse_7",
+    "canonical_meaning": null,
+    "voices": []
   },
   "8": {
     "id": 8,
@@ -119,7 +133,9 @@
         "order": "8.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_8"
+    "hiob_id": "hiob_verse_8",
+    "canonical_meaning": null,
+    "voices": []
   },
   "9": {
     "id": 9,
@@ -133,7 +149,9 @@
         "order": "8.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_9"
+    "hiob_id": "hiob_verse_9",
+    "canonical_meaning": null,
+    "voices": []
   },
   "10": {
     "id": 10,
@@ -147,7 +165,9 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_10"
+    "hiob_id": "hiob_verse_10",
+    "canonical_meaning": null,
+    "voices": []
   },
   "11": {
     "id": 11,
@@ -166,7 +186,9 @@
         "order": "92.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_11"
+    "hiob_id": "hiob_verse_11",
+    "canonical_meaning": null,
+    "voices": []
   },
   "12": {
     "id": 12,
@@ -185,7 +207,9 @@
         "order": "102.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_12"
+    "hiob_id": "hiob_verse_12",
+    "canonical_meaning": null,
+    "voices": []
   },
   "13": {
     "id": 13,
@@ -229,7 +253,9 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_13"
+    "hiob_id": "hiob_verse_13",
+    "canonical_meaning": null,
+    "voices": []
   },
   "36": {
     "id": 36,
@@ -243,7 +269,9 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_36"
+    "hiob_id": "hiob_verse_36",
+    "canonical_meaning": null,
+    "voices": []
   },
   "37": {
     "id": 37,
@@ -257,7 +285,9 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_37"
+    "hiob_id": "hiob_verse_37",
+    "canonical_meaning": null,
+    "voices": []
   },
   "38": {
     "id": 38,
@@ -281,7 +311,9 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_38"
+    "hiob_id": "hiob_verse_38",
+    "canonical_meaning": null,
+    "voices": []
   },
   "39": {
     "id": 39,
@@ -305,7 +337,9 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_39"
+    "hiob_id": "hiob_verse_39",
+    "canonical_meaning": null,
+    "voices": []
   },
   "40": {
     "id": 40,
@@ -324,7 +358,9 @@
         "order": "88.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_40"
+    "hiob_id": "hiob_verse_40",
+    "canonical_meaning": null,
+    "voices": []
   },
   "41": {
     "id": 41,
@@ -338,7 +374,9 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_41"
+    "hiob_id": "hiob_verse_41",
+    "canonical_meaning": null,
+    "voices": []
   },
   "42": {
     "id": 42,
@@ -352,7 +390,9 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_42"
+    "hiob_id": "hiob_verse_42",
+    "canonical_meaning": null,
+    "voices": []
   },
   "43": {
     "id": 43,
@@ -391,7 +431,9 @@
         "order": "32.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_43"
+    "hiob_id": "hiob_verse_43",
+    "canonical_meaning": null,
+    "voices": []
   },
   "44": {
     "id": 44,
@@ -405,7 +447,9 @@
         "order": "33.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_44"
+    "hiob_id": "hiob_verse_44",
+    "canonical_meaning": null,
+    "voices": []
   },
   "45": {
     "id": 45,
@@ -424,7 +468,9 @@
         "order": "35.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_45"
+    "hiob_id": "hiob_verse_45",
+    "canonical_meaning": null,
+    "voices": []
   },
   "46": {
     "id": 46,
@@ -458,7 +504,9 @@
         "order": "80.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_46"
+    "hiob_id": "hiob_verse_46",
+    "canonical_meaning": null,
+    "voices": []
   },
   "47": {
     "id": 47,
@@ -477,7 +525,9 @@
         "order": "80.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_47"
+    "hiob_id": "hiob_verse_47",
+    "canonical_meaning": null,
+    "voices": []
   },
   "48": {
     "id": 48,
@@ -496,7 +546,9 @@
         "order": "80.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_48"
+    "hiob_id": "hiob_verse_48",
+    "canonical_meaning": null,
+    "voices": []
   },
   "49": {
     "id": 49,
@@ -510,7 +562,9 @@
         "order": "37.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_49"
+    "hiob_id": "hiob_verse_49",
+    "canonical_meaning": null,
+    "voices": []
   },
   "50": {
     "id": 50,
@@ -524,7 +578,9 @@
         "order": "41.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_50"
+    "hiob_id": "hiob_verse_50",
+    "canonical_meaning": null,
+    "voices": []
   },
   "51": {
     "id": 51,
@@ -538,7 +594,9 @@
         "order": "42.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_51"
+    "hiob_id": "hiob_verse_51",
+    "canonical_meaning": null,
+    "voices": []
   },
   "52": {
     "id": 52,
@@ -552,7 +610,9 @@
         "order": "43.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_52"
+    "hiob_id": "hiob_verse_52",
+    "canonical_meaning": null,
+    "voices": []
   },
   "53": {
     "id": 53,
@@ -566,7 +626,9 @@
         "order": "40.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_53"
+    "hiob_id": "hiob_verse_53",
+    "canonical_meaning": null,
+    "voices": []
   },
   "54": {
     "id": 54,
@@ -574,7 +636,9 @@
     "verse": "1:3",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_54"
+    "hiob_id": "hiob_verse_54",
+    "canonical_meaning": null,
+    "voices": []
   },
   "55": {
     "id": 55,
@@ -588,7 +652,9 @@
         "order": "200.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_55"
+    "hiob_id": "hiob_verse_55",
+    "canonical_meaning": null,
+    "voices": []
   },
   "56": {
     "id": 56,
@@ -602,7 +668,9 @@
         "order": "54.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_56"
+    "hiob_id": "hiob_verse_56",
+    "canonical_meaning": null,
+    "voices": []
   },
   "57": {
     "id": 57,
@@ -610,7 +678,9 @@
     "verse": "1:7",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_57"
+    "hiob_id": "hiob_verse_57",
+    "canonical_meaning": null,
+    "voices": []
   },
   "58": {
     "id": 58,
@@ -629,7 +699,9 @@
         "order": "46.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_58"
+    "hiob_id": "hiob_verse_58",
+    "canonical_meaning": null,
+    "voices": []
   },
   "59": {
     "id": 59,
@@ -643,7 +715,9 @@
         "order": "256.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_59"
+    "hiob_id": "hiob_verse_59",
+    "canonical_meaning": null,
+    "voices": []
   },
   "60": {
     "id": 60,
@@ -651,7 +725,9 @@
     "verse": "1:10",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_60"
+    "hiob_id": "hiob_verse_60",
+    "canonical_meaning": null,
+    "voices": []
   },
   "61": {
     "id": 61,
@@ -659,7 +735,9 @@
     "verse": "1:11",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_61"
+    "hiob_id": "hiob_verse_61",
+    "canonical_meaning": null,
+    "voices": []
   },
   "62": {
     "id": 62,
@@ -667,7 +745,9 @@
     "verse": "1:14",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_62"
+    "hiob_id": "hiob_verse_62",
+    "canonical_meaning": null,
+    "voices": []
   },
   "63": {
     "id": 63,
@@ -675,7 +755,9 @@
     "verse": "1:15",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_63"
+    "hiob_id": "hiob_verse_63",
+    "canonical_meaning": null,
+    "voices": []
   },
   "64": {
     "id": 64,
@@ -683,7 +765,9 @@
     "verse": "1:16",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_64"
+    "hiob_id": "hiob_verse_64",
+    "canonical_meaning": null,
+    "voices": []
   },
   "65": {
     "id": 65,
@@ -691,7 +775,9 @@
     "verse": "1:17",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_65"
+    "hiob_id": "hiob_verse_65",
+    "canonical_meaning": null,
+    "voices": []
   },
   "66": {
     "id": 66,
@@ -699,7 +785,9 @@
     "verse": "1:19",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_66"
+    "hiob_id": "hiob_verse_66",
+    "canonical_meaning": null,
+    "voices": []
   },
   "67": {
     "id": 67,
@@ -723,7 +811,9 @@
         "order": "197.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_67"
+    "hiob_id": "hiob_verse_67",
+    "canonical_meaning": null,
+    "voices": []
   },
   "69": {
     "id": 69,
@@ -737,7 +827,9 @@
         "order": "47.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_69"
+    "hiob_id": "hiob_verse_69",
+    "canonical_meaning": null,
+    "voices": []
   },
   "71": {
     "id": 71,
@@ -751,7 +843,9 @@
         "order": "196.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_71"
+    "hiob_id": "hiob_verse_71",
+    "canonical_meaning": null,
+    "voices": []
   },
   "72": {
     "id": 72,
@@ -759,7 +853,9 @@
     "verse": "2:6",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_72"
+    "hiob_id": "hiob_verse_72",
+    "canonical_meaning": null,
+    "voices": []
   },
   "452": {
     "id": 452,
@@ -773,7 +869,9 @@
         "order": "256.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_452"
+    "hiob_id": "hiob_verse_452",
+    "canonical_meaning": null,
+    "voices": []
   },
   "73": {
     "id": 73,
@@ -781,7 +879,9 @@
     "verse": "2:8",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_73"
+    "hiob_id": "hiob_verse_73",
+    "canonical_meaning": null,
+    "voices": []
   },
   "74": {
     "id": 74,
@@ -789,7 +889,9 @@
     "verse": "2:9",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_74"
+    "hiob_id": "hiob_verse_74",
+    "canonical_meaning": null,
+    "voices": []
   },
   "75": {
     "id": 75,
@@ -803,7 +905,9 @@
         "order": "47.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_75"
+    "hiob_id": "hiob_verse_75",
+    "canonical_meaning": null,
+    "voices": []
   },
   "76": {
     "id": 76,
@@ -811,7 +915,9 @@
     "verse": "2:11",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_76"
+    "hiob_id": "hiob_verse_76",
+    "canonical_meaning": null,
+    "voices": []
   },
   "77": {
     "id": 77,
@@ -819,7 +925,9 @@
     "verse": "2:13",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_77"
+    "hiob_id": "hiob_verse_77",
+    "canonical_meaning": null,
+    "voices": []
   },
   "78": {
     "id": 78,
@@ -833,7 +941,9 @@
         "order": "49.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_78"
+    "hiob_id": "hiob_verse_78",
+    "canonical_meaning": null,
+    "voices": []
   },
   "79": {
     "id": 79,
@@ -847,7 +957,9 @@
         "order": "49.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_79"
+    "hiob_id": "hiob_verse_79",
+    "canonical_meaning": null,
+    "voices": []
   },
   "81": {
     "id": 81,
@@ -871,7 +983,9 @@
         "order": "264.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_81"
+    "hiob_id": "hiob_verse_81",
+    "canonical_meaning": null,
+    "voices": []
   },
   "82": {
     "id": 82,
@@ -879,7 +993,9 @@
     "verse": "3:6",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_82"
+    "hiob_id": "hiob_verse_82",
+    "canonical_meaning": null,
+    "voices": []
   },
   "83": {
     "id": 83,
@@ -887,7 +1003,9 @@
     "verse": "3:9",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_83"
+    "hiob_id": "hiob_verse_83",
+    "canonical_meaning": null,
+    "voices": []
   },
   "84": {
     "id": 84,
@@ -901,7 +1019,9 @@
         "order": "81.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_84"
+    "hiob_id": "hiob_verse_84",
+    "canonical_meaning": null,
+    "voices": []
   },
   "85": {
     "id": 85,
@@ -920,7 +1040,9 @@
         "order": "195.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_85"
+    "hiob_id": "hiob_verse_85",
+    "canonical_meaning": null,
+    "voices": []
   },
   "86": {
     "id": 86,
@@ -928,7 +1050,9 @@
     "verse": "3:17",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_86"
+    "hiob_id": "hiob_verse_86",
+    "canonical_meaning": null,
+    "voices": []
   },
   "87": {
     "id": 87,
@@ -942,7 +1066,9 @@
         "order": "193.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_87"
+    "hiob_id": "hiob_verse_87",
+    "canonical_meaning": null,
+    "voices": []
   },
   "88": {
     "id": 88,
@@ -961,7 +1087,9 @@
         "order": "51.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_88"
+    "hiob_id": "hiob_verse_88",
+    "canonical_meaning": null,
+    "voices": []
   },
   "89": {
     "id": 89,
@@ -975,7 +1103,9 @@
         "order": "51.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_89"
+    "hiob_id": "hiob_verse_89",
+    "canonical_meaning": null,
+    "voices": []
   },
   "90": {
     "id": 90,
@@ -989,7 +1119,9 @@
         "order": "49.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_90"
+    "hiob_id": "hiob_verse_90",
+    "canonical_meaning": null,
+    "voices": []
   },
   "91": {
     "id": 91,
@@ -997,7 +1129,9 @@
     "verse": "4:2",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_91"
+    "hiob_id": "hiob_verse_91",
+    "canonical_meaning": null,
+    "voices": []
   },
   "92": {
     "id": 92,
@@ -1005,7 +1139,9 @@
     "verse": "4:3",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_92"
+    "hiob_id": "hiob_verse_92",
+    "canonical_meaning": null,
+    "voices": []
   },
   "93": {
     "id": 93,
@@ -1013,7 +1149,9 @@
     "verse": "4:4",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_93"
+    "hiob_id": "hiob_verse_93",
+    "canonical_meaning": null,
+    "voices": []
   },
   "94": {
     "id": 94,
@@ -1021,7 +1159,9 @@
     "verse": "4:6",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_94"
+    "hiob_id": "hiob_verse_94",
+    "canonical_meaning": null,
+    "voices": []
   },
   "95": {
     "id": 95,
@@ -1029,7 +1169,9 @@
     "verse": "4:7",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_95"
+    "hiob_id": "hiob_verse_95",
+    "canonical_meaning": null,
+    "voices": []
   },
   "96": {
     "id": 96,
@@ -1037,7 +1179,9 @@
     "verse": "4:8",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_96"
+    "hiob_id": "hiob_verse_96",
+    "canonical_meaning": null,
+    "voices": []
   },
   "97": {
     "id": 97,
@@ -1045,7 +1189,9 @@
     "verse": "4:10",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_97"
+    "hiob_id": "hiob_verse_97",
+    "canonical_meaning": null,
+    "voices": []
   },
   "98": {
     "id": 98,
@@ -1053,7 +1199,9 @@
     "verse": "4:11",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_98"
+    "hiob_id": "hiob_verse_98",
+    "canonical_meaning": null,
+    "voices": []
   },
   "99": {
     "id": 99,
@@ -1067,7 +1215,9 @@
         "order": "52.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_99"
+    "hiob_id": "hiob_verse_99",
+    "canonical_meaning": null,
+    "voices": []
   },
   "100": {
     "id": 100,
@@ -1075,7 +1225,9 @@
     "verse": "4:13",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_100"
+    "hiob_id": "hiob_verse_100",
+    "canonical_meaning": null,
+    "voices": []
   },
   "101": {
     "id": 101,
@@ -1089,7 +1241,9 @@
         "order": "53.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_101"
+    "hiob_id": "hiob_verse_101",
+    "canonical_meaning": null,
+    "voices": []
   },
   "102": {
     "id": 102,
@@ -1103,7 +1257,9 @@
         "order": "53.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_102"
+    "hiob_id": "hiob_verse_102",
+    "canonical_meaning": null,
+    "voices": []
   },
   "103": {
     "id": 103,
@@ -1122,7 +1278,9 @@
         "order": "54.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_103"
+    "hiob_id": "hiob_verse_103",
+    "canonical_meaning": null,
+    "voices": []
   },
   "104": {
     "id": 104,
@@ -1130,7 +1288,9 @@
     "verse": "4:17",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_104"
+    "hiob_id": "hiob_verse_104",
+    "canonical_meaning": null,
+    "voices": []
   },
   "105": {
     "id": 105,
@@ -1138,7 +1298,9 @@
     "verse": "4:20",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_105"
+    "hiob_id": "hiob_verse_105",
+    "canonical_meaning": null,
+    "voices": []
   },
   "106": {
     "id": 106,
@@ -1146,7 +1308,9 @@
     "verse": "5:5",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_106"
+    "hiob_id": "hiob_verse_106",
+    "canonical_meaning": null,
+    "voices": []
   },
   "107": {
     "id": 107,
@@ -1175,7 +1339,9 @@
         "order": "266.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_107"
+    "hiob_id": "hiob_verse_107",
+    "canonical_meaning": null,
+    "voices": []
   },
   "108": {
     "id": 108,
@@ -1189,7 +1355,9 @@
         "order": "190.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_108"
+    "hiob_id": "hiob_verse_108",
+    "canonical_meaning": null,
+    "voices": []
   },
   "109": {
     "id": 109,
@@ -1203,7 +1371,9 @@
         "order": "190.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_109"
+    "hiob_id": "hiob_verse_109",
+    "canonical_meaning": null,
+    "voices": []
   },
   "110": {
     "id": 110,
@@ -1217,7 +1387,9 @@
         "order": "189.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_110"
+    "hiob_id": "hiob_verse_110",
+    "canonical_meaning": null,
+    "voices": []
   },
   "111": {
     "id": 111,
@@ -1225,7 +1397,9 @@
     "verse": "5:13",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_111"
+    "hiob_id": "hiob_verse_111",
+    "canonical_meaning": null,
+    "voices": []
   },
   "112": {
     "id": 112,
@@ -1233,7 +1407,9 @@
     "verse": "5:23",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_112"
+    "hiob_id": "hiob_verse_112",
+    "canonical_meaning": null,
+    "voices": []
   },
   "113": {
     "id": 113,
@@ -1247,7 +1423,9 @@
         "order": "188.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_113"
+    "hiob_id": "hiob_verse_113",
+    "canonical_meaning": null,
+    "voices": []
   },
   "114": {
     "id": 114,
@@ -1255,7 +1433,9 @@
     "verse": "5:25",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_114"
+    "hiob_id": "hiob_verse_114",
+    "canonical_meaning": null,
+    "voices": []
   },
   "115": {
     "id": 115,
@@ -1263,7 +1443,9 @@
     "verse": "6:11",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_115"
+    "hiob_id": "hiob_verse_115",
+    "canonical_meaning": null,
+    "voices": []
   },
   "116": {
     "id": 116,
@@ -1271,7 +1453,9 @@
     "verse": "6:12",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_116"
+    "hiob_id": "hiob_verse_116",
+    "canonical_meaning": null,
+    "voices": []
   },
   "117": {
     "id": 117,
@@ -1285,7 +1469,9 @@
         "order": "188.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_117"
+    "hiob_id": "hiob_verse_117",
+    "canonical_meaning": null,
+    "voices": []
   },
   "118": {
     "id": 118,
@@ -1293,7 +1479,9 @@
     "verse": "6:14",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_118"
+    "hiob_id": "hiob_verse_118",
+    "canonical_meaning": null,
+    "voices": []
   },
   "119": {
     "id": 119,
@@ -1301,7 +1489,9 @@
     "verse": "6:17",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_119"
+    "hiob_id": "hiob_verse_119",
+    "canonical_meaning": null,
+    "voices": []
   },
   "120": {
     "id": 120,
@@ -1309,7 +1499,9 @@
     "verse": "6:18",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_120"
+    "hiob_id": "hiob_verse_120",
+    "canonical_meaning": null,
+    "voices": []
   },
   "121": {
     "id": 121,
@@ -1323,7 +1515,9 @@
         "order": "86.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_121"
+    "hiob_id": "hiob_verse_121",
+    "canonical_meaning": null,
+    "voices": []
   },
   "122": {
     "id": 122,
@@ -1347,7 +1541,9 @@
         "order": "187.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_122"
+    "hiob_id": "hiob_verse_122",
+    "canonical_meaning": null,
+    "voices": []
   },
   "123": {
     "id": 123,
@@ -1355,7 +1551,9 @@
     "verse": "7:9",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_123"
+    "hiob_id": "hiob_verse_123",
+    "canonical_meaning": null,
+    "voices": []
   },
   "124": {
     "id": 124,
@@ -1363,7 +1561,9 @@
     "verse": "7:18",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_124"
+    "hiob_id": "hiob_verse_124",
+    "canonical_meaning": null,
+    "voices": []
   },
   "125": {
     "id": 125,
@@ -1377,7 +1577,9 @@
         "order": "54.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_125"
+    "hiob_id": "hiob_verse_125",
+    "canonical_meaning": null,
+    "voices": []
   },
   "126": {
     "id": 126,
@@ -1391,7 +1593,9 @@
         "order": "49.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_126"
+    "hiob_id": "hiob_verse_126",
+    "canonical_meaning": null,
+    "voices": []
   },
   "127": {
     "id": 127,
@@ -1399,7 +1603,9 @@
     "verse": "8:7",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_127"
+    "hiob_id": "hiob_verse_127",
+    "canonical_meaning": null,
+    "voices": []
   },
   "128": {
     "id": 128,
@@ -1407,7 +1613,9 @@
     "verse": "8:8",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_128"
+    "hiob_id": "hiob_verse_128",
+    "canonical_meaning": null,
+    "voices": []
   },
   "129": {
     "id": 129,
@@ -1415,7 +1623,9 @@
     "verse": "8:10",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_129"
+    "hiob_id": "hiob_verse_129",
+    "canonical_meaning": null,
+    "voices": []
   },
   "130": {
     "id": 130,
@@ -1423,7 +1633,9 @@
     "verse": "8:11",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_130"
+    "hiob_id": "hiob_verse_130",
+    "canonical_meaning": null,
+    "voices": []
   },
   "131": {
     "id": 131,
@@ -1437,7 +1649,9 @@
         "order": "174.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_131"
+    "hiob_id": "hiob_verse_131",
+    "canonical_meaning": null,
+    "voices": []
   },
   "132": {
     "id": 132,
@@ -1451,7 +1665,9 @@
         "order": "174.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_132"
+    "hiob_id": "hiob_verse_132",
+    "canonical_meaning": null,
+    "voices": []
   },
   "133": {
     "id": 133,
@@ -1459,7 +1675,9 @@
     "verse": "8:20",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_133"
+    "hiob_id": "hiob_verse_133",
+    "canonical_meaning": null,
+    "voices": []
   },
   "134": {
     "id": 134,
@@ -1467,7 +1685,9 @@
     "verse": "9:4",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_134"
+    "hiob_id": "hiob_verse_134",
+    "canonical_meaning": null,
+    "voices": []
   },
   "135": {
     "id": 135,
@@ -1481,7 +1701,9 @@
         "order": "55.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_135"
+    "hiob_id": "hiob_verse_135",
+    "canonical_meaning": null,
+    "voices": []
   },
   "136": {
     "id": 136,
@@ -1495,7 +1717,9 @@
         "order": "183.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_136"
+    "hiob_id": "hiob_verse_136",
+    "canonical_meaning": null,
+    "voices": []
   },
   "137": {
     "id": 137,
@@ -1503,7 +1727,9 @@
     "verse": "9:7",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_137"
+    "hiob_id": "hiob_verse_137",
+    "canonical_meaning": null,
+    "voices": []
   },
   "138": {
     "id": 138,
@@ -1517,7 +1743,9 @@
         "order": "170.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_138"
+    "hiob_id": "hiob_verse_138",
+    "canonical_meaning": null,
+    "voices": []
   },
   "139": {
     "id": 139,
@@ -1531,7 +1759,9 @@
         "order": "181.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_139"
+    "hiob_id": "hiob_verse_139",
+    "canonical_meaning": null,
+    "voices": []
   },
   "140": {
     "id": 140,
@@ -1555,7 +1785,15 @@
         "order": "259.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_140"
+    "hiob_id": "hiob_verse_140",
+    "canonical_meaning": null,
+    "voices": [
+      {
+        "id": 23398,
+        "value": "Job",
+        "color": "dark-purple"
+      }
+    ]
   },
   "141": {
     "id": 141,
@@ -1563,7 +1801,9 @@
     "verse": "9:22",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_141"
+    "hiob_id": "hiob_verse_141",
+    "canonical_meaning": null,
+    "voices": []
   },
   "142": {
     "id": 142,
@@ -1582,7 +1822,9 @@
         "order": "180.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_142"
+    "hiob_id": "hiob_verse_142",
+    "canonical_meaning": null,
+    "voices": []
   },
   "144": {
     "id": 144,
@@ -1590,7 +1832,9 @@
     "verse": "10:2",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_144"
+    "hiob_id": "hiob_verse_144",
+    "canonical_meaning": null,
+    "voices": []
   },
   "145": {
     "id": 145,
@@ -1604,7 +1848,9 @@
         "order": "154.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_145"
+    "hiob_id": "hiob_verse_145",
+    "canonical_meaning": null,
+    "voices": []
   },
   "147": {
     "id": 147,
@@ -1612,7 +1858,9 @@
     "verse": "10:4",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_147"
+    "hiob_id": "hiob_verse_147",
+    "canonical_meaning": null,
+    "voices": []
   },
   "148": {
     "id": 148,
@@ -1626,7 +1874,9 @@
         "order": "179.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_148"
+    "hiob_id": "hiob_verse_148",
+    "canonical_meaning": null,
+    "voices": []
   },
   "149": {
     "id": 149,
@@ -1640,7 +1890,9 @@
         "order": "160.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_149"
+    "hiob_id": "hiob_verse_149",
+    "canonical_meaning": null,
+    "voices": []
   },
   "150": {
     "id": 150,
@@ -1659,7 +1911,9 @@
         "order": "179.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_150"
+    "hiob_id": "hiob_verse_150",
+    "canonical_meaning": null,
+    "voices": []
   },
   "151": {
     "id": 151,
@@ -1678,7 +1932,9 @@
         "order": "179.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_151"
+    "hiob_id": "hiob_verse_151",
+    "canonical_meaning": null,
+    "voices": []
   },
   "152": {
     "id": 152,
@@ -1692,7 +1948,9 @@
         "order": "160.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_152"
+    "hiob_id": "hiob_verse_152",
+    "canonical_meaning": null,
+    "voices": []
   },
   "153": {
     "id": 153,
@@ -1706,7 +1964,9 @@
         "order": "160.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_153"
+    "hiob_id": "hiob_verse_153",
+    "canonical_meaning": null,
+    "voices": []
   },
   "154": {
     "id": 154,
@@ -1720,7 +1980,9 @@
         "order": "109.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_154"
+    "hiob_id": "hiob_verse_154",
+    "canonical_meaning": null,
+    "voices": []
   },
   "155": {
     "id": 155,
@@ -1728,7 +1990,9 @@
     "verse": "11:1",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_155"
+    "hiob_id": "hiob_verse_155",
+    "canonical_meaning": null,
+    "voices": []
   },
   "156": {
     "id": 156,
@@ -1736,7 +2000,9 @@
     "verse": "11:5",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_156"
+    "hiob_id": "hiob_verse_156",
+    "canonical_meaning": null,
+    "voices": []
   },
   "157": {
     "id": 157,
@@ -1744,7 +2010,9 @@
     "verse": "11:6",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_157"
+    "hiob_id": "hiob_verse_157",
+    "canonical_meaning": null,
+    "voices": []
   },
   "158": {
     "id": 158,
@@ -1763,7 +2031,9 @@
         "order": "176.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_158"
+    "hiob_id": "hiob_verse_158",
+    "canonical_meaning": null,
+    "voices": []
   },
   "159": {
     "id": 159,
@@ -1782,7 +2052,9 @@
         "order": "176.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_159"
+    "hiob_id": "hiob_verse_159",
+    "canonical_meaning": null,
+    "voices": []
   },
   "160": {
     "id": 160,
@@ -1816,7 +2088,9 @@
         "order": "178.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_160"
+    "hiob_id": "hiob_verse_160",
+    "canonical_meaning": null,
+    "voices": []
   },
   "161": {
     "id": 161,
@@ -1830,7 +2104,9 @@
         "order": "173.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_161"
+    "hiob_id": "hiob_verse_161",
+    "canonical_meaning": null,
+    "voices": []
   },
   "162": {
     "id": 162,
@@ -1844,7 +2120,9 @@
         "order": "172.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_162"
+    "hiob_id": "hiob_verse_162",
+    "canonical_meaning": null,
+    "voices": []
   },
   "163": {
     "id": 163,
@@ -1852,7 +2130,9 @@
     "verse": "12:3",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_163"
+    "hiob_id": "hiob_verse_163",
+    "canonical_meaning": null,
+    "voices": []
   },
   "164": {
     "id": 164,
@@ -1866,7 +2146,9 @@
         "order": "171.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_164"
+    "hiob_id": "hiob_verse_164",
+    "canonical_meaning": null,
+    "voices": []
   },
   "165": {
     "id": 165,
@@ -1880,7 +2162,9 @@
         "order": "91.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_165"
+    "hiob_id": "hiob_verse_165",
+    "canonical_meaning": null,
+    "voices": []
   },
   "166": {
     "id": 166,
@@ -1888,7 +2172,9 @@
     "verse": "12:7",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_166"
+    "hiob_id": "hiob_verse_166",
+    "canonical_meaning": null,
+    "voices": []
   },
   "167": {
     "id": 167,
@@ -1896,7 +2182,9 @@
     "verse": "12:8",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_167"
+    "hiob_id": "hiob_verse_167",
+    "canonical_meaning": null,
+    "voices": []
   },
   "168": {
     "id": 168,
@@ -1904,7 +2192,9 @@
     "verse": "12:9",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_168"
+    "hiob_id": "hiob_verse_168",
+    "canonical_meaning": null,
+    "voices": []
   },
   "169": {
     "id": 169,
@@ -1912,7 +2202,9 @@
     "verse": "12:6",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_169"
+    "hiob_id": "hiob_verse_169",
+    "canonical_meaning": null,
+    "voices": []
   },
   "171": {
     "id": 171,
@@ -1920,7 +2212,9 @@
     "verse": "12:5",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_171"
+    "hiob_id": "hiob_verse_171",
+    "canonical_meaning": null,
+    "voices": []
   },
   "172": {
     "id": 172,
@@ -1928,7 +2222,9 @@
     "verse": "12:12",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_172"
+    "hiob_id": "hiob_verse_172",
+    "canonical_meaning": null,
+    "voices": []
   },
   "173": {
     "id": 173,
@@ -1936,7 +2232,9 @@
     "verse": "12:13",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_173"
+    "hiob_id": "hiob_verse_173",
+    "canonical_meaning": null,
+    "voices": []
   },
   "174": {
     "id": 174,
@@ -1944,7 +2242,9 @@
     "verse": "12:14",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_174"
+    "hiob_id": "hiob_verse_174",
+    "canonical_meaning": null,
+    "voices": []
   },
   "175": {
     "id": 175,
@@ -1958,7 +2258,9 @@
         "order": "170.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_175"
+    "hiob_id": "hiob_verse_175",
+    "canonical_meaning": null,
+    "voices": []
   },
   "176": {
     "id": 176,
@@ -1966,7 +2268,9 @@
     "verse": "12:16",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_176"
+    "hiob_id": "hiob_verse_176",
+    "canonical_meaning": null,
+    "voices": []
   },
   "177": {
     "id": 177,
@@ -1974,7 +2278,9 @@
     "verse": "12:18",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_177"
+    "hiob_id": "hiob_verse_177",
+    "canonical_meaning": null,
+    "voices": []
   },
   "178": {
     "id": 178,
@@ -1982,7 +2288,9 @@
     "verse": "12:20",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_178"
+    "hiob_id": "hiob_verse_178",
+    "canonical_meaning": null,
+    "voices": []
   },
   "180": {
     "id": 180,
@@ -1990,7 +2298,9 @@
     "verse": "12:24",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_180"
+    "hiob_id": "hiob_verse_180",
+    "canonical_meaning": null,
+    "voices": []
   },
   "182": {
     "id": 182,
@@ -2004,7 +2314,9 @@
         "order": "161.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_182"
+    "hiob_id": "hiob_verse_182",
+    "canonical_meaning": null,
+    "voices": []
   },
   "183": {
     "id": 183,
@@ -2012,7 +2324,9 @@
     "verse": "14:4",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_183"
+    "hiob_id": "hiob_verse_183",
+    "canonical_meaning": null,
+    "voices": []
   },
   "184": {
     "id": 184,
@@ -2026,7 +2340,9 @@
         "order": "160.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_184"
+    "hiob_id": "hiob_verse_184",
+    "canonical_meaning": null,
+    "voices": []
   },
   "185": {
     "id": 185,
@@ -2040,7 +2356,9 @@
         "order": "160.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_185"
+    "hiob_id": "hiob_verse_185",
+    "canonical_meaning": null,
+    "voices": []
   },
   "186": {
     "id": 186,
@@ -2064,7 +2382,9 @@
         "order": "165.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_186"
+    "hiob_id": "hiob_verse_186",
+    "canonical_meaning": null,
+    "voices": []
   },
   "187": {
     "id": 187,
@@ -2072,7 +2392,9 @@
     "verse": "13:27",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_187"
+    "hiob_id": "hiob_verse_187",
+    "canonical_meaning": null,
+    "voices": []
   },
   "188": {
     "id": 188,
@@ -2080,7 +2402,9 @@
     "verse": "13:28",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_188"
+    "hiob_id": "hiob_verse_188",
+    "canonical_meaning": null,
+    "voices": []
   },
   "189": {
     "id": 189,
@@ -2094,7 +2418,9 @@
         "order": "154.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_189"
+    "hiob_id": "hiob_verse_189",
+    "canonical_meaning": null,
+    "voices": []
   },
   "190": {
     "id": 190,
@@ -2108,7 +2434,9 @@
         "order": "160.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_190"
+    "hiob_id": "hiob_verse_190",
+    "canonical_meaning": null,
+    "voices": []
   },
   "191": {
     "id": 191,
@@ -2122,7 +2450,9 @@
         "order": "167.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_191"
+    "hiob_id": "hiob_verse_191",
+    "canonical_meaning": null,
+    "voices": []
   },
   "192": {
     "id": 192,
@@ -2136,7 +2466,9 @@
         "order": "168.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_192"
+    "hiob_id": "hiob_verse_192",
+    "canonical_meaning": null,
+    "voices": []
   },
   "193": {
     "id": 193,
@@ -2144,7 +2476,9 @@
     "verse": "13:12",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_193"
+    "hiob_id": "hiob_verse_193",
+    "canonical_meaning": null,
+    "voices": []
   },
   "194": {
     "id": 194,
@@ -2158,7 +2492,9 @@
         "order": "160.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_194"
+    "hiob_id": "hiob_verse_194",
+    "canonical_meaning": null,
+    "voices": []
   },
   "195": {
     "id": 195,
@@ -2166,7 +2502,9 @@
     "verse": "14:15",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_195"
+    "hiob_id": "hiob_verse_195",
+    "canonical_meaning": null,
+    "voices": []
   },
   "196": {
     "id": 196,
@@ -2180,7 +2518,9 @@
         "order": "159.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_196"
+    "hiob_id": "hiob_verse_196",
+    "canonical_meaning": null,
+    "voices": []
   },
   "197": {
     "id": 197,
@@ -2194,7 +2534,9 @@
         "order": "158.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_197"
+    "hiob_id": "hiob_verse_197",
+    "canonical_meaning": null,
+    "voices": []
   },
   "199": {
     "id": 199,
@@ -2208,7 +2550,9 @@
         "order": "157.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_199"
+    "hiob_id": "hiob_verse_199",
+    "canonical_meaning": null,
+    "voices": []
   },
   "200": {
     "id": 200,
@@ -2216,7 +2560,9 @@
     "verse": "14:22",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_200"
+    "hiob_id": "hiob_verse_200",
+    "canonical_meaning": null,
+    "voices": []
   },
   "201": {
     "id": 201,
@@ -2224,7 +2570,9 @@
     "verse": "15:2",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_201"
+    "hiob_id": "hiob_verse_201",
+    "canonical_meaning": null,
+    "voices": []
   },
   "202": {
     "id": 202,
@@ -2238,7 +2586,9 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_202"
+    "hiob_id": "hiob_verse_202",
+    "canonical_meaning": null,
+    "voices": []
   },
   "203": {
     "id": 203,
@@ -2246,7 +2596,9 @@
     "verse": "15:12",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_203"
+    "hiob_id": "hiob_verse_203",
+    "canonical_meaning": null,
+    "voices": []
   },
   "204": {
     "id": 204,
@@ -2254,7 +2606,9 @@
     "verse": "15:13",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_204"
+    "hiob_id": "hiob_verse_204",
+    "canonical_meaning": null,
+    "voices": []
   },
   "205": {
     "id": 205,
@@ -2273,7 +2627,9 @@
         "order": "155.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_205"
+    "hiob_id": "hiob_verse_205",
+    "canonical_meaning": null,
+    "voices": []
   },
   "209": {
     "id": 209,
@@ -2281,7 +2637,9 @@
     "verse": "15:19",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_209"
+    "hiob_id": "hiob_verse_209",
+    "canonical_meaning": null,
+    "voices": []
   },
   "210": {
     "id": 210,
@@ -2289,15 +2647,25 @@
     "verse": "15:20",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_210"
+    "hiob_id": "hiob_verse_210",
+    "canonical_meaning": null,
+    "voices": []
   },
   "211": {
     "id": 211,
     "order": "189.00000000000000000000",
     "verse": "15:26",
     "quote": "",
-    "mentions": [],
-    "hiob_id": "hiob_verse_211"
+    "mentions": [
+      {
+        "id": 92,
+        "value": "Avot DeRabbi Natan B, 7",
+        "order": "59.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_verse_211",
+    "canonical_meaning": null,
+    "voices": []
   },
   "212": {
     "id": 212,
@@ -2305,7 +2673,9 @@
     "verse": "15:28",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_212"
+    "hiob_id": "hiob_verse_212",
+    "canonical_meaning": null,
+    "voices": []
   },
   "213": {
     "id": 213,
@@ -2313,7 +2683,9 @@
     "verse": "15:29",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_213"
+    "hiob_id": "hiob_verse_213",
+    "canonical_meaning": null,
+    "voices": []
   },
   "214": {
     "id": 214,
@@ -2321,7 +2693,9 @@
     "verse": "15:30",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_214"
+    "hiob_id": "hiob_verse_214",
+    "canonical_meaning": null,
+    "voices": []
   },
   "215": {
     "id": 215,
@@ -2329,7 +2703,9 @@
     "verse": "15:31",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_215"
+    "hiob_id": "hiob_verse_215",
+    "canonical_meaning": null,
+    "voices": []
   },
   "216": {
     "id": 216,
@@ -2337,7 +2713,9 @@
     "verse": "15:32",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_216"
+    "hiob_id": "hiob_verse_216",
+    "canonical_meaning": null,
+    "voices": []
   },
   "217": {
     "id": 217,
@@ -2345,7 +2723,9 @@
     "verse": "15:33",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_217"
+    "hiob_id": "hiob_verse_217",
+    "canonical_meaning": null,
+    "voices": []
   },
   "218": {
     "id": 218,
@@ -2353,7 +2733,9 @@
     "verse": "15:34",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_218"
+    "hiob_id": "hiob_verse_218",
+    "canonical_meaning": null,
+    "voices": []
   },
   "219": {
     "id": 219,
@@ -2361,7 +2743,9 @@
     "verse": "15:35",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_219"
+    "hiob_id": "hiob_verse_219",
+    "canonical_meaning": null,
+    "voices": []
   },
   "220": {
     "id": 220,
@@ -2369,7 +2753,9 @@
     "verse": "16:2",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_220"
+    "hiob_id": "hiob_verse_220",
+    "canonical_meaning": null,
+    "voices": []
   },
   "221": {
     "id": 221,
@@ -2377,7 +2763,9 @@
     "verse": "16:11",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_221"
+    "hiob_id": "hiob_verse_221",
+    "canonical_meaning": null,
+    "voices": []
   },
   "222": {
     "id": 222,
@@ -2391,7 +2779,9 @@
         "order": "260.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_222"
+    "hiob_id": "hiob_verse_222",
+    "canonical_meaning": null,
+    "voices": []
   },
   "224": {
     "id": 224,
@@ -2405,7 +2795,9 @@
         "order": "154.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_224"
+    "hiob_id": "hiob_verse_224",
+    "canonical_meaning": null,
+    "voices": []
   },
   "225": {
     "id": 225,
@@ -2419,7 +2811,9 @@
         "order": "154.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_225"
+    "hiob_id": "hiob_verse_225",
+    "canonical_meaning": null,
+    "voices": []
   },
   "226": {
     "id": 226,
@@ -2427,7 +2821,9 @@
     "verse": "16:19",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_226"
+    "hiob_id": "hiob_verse_226",
+    "canonical_meaning": null,
+    "voices": []
   },
   "227": {
     "id": 227,
@@ -2441,7 +2837,9 @@
         "order": "153.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_227"
+    "hiob_id": "hiob_verse_227",
+    "canonical_meaning": null,
+    "voices": []
   },
   "228": {
     "id": 228,
@@ -2449,7 +2847,9 @@
     "verse": "18:10",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_228"
+    "hiob_id": "hiob_verse_228",
+    "canonical_meaning": null,
+    "voices": []
   },
   "229": {
     "id": 229,
@@ -2457,7 +2857,9 @@
     "verse": "18:13",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_229"
+    "hiob_id": "hiob_verse_229",
+    "canonical_meaning": null,
+    "voices": []
   },
   "230": {
     "id": 230,
@@ -2465,7 +2867,9 @@
     "verse": "18:17",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_230"
+    "hiob_id": "hiob_verse_230",
+    "canonical_meaning": null,
+    "voices": []
   },
   "231": {
     "id": 231,
@@ -2473,7 +2877,9 @@
     "verse": "18:18",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_231"
+    "hiob_id": "hiob_verse_231",
+    "canonical_meaning": null,
+    "voices": []
   },
   "232": {
     "id": 232,
@@ -2487,7 +2893,9 @@
         "order": "152.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_232"
+    "hiob_id": "hiob_verse_232",
+    "canonical_meaning": null,
+    "voices": []
   },
   "233": {
     "id": 233,
@@ -2495,7 +2903,9 @@
     "verse": "19:13",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_233"
+    "hiob_id": "hiob_verse_233",
+    "canonical_meaning": null,
+    "voices": []
   },
   "234": {
     "id": 234,
@@ -2503,7 +2913,9 @@
     "verse": "19:21",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_234"
+    "hiob_id": "hiob_verse_234",
+    "canonical_meaning": null,
+    "voices": []
   },
   "235": {
     "id": 235,
@@ -2511,7 +2923,9 @@
     "verse": "19:29",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_235"
+    "hiob_id": "hiob_verse_235",
+    "canonical_meaning": null,
+    "voices": []
   },
   "236": {
     "id": 236,
@@ -2525,7 +2939,9 @@
         "order": "151.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_236"
+    "hiob_id": "hiob_verse_236",
+    "canonical_meaning": null,
+    "voices": []
   },
   "237": {
     "id": 237,
@@ -2539,7 +2955,9 @@
         "order": "149.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_237"
+    "hiob_id": "hiob_verse_237",
+    "canonical_meaning": null,
+    "voices": []
   },
   "238": {
     "id": 238,
@@ -2558,7 +2976,9 @@
         "order": "146.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_238"
+    "hiob_id": "hiob_verse_238",
+    "canonical_meaning": null,
+    "voices": []
   },
   "239": {
     "id": 239,
@@ -2566,7 +2986,9 @@
     "verse": "20:23",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_239"
+    "hiob_id": "hiob_verse_239",
+    "canonical_meaning": null,
+    "voices": []
   },
   "240": {
     "id": 240,
@@ -2574,7 +2996,9 @@
     "verse": "20:24",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_240"
+    "hiob_id": "hiob_verse_240",
+    "canonical_meaning": null,
+    "voices": []
   },
   "241": {
     "id": 241,
@@ -2582,7 +3006,9 @@
     "verse": "20:25",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_241"
+    "hiob_id": "hiob_verse_241",
+    "canonical_meaning": null,
+    "voices": []
   },
   "242": {
     "id": 242,
@@ -2590,7 +3016,9 @@
     "verse": "20:26",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_242"
+    "hiob_id": "hiob_verse_242",
+    "canonical_meaning": null,
+    "voices": []
   },
   "243": {
     "id": 243,
@@ -2609,7 +3037,9 @@
         "order": "210.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_243"
+    "hiob_id": "hiob_verse_243",
+    "canonical_meaning": null,
+    "voices": []
   },
   "244": {
     "id": 244,
@@ -2617,7 +3047,9 @@
     "verse": "20:28",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_244"
+    "hiob_id": "hiob_verse_244",
+    "canonical_meaning": null,
+    "voices": []
   },
   "245": {
     "id": 245,
@@ -2625,7 +3057,9 @@
     "verse": "21:8",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_245"
+    "hiob_id": "hiob_verse_245",
+    "canonical_meaning": null,
+    "voices": []
   },
   "246": {
     "id": 246,
@@ -2633,7 +3067,9 @@
     "verse": "21:9",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_246"
+    "hiob_id": "hiob_verse_246",
+    "canonical_meaning": null,
+    "voices": []
   },
   "247": {
     "id": 247,
@@ -2641,7 +3077,9 @@
     "verse": "21:10",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_247"
+    "hiob_id": "hiob_verse_247",
+    "canonical_meaning": null,
+    "voices": []
   },
   "248": {
     "id": 248,
@@ -2649,7 +3087,9 @@
     "verse": "21:11",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_248"
+    "hiob_id": "hiob_verse_248",
+    "canonical_meaning": null,
+    "voices": []
   },
   "249": {
     "id": 249,
@@ -2657,7 +3097,9 @@
     "verse": "21:12",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_249"
+    "hiob_id": "hiob_verse_249",
+    "canonical_meaning": null,
+    "voices": []
   },
   "250": {
     "id": 250,
@@ -2671,7 +3113,9 @@
         "order": "60.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_250"
+    "hiob_id": "hiob_verse_250",
+    "canonical_meaning": null,
+    "voices": []
   },
   "251": {
     "id": 251,
@@ -2695,7 +3139,9 @@
         "order": "86.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_251"
+    "hiob_id": "hiob_verse_251",
+    "canonical_meaning": null,
+    "voices": []
   },
   "252": {
     "id": 252,
@@ -2703,7 +3149,9 @@
     "verse": "21:15",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_252"
+    "hiob_id": "hiob_verse_252",
+    "canonical_meaning": null,
+    "voices": []
   },
   "253": {
     "id": 253,
@@ -2711,7 +3159,9 @@
     "verse": "21:16",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_253"
+    "hiob_id": "hiob_verse_253",
+    "canonical_meaning": null,
+    "voices": []
   },
   "254": {
     "id": 254,
@@ -2719,7 +3169,9 @@
     "verse": "21:18",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_254"
+    "hiob_id": "hiob_verse_254",
+    "canonical_meaning": null,
+    "voices": []
   },
   "255": {
     "id": 255,
@@ -2727,7 +3179,9 @@
     "verse": "21:33",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_255"
+    "hiob_id": "hiob_verse_255",
+    "canonical_meaning": null,
+    "voices": []
   },
   "256": {
     "id": 256,
@@ -2735,7 +3189,9 @@
     "verse": "21:34",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_256"
+    "hiob_id": "hiob_verse_256",
+    "canonical_meaning": null,
+    "voices": []
   },
   "257": {
     "id": 257,
@@ -2743,7 +3199,9 @@
     "verse": "22:12",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_257"
+    "hiob_id": "hiob_verse_257",
+    "canonical_meaning": null,
+    "voices": []
   },
   "258": {
     "id": 258,
@@ -2751,7 +3209,9 @@
     "verse": "22:13",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_258"
+    "hiob_id": "hiob_verse_258",
+    "canonical_meaning": null,
+    "voices": []
   },
   "259": {
     "id": 259,
@@ -2765,7 +3225,9 @@
         "order": "146.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_259"
+    "hiob_id": "hiob_verse_259",
+    "canonical_meaning": null,
+    "voices": []
   },
   "260": {
     "id": 260,
@@ -2773,7 +3235,9 @@
     "verse": "22:15",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_260"
+    "hiob_id": "hiob_verse_260",
+    "canonical_meaning": null,
+    "voices": []
   },
   "261": {
     "id": 261,
@@ -2787,7 +3251,9 @@
         "order": "145.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_261"
+    "hiob_id": "hiob_verse_261",
+    "canonical_meaning": null,
+    "voices": []
   },
   "262": {
     "id": 262,
@@ -2795,7 +3261,9 @@
     "verse": "22:17",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_262"
+    "hiob_id": "hiob_verse_262",
+    "canonical_meaning": null,
+    "voices": []
   },
   "263": {
     "id": 263,
@@ -2803,7 +3271,9 @@
     "verse": "22:20",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_263"
+    "hiob_id": "hiob_verse_263",
+    "canonical_meaning": null,
+    "voices": []
   },
   "264": {
     "id": 264,
@@ -2811,7 +3281,9 @@
     "verse": "22:25",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_264"
+    "hiob_id": "hiob_verse_264",
+    "canonical_meaning": null,
+    "voices": []
   },
   "265": {
     "id": 265,
@@ -2819,7 +3291,9 @@
     "verse": "22:28",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_265"
+    "hiob_id": "hiob_verse_265",
+    "canonical_meaning": null,
+    "voices": []
   },
   "266": {
     "id": 266,
@@ -2827,7 +3301,9 @@
     "verse": "22:30",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_266"
+    "hiob_id": "hiob_verse_266",
+    "canonical_meaning": null,
+    "voices": []
   },
   "267": {
     "id": 267,
@@ -2856,7 +3332,9 @@
         "order": "271.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_267"
+    "hiob_id": "hiob_verse_267",
+    "canonical_meaning": null,
+    "voices": []
   },
   "268": {
     "id": 268,
@@ -2864,7 +3342,9 @@
     "verse": "23:4",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_268"
+    "hiob_id": "hiob_verse_268",
+    "canonical_meaning": null,
+    "voices": []
   },
   "269": {
     "id": 269,
@@ -2872,7 +3352,9 @@
     "verse": "23:5",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_269"
+    "hiob_id": "hiob_verse_269",
+    "canonical_meaning": null,
+    "voices": []
   },
   "270": {
     "id": 270,
@@ -2880,7 +3362,9 @@
     "verse": "23:8",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_270"
+    "hiob_id": "hiob_verse_270",
+    "canonical_meaning": null,
+    "voices": []
   },
   "271": {
     "id": 271,
@@ -2888,7 +3372,9 @@
     "verse": "23:9",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_271"
+    "hiob_id": "hiob_verse_271",
+    "canonical_meaning": null,
+    "voices": []
   },
   "272": {
     "id": 272,
@@ -2896,7 +3382,9 @@
     "verse": "23:10",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_272"
+    "hiob_id": "hiob_verse_272",
+    "canonical_meaning": null,
+    "voices": []
   },
   "273": {
     "id": 273,
@@ -2904,7 +3392,9 @@
     "verse": "23:12",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_273"
+    "hiob_id": "hiob_verse_273",
+    "canonical_meaning": null,
+    "voices": []
   },
   "274": {
     "id": 274,
@@ -2918,7 +3408,9 @@
         "order": "144.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_274"
+    "hiob_id": "hiob_verse_274",
+    "canonical_meaning": null,
+    "voices": []
   },
   "275": {
     "id": 275,
@@ -2926,7 +3418,9 @@
     "verse": "24:2",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_275"
+    "hiob_id": "hiob_verse_275",
+    "canonical_meaning": null,
+    "voices": []
   },
   "276": {
     "id": 276,
@@ -2934,7 +3428,9 @@
     "verse": "24:3",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_276"
+    "hiob_id": "hiob_verse_276",
+    "canonical_meaning": null,
+    "voices": []
   },
   "277": {
     "id": 277,
@@ -2942,7 +3438,9 @@
     "verse": "24:4",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_277"
+    "hiob_id": "hiob_verse_277",
+    "canonical_meaning": null,
+    "voices": []
   },
   "278": {
     "id": 278,
@@ -2950,7 +3448,9 @@
     "verse": "24:7",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_278"
+    "hiob_id": "hiob_verse_278",
+    "canonical_meaning": null,
+    "voices": []
   },
   "279": {
     "id": 279,
@@ -2958,7 +3458,9 @@
     "verse": "24:7",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_279"
+    "hiob_id": "hiob_verse_279",
+    "canonical_meaning": null,
+    "voices": []
   },
   "280": {
     "id": 280,
@@ -2966,7 +3468,9 @@
     "verse": "24:10",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_280"
+    "hiob_id": "hiob_verse_280",
+    "canonical_meaning": null,
+    "voices": []
   },
   "281": {
     "id": 281,
@@ -2980,7 +3484,9 @@
         "order": "90.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_281"
+    "hiob_id": "hiob_verse_281",
+    "canonical_meaning": null,
+    "voices": []
   },
   "282": {
     "id": 282,
@@ -2988,7 +3494,9 @@
     "verse": "24:13",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_282"
+    "hiob_id": "hiob_verse_282",
+    "canonical_meaning": null,
+    "voices": []
   },
   "283": {
     "id": 283,
@@ -2996,7 +3504,9 @@
     "verse": "24:15",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_283"
+    "hiob_id": "hiob_verse_283",
+    "canonical_meaning": null,
+    "voices": []
   },
   "284": {
     "id": 284,
@@ -3004,7 +3514,9 @@
     "verse": "24:16",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_284"
+    "hiob_id": "hiob_verse_284",
+    "canonical_meaning": null,
+    "voices": []
   },
   "285": {
     "id": 285,
@@ -3012,7 +3524,9 @@
     "verse": "24:18",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_285"
+    "hiob_id": "hiob_verse_285",
+    "canonical_meaning": null,
+    "voices": []
   },
   "286": {
     "id": 286,
@@ -3020,7 +3534,9 @@
     "verse": "24:20",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_286"
+    "hiob_id": "hiob_verse_286",
+    "canonical_meaning": null,
+    "voices": []
   },
   "287": {
     "id": 287,
@@ -3034,7 +3550,9 @@
         "order": "143.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_287"
+    "hiob_id": "hiob_verse_287",
+    "canonical_meaning": null,
+    "voices": []
   },
   "288": {
     "id": 288,
@@ -3048,7 +3566,9 @@
         "order": "63.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_288"
+    "hiob_id": "hiob_verse_288",
+    "canonical_meaning": null,
+    "voices": []
   },
   "289": {
     "id": 289,
@@ -3062,7 +3582,9 @@
         "order": "65.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_289"
+    "hiob_id": "hiob_verse_289",
+    "canonical_meaning": null,
+    "voices": []
   },
   "290": {
     "id": 290,
@@ -3081,7 +3603,9 @@
         "order": "272.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_290"
+    "hiob_id": "hiob_verse_290",
+    "canonical_meaning": null,
+    "voices": []
   },
   "291": {
     "id": 291,
@@ -3089,7 +3613,9 @@
     "verse": "26:6",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_291"
+    "hiob_id": "hiob_verse_291",
+    "canonical_meaning": null,
+    "voices": []
   },
   "292": {
     "id": 292,
@@ -3097,7 +3623,9 @@
     "verse": "26:8",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_292"
+    "hiob_id": "hiob_verse_292",
+    "canonical_meaning": null,
+    "voices": []
   },
   "293": {
     "id": 293,
@@ -3105,7 +3633,9 @@
     "verse": "26:9",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_293"
+    "hiob_id": "hiob_verse_293",
+    "canonical_meaning": null,
+    "voices": []
   },
   "294": {
     "id": 294,
@@ -3119,7 +3649,9 @@
         "order": "47.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_294"
+    "hiob_id": "hiob_verse_294",
+    "canonical_meaning": null,
+    "voices": []
   },
   "295": {
     "id": 295,
@@ -3127,7 +3659,9 @@
     "verse": "26:12",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_295"
+    "hiob_id": "hiob_verse_295",
+    "canonical_meaning": null,
+    "voices": []
   },
   "296": {
     "id": 296,
@@ -3135,7 +3669,9 @@
     "verse": "26:13",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_296"
+    "hiob_id": "hiob_verse_296",
+    "canonical_meaning": null,
+    "voices": []
   },
   "297": {
     "id": 297,
@@ -3143,7 +3679,9 @@
     "verse": "26:14",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_297"
+    "hiob_id": "hiob_verse_297",
+    "canonical_meaning": null,
+    "voices": []
   },
   "298": {
     "id": 298,
@@ -3151,7 +3689,9 @@
     "verse": "27:17",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_298"
+    "hiob_id": "hiob_verse_298",
+    "canonical_meaning": null,
+    "voices": []
   },
   "299": {
     "id": 299,
@@ -3159,7 +3699,9 @@
     "verse": "28:1",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_299"
+    "hiob_id": "hiob_verse_299",
+    "canonical_meaning": null,
+    "voices": []
   },
   "300": {
     "id": 300,
@@ -3167,7 +3709,9 @@
     "verse": "28:2",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_300"
+    "hiob_id": "hiob_verse_300",
+    "canonical_meaning": null,
+    "voices": []
   },
   "301": {
     "id": 301,
@@ -3181,7 +3725,9 @@
         "order": "141.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_301"
+    "hiob_id": "hiob_verse_301",
+    "canonical_meaning": null,
+    "voices": []
   },
   "302": {
     "id": 302,
@@ -3189,7 +3735,9 @@
     "verse": "28:4",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_302"
+    "hiob_id": "hiob_verse_302",
+    "canonical_meaning": null,
+    "voices": []
   },
   "303": {
     "id": 303,
@@ -3197,7 +3745,9 @@
     "verse": "28:5",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_303"
+    "hiob_id": "hiob_verse_303",
+    "canonical_meaning": null,
+    "voices": []
   },
   "304": {
     "id": 304,
@@ -3211,7 +3761,9 @@
         "order": "87.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_304"
+    "hiob_id": "hiob_verse_304",
+    "canonical_meaning": null,
+    "voices": []
   },
   "305": {
     "id": 305,
@@ -3225,7 +3777,9 @@
         "order": "87.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_305"
+    "hiob_id": "hiob_verse_305",
+    "canonical_meaning": null,
+    "voices": []
   },
   "307": {
     "id": 307,
@@ -3233,7 +3787,9 @@
     "verse": "28:8",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_307"
+    "hiob_id": "hiob_verse_307",
+    "canonical_meaning": null,
+    "voices": []
   },
   "308": {
     "id": 308,
@@ -3247,7 +3803,9 @@
         "order": "58.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_308"
+    "hiob_id": "hiob_verse_308",
+    "canonical_meaning": null,
+    "voices": []
   },
   "309": {
     "id": 309,
@@ -3261,7 +3819,9 @@
         "order": "58.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_309"
+    "hiob_id": "hiob_verse_309",
+    "canonical_meaning": null,
+    "voices": []
   },
   "310": {
     "id": 310,
@@ -3285,7 +3845,9 @@
         "order": "78.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_310"
+    "hiob_id": "hiob_verse_310",
+    "canonical_meaning": null,
+    "voices": []
   },
   "311": {
     "id": 311,
@@ -3299,7 +3861,9 @@
         "order": "68.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_311"
+    "hiob_id": "hiob_verse_311",
+    "canonical_meaning": null,
+    "voices": []
   },
   "312": {
     "id": 312,
@@ -3323,7 +3887,9 @@
         "order": "140.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_312"
+    "hiob_id": "hiob_verse_312",
+    "canonical_meaning": null,
+    "voices": []
   },
   "313": {
     "id": 313,
@@ -3342,7 +3908,9 @@
         "order": "69.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_313"
+    "hiob_id": "hiob_verse_313",
+    "canonical_meaning": null,
+    "voices": []
   },
   "314": {
     "id": 314,
@@ -3350,7 +3918,9 @@
     "verse": "28:15",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_314"
+    "hiob_id": "hiob_verse_314",
+    "canonical_meaning": null,
+    "voices": []
   },
   "315": {
     "id": 315,
@@ -3358,7 +3928,9 @@
     "verse": "28:16",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_315"
+    "hiob_id": "hiob_verse_315",
+    "canonical_meaning": null,
+    "voices": []
   },
   "316": {
     "id": 316,
@@ -3377,7 +3949,9 @@
         "order": "71.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_316"
+    "hiob_id": "hiob_verse_316",
+    "canonical_meaning": null,
+    "voices": []
   },
   "317": {
     "id": 317,
@@ -3385,7 +3959,9 @@
     "verse": "28:18",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_317"
+    "hiob_id": "hiob_verse_317",
+    "canonical_meaning": null,
+    "voices": []
   },
   "318": {
     "id": 318,
@@ -3393,7 +3969,9 @@
     "verse": "28:19",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_318"
+    "hiob_id": "hiob_verse_318",
+    "canonical_meaning": null,
+    "voices": []
   },
   "319": {
     "id": 319,
@@ -3401,7 +3979,9 @@
     "verse": "28:20",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_319"
+    "hiob_id": "hiob_verse_319",
+    "canonical_meaning": null,
+    "voices": []
   },
   "320": {
     "id": 320,
@@ -3420,7 +4000,9 @@
         "order": "139.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_320"
+    "hiob_id": "hiob_verse_320",
+    "canonical_meaning": null,
+    "voices": []
   },
   "321": {
     "id": 321,
@@ -3439,7 +4021,9 @@
         "order": "69.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_321"
+    "hiob_id": "hiob_verse_321",
+    "canonical_meaning": null,
+    "voices": []
   },
   "322": {
     "id": 322,
@@ -3447,7 +4031,9 @@
     "verse": "28:23",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_322"
+    "hiob_id": "hiob_verse_322",
+    "canonical_meaning": null,
+    "voices": []
   },
   "323": {
     "id": 323,
@@ -3455,7 +4041,9 @@
     "verse": "28:24",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_323"
+    "hiob_id": "hiob_verse_323",
+    "canonical_meaning": null,
+    "voices": []
   },
   "324": {
     "id": 324,
@@ -3463,7 +4051,9 @@
     "verse": "28:25",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_324"
+    "hiob_id": "hiob_verse_324",
+    "canonical_meaning": null,
+    "voices": []
   },
   "325": {
     "id": 325,
@@ -3471,7 +4061,9 @@
     "verse": "28:27",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_325"
+    "hiob_id": "hiob_verse_325",
+    "canonical_meaning": null,
+    "voices": []
   },
   "326": {
     "id": 326,
@@ -3479,7 +4071,9 @@
     "verse": "28:28",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_326"
+    "hiob_id": "hiob_verse_326",
+    "canonical_meaning": null,
+    "voices": []
   },
   "327": {
     "id": 327,
@@ -3487,7 +4081,9 @@
     "verse": "29:2",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_327"
+    "hiob_id": "hiob_verse_327",
+    "canonical_meaning": null,
+    "voices": []
   },
   "328": {
     "id": 328,
@@ -3495,7 +4091,9 @@
     "verse": "29:3",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_328"
+    "hiob_id": "hiob_verse_328",
+    "canonical_meaning": null,
+    "voices": []
   },
   "329": {
     "id": 329,
@@ -3503,7 +4101,9 @@
     "verse": "29:4",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_329"
+    "hiob_id": "hiob_verse_329",
+    "canonical_meaning": null,
+    "voices": []
   },
   "330": {
     "id": 330,
@@ -3517,7 +4117,9 @@
         "order": "100.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_330"
+    "hiob_id": "hiob_verse_330",
+    "canonical_meaning": null,
+    "voices": []
   },
   "331": {
     "id": 331,
@@ -3525,7 +4127,9 @@
     "verse": "29:16",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_331"
+    "hiob_id": "hiob_verse_331",
+    "canonical_meaning": null,
+    "voices": []
   },
   "332": {
     "id": 332,
@@ -3533,7 +4137,9 @@
     "verse": "29:17",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_332"
+    "hiob_id": "hiob_verse_332",
+    "canonical_meaning": null,
+    "voices": []
   },
   "333": {
     "id": 333,
@@ -3541,7 +4147,9 @@
     "verse": "29:19",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_333"
+    "hiob_id": "hiob_verse_333",
+    "canonical_meaning": null,
+    "voices": []
   },
   "334": {
     "id": 334,
@@ -3555,7 +4163,9 @@
         "order": "136.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_334"
+    "hiob_id": "hiob_verse_334",
+    "canonical_meaning": null,
+    "voices": []
   },
   "335": {
     "id": 335,
@@ -3563,7 +4173,9 @@
     "verse": "29:25",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_335"
+    "hiob_id": "hiob_verse_335",
+    "canonical_meaning": null,
+    "voices": []
   },
   "336": {
     "id": 336,
@@ -3577,7 +4189,9 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_336"
+    "hiob_id": "hiob_verse_336",
+    "canonical_meaning": null,
+    "voices": []
   },
   "337": {
     "id": 337,
@@ -3585,7 +4199,9 @@
     "verse": "30:3",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_337"
+    "hiob_id": "hiob_verse_337",
+    "canonical_meaning": null,
+    "voices": []
   },
   "338": {
     "id": 338,
@@ -3593,7 +4209,9 @@
     "verse": "30:4",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_338"
+    "hiob_id": "hiob_verse_338",
+    "canonical_meaning": null,
+    "voices": []
   },
   "339": {
     "id": 339,
@@ -3607,7 +4225,9 @@
         "order": "47.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_339"
+    "hiob_id": "hiob_verse_339",
+    "canonical_meaning": null,
+    "voices": []
   },
   "340": {
     "id": 340,
@@ -3615,7 +4235,9 @@
     "verse": "30:15",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_340"
+    "hiob_id": "hiob_verse_340",
+    "canonical_meaning": null,
+    "voices": []
   },
   "341": {
     "id": 341,
@@ -3623,7 +4245,9 @@
     "verse": "30:19",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_341"
+    "hiob_id": "hiob_verse_341",
+    "canonical_meaning": null,
+    "voices": []
   },
   "342": {
     "id": 342,
@@ -3637,7 +4261,9 @@
         "order": "84.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_342"
+    "hiob_id": "hiob_verse_342",
+    "canonical_meaning": null,
+    "voices": []
   },
   "343": {
     "id": 343,
@@ -3645,7 +4271,9 @@
     "verse": "30:24",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_343"
+    "hiob_id": "hiob_verse_343",
+    "canonical_meaning": null,
+    "voices": []
   },
   "344": {
     "id": 344,
@@ -3653,7 +4281,9 @@
     "verse": "30:25",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_344"
+    "hiob_id": "hiob_verse_344",
+    "canonical_meaning": null,
+    "voices": []
   },
   "345": {
     "id": 345,
@@ -3672,7 +4302,9 @@
         "order": "46.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_345"
+    "hiob_id": "hiob_verse_345",
+    "canonical_meaning": null,
+    "voices": []
   },
   "346": {
     "id": 346,
@@ -3686,7 +4318,9 @@
         "order": "46.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_346"
+    "hiob_id": "hiob_verse_346",
+    "canonical_meaning": null,
+    "voices": []
   },
   "347": {
     "id": 347,
@@ -3694,7 +4328,9 @@
     "verse": "31:10",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_347"
+    "hiob_id": "hiob_verse_347",
+    "canonical_meaning": null,
+    "voices": []
   },
   "348": {
     "id": 348,
@@ -3702,7 +4338,9 @@
     "verse": "31:12",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_348"
+    "hiob_id": "hiob_verse_348",
+    "canonical_meaning": null,
+    "voices": []
   },
   "349": {
     "id": 349,
@@ -3710,7 +4348,9 @@
     "verse": "31:14",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_349"
+    "hiob_id": "hiob_verse_349",
+    "canonical_meaning": null,
+    "voices": []
   },
   "350": {
     "id": 350,
@@ -3724,7 +4364,9 @@
         "order": "72.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_350"
+    "hiob_id": "hiob_verse_350",
+    "canonical_meaning": null,
+    "voices": []
   },
   "351": {
     "id": 351,
@@ -3743,7 +4385,9 @@
         "order": "73.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_351"
+    "hiob_id": "hiob_verse_351",
+    "canonical_meaning": null,
+    "voices": []
   },
   "353": {
     "id": 353,
@@ -3757,7 +4401,9 @@
         "order": "73.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_353"
+    "hiob_id": "hiob_verse_353",
+    "canonical_meaning": null,
+    "voices": []
   },
   "354": {
     "id": 354,
@@ -3765,7 +4411,9 @@
     "verse": "31:34",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_354"
+    "hiob_id": "hiob_verse_354",
+    "canonical_meaning": null,
+    "voices": []
   },
   "355": {
     "id": 355,
@@ -3773,7 +4421,9 @@
     "verse": "31:35",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_355"
+    "hiob_id": "hiob_verse_355",
+    "canonical_meaning": null,
+    "voices": []
   },
   "356": {
     "id": 356,
@@ -3787,7 +4437,9 @@
         "order": "135.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_356"
+    "hiob_id": "hiob_verse_356",
+    "canonical_meaning": null,
+    "voices": []
   },
   "357": {
     "id": 357,
@@ -3801,7 +4453,9 @@
         "order": "135.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_357"
+    "hiob_id": "hiob_verse_357",
+    "canonical_meaning": null,
+    "voices": []
   },
   "358": {
     "id": 358,
@@ -3809,7 +4463,9 @@
     "verse": "31:40",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_358"
+    "hiob_id": "hiob_verse_358",
+    "canonical_meaning": null,
+    "voices": []
   },
   "359": {
     "id": 359,
@@ -3817,7 +4473,9 @@
     "verse": "32:3",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_359"
+    "hiob_id": "hiob_verse_359",
+    "canonical_meaning": null,
+    "voices": []
   },
   "360": {
     "id": 360,
@@ -3825,7 +4483,9 @@
     "verse": "32:5",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_360"
+    "hiob_id": "hiob_verse_360",
+    "canonical_meaning": null,
+    "voices": []
   },
   "361": {
     "id": 361,
@@ -3839,7 +4499,9 @@
         "order": "49.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_361"
+    "hiob_id": "hiob_verse_361",
+    "canonical_meaning": null,
+    "voices": []
   },
   "362": {
     "id": 362,
@@ -3853,7 +4515,9 @@
         "order": "49.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_362"
+    "hiob_id": "hiob_verse_362",
+    "canonical_meaning": null,
+    "voices": []
   },
   "363": {
     "id": 363,
@@ -3861,7 +4525,9 @@
     "verse": "32:8",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_363"
+    "hiob_id": "hiob_verse_363",
+    "canonical_meaning": null,
+    "voices": []
   },
   "364": {
     "id": 364,
@@ -3869,7 +4535,9 @@
     "verse": "32:9",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_364"
+    "hiob_id": "hiob_verse_364",
+    "canonical_meaning": null,
+    "voices": []
   },
   "365": {
     "id": 365,
@@ -3883,7 +4551,9 @@
         "order": "134.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_365"
+    "hiob_id": "hiob_verse_365",
+    "canonical_meaning": null,
+    "voices": []
   },
   "366": {
     "id": 366,
@@ -3897,7 +4567,9 @@
         "order": "133.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_366"
+    "hiob_id": "hiob_verse_366",
+    "canonical_meaning": null,
+    "voices": []
   },
   "367": {
     "id": 367,
@@ -3911,7 +4583,9 @@
         "order": "91.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_367"
+    "hiob_id": "hiob_verse_367",
+    "canonical_meaning": null,
+    "voices": []
   },
   "368": {
     "id": 368,
@@ -3925,7 +4599,9 @@
         "order": "91.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_368"
+    "hiob_id": "hiob_verse_368",
+    "canonical_meaning": null,
+    "voices": []
   },
   "369": {
     "id": 369,
@@ -3933,7 +4609,9 @@
     "verse": "33:17",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_369"
+    "hiob_id": "hiob_verse_369",
+    "canonical_meaning": null,
+    "voices": []
   },
   "370": {
     "id": 370,
@@ -3957,7 +4635,9 @@
         "order": "263.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_370"
+    "hiob_id": "hiob_verse_370",
+    "canonical_meaning": null,
+    "voices": []
   },
   "371": {
     "id": 371,
@@ -3971,7 +4651,9 @@
         "order": "132.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_371"
+    "hiob_id": "hiob_verse_371",
+    "canonical_meaning": null,
+    "voices": []
   },
   "373": {
     "id": 373,
@@ -3985,7 +4667,9 @@
         "order": "132.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_373"
+    "hiob_id": "hiob_verse_373",
+    "canonical_meaning": null,
+    "voices": []
   },
   "374": {
     "id": 374,
@@ -3993,7 +4677,9 @@
     "verse": "33:25",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_374"
+    "hiob_id": "hiob_verse_374",
+    "canonical_meaning": null,
+    "voices": []
   },
   "375": {
     "id": 375,
@@ -4007,7 +4693,9 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_375"
+    "hiob_id": "hiob_verse_375",
+    "canonical_meaning": null,
+    "voices": []
   },
   "376": {
     "id": 376,
@@ -4015,7 +4703,9 @@
     "verse": "33:28",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_376"
+    "hiob_id": "hiob_verse_376",
+    "canonical_meaning": null,
+    "voices": []
   },
   "377": {
     "id": 377,
@@ -4029,7 +4719,9 @@
         "order": "83.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_377"
+    "hiob_id": "hiob_verse_377",
+    "canonical_meaning": null,
+    "voices": []
   },
   "378": {
     "id": 378,
@@ -4037,7 +4729,9 @@
     "verse": "33:30",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_378"
+    "hiob_id": "hiob_verse_378",
+    "canonical_meaning": null,
+    "voices": []
   },
   "379": {
     "id": 379,
@@ -4045,7 +4739,9 @@
     "verse": "34:10",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_379"
+    "hiob_id": "hiob_verse_379",
+    "canonical_meaning": null,
+    "voices": []
   },
   "380": {
     "id": 380,
@@ -4053,7 +4749,9 @@
     "verse": "34:11",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_380"
+    "hiob_id": "hiob_verse_380",
+    "canonical_meaning": null,
+    "voices": []
   },
   "381": {
     "id": 381,
@@ -4061,7 +4759,9 @@
     "verse": "34:19",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_381"
+    "hiob_id": "hiob_verse_381",
+    "canonical_meaning": null,
+    "voices": []
   },
   "382": {
     "id": 382,
@@ -4075,7 +4775,9 @@
         "order": "131.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_382"
+    "hiob_id": "hiob_verse_382",
+    "canonical_meaning": null,
+    "voices": []
   },
   "383": {
     "id": 383,
@@ -4094,7 +4796,9 @@
         "order": "211.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_383"
+    "hiob_id": "hiob_verse_383",
+    "canonical_meaning": null,
+    "voices": []
   },
   "384": {
     "id": 384,
@@ -4102,7 +4806,9 @@
     "verse": "34:24",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_384"
+    "hiob_id": "hiob_verse_384",
+    "canonical_meaning": null,
+    "voices": []
   },
   "385": {
     "id": 385,
@@ -4116,7 +4822,9 @@
         "order": "146.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_385"
+    "hiob_id": "hiob_verse_385",
+    "canonical_meaning": null,
+    "voices": []
   },
   "387": {
     "id": 387,
@@ -4130,7 +4838,9 @@
         "order": "267.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_387"
+    "hiob_id": "hiob_verse_387",
+    "canonical_meaning": null,
+    "voices": []
   },
   "388": {
     "id": 388,
@@ -4138,7 +4848,9 @@
     "verse": "34:33",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_388"
+    "hiob_id": "hiob_verse_388",
+    "canonical_meaning": null,
+    "voices": []
   },
   "389": {
     "id": 389,
@@ -4146,7 +4858,9 @@
     "verse": "35:11",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_389"
+    "hiob_id": "hiob_verse_389",
+    "canonical_meaning": null,
+    "voices": []
   },
   "390": {
     "id": 390,
@@ -4160,7 +4874,9 @@
         "order": "75.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_390"
+    "hiob_id": "hiob_verse_390",
+    "canonical_meaning": null,
+    "voices": []
   },
   "391": {
     "id": 391,
@@ -4168,7 +4884,9 @@
     "verse": "36:3",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_391"
+    "hiob_id": "hiob_verse_391",
+    "canonical_meaning": null,
+    "voices": []
   },
   "392": {
     "id": 392,
@@ -4176,7 +4894,9 @@
     "verse": "36:7",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_392"
+    "hiob_id": "hiob_verse_392",
+    "canonical_meaning": null,
+    "voices": []
   },
   "393": {
     "id": 393,
@@ -4184,7 +4904,9 @@
     "verse": "36:8",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_393"
+    "hiob_id": "hiob_verse_393",
+    "canonical_meaning": null,
+    "voices": []
   },
   "394": {
     "id": 394,
@@ -4192,7 +4914,9 @@
     "verse": "36:11",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_394"
+    "hiob_id": "hiob_verse_394",
+    "canonical_meaning": null,
+    "voices": []
   },
   "395": {
     "id": 395,
@@ -4200,7 +4924,9 @@
     "verse": "36:12",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_395"
+    "hiob_id": "hiob_verse_395",
+    "canonical_meaning": null,
+    "voices": []
   },
   "396": {
     "id": 396,
@@ -4208,7 +4934,9 @@
     "verse": "36:13",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_396"
+    "hiob_id": "hiob_verse_396",
+    "canonical_meaning": null,
+    "voices": []
   },
   "397": {
     "id": 397,
@@ -4216,7 +4944,9 @@
     "verse": "36:16",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_397"
+    "hiob_id": "hiob_verse_397",
+    "canonical_meaning": null,
+    "voices": []
   },
   "398": {
     "id": 398,
@@ -4224,7 +4954,9 @@
     "verse": "36:19",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_398"
+    "hiob_id": "hiob_verse_398",
+    "canonical_meaning": null,
+    "voices": []
   },
   "399": {
     "id": 399,
@@ -4238,7 +4970,9 @@
         "order": "256.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_399"
+    "hiob_id": "hiob_verse_399",
+    "canonical_meaning": null,
+    "voices": []
   },
   "400": {
     "id": 400,
@@ -4246,7 +4980,9 @@
     "verse": "36:22",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_400"
+    "hiob_id": "hiob_verse_400",
+    "canonical_meaning": null,
+    "voices": []
   },
   "401": {
     "id": 401,
@@ -4254,7 +4990,9 @@
     "verse": "36:27",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_401"
+    "hiob_id": "hiob_verse_401",
+    "canonical_meaning": null,
+    "voices": []
   },
   "402": {
     "id": 402,
@@ -4268,7 +5006,9 @@
         "order": "109.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_402"
+    "hiob_id": "hiob_verse_402",
+    "canonical_meaning": null,
+    "voices": []
   },
   "403": {
     "id": 403,
@@ -4276,7 +5016,9 @@
     "verse": "36:31",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_403"
+    "hiob_id": "hiob_verse_403",
+    "canonical_meaning": null,
+    "voices": []
   },
   "404": {
     "id": 404,
@@ -4284,7 +5026,9 @@
     "verse": "37:1",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_404"
+    "hiob_id": "hiob_verse_404",
+    "canonical_meaning": null,
+    "voices": []
   },
   "405": {
     "id": 405,
@@ -4292,7 +5036,9 @@
     "verse": "37:3",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_405"
+    "hiob_id": "hiob_verse_405",
+    "canonical_meaning": null,
+    "voices": []
   },
   "406": {
     "id": 406,
@@ -4300,7 +5046,9 @@
     "verse": "37:5",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_406"
+    "hiob_id": "hiob_verse_406",
+    "canonical_meaning": null,
+    "voices": []
   },
   "407": {
     "id": 407,
@@ -4314,7 +5062,9 @@
         "order": "77.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_407"
+    "hiob_id": "hiob_verse_407",
+    "canonical_meaning": null,
+    "voices": []
   },
   "408": {
     "id": 408,
@@ -4322,7 +5072,9 @@
     "verse": "37:7",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_408"
+    "hiob_id": "hiob_verse_408",
+    "canonical_meaning": null,
+    "voices": []
   },
   "409": {
     "id": 409,
@@ -4336,7 +5088,9 @@
         "order": "78.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_409"
+    "hiob_id": "hiob_verse_409",
+    "canonical_meaning": null,
+    "voices": []
   },
   "410": {
     "id": 410,
@@ -4350,7 +5104,9 @@
         "order": "109.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_410"
+    "hiob_id": "hiob_verse_410",
+    "canonical_meaning": null,
+    "voices": []
   },
   "411": {
     "id": 411,
@@ -4364,7 +5120,9 @@
         "order": "108.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_411"
+    "hiob_id": "hiob_verse_411",
+    "canonical_meaning": null,
+    "voices": []
   },
   "412": {
     "id": 412,
@@ -4378,7 +5136,9 @@
         "order": "107.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_412"
+    "hiob_id": "hiob_verse_412",
+    "canonical_meaning": null,
+    "voices": []
   },
   "413": {
     "id": 413,
@@ -4407,7 +5167,9 @@
         "order": "96.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_413"
+    "hiob_id": "hiob_verse_413",
+    "canonical_meaning": null,
+    "voices": []
   },
   "415": {
     "id": 415,
@@ -4415,7 +5177,9 @@
     "verse": "38:1",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_415"
+    "hiob_id": "hiob_verse_415",
+    "canonical_meaning": null,
+    "voices": []
   },
   "416": {
     "id": 416,
@@ -4423,7 +5187,9 @@
     "verse": "38:2",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_416"
+    "hiob_id": "hiob_verse_416",
+    "canonical_meaning": null,
+    "voices": []
   },
   "417": {
     "id": 417,
@@ -4442,7 +5208,9 @@
         "order": "106.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_417"
+    "hiob_id": "hiob_verse_417",
+    "canonical_meaning": null,
+    "voices": []
   },
   "418": {
     "id": 418,
@@ -4450,7 +5218,9 @@
     "verse": "38:4",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_418"
+    "hiob_id": "hiob_verse_418",
+    "canonical_meaning": null,
+    "voices": []
   },
   "419": {
     "id": 419,
@@ -4464,7 +5234,9 @@
         "order": "86.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_419"
+    "hiob_id": "hiob_verse_419",
+    "canonical_meaning": null,
+    "voices": []
   },
   "420": {
     "id": 420,
@@ -4478,7 +5250,9 @@
         "order": "104.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_420"
+    "hiob_id": "hiob_verse_420",
+    "canonical_meaning": null,
+    "voices": []
   },
   "421": {
     "id": 421,
@@ -4492,7 +5266,9 @@
         "order": "79.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_421"
+    "hiob_id": "hiob_verse_421",
+    "canonical_meaning": null,
+    "voices": []
   },
   "422": {
     "id": 422,
@@ -4500,7 +5276,9 @@
     "verse": "38:10",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_422"
+    "hiob_id": "hiob_verse_422",
+    "canonical_meaning": null,
+    "voices": []
   },
   "423": {
     "id": 423,
@@ -4508,7 +5286,9 @@
     "verse": "38:11",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_423"
+    "hiob_id": "hiob_verse_423",
+    "canonical_meaning": null,
+    "voices": []
   },
   "424": {
     "id": 424,
@@ -4527,7 +5307,9 @@
         "order": "103.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_424"
+    "hiob_id": "hiob_verse_424",
+    "canonical_meaning": null,
+    "voices": []
   },
   "425": {
     "id": 425,
@@ -4535,7 +5317,9 @@
     "verse": "38:14",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_425"
+    "hiob_id": "hiob_verse_425",
+    "canonical_meaning": null,
+    "voices": []
   },
   "427": {
     "id": 427,
@@ -4543,7 +5327,9 @@
     "verse": "38:16",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_427"
+    "hiob_id": "hiob_verse_427",
+    "canonical_meaning": null,
+    "voices": []
   },
   "428": {
     "id": 428,
@@ -4551,7 +5337,9 @@
     "verse": "38:22",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_428"
+    "hiob_id": "hiob_verse_428",
+    "canonical_meaning": null,
+    "voices": []
   },
   "429": {
     "id": 429,
@@ -4559,7 +5347,9 @@
     "verse": "38:23",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_429"
+    "hiob_id": "hiob_verse_429",
+    "canonical_meaning": null,
+    "voices": []
   },
   "431": {
     "id": 431,
@@ -4567,7 +5357,9 @@
     "verse": "38:35",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_431"
+    "hiob_id": "hiob_verse_431",
+    "canonical_meaning": null,
+    "voices": []
   },
   "432": {
     "id": 432,
@@ -4575,7 +5367,9 @@
     "verse": "38:36",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_432"
+    "hiob_id": "hiob_verse_432",
+    "canonical_meaning": null,
+    "voices": []
   },
   "433": {
     "id": 433,
@@ -4594,7 +5388,9 @@
         "order": "209.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_433"
+    "hiob_id": "hiob_verse_433",
+    "canonical_meaning": null,
+    "voices": []
   },
   "434": {
     "id": 434,
@@ -4602,7 +5398,9 @@
     "verse": "38:38",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_434"
+    "hiob_id": "hiob_verse_434",
+    "canonical_meaning": null,
+    "voices": []
   },
   "435": {
     "id": 435,
@@ -4610,7 +5408,9 @@
     "verse": "38:41",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_435"
+    "hiob_id": "hiob_verse_435",
+    "canonical_meaning": null,
+    "voices": []
   },
   "436": {
     "id": 436,
@@ -4624,7 +5424,9 @@
         "order": "40.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_436"
+    "hiob_id": "hiob_verse_436",
+    "canonical_meaning": null,
+    "voices": []
   },
   "437": {
     "id": 437,
@@ -4632,7 +5434,9 @@
     "verse": "39:9",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_437"
+    "hiob_id": "hiob_verse_437",
+    "canonical_meaning": null,
+    "voices": []
   },
   "438": {
     "id": 438,
@@ -4640,7 +5444,9 @@
     "verse": "39:12",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_438"
+    "hiob_id": "hiob_verse_438",
+    "canonical_meaning": null,
+    "voices": []
   },
   "439": {
     "id": 439,
@@ -4654,7 +5460,9 @@
         "order": "54.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_439"
+    "hiob_id": "hiob_verse_439",
+    "canonical_meaning": null,
+    "voices": []
   },
   "440": {
     "id": 440,
@@ -4662,7 +5470,9 @@
     "verse": "39:14",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_440"
+    "hiob_id": "hiob_verse_440",
+    "canonical_meaning": null,
+    "voices": []
   },
   "441": {
     "id": 441,
@@ -4670,7 +5480,9 @@
     "verse": "39:15",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_441"
+    "hiob_id": "hiob_verse_441",
+    "canonical_meaning": null,
+    "voices": []
   },
   "442": {
     "id": 442,
@@ -4678,7 +5490,9 @@
     "verse": "39:16",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_442"
+    "hiob_id": "hiob_verse_442",
+    "canonical_meaning": null,
+    "voices": []
   },
   "443": {
     "id": 443,
@@ -4686,7 +5500,9 @@
     "verse": "39:17",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_443"
+    "hiob_id": "hiob_verse_443",
+    "canonical_meaning": null,
+    "voices": []
   },
   "444": {
     "id": 444,
@@ -4700,7 +5516,9 @@
         "order": "82.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_444"
+    "hiob_id": "hiob_verse_444",
+    "canonical_meaning": null,
+    "voices": []
   },
   "445": {
     "id": 445,
@@ -4708,7 +5526,9 @@
     "verse": "39:27",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_445"
+    "hiob_id": "hiob_verse_445",
+    "canonical_meaning": null,
+    "voices": []
   },
   "446": {
     "id": 446,
@@ -4716,7 +5536,9 @@
     "verse": "39:28",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_446"
+    "hiob_id": "hiob_verse_446",
+    "canonical_meaning": null,
+    "voices": []
   },
   "447": {
     "id": 447,
@@ -4724,7 +5546,9 @@
     "verse": "39:29",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_447"
+    "hiob_id": "hiob_verse_447",
+    "canonical_meaning": null,
+    "voices": []
   },
   "448": {
     "id": 448,
@@ -4732,7 +5556,9 @@
     "verse": "39:30",
     "quote": "",
     "mentions": [],
-    "hiob_id": "hiob_verse_448"
+    "hiob_id": "hiob_verse_448",
+    "canonical_meaning": null,
+    "voices": []
   },
   "449": {
     "id": 449,
@@ -4746,7 +5572,9 @@
         "order": "82.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_449"
+    "hiob_id": "hiob_verse_449",
+    "canonical_meaning": null,
+    "voices": []
   },
   "450": {
     "id": 450,
@@ -4760,7 +5588,9 @@
         "order": "89.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_450"
+    "hiob_id": "hiob_verse_450",
+    "canonical_meaning": null,
+    "voices": []
   },
   "451": {
     "id": 451,
@@ -4774,7 +5604,9 @@
         "order": "166.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_451"
+    "hiob_id": "hiob_verse_451",
+    "canonical_meaning": null,
+    "voices": []
   },
   "454": {
     "id": 454,
@@ -4788,7 +5620,9 @@
         "order": "268.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_454"
+    "hiob_id": "hiob_verse_454",
+    "canonical_meaning": null,
+    "voices": []
   },
   "455": {
     "id": 455,
@@ -4802,6 +5636,8 @@
         "order": "268.00000000000000000000"
       }
     ],
-    "hiob_id": "hiob_verse_455"
+    "hiob_id": "hiob_verse_455",
+    "canonical_meaning": null,
+    "voices": []
   }
 }
