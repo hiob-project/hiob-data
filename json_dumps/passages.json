@@ -2,13 +2,13 @@
   "1": {
     "id": 1,
     "order": "1.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 8,
-        "value": "Esther Rabbah I, Proem 9"
+        "value": "Esther Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_1",
+    "hiob_id": "hiob_passage_1",
     "midrash": [
       {
         "id": 8,
@@ -16,7 +16,7 @@
         "order": "8.00000000000000000000"
       }
     ],
-    "passages": "Proem 9",
+    "passage": null,
     "verses": [
       {
         "id": 10,
@@ -57,18 +57,22 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 8,
-        "value": "Esther Rabbah I, Proem 11"
+        "value": "Esther Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_2",
+    "hiob_id": "hiob_passage_2",
     "midrash": [
       {
         "id": 8,
@@ -76,7 +80,7 @@
         "order": "8.00000000000000000000"
       }
     ],
-    "passages": "Proem 11",
+    "passage": null,
     "verses": [
       {
         "id": 12,
@@ -122,18 +126,22 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "3": {
     "id": 3,
     "order": "3.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 8,
-        "value": "Esther Rabbah I, 4:9"
+        "value": "Esther Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_3",
+    "hiob_id": "hiob_passage_3",
     "midrash": [
       {
         "id": 8,
@@ -141,7 +149,7 @@
         "order": "8.00000000000000000000"
       }
     ],
-    "passages": "4:9",
+    "passage": null,
     "verses": [
       {
         "id": 3,
@@ -182,18 +190,22 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "4": {
     "id": 4,
     "order": "4.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 8,
-        "value": "Esther Rabbah I, 6:3"
+        "value": "Esther Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_4",
+    "hiob_id": "hiob_passage_4",
     "midrash": [
       {
         "id": 8,
@@ -201,7 +213,7 @@
         "order": "8.00000000000000000000"
       }
     ],
-    "passages": "6:3",
+    "passage": null,
     "verses": [
       {
         "id": 1,
@@ -242,18 +254,22 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "5": {
     "id": 5,
     "order": "5.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 8,
-        "value": "Esther Rabbah I, 6:3"
+        "value": "Esther Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_5",
+    "hiob_id": "hiob_passage_5",
     "midrash": [
       {
         "id": 8,
@@ -261,7 +277,7 @@
         "order": "8.00000000000000000000"
       }
     ],
-    "passages": "6:3",
+    "passage": null,
     "verses": [
       {
         "id": 6,
@@ -297,18 +313,22 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "6": {
     "id": 6,
     "order": "6.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 8,
-        "value": "Esther Rabbah I, 6:3"
+        "value": "Esther Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_6",
+    "hiob_id": "hiob_passage_6",
     "midrash": [
       {
         "id": 8,
@@ -316,7 +336,7 @@
         "order": "8.00000000000000000000"
       }
     ],
-    "passages": "6:3",
+    "passage": null,
     "verses": [
       {
         "id": 7,
@@ -357,18 +377,22 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "7": {
     "id": 7,
     "order": "7.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 9,
-        "value": "Esther Rabbah II, 7:2"
+        "value": "Esther Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_7",
+    "hiob_id": "hiob_passage_7",
     "midrash": [
       {
         "id": 9,
@@ -376,7 +400,7 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "passages": "7:2",
+    "passage": null,
     "verses": [
       {
         "id": 5,
@@ -412,18 +436,22 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "8": {
     "id": 8,
     "order": "8.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 9,
-        "value": "Esther Rabbah II, 7:3"
+        "value": "Esther Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_8",
+    "hiob_id": "hiob_passage_8",
     "midrash": [
       {
         "id": 9,
@@ -431,7 +459,7 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "passages": "7:3",
+    "passage": null,
     "verses": [
       {
         "id": 8,
@@ -482,18 +510,22 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "9": {
     "id": 9,
     "order": "9.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 9,
-        "value": "Esther Rabbah II, 7:11"
+        "value": "Esther Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_9",
+    "hiob_id": "hiob_passage_9",
     "midrash": [
       {
         "id": 9,
@@ -501,7 +533,7 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "passages": "7:11",
+    "passage": null,
     "verses": [
       {
         "id": 4,
@@ -537,18 +569,22 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "10": {
     "id": 10,
     "order": "10.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 9,
-        "value": "Esther Rabbah II, 10:9"
+        "value": "Esther Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_10",
+    "hiob_id": "hiob_passage_10",
     "midrash": [
       {
         "id": 9,
@@ -556,7 +592,7 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "passages": "10:9",
+    "passage": null,
     "verses": [
       {
         "id": 2,
@@ -597,18 +633,22 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "11": {
     "id": 11,
     "order": "11.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 9,
-        "value": "Esther Rabbah II, 10:15"
+        "value": "Esther Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_11",
+    "hiob_id": "hiob_passage_11",
     "midrash": [
       {
         "id": 9,
@@ -616,7 +656,7 @@
         "order": "9.00000000000000000000"
       }
     ],
-    "passages": "10:15",
+    "passage": null,
     "verses": [
       {
         "id": 11,
@@ -657,18 +697,22 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "44": {
     "id": 44,
     "order": "12.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 7:19 & 8:1"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_44",
+    "hiob_id": "hiob_passage_44",
     "midrash": [
       {
         "id": 34,
@@ -676,7 +720,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "7:19 & 8:1",
+    "passage": null,
     "verses": [
       {
         "id": 36,
@@ -711,13 +755,13 @@
   "45": {
     "id": 45,
     "order": "13.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 3,
-        "value": "Tanhuma, Exodus 6:8"
+        "value": "Tanhuma, "
       }
     ],
-    "hiob_id": "hiob_mention_45",
+    "hiob_id": "hiob_passage_45",
     "midrash": [
       {
         "id": 3,
@@ -725,7 +769,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "passages": "Exodus 6:8",
+    "passage": null,
     "verses": [
       {
         "id": 13,
@@ -748,13 +792,13 @@
   "46": {
     "id": 46,
     "order": "14.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 4,
-        "value": "Tanhuma (Buber), Genesis 4:30"
+        "value": "Tanhuma (Buber), "
       }
     ],
-    "hiob_id": "hiob_mention_46",
+    "hiob_id": "hiob_passage_46",
     "midrash": [
       {
         "id": 4,
@@ -762,7 +806,7 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "passages": "Genesis 4:30",
+    "passage": null,
     "verses": [
       {
         "id": 13,
@@ -785,13 +829,13 @@
   "47": {
     "id": 47,
     "order": "15.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 35,
         "value": "Pesiqta Rabbati, 38"
       }
     ],
-    "hiob_id": "hiob_mention_47",
+    "hiob_id": "hiob_passage_47",
     "midrash": [
       {
         "id": 35,
@@ -799,7 +843,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "passages": "38",
+    "passage": "38",
     "verses": [
       {
         "id": 13,
@@ -860,13 +904,13 @@
   "48": {
     "id": 48,
     "order": "16.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 36,
-        "value": "Numbers Rabbah II, 19:23"
+        "value": "Numbers Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_48",
+    "hiob_id": "hiob_passage_48",
     "midrash": [
       {
         "id": 36,
@@ -874,7 +918,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "passages": "19:23",
+    "passage": null,
     "verses": [
       {
         "id": 13,
@@ -909,13 +953,13 @@
   "49": {
     "id": 49,
     "order": "17.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 37,
-        "value": "Exodus Rabbah II, 31:3"
+        "value": "Exodus Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_49",
+    "hiob_id": "hiob_passage_49",
     "midrash": [
       {
         "id": 37,
@@ -923,7 +967,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "passages": "31:3",
+    "passage": null,
     "verses": [
       {
         "id": 13,
@@ -969,13 +1013,13 @@
   "50": {
     "id": 50,
     "order": "18.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 7:2 &4"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_50",
+    "hiob_id": "hiob_passage_50",
     "midrash": [
       {
         "id": 34,
@@ -983,7 +1027,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "7:2 &4",
+    "passage": null,
     "verses": [
       {
         "id": 13,
@@ -1028,13 +1072,13 @@
   "51": {
     "id": 51,
     "order": "19.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 17:1"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_51",
+    "hiob_id": "hiob_passage_51",
     "midrash": [
       {
         "id": 38,
@@ -1042,7 +1086,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "17:1",
+    "passage": null,
     "verses": [
       {
         "id": 38,
@@ -1065,13 +1109,13 @@
   "52": {
     "id": 52,
     "order": "20.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 4,
-        "value": "Tanhuma (Buber), Genesis 8:4"
+        "value": "Tanhuma (Buber), "
       }
     ],
-    "hiob_id": "hiob_mention_52",
+    "hiob_id": "hiob_passage_52",
     "midrash": [
       {
         "id": 4,
@@ -1079,7 +1123,7 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "passages": "Genesis 8:4",
+    "passage": null,
     "verses": [
       {
         "id": 38,
@@ -1102,13 +1146,13 @@
   "53": {
     "id": 53,
     "order": "21.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 3,
-        "value": "Tanhuma, Exodus 2:9"
+        "value": "Tanhuma, "
       }
     ],
-    "hiob_id": "hiob_mention_53",
+    "hiob_id": "hiob_passage_53",
     "midrash": [
       {
         "id": 3,
@@ -1116,7 +1160,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "passages": "Exodus 2:9",
+    "passage": null,
     "verses": [
       {
         "id": 39,
@@ -1139,13 +1183,13 @@
   "54": {
     "id": 54,
     "order": "22.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 4,
-        "value": "Tanhuma (Buber), Exodus 2:8"
+        "value": "Tanhuma (Buber), "
       }
     ],
-    "hiob_id": "hiob_mention_54",
+    "hiob_id": "hiob_passage_54",
     "midrash": [
       {
         "id": 4,
@@ -1153,7 +1197,7 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "passages": "Exodus 2:8",
+    "passage": null,
     "verses": [
       {
         "id": 39,
@@ -1176,13 +1220,13 @@
   "55": {
     "id": 55,
     "order": "23.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 39,
-        "value": "Exodus Rabbah I, 8:2"
+        "value": "Exodus Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_55",
+    "hiob_id": "hiob_passage_55",
     "midrash": [
       {
         "id": 39,
@@ -1190,7 +1234,7 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "passages": "8:2",
+    "passage": null,
     "verses": [
       {
         "id": 39,
@@ -1222,53 +1266,16 @@
     ],
     "reception_type": null
   },
-  "56": {
-    "id": 56,
-    "order": "24.00000000000000000000",
-    "mention": [
-      {
-        "id": 5,
-        "value": "Pirkei DeRabbi Eliezer, 52"
-      }
-    ],
-    "hiob_id": "hiob_mention_56",
-    "midrash": [
-      {
-        "id": 5,
-        "value": "Pirkei DeRabbi Eliezer",
-        "order": "5.00000000000000000000"
-      }
-    ],
-    "passages": "52",
-    "verses": [
-      {
-        "id": 40,
-        "value": "41:10",
-        "order": "18.00000000000000000000"
-      }
-    ],
-    "quote": "",
-    "commentary": "",
-    "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
-    "rabbis": [],
-    "classic_parallels": "",
-    "notes": "",
-    "translation": null,
-    "reception": [],
-    "reception_type": null
-  },
   "57": {
     "id": 57,
     "order": "25.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 4,
-        "value": "Tanhuma (Buber), Genesis 11:3"
+        "value": "Tanhuma (Buber), "
       }
     ],
-    "hiob_id": "hiob_mention_57",
+    "hiob_id": "hiob_passage_57",
     "midrash": [
       {
         "id": 4,
@@ -1276,7 +1283,7 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "passages": "Genesis 11:3",
+    "passage": null,
     "verses": [
       {
         "id": 41,
@@ -1299,13 +1306,13 @@
   "58": {
     "id": 58,
     "order": "26.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 4,
-        "value": "Tanhuma (Buber), Genesis 4:10"
+        "value": "Tanhuma (Buber), "
       }
     ],
-    "hiob_id": "hiob_mention_58",
+    "hiob_id": "hiob_passage_58",
     "midrash": [
       {
         "id": 4,
@@ -1313,7 +1320,7 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "passages": "Genesis 4:10",
+    "passage": null,
     "verses": [
       {
         "id": 42,
@@ -1336,13 +1343,13 @@
   "59": {
     "id": 59,
     "order": "27.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 40,
-        "value": "Numbers Rabbah I, 14:2"
+        "value": "Numbers Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_59",
+    "hiob_id": "hiob_passage_59",
     "midrash": [
       {
         "id": 40,
@@ -1350,7 +1357,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "passages": "14:2",
+    "passage": null,
     "verses": [
       {
         "id": 43,
@@ -1373,13 +1380,13 @@
   "60": {
     "id": 60,
     "order": "28.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 6,
         "value": "Seder Eliyahu Rabbah, 19"
       }
     ],
-    "hiob_id": "hiob_mention_60",
+    "hiob_id": "hiob_passage_60",
     "midrash": [
       {
         "id": 6,
@@ -1387,7 +1394,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "passages": "19",
+    "passage": "19",
     "verses": [
       {
         "id": 43,
@@ -1443,13 +1450,13 @@
   "61": {
     "id": 61,
     "order": "29.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 7,
         "value": "Seder Eliyahu Zuta, 4"
       }
     ],
-    "hiob_id": "hiob_mention_61",
+    "hiob_id": "hiob_passage_61",
     "midrash": [
       {
         "id": 7,
@@ -1457,7 +1464,7 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "passages": "4",
+    "passage": "4",
     "verses": [
       {
         "id": 43,
@@ -1480,13 +1487,13 @@
   "62": {
     "id": 62,
     "order": "30.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 4,
-        "value": "Tanhuma (Buber), Leviticus 7:15"
+        "value": "Tanhuma (Buber), "
       }
     ],
-    "hiob_id": "hiob_mention_62",
+    "hiob_id": "hiob_passage_62",
     "midrash": [
       {
         "id": 4,
@@ -1494,7 +1501,7 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "passages": "Leviticus 7:15",
+    "passage": null,
     "verses": [
       {
         "id": 43,
@@ -1517,13 +1524,13 @@
   "63": {
     "id": 63,
     "order": "31.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 4,
-        "value": "Tanhuma (Buber), Leviticus 8:10"
+        "value": "Tanhuma (Buber), "
       }
     ],
-    "hiob_id": "hiob_mention_63",
+    "hiob_id": "hiob_passage_63",
     "midrash": [
       {
         "id": 4,
@@ -1531,7 +1538,7 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "passages": "Leviticus 8:10",
+    "passage": null,
     "verses": [
       {
         "id": 43,
@@ -1554,13 +1561,13 @@
   "64": {
     "id": 64,
     "order": "32.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 30:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_64",
+    "hiob_id": "hiob_passage_64",
     "midrash": [
       {
         "id": 38,
@@ -1568,7 +1575,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "30:2",
+    "passage": null,
     "verses": [
       {
         "id": 43,
@@ -1591,13 +1598,13 @@
   "65": {
     "id": 65,
     "order": "33.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 4,
-        "value": "Tanhuma (Buber), Exodus 4:24"
+        "value": "Tanhuma (Buber), "
       }
     ],
-    "hiob_id": "hiob_mention_65",
+    "hiob_id": "hiob_passage_65",
     "midrash": [
       {
         "id": 4,
@@ -1605,7 +1612,7 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "passages": "Exodus 4:24",
+    "passage": null,
     "verses": [
       {
         "id": 44,
@@ -1628,13 +1635,13 @@
   "66": {
     "id": 66,
     "order": "34.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 4,
-        "value": "Tanhuma (Buber), Deuteronomy 2:5"
+        "value": "Tanhuma (Buber), "
       }
     ],
-    "hiob_id": "hiob_mention_66",
+    "hiob_id": "hiob_passage_66",
     "midrash": [
       {
         "id": 4,
@@ -1642,7 +1649,7 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "passages": "Deuteronomy 2:5",
+    "passage": null,
     "verses": [
       {
         "id": 45,
@@ -1665,13 +1672,13 @@
   "67": {
     "id": 67,
     "order": "35.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 35,
-        "value": "Pesiqta Rabbati, 25:2"
+        "value": "Pesiqta Rabbati, "
       }
     ],
-    "hiob_id": "hiob_mention_67",
+    "hiob_id": "hiob_passage_67",
     "midrash": [
       {
         "id": 35,
@@ -1679,7 +1686,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "passages": "25:2",
+    "passage": null,
     "verses": [
       {
         "id": 45,
@@ -1714,13 +1721,13 @@
   "68": {
     "id": 68,
     "order": "36.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 36,
-        "value": "Numbers Rabbah II, 21:18"
+        "value": "Numbers Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_68",
+    "hiob_id": "hiob_passage_68",
     "midrash": [
       {
         "id": 36,
@@ -1728,7 +1735,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "passages": "21:18",
+    "passage": null,
     "verses": [
       {
         "id": 46,
@@ -1751,13 +1758,13 @@
   "69": {
     "id": 69,
     "order": "37.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 35,
-        "value": "Pesiqta Rabbati, 16:4"
+        "value": "Pesiqta Rabbati, "
       }
     ],
-    "hiob_id": "hiob_mention_69",
+    "hiob_id": "hiob_passage_69",
     "midrash": [
       {
         "id": 35,
@@ -1765,7 +1772,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "passages": "16:4",
+    "passage": null,
     "verses": [
       {
         "id": 46,
@@ -1805,13 +1812,13 @@
   "70": {
     "id": 70,
     "order": "38.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 35,
-        "value": "Pesiqta Rabbati, 48:3"
+        "value": "Pesiqta Rabbati, "
       }
     ],
-    "hiob_id": "hiob_mention_70",
+    "hiob_id": "hiob_passage_70",
     "midrash": [
       {
         "id": 35,
@@ -1819,7 +1826,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "passages": "48:3",
+    "passage": null,
     "verses": [
       {
         "id": 46,
@@ -1842,13 +1849,13 @@
   "71": {
     "id": 71,
     "order": "39.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 11"
       }
     ],
-    "hiob_id": "hiob_mention_71",
+    "hiob_id": "hiob_passage_71",
     "midrash": [
       {
         "id": 5,
@@ -1856,7 +1863,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "11",
+    "passage": "11",
     "verses": [
       {
         "id": 46,
@@ -1896,18 +1903,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "72": {
     "id": 72,
     "order": "40.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 9:7"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_72",
+    "hiob_id": "hiob_passage_72",
     "midrash": [
       {
         "id": 38,
@@ -1915,7 +1926,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "9:7",
+    "passage": null,
     "verses": [
       {
         "id": 53,
@@ -1950,18 +1961,22 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "73": {
     "id": 73,
     "order": "41.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 18:32"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_73",
+    "hiob_id": "hiob_passage_73",
     "midrash": [
       {
         "id": 38,
@@ -1969,7 +1984,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "18:32",
+    "passage": null,
     "verses": [
       {
         "id": 50,
@@ -1992,13 +2007,13 @@
   "74": {
     "id": 74,
     "order": "42.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 37,
-        "value": "Exodus Rabbah II, 23:13"
+        "value": "Exodus Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_74",
+    "hiob_id": "hiob_passage_74",
     "midrash": [
       {
         "id": 37,
@@ -2006,7 +2021,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "passages": "23:13",
+    "passage": null,
     "verses": [
       {
         "id": 51,
@@ -2041,13 +2056,13 @@
   "75": {
     "id": 75,
     "order": "43.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 39,
-        "value": "Exodus Rabbah I, 3:6"
+        "value": "Exodus Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_75",
+    "hiob_id": "hiob_passage_75",
     "midrash": [
       {
         "id": 39,
@@ -2055,7 +2070,7 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "passages": "3:6",
+    "passage": null,
     "verses": [
       {
         "id": 52,
@@ -2090,13 +2105,13 @@
   "77": {
     "id": 77,
     "order": "45.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 1,
-        "value": "Avot DeRabbi Natan A, 2:5"
+        "value": "Avot DeRabbi Natan A, "
       }
     ],
-    "hiob_id": "hiob_mention_77",
+    "hiob_id": "hiob_passage_77",
     "midrash": [
       {
         "id": 1,
@@ -2104,7 +2119,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "passages": "2:5",
+    "passage": null,
     "verses": [
       {
         "id": 58,
@@ -2145,18 +2160,22 @@
         "order": "25.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "78": {
     "id": 78,
     "order": "46.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 2"
       }
     ],
-    "hiob_id": "hiob_mention_78",
+    "hiob_id": "hiob_passage_78",
     "midrash": [
       {
         "id": 2,
@@ -2164,7 +2183,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "2",
+    "passage": "2",
     "verses": [
       {
         "id": 58,
@@ -2215,18 +2234,22 @@
         "order": "31.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "79": {
     "id": 79,
     "order": "47.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 43"
       }
     ],
-    "hiob_id": "hiob_mention_79",
+    "hiob_id": "hiob_passage_79",
     "midrash": [
       {
         "id": 2,
@@ -2234,7 +2257,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "43",
+    "passage": "43",
     "verses": [
       {
         "id": 69,
@@ -2296,18 +2319,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23397,
+      "value": "mixed",
+      "color": "darker-brown"
+    }
   },
   "80": {
     "id": 80,
     "order": "48.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 1,
-        "value": "Avot DeRabbi Natan A, 14:6"
+        "value": "Avot DeRabbi Natan A, "
       }
     ],
-    "hiob_id": "hiob_mention_80",
+    "hiob_id": "hiob_passage_80",
     "midrash": [
       {
         "id": 1,
@@ -2315,7 +2342,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "passages": "14:6",
+    "passage": null,
     "verses": [
       {
         "id": 67,
@@ -2351,18 +2378,22 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "82": {
     "id": 82,
     "order": "49.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 1,
-        "value": "Avot DeRabbi Natan A, 37:13"
+        "value": "Avot DeRabbi Natan A, "
       }
     ],
-    "hiob_id": "hiob_mention_82",
+    "hiob_id": "hiob_passage_82",
     "midrash": [
       {
         "id": 1,
@@ -2370,7 +2401,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "passages": "37:13",
+    "passage": null,
     "verses": [
       {
         "id": 78,
@@ -2436,18 +2467,22 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "83": {
     "id": 83,
     "order": "50.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 1,
-        "value": "Avot DeRabbi Natan A, 9:5"
+        "value": "Avot DeRabbi Natan A, "
       }
     ],
-    "hiob_id": "hiob_mention_83",
+    "hiob_id": "hiob_passage_83",
     "midrash": [
       {
         "id": 1,
@@ -2455,7 +2490,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "passages": "9:5",
+    "passage": null,
     "verses": [
       {
         "id": 88,
@@ -2491,18 +2526,22 @@
         "order": "31.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "84": {
     "id": 84,
     "order": "51.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 17"
       }
     ],
-    "hiob_id": "hiob_mention_84",
+    "hiob_id": "hiob_passage_84",
     "midrash": [
       {
         "id": 2,
@@ -2510,7 +2549,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "17",
+    "passage": "17",
     "verses": [
       {
         "id": 88,
@@ -2551,18 +2590,22 @@
         "order": "31.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "85": {
     "id": 85,
     "order": "52.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 16"
       }
     ],
-    "hiob_id": "hiob_mention_85",
+    "hiob_id": "hiob_passage_85",
     "midrash": [
       {
         "id": 2,
@@ -2570,7 +2613,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "16",
+    "passage": "16",
     "verses": [
       {
         "id": 99,
@@ -2606,18 +2649,22 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "86": {
     "id": 86,
     "order": "53.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 38"
       }
     ],
-    "hiob_id": "hiob_mention_86",
+    "hiob_id": "hiob_passage_86",
     "midrash": [
       {
         "id": 2,
@@ -2625,7 +2672,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "38",
+    "passage": "38",
     "verses": [
       {
         "id": 101,
@@ -2666,18 +2713,22 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "87": {
     "id": 87,
     "order": "54.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 44"
       }
     ],
-    "hiob_id": "hiob_mention_87",
+    "hiob_id": "hiob_passage_87",
     "midrash": [
       {
         "id": 2,
@@ -2685,7 +2736,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "44",
+    "passage": "44",
     "verses": [
       {
         "id": 56,
@@ -2761,18 +2812,22 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "88": {
     "id": 88,
     "order": "55.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 1"
       }
     ],
-    "hiob_id": "hiob_mention_88",
+    "hiob_id": "hiob_passage_88",
     "midrash": [
       {
         "id": 2,
@@ -2780,7 +2835,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "1",
+    "passage": "1",
     "verses": [
       {
         "id": 135,
@@ -2825,13 +2880,13 @@
   "89": {
     "id": 89,
     "order": "56.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 42"
       }
     ],
-    "hiob_id": "hiob_mention_89",
+    "hiob_id": "hiob_passage_89",
     "midrash": [
       {
         "id": 2,
@@ -2839,7 +2894,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "42",
+    "passage": "42",
     "verses": [
       {
         "id": 186,
@@ -2875,18 +2930,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "90": {
     "id": 90,
     "order": "57.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 1,
-        "value": "Avot DeRabbi Natan A, 6:2"
+        "value": "Avot DeRabbi Natan A, "
       }
     ],
-    "hiob_id": "hiob_mention_90",
+    "hiob_id": "hiob_passage_90",
     "midrash": [
       {
         "id": 1,
@@ -2894,7 +2953,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "passages": "6:2",
+    "passage": null,
     "verses": [
       {
         "id": 6,
@@ -2940,18 +2999,22 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "91": {
     "id": 91,
     "order": "58.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 12"
       }
     ],
-    "hiob_id": "hiob_mention_91",
+    "hiob_id": "hiob_passage_91",
     "midrash": [
       {
         "id": 2,
@@ -2959,7 +3022,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "12",
+    "passage": "12",
     "verses": [
       {
         "id": 6,
@@ -3015,18 +3078,22 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "92": {
     "id": 92,
     "order": "59.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 7"
       }
     ],
-    "hiob_id": "hiob_mention_92",
+    "hiob_id": "hiob_passage_92",
     "midrash": [
       {
         "id": 2,
@@ -3034,7 +3101,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "7",
+    "passage": "7",
     "verses": [
       {
         "id": 211,
@@ -3085,18 +3152,22 @@
         "order": "24.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "93": {
     "id": 93,
     "order": "60.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 1,
-        "value": "Avot DeRabbi Natan A, 32:3"
+        "value": "Avot DeRabbi Natan A, "
       }
     ],
-    "hiob_id": "hiob_mention_93",
+    "hiob_id": "hiob_passage_93",
     "midrash": [
       {
         "id": 1,
@@ -3104,7 +3175,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "passages": "32:3",
+    "passage": null,
     "verses": [
       {
         "id": 250,
@@ -3160,18 +3231,22 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "96": {
     "id": 96,
     "order": "63.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 8"
       }
     ],
-    "hiob_id": "hiob_mention_96",
+    "hiob_id": "hiob_passage_96",
     "midrash": [
       {
         "id": 2,
@@ -3179,7 +3254,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "8",
+    "passage": "8",
     "verses": [
       {
         "id": 288,
@@ -3215,18 +3290,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "98": {
     "id": 98,
     "order": "65.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 27"
       }
     ],
-    "hiob_id": "hiob_mention_98",
+    "hiob_id": "hiob_passage_98",
     "midrash": [
       {
         "id": 2,
@@ -3234,7 +3313,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "27",
+    "passage": "27",
     "verses": [
       {
         "id": 289,
@@ -3280,18 +3359,22 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "101": {
     "id": 101,
     "order": "68.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 1,
-        "value": "Avot DeRabbi Natan A, 12:4"
+        "value": "Avot DeRabbi Natan A, "
       }
     ],
-    "hiob_id": "hiob_mention_101",
+    "hiob_id": "hiob_passage_101",
     "midrash": [
       {
         "id": 1,
@@ -3299,7 +3382,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "passages": "12:4",
+    "passage": null,
     "verses": [
       {
         "id": 311,
@@ -3350,18 +3433,22 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "102": {
     "id": 102,
     "order": "69.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 25"
       }
     ],
-    "hiob_id": "hiob_mention_102",
+    "hiob_id": "hiob_passage_102",
     "midrash": [
       {
         "id": 2,
@@ -3369,7 +3456,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "25",
+    "passage": "25",
     "verses": [
       {
         "id": 313,
@@ -3420,18 +3507,22 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "103": {
     "id": 103,
     "order": "70.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 1,
-        "value": "Avot DeRabbi Natan A, 24:5"
+        "value": "Avot DeRabbi Natan A, "
       }
     ],
-    "hiob_id": "hiob_mention_103",
+    "hiob_id": "hiob_passage_103",
     "midrash": [
       {
         "id": 1,
@@ -3439,7 +3530,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "passages": "24:5",
+    "passage": null,
     "verses": [
       {
         "id": 316,
@@ -3475,18 +3566,22 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "104": {
     "id": 104,
     "order": "71.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 31"
       }
     ],
-    "hiob_id": "hiob_mention_104",
+    "hiob_id": "hiob_passage_104",
     "midrash": [
       {
         "id": 2,
@@ -3494,7 +3589,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "31",
+    "passage": "31",
     "verses": [
       {
         "id": 316,
@@ -3530,18 +3625,22 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "105": {
     "id": 105,
     "order": "72.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 1,
-        "value": "Avot DeRabbi Natan A, 7:1"
+        "value": "Avot DeRabbi Natan A, "
       }
     ],
-    "hiob_id": "hiob_mention_105",
+    "hiob_id": "hiob_passage_105",
     "midrash": [
       {
         "id": 1,
@@ -3549,7 +3648,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "passages": "7:1",
+    "passage": null,
     "verses": [
       {
         "id": 350,
@@ -3590,18 +3689,22 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "106": {
     "id": 106,
     "order": "73.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 14"
       }
     ],
-    "hiob_id": "hiob_mention_106",
+    "hiob_id": "hiob_passage_106",
     "midrash": [
       {
         "id": 2,
@@ -3609,7 +3712,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "14",
+    "passage": "14",
     "verses": [
       {
         "id": 351,
@@ -3650,18 +3753,22 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "108": {
     "id": 108,
     "order": "75.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 2,
         "value": "Avot DeRabbi Natan B, 40"
       }
     ],
-    "hiob_id": "hiob_mention_108",
+    "hiob_id": "hiob_passage_108",
     "midrash": [
       {
         "id": 2,
@@ -3669,7 +3776,7 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "passages": "40",
+    "passage": "40",
     "verses": [
       {
         "id": 390,
@@ -3679,14 +3786,14 @@
     ],
     "quote": "ועשרה בחכם החכם אינו בהיל לדבר זה אליהוא שנאמר כתר לי זעיר ואחוך (איוב ל\"ו ב'):",
     "commentary": "Contrast ARN A 37:13. Much shorter here. Elihu is the precedent of sagely conduct alone.",
-    "decontextualized_reception": [],
-    "narrative_reception": [
+    "decontextualized_reception": [
       {
-        "id": 23364,
-        "value": "The Companions",
-        "color": "darker-pink"
+        "id": 22318,
+        "value": "Elihu",
+        "color": "dark-cyan"
       }
     ],
+    "narrative_reception": [],
     "points_of_note": "",
     "rabbis": [
       {
@@ -3705,18 +3812,22 @@
         "order": "30.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "110": {
     "id": 110,
     "order": "77.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 3"
       }
     ],
-    "hiob_id": "hiob_mention_110",
+    "hiob_id": "hiob_passage_110",
     "midrash": [
       {
         "id": 5,
@@ -3724,7 +3835,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "3",
+    "passage": "3",
     "verses": [
       {
         "id": 407,
@@ -3775,18 +3886,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "111": {
     "id": 111,
     "order": "78.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 6"
       }
     ],
-    "hiob_id": "hiob_mention_111",
+    "hiob_id": "hiob_passage_111",
     "midrash": [
       {
         "id": 5,
@@ -3794,7 +3909,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "6",
+    "passage": "6",
     "verses": [
       {
         "id": 310,
@@ -3845,18 +3960,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "112": {
     "id": 112,
     "order": "79.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 7"
       }
     ],
-    "hiob_id": "hiob_mention_112",
+    "hiob_id": "hiob_passage_112",
     "midrash": [
       {
         "id": 5,
@@ -3864,7 +3983,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "7",
+    "passage": "7",
     "verses": [
       {
         "id": 421,
@@ -3910,18 +4029,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "113": {
     "id": 113,
     "order": "80.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 11"
       }
     ],
-    "hiob_id": "hiob_mention_113",
+    "hiob_id": "hiob_passage_113",
     "midrash": [
       {
         "id": 5,
@@ -3929,7 +4052,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "11",
+    "passage": "11",
     "verses": [
       {
         "id": 46,
@@ -3985,18 +4108,22 @@
         "order": "28.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "114": {
     "id": 114,
     "order": "81.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 12"
       }
     ],
-    "hiob_id": "hiob_mention_114",
+    "hiob_id": "hiob_passage_114",
     "midrash": [
       {
         "id": 5,
@@ -4004,7 +4131,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "12",
+    "passage": "12",
     "verses": [
       {
         "id": 84,
@@ -4045,18 +4172,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "115": {
     "id": 115,
     "order": "82.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 13"
       }
     ],
-    "hiob_id": "hiob_mention_115",
+    "hiob_id": "hiob_passage_115",
     "midrash": [
       {
         "id": 5,
@@ -4064,7 +4195,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "13",
+    "passage": "13",
     "verses": [
       {
         "id": 444,
@@ -4110,18 +4241,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "116": {
     "id": 116,
     "order": "83.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 15"
       }
     ],
-    "hiob_id": "hiob_mention_116",
+    "hiob_id": "hiob_passage_116",
     "midrash": [
       {
         "id": 5,
@@ -4129,7 +4264,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "15",
+    "passage": "15",
     "verses": [
       {
         "id": 377,
@@ -4170,18 +4305,22 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "117": {
     "id": 117,
     "order": "84.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 20"
       }
     ],
-    "hiob_id": "hiob_mention_117",
+    "hiob_id": "hiob_passage_117",
     "midrash": [
       {
         "id": 5,
@@ -4189,7 +4328,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "20",
+    "passage": "20",
     "verses": [
       {
         "id": 342,
@@ -4230,18 +4369,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "118": {
     "id": 118,
     "order": "85.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 21"
       }
     ],
-    "hiob_id": "hiob_mention_118",
+    "hiob_id": "hiob_passage_118",
     "midrash": [
       {
         "id": 5,
@@ -4249,7 +4392,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "21",
+    "passage": "21",
     "verses": [
       {
         "id": 251,
@@ -4290,18 +4433,22 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "119": {
     "id": 119,
     "order": "86.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 22"
       }
     ],
-    "hiob_id": "hiob_mention_119",
+    "hiob_id": "hiob_passage_119",
     "midrash": [
       {
         "id": 5,
@@ -4309,7 +4456,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "22",
+    "passage": "22",
     "verses": [
       {
         "id": 121,
@@ -4370,18 +4517,22 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "120": {
     "id": 120,
     "order": "87.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 25"
       }
     ],
-    "hiob_id": "hiob_mention_120",
+    "hiob_id": "hiob_passage_120",
     "midrash": [
       {
         "id": 5,
@@ -4389,7 +4540,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "25",
+    "passage": "25",
     "verses": [
       {
         "id": 304,
@@ -4434,18 +4585,22 @@
     "notes": "Bavli, Gen. Rab.??Only a latאer verse in the following passage from Ezekiel might directly reference Sodom. The assumption is that Job 28:5, which mentions a land overturned like fire, refers to Sodom due to the root הפ\"כ.",
     "translation": null,
     "reception": [],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "121": {
     "id": 121,
     "order": "88.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 52"
       }
     ],
-    "hiob_id": "hiob_mention_121",
+    "hiob_id": "hiob_passage_121",
     "midrash": [
       {
         "id": 5,
@@ -4453,7 +4608,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "52",
+    "passage": "52",
     "verses": [
       {
         "id": 40,
@@ -4494,18 +4649,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "122": {
     "id": 122,
     "order": "89.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 47"
       }
     ],
-    "hiob_id": "hiob_mention_122",
+    "hiob_id": "hiob_passage_122",
     "midrash": [
       {
         "id": 5,
@@ -4513,7 +4672,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "47",
+    "passage": "47",
     "verses": [
       {
         "id": 450,
@@ -4554,18 +4713,22 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "123": {
     "id": 123,
     "order": "90.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 43"
       }
     ],
-    "hiob_id": "hiob_mention_123",
+    "hiob_id": "hiob_passage_123",
     "midrash": [
       {
         "id": 5,
@@ -4573,7 +4736,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "43",
+    "passage": "43",
     "verses": [
       {
         "id": 281,
@@ -4614,18 +4777,22 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "124": {
     "id": 124,
     "order": "91.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 5,
         "value": "Pirkei DeRabbi Eliezer, 34"
       }
     ],
-    "hiob_id": "hiob_mention_124",
+    "hiob_id": "hiob_passage_124",
     "midrash": [
       {
         "id": 5,
@@ -4633,7 +4800,7 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "passages": "34",
+    "passage": "34",
     "verses": [
       {
         "id": 165,
@@ -4709,18 +4876,22 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "125": {
     "id": 125,
     "order": "92.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 19:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_125",
+    "hiob_id": "hiob_passage_125",
     "midrash": [
       {
         "id": 38,
@@ -4728,7 +4899,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "19:2",
+    "passage": null,
     "verses": [
       {
         "id": 11,
@@ -4789,18 +4960,22 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "127": {
     "id": 127,
     "order": "94.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 88:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_127",
+    "hiob_id": "hiob_passage_127",
     "midrash": [
       {
         "id": 38,
@@ -4808,7 +4983,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "88:2",
+    "passage": null,
     "verses": [
       {
         "id": 413,
@@ -4831,13 +5006,13 @@
   "128": {
     "id": 128,
     "order": "95.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 104:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_128",
+    "hiob_id": "hiob_passage_128",
     "midrash": [
       {
         "id": 38,
@@ -4845,7 +5020,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "104:2",
+    "passage": null,
     "verses": [
       {
         "id": 413,
@@ -4868,13 +5043,13 @@
   "129": {
     "id": 129,
     "order": "96.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 3,
-        "value": "Tanhuma, Exodus 2:2"
+        "value": "Tanhuma, "
       }
     ],
-    "hiob_id": "hiob_mention_129",
+    "hiob_id": "hiob_passage_129",
     "midrash": [
       {
         "id": 3,
@@ -4882,7 +5057,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "passages": "Exodus 2:2",
+    "passage": null,
     "verses": [
       {
         "id": 413,
@@ -4905,13 +5080,13 @@
   "130": {
     "id": 130,
     "order": "97.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 19:3"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_130",
+    "hiob_id": "hiob_passage_130",
     "midrash": [
       {
         "id": 38,
@@ -4919,7 +5094,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "19:3",
+    "passage": null,
     "verses": [
       {
         "id": 433,
@@ -4960,18 +5135,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "131": {
     "id": 131,
     "order": "98.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 9:11"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_131",
+    "hiob_id": "hiob_passage_131",
     "midrash": [
       {
         "id": 38,
@@ -4979,7 +5158,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "9:11",
+    "passage": null,
     "verses": [
       {
         "id": 243,
@@ -5020,18 +5199,22 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "132": {
     "id": 132,
     "order": "99.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 19:10"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_132",
+    "hiob_id": "hiob_passage_132",
     "midrash": [
       {
         "id": 38,
@@ -5039,7 +5222,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "19:10",
+    "passage": null,
     "verses": [
       {
         "id": 383,
@@ -5075,18 +5258,22 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "133": {
     "id": 133,
     "order": "100.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 24:1"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_133",
+    "hiob_id": "hiob_passage_133",
     "midrash": [
       {
         "id": 38,
@@ -5094,7 +5281,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "24:1",
+    "passage": null,
     "verses": [
       {
         "id": 330,
@@ -5146,18 +5333,22 @@
         "order": "29.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23397,
+      "value": "mixed",
+      "color": "darker-brown"
+    }
   },
   "135": {
     "id": 135,
     "order": "102.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 111:1"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_135",
+    "hiob_id": "hiob_passage_135",
     "midrash": [
       {
         "id": 38,
@@ -5165,7 +5356,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "111:1",
+    "passage": null,
     "verses": [
       {
         "id": 12,
@@ -5195,18 +5386,22 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "136": {
     "id": 136,
     "order": "103.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 46:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_136",
+    "hiob_id": "hiob_passage_136",
     "midrash": [
       {
         "id": 38,
@@ -5214,7 +5409,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "46:2",
+    "passage": null,
     "verses": [
       {
         "id": 424,
@@ -5254,18 +5449,22 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "137": {
     "id": 137,
     "order": "104.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 22:23"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_137",
+    "hiob_id": "hiob_passage_137",
     "midrash": [
       {
         "id": 38,
@@ -5273,7 +5472,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "22:23",
+    "passage": null,
     "verses": [
       {
         "id": 420,
@@ -5313,18 +5512,22 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "138": {
     "id": 138,
     "order": "105.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 103:8"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_138",
+    "hiob_id": "hiob_passage_138",
     "midrash": [
       {
         "id": 38,
@@ -5332,7 +5535,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "103:8",
+    "passage": null,
     "verses": [
       {
         "id": 417,
@@ -5362,18 +5565,22 @@
         "order": "27.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "139": {
     "id": 139,
     "order": "106.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 18:31"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_139",
+    "hiob_id": "hiob_passage_139",
     "midrash": [
       {
         "id": 38,
@@ -5381,7 +5588,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "18:31",
+    "passage": null,
     "verses": [
       {
         "id": 417,
@@ -5411,18 +5618,22 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "140": {
     "id": 140,
     "order": "107.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 119:1"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_140",
+    "hiob_id": "hiob_passage_140",
     "midrash": [
       {
         "id": 38,
@@ -5430,7 +5641,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "119:1",
+    "passage": null,
     "verses": [
       {
         "id": 412,
@@ -5453,13 +5664,13 @@
   "141": {
     "id": 141,
     "order": "108.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 50:1"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_141",
+    "hiob_id": "hiob_passage_141",
     "midrash": [
       {
         "id": 38,
@@ -5467,7 +5678,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "50:1",
+    "passage": null,
     "verses": [
       {
         "id": 411,
@@ -5497,18 +5708,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "142": {
     "id": 142,
     "order": "109.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 18:16"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_142",
+    "hiob_id": "hiob_passage_142",
     "midrash": [
       {
         "id": 38,
@@ -5516,7 +5731,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "18:16",
+    "passage": null,
     "verses": [
       {
         "id": 154,
@@ -5556,18 +5771,22 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "144": {
     "id": 144,
     "order": "111.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 44,
-        "value": "Deuteronomy Rabbah [Lieberman], Devarim [2:4]"
+        "value": "Deuteronomy Rabbah [Lieberman], "
       }
     ],
-    "hiob_id": "hiob_mention_144",
+    "hiob_id": "hiob_passage_144",
     "midrash": [
       {
         "id": 44,
@@ -5575,7 +5794,7 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "passages": "Devarim [2:4]",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -5614,13 +5833,13 @@
   "145": {
     "id": 145,
     "order": "112.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 44,
-        "value": "Deuteronomy Rabbah [Lieberman], Va'tchanan"
+        "value": "Deuteronomy Rabbah [Lieberman], "
       }
     ],
-    "hiob_id": "hiob_mention_145",
+    "hiob_id": "hiob_passage_145",
     "midrash": [
       {
         "id": 44,
@@ -5628,7 +5847,7 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "passages": "Va'tchanan",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Death of Moses. Not in the other version.",
@@ -5657,13 +5876,13 @@
   "146": {
     "id": 146,
     "order": "113.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 44,
-        "value": "Deuteronomy Rabbah [Lieberman], Eikav"
+        "value": "Deuteronomy Rabbah [Lieberman], "
       }
     ],
-    "hiob_id": "hiob_mention_146",
+    "hiob_id": "hiob_passage_146",
     "midrash": [
       {
         "id": 44,
@@ -5671,7 +5890,7 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "passages": "Eikav",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Job was almost like one of the patriarchs.",
@@ -5700,13 +5919,13 @@
   "147": {
     "id": 147,
     "order": "114.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 44,
-        "value": "Deuteronomy Rabbah [Lieberman], Nitzavim"
+        "value": "Deuteronomy Rabbah [Lieberman], "
       }
     ],
-    "hiob_id": "hiob_mention_147",
+    "hiob_id": "hiob_passage_147",
     "midrash": [
       {
         "id": 44,
@@ -5714,7 +5933,7 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "passages": "Nitzavim",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Sinai revelation.",
@@ -5743,13 +5962,13 @@
   "148": {
     "id": 148,
     "order": "115.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 44,
-        "value": "Deuteronomy Rabbah [Lieberman], Vayelekh"
+        "value": "Deuteronomy Rabbah [Lieberman], "
       }
     ],
-    "hiob_id": "hiob_mention_148",
+    "hiob_id": "hiob_passage_148",
     "midrash": [
       {
         "id": 44,
@@ -5757,7 +5976,7 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "passages": "Vayelekh",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "The study of embryos.",
@@ -5786,13 +6005,13 @@
   "149": {
     "id": 149,
     "order": "116.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 45,
-        "value": "Deuteronomy Rabbah, 2:4"
+        "value": "Deuteronomy Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_149",
+    "hiob_id": "hiob_passage_149",
     "midrash": [
       {
         "id": 45,
@@ -5800,7 +6019,7 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "passages": "2:4",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Job seemed to utter nothing but rebukes, despite being the most righteous among the nations.",
@@ -5840,13 +6059,13 @@
   "150": {
     "id": 150,
     "order": "117.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 45,
-        "value": "Deuteronomy Rabbah, 2:37"
+        "value": "Deuteronomy Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_150",
+    "hiob_id": "hiob_passage_150",
     "midrash": [
       {
         "id": 45,
@@ -5854,7 +6073,7 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "passages": "2:37",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "List of Israel as wife of God.",
@@ -5883,13 +6102,13 @@
   "151": {
     "id": 151,
     "order": "118.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 45,
-        "value": "Deuteronomy Rabbah, 5:4"
+        "value": "Deuteronomy Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_151",
+    "hiob_id": "hiob_passage_151",
     "midrash": [
       {
         "id": 45,
@@ -5897,7 +6116,7 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "passages": "5:4",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Hands of God.",
@@ -5926,13 +6145,13 @@
   "152": {
     "id": 152,
     "order": "119.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 45,
-        "value": "Deuteronomy Rabbah, 5:9"
+        "value": "Deuteronomy Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_152",
+    "hiob_id": "hiob_passage_152",
     "midrash": [
       {
         "id": 45,
@@ -5940,7 +6159,7 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "passages": "5:9",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Kings as inferior to God.",
@@ -5969,13 +6188,13 @@
   "153": {
     "id": 153,
     "order": "120.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 45,
-        "value": "Deuteronomy Rabbah, 5:12"
+        "value": "Deuteronomy Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_153",
+    "hiob_id": "hiob_passage_153",
     "midrash": [
       {
         "id": 45,
@@ -5983,7 +6202,7 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "passages": "5:12",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Merit of peace vs sun and stars.",
@@ -6012,13 +6231,13 @@
   "154": {
     "id": 154,
     "order": "121.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 45,
-        "value": "Deuteronomy Rabbah, 5:13"
+        "value": "Deuteronomy Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_154",
+    "hiob_id": "hiob_passage_154",
     "midrash": [
       {
         "id": 45,
@@ -6026,7 +6245,7 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "passages": "5:13",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Golden calf episode.",
@@ -6055,13 +6274,13 @@
   "155": {
     "id": 155,
     "order": "122.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 45,
-        "value": "Deuteronomy Rabbah, 5:15"
+        "value": "Deuteronomy Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_155",
+    "hiob_id": "hiob_passage_155",
     "midrash": [
       {
         "id": 45,
@@ -6069,7 +6288,7 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "passages": "5:15",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "God does not kill idolaters and merit of peace.",
@@ -6098,13 +6317,13 @@
   "156": {
     "id": 156,
     "order": "123.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 45,
-        "value": "Deuteronomy Rabbah, 7:3"
+        "value": "Deuteronomy Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_156",
+    "hiob_id": "hiob_passage_156",
     "midrash": [
       {
         "id": 45,
@@ -6112,7 +6331,7 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "passages": "7:3",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Torah compared to Aher.",
@@ -6141,13 +6360,13 @@
   "157": {
     "id": 157,
     "order": "124.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 45,
-        "value": "Deuteronomy Rabbah, 8, 2&7"
+        "value": "Deuteronomy Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_157",
+    "hiob_id": "hiob_passage_157",
     "midrash": [
       {
         "id": 45,
@@ -6155,7 +6374,7 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "passages": "8, 2&7",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Merit of Torah.",
@@ -6184,13 +6403,13 @@
   "158": {
     "id": 158,
     "order": "125.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 45,
-        "value": "Deuteronomy Rabbah, 9:9& 11:10"
+        "value": "Deuteronomy Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_158",
+    "hiob_id": "hiob_passage_158",
     "midrash": [
       {
         "id": 45,
@@ -6198,7 +6417,7 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "passages": "9:9& 11:10",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Versions of Death of Moses",
@@ -6227,13 +6446,13 @@
   "159": {
     "id": 159,
     "order": "126.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 45,
-        "value": "Deuteronomy Rabbah, 11:6"
+        "value": "Deuteronomy Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_159",
+    "hiob_id": "hiob_passage_159",
     "midrash": [
       {
         "id": 45,
@@ -6241,7 +6460,7 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "passages": "11:6",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Merit of fear of God.",
@@ -6270,13 +6489,13 @@
   "160": {
     "id": 160,
     "order": "127.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 46,
-        "value": "Song of Songs Zuta, 1:1"
+        "value": "Song of Songs Zuta, "
       }
     ],
-    "hiob_id": "hiob_mention_160",
+    "hiob_id": "hiob_passage_160",
     "midrash": [
       {
         "id": 46,
@@ -6284,7 +6503,7 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "passages": "1:1",
+    "passage": null,
     "verses": [],
     "quote": "[א] שיר השירים. רבי נתן אומר מלאכי השרת אמרו אותה, שנאמר שיר השירים, המשוררים לפני הקב\"ה מלך מלכי המלכים ואומרים ק' ק' ק' =קדוש קדוש קדוש=. רבן גמליאל אומר הקב\"ה אמרה שנאמר שיר השירים, השיר הנבחר מכל השירים ואמרוה האבות והצדיקים והנביאים ומלאכי השרת, מי אמרה, מי שהשלום שלו (בנוהג) [ונוהג] שלום (על) [עם] כל בריות, החמה זורחת על הצדיקים ועל הרשעים ועושה שלום בין מלאכיו, שכן הוא אומר עושה שלום במרומיו (איוב כ\"ה ג') הברקים שטחין מתוך המים והמים אינם מכבין אישן של ברקים והברקים אין שורפים את המים, הרקיע של מים, החמה והלבנה והכוכבים והמזלות של אש רצים ומהלכים ואינם מזיקים זה את זה, ואתה מוצא (במרכבות) [במכותיו של] פרעה [ברד] ואש מתלקחת בתוך הברד, (שמות ט' כ\"ד), שהיו מעורבים שניהם כאחד ולא היו מזיקים זה לזה, וכן בהר סיני ברד וגחלי אש (תהלים י\"ח י\"ג). בארץ אי אפשר לשור לראות את הארי, שהרי שונא, לשור, אבל במרום השור והארי שניהם במרכבה ושלום ביניהם ואוהבים זה לזה, שנאמר ופניהם איש אל אחיו (שמות כ\"ה כ'), שהיו נוהגים אהבה ורעות, שנאמר עושה שלום במרומיו (איוב כ\"ה ב') . רבי אומר מי שהשלים לבנים מה שקיים לאבות שאומר כי גר יהיה זרעך וגו' [וגם את הגוי אשר יעבודו דן אנכי] (בראשית ט\"ו י\"ג י\"ד) בשתי אותיות קיים לו שהוא גואלם ובשבעים [אותיות] גאלם, שנאמר במסות באותות ובמפותים /ובמופתים/ ובמלחמה וגו' (דברים ד' ל\"ד), כנגד שבעים שירדו עם יעקב למצרים, ובשבעים שנתנו לו כנגד שבעים לשונות, שנאמר יצב גבולות עמים למספר בני ישראל (שם /דברים/ ל\"ב ח'), כנגדן נקראו לישראל שבעים שמות ולירושלים שבעים ולתורה שבעים, כנגד שבעים שמות שנקראו להקב\"ה.",
     "commentary": "Gods keeps the peace between angles of diffrent nature.",
@@ -6327,13 +6546,13 @@
   "161": {
     "id": 161,
     "order": "128.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 46,
-        "value": "Song of Songs Zuta, 3:10"
+        "value": "Song of Songs Zuta, "
       }
     ],
-    "hiob_id": "hiob_mention_161",
+    "hiob_id": "hiob_passage_161",
     "midrash": [
       {
         "id": 46,
@@ -6341,7 +6560,7 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "passages": "3:10",
+    "passage": null,
     "verses": [],
     "quote": "תוכו רצוף אהבה. אלו נפשות של צדיקים, שהן נתונות עמו במרום. שלשה הם שנכנסו זה לפנים מזה, ומשה נגש אל הערפל (שמות כ' י\"ח). לפנים ממנו צדק ומשפט שנאמר צדק ומשפט מכון כסאך (תהלים פ\"ט ט\"ו). ולפנים ממנו נפשות הצדיקים, שנאמר אשר בידו נפש כל חי וגו' (איוב י\"ב י') , ואומר והיתה נפש אדוני צרורה בצרור החיים את ה' אלהיך (שמ\"א =שמואל א'= כ\"ה כ\"ט).\n רצוף אהבה. נפשות הצדיקים שאהבו את הקב\"ה. שנאמר זרע אברהם אוהבי (ישעיה מ\"א ח'). וכן הוא אומר להנחיל אוהבי יש (משלי ח' כ\"א).",
     "commentary": "God watches over the souls of the righteous in the afterlife.",
@@ -6370,13 +6589,13 @@
   "162": {
     "id": 162,
     "order": "129.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 47,
-        "value": "Ruth Zuta, 3:18"
+        "value": "Ruth Zuta, "
       }
     ],
-    "hiob_id": "hiob_mention_162",
+    "hiob_id": "hiob_passage_162",
     "midrash": [
       {
         "id": 47,
@@ -6384,7 +6603,7 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "passages": "3:18",
+    "passage": null,
     "verses": [],
     "quote": "[יח] ותאמר שבי בתי וגו'. שאין אנו מאנשים שאינם כשרים המדברים דבר וחוזרים בהם, וכן הוא אומר בצדקתי החזקתי ולא (אטה) [ארפה] (איוב כ\"ז ו'), ולפיכך אמרה נעמי לרות כי לא ישקוט האיש וגו'.",
     "commentary": "Job is an example of a worthy person who stays true to his word.",
@@ -6413,13 +6632,13 @@
   "163": {
     "id": 163,
     "order": "130.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 48,
-        "value": "Lamentations Zuta, 1:14 [version A+B]"
+        "value": "Lamentations Zuta, "
       }
     ],
-    "hiob_id": "hiob_mention_163",
+    "hiob_id": "hiob_passage_163",
     "midrash": [
       {
         "id": 48,
@@ -6427,7 +6646,7 @@
         "order": "22.00000000000000000000"
       }
     ],
-    "passages": "1:14 [version A+B]",
+    "passage": null,
     "verses": [],
     "quote": "[יד] כתיב נחמו נחמו עמי (ישעיה מ' א'), למה שני פעמים, רבי אומר לפי שכל מכות שלהן כפולות שכן ירמיה היה אומר שבר על שבר נקרא (ירמיה ד' כ'). בכו תבכה בלילה (איכה א' ב'), עיני עיני יורדה מים (שם שם /איכה א'/ ט\"ז), חטא חטאה ירושלם (שם שם /איכה א'/ ח'), וכל כך למה, לפי שחטאו בכפלים, שנאמר כי שתים רעות עשה עמי (ירמיה ב' י\"ג), וכיון שחטאו בכפלים לקו בכפלים, שנאמר כי לקחה מיד ה' כפלים בכל חטאתיה (ישעיה מ' ב') ולפי שמכותיה כפולות כך נחמותיה כפולות, שנאמר נחמו נחמו עמי (שם /ישעיהו/ מ' א'), עורי עורי (שם /ישעיהו/ נ\"ב א'), קומי אורי כי בא אורך (שם /ישעיהו/ ס'), אנכי אנכי הוא מוחה פשעיך (שם /ישעיהו/ מ\"ג כ\"ה), אנכי אנכי הוא מנחמכם (שם שם /ישעיהו נ\"א/ י\"ב), אנכי אנכי הוא מוחה פשעיך (שם /ישעיהו/ מ\"ג כ\"ה), שוש אשיש בה' (שם /ישעיהו/ ס\"א י'), סולו סולו (שם /ישעיהו/ ס\"ב י'), וכן לכן בארצכם משנה יירשו (שם /ישעיהו/ ס\"א ז'), אמרו לו הכל אתה נותן בכפלים, כי מכת אויב הכיתיך (ירמיה ל' י\"ד), [אמר להם אל תאמרו כן, אלא כי מכת אויב הכיתיך], מה עשיתי לאיוב ויוסף ה' את כל אשר לאיוב למשנה (איוב מ\"ב י') , אמר להם הקב\"ה מה לאיוב הוספתי, לבני על אחת כמה וכמה, לכן בארצכם משנה יירשו (ישעיה ס\"א ז').",
     "commentary": "Job is a precedent that God will double the fortunes of the Jews in the land.",
@@ -6477,13 +6696,13 @@
   "164": {
     "id": 164,
     "order": "131.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 9:11"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_164",
+    "hiob_id": "hiob_passage_164",
     "midrash": [
       {
         "id": 38,
@@ -6491,7 +6710,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "9:11",
+    "passage": null,
     "verses": [
       {
         "id": 382,
@@ -6531,18 +6750,22 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "165": {
     "id": 165,
     "order": "132.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 17:9"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_165",
+    "hiob_id": "hiob_passage_165",
     "midrash": [
       {
         "id": 38,
@@ -6550,7 +6773,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "17:9",
+    "passage": null,
     "verses": [
       {
         "id": 371,
@@ -6595,18 +6818,22 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "166": {
     "id": 166,
     "order": "133.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 90:4"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_166",
+    "hiob_id": "hiob_passage_166",
     "midrash": [
       {
         "id": 38,
@@ -6614,7 +6841,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "90:4",
+    "passage": null,
     "verses": [
       {
         "id": 366,
@@ -6644,18 +6871,22 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "167": {
     "id": 167,
     "order": "134.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 20:3"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_167",
+    "hiob_id": "hiob_passage_167",
     "midrash": [
       {
         "id": 38,
@@ -6663,7 +6894,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "20:3",
+    "passage": null,
     "verses": [
       {
         "id": 365,
@@ -6686,13 +6917,13 @@
   "168": {
     "id": 168,
     "order": "135.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 7:4"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_168",
+    "hiob_id": "hiob_passage_168",
     "midrash": [
       {
         "id": 38,
@@ -6700,7 +6931,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "7:4",
+    "passage": null,
     "verses": [
       {
         "id": 356,
@@ -6735,18 +6966,22 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "169": {
     "id": 169,
     "order": "136.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 119:62"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_169",
+    "hiob_id": "hiob_passage_169",
     "midrash": [
       {
         "id": 38,
@@ -6754,7 +6989,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "119:62",
+    "passage": null,
     "verses": [
       {
         "id": 334,
@@ -6794,18 +7029,22 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "171": {
     "id": 171,
     "order": "138.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 8:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_171",
+    "hiob_id": "hiob_passage_171",
     "midrash": [
       {
         "id": 38,
@@ -6813,7 +7052,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "8:2",
+    "passage": null,
     "verses": [
       {
         "id": 312,
@@ -6863,18 +7102,22 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "172": {
     "id": 172,
     "order": "139.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 139:1"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_172",
+    "hiob_id": "hiob_passage_172",
     "midrash": [
       {
         "id": 38,
@@ -6882,7 +7125,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "139:1",
+    "passage": null,
     "verses": [
       {
         "id": 158,
@@ -6937,18 +7180,22 @@
         "order": "8.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "173": {
     "id": 173,
     "order": "140.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 3:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_173",
+    "hiob_id": "hiob_passage_173",
     "midrash": [
       {
         "id": 38,
@@ -6956,7 +7203,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "3:2",
+    "passage": null,
     "verses": [
       {
         "id": 312,
@@ -6986,18 +7233,22 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "174": {
     "id": 174,
     "order": "141.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 92:3"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_174",
+    "hiob_id": "hiob_passage_174",
     "midrash": [
       {
         "id": 38,
@@ -7005,7 +7256,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "92:3",
+    "passage": null,
     "verses": [
       {
         "id": 301,
@@ -7045,18 +7296,22 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "175": {
     "id": 175,
     "order": "142.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 146:3"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_175",
+    "hiob_id": "hiob_passage_175",
     "midrash": [
       {
         "id": 38,
@@ -7064,7 +7319,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "146:3",
+    "passage": null,
     "verses": [
       {
         "id": 290,
@@ -7087,13 +7342,13 @@
   "176": {
     "id": 176,
     "order": "143.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 16:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_176",
+    "hiob_id": "hiob_passage_176",
     "midrash": [
       {
         "id": 38,
@@ -7101,7 +7356,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "16:2",
+    "passage": null,
     "verses": [
       {
         "id": 205,
@@ -7136,18 +7391,22 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "177": {
     "id": 177,
     "order": "144.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 119:35"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_177",
+    "hiob_id": "hiob_passage_177",
     "midrash": [
       {
         "id": 38,
@@ -7155,7 +7414,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "119:35",
+    "passage": null,
     "verses": [
       {
         "id": 274,
@@ -7205,18 +7464,22 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "178": {
     "id": 178,
     "order": "145.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 90:13"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_178",
+    "hiob_id": "hiob_passage_178",
     "midrash": [
       {
         "id": 38,
@@ -7224,7 +7487,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "90:13",
+    "passage": null,
     "verses": [
       {
         "id": 261,
@@ -7254,18 +7517,22 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "179": {
     "id": 179,
     "order": "146.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 10:5"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_179",
+    "hiob_id": "hiob_passage_179",
     "midrash": [
       {
         "id": 38,
@@ -7273,7 +7540,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "10:5",
+    "passage": null,
     "verses": [
       {
         "id": 238,
@@ -7323,18 +7590,22 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "180": {
     "id": 180,
     "order": "147.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 40,
-        "value": "Numbers Rabbah I, 2:8"
+        "value": "Numbers Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_180",
+    "hiob_id": "hiob_passage_180",
     "midrash": [
       {
         "id": 40,
@@ -7342,7 +7613,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "passages": "2:8",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Deaths of Jacob, moses and the tribes.",
@@ -7381,13 +7652,13 @@
   "181": {
     "id": 181,
     "order": "148.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 40,
-        "value": "Numbers Rabbah I, 3:1"
+        "value": "Numbers Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_181",
+    "hiob_id": "hiob_passage_181",
     "midrash": [
       {
         "id": 40,
@@ -7395,7 +7666,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "passages": "3:1",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Wisdom as righteousness.",
@@ -7424,13 +7695,13 @@
   "182": {
     "id": 182,
     "order": "149.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 23:5"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_182",
+    "hiob_id": "hiob_passage_182",
     "midrash": [
       {
         "id": 38,
@@ -7438,7 +7709,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "23:5",
+    "passage": null,
     "verses": [
       {
         "id": 237,
@@ -7478,18 +7749,22 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "184": {
     "id": 184,
     "order": "151.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 33:1"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_184",
+    "hiob_id": "hiob_passage_184",
     "midrash": [
       {
         "id": 38,
@@ -7497,7 +7772,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "33:1",
+    "passage": null,
     "verses": [
       {
         "id": 236,
@@ -7527,18 +7802,22 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "185": {
     "id": 185,
     "order": "152.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 7:3"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_185",
+    "hiob_id": "hiob_passage_185",
     "midrash": [
       {
         "id": 38,
@@ -7546,7 +7825,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "7:3",
+    "passage": null,
     "verses": [
       {
         "id": 232,
@@ -7586,18 +7865,22 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "186": {
     "id": 186,
     "order": "153.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 119:54"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_186",
+    "hiob_id": "hiob_passage_186",
     "midrash": [
       {
         "id": 38,
@@ -7605,7 +7888,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "119:54",
+    "passage": null,
     "verses": [
       {
         "id": 227,
@@ -7635,18 +7918,22 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "187": {
     "id": 187,
     "order": "154.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 26:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_187",
+    "hiob_id": "hiob_passage_187",
     "midrash": [
       {
         "id": 38,
@@ -7654,7 +7941,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "26:2",
+    "passage": null,
     "verses": [
       {
         "id": 142,
@@ -7704,18 +7991,22 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "188": {
     "id": 188,
     "order": "155.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 119:37"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_188",
+    "hiob_id": "hiob_passage_188",
     "midrash": [
       {
         "id": 38,
@@ -7723,7 +8014,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "119:37",
+    "passage": null,
     "verses": [
       {
         "id": 205,
@@ -7753,18 +8044,22 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "190": {
     "id": 190,
     "order": "157.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 17:8"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_190",
+    "hiob_id": "hiob_passage_190",
     "midrash": [
       {
         "id": 38,
@@ -7772,7 +8067,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "17:8",
+    "passage": null,
     "verses": [
       {
         "id": 199,
@@ -7807,18 +8102,22 @@
         "order": "21.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "191": {
     "id": 191,
     "order": "158.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 53:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_191",
+    "hiob_id": "hiob_passage_191",
     "midrash": [
       {
         "id": 38,
@@ -7826,7 +8125,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "53:2",
+    "passage": null,
     "verses": [
       {
         "id": 197,
@@ -7850,18 +8149,22 @@
     "notes": "// Pirqe. R. Eli",
     "translation": null,
     "reception": [],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "192": {
     "id": 192,
     "order": "159.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 139:4"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_192",
+    "hiob_id": "hiob_passage_192",
     "midrash": [
       {
         "id": 38,
@@ -7869,7 +8172,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "139:4",
+    "passage": null,
     "verses": [
       {
         "id": 196,
@@ -7899,18 +8202,22 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "193": {
     "id": 193,
     "order": "160.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 143:1"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_193",
+    "hiob_id": "hiob_passage_193",
     "midrash": [
       {
         "id": 38,
@@ -7918,7 +8225,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "143:1",
+    "passage": null,
     "verses": [
       {
         "id": 149,
@@ -8004,18 +8311,22 @@
         "order": "26.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23397,
+      "value": "mixed",
+      "color": "darker-brown"
+    }
   },
   "194": {
     "id": 194,
     "order": "161.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 27:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_194",
+    "hiob_id": "hiob_passage_194",
     "midrash": [
       {
         "id": 38,
@@ -8023,7 +8334,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "27:2",
+    "passage": null,
     "verses": [
       {
         "id": 182,
@@ -8053,18 +8364,22 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "197": {
     "id": 197,
     "order": "163.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 40,
-        "value": "Numbers Rabbah I, 4:4"
+        "value": "Numbers Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_197",
+    "hiob_id": "hiob_passage_197",
     "midrash": [
       {
         "id": 40,
@@ -8072,7 +8387,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "passages": "4:4",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -8101,13 +8416,13 @@
   "198": {
     "id": 198,
     "order": "164.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 40,
-        "value": "Numbers Rabbah I, 6:2"
+        "value": "Numbers Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_198",
+    "hiob_id": "hiob_passage_198",
     "midrash": [
       {
         "id": 40,
@@ -8115,7 +8430,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "passages": "6:2",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -8144,13 +8459,13 @@
   "199": {
     "id": 199,
     "order": "165.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 74:1"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_199",
+    "hiob_id": "hiob_passage_199",
     "midrash": [
       {
         "id": 38,
@@ -8158,7 +8473,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "74:1",
+    "passage": null,
     "verses": [
       {
         "id": 186,
@@ -8188,18 +8503,22 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "200": {
     "id": 200,
     "order": "166.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 139:5"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_200",
+    "hiob_id": "hiob_passage_200",
     "midrash": [
       {
         "id": 38,
@@ -8207,7 +8526,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "139:5",
+    "passage": null,
     "verses": [
       {
         "id": 451,
@@ -8237,18 +8556,22 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "201": {
     "id": 201,
     "order": "167.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 101:3"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_201",
+    "hiob_id": "hiob_passage_201",
     "midrash": [
       {
         "id": 38,
@@ -8256,7 +8579,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "101:3",
+    "passage": null,
     "verses": [
       {
         "id": 191,
@@ -8286,18 +8609,22 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "202": {
     "id": 202,
     "order": "168.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 78:7"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_202",
+    "hiob_id": "hiob_passage_202",
     "midrash": [
       {
         "id": 38,
@@ -8305,7 +8632,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "78:7",
+    "passage": null,
     "verses": [
       {
         "id": 192,
@@ -8335,18 +8662,22 @@
         "order": "18.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "204": {
     "id": 204,
     "order": "170.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 93:5"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_204",
+    "hiob_id": "hiob_passage_204",
     "midrash": [
       {
         "id": 38,
@@ -8354,7 +8685,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "93:5",
+    "passage": null,
     "verses": [
       {
         "id": 138,
@@ -8389,18 +8720,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "205": {
     "id": 205,
     "order": "171.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 22:25"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_205",
+    "hiob_id": "hiob_passage_205",
     "midrash": [
       {
         "id": 38,
@@ -8408,7 +8743,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "22:25",
+    "passage": null,
     "verses": [
       {
         "id": 164,
@@ -8438,18 +8773,22 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "206": {
     "id": 206,
     "order": "172.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 68:1"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_206",
+    "hiob_id": "hiob_passage_206",
     "midrash": [
       {
         "id": 38,
@@ -8457,7 +8796,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "68:1",
+    "passage": null,
     "verses": [
       {
         "id": 162,
@@ -8493,18 +8832,22 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "207": {
     "id": 207,
     "order": "173.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 5:8"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_207",
+    "hiob_id": "hiob_passage_207",
     "midrash": [
       {
         "id": 38,
@@ -8512,7 +8855,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "5:8",
+    "passage": null,
     "verses": [
       {
         "id": 161,
@@ -8542,18 +8885,22 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "208": {
     "id": 208,
     "order": "174.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 37:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_208",
+    "hiob_id": "hiob_passage_208",
     "midrash": [
       {
         "id": 38,
@@ -8561,7 +8908,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "37:2",
+    "passage": null,
     "verses": [
       {
         "id": 131,
@@ -8596,18 +8943,22 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "209": {
     "id": 209,
     "order": "175.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 119:11"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_209",
+    "hiob_id": "hiob_passage_209",
     "midrash": [
       {
         "id": 38,
@@ -8615,7 +8966,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "119:11",
+    "passage": null,
     "verses": [
       {
         "id": 160,
@@ -8645,18 +8996,22 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "210": {
     "id": 210,
     "order": "176.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 106:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_210",
+    "hiob_id": "hiob_passage_210",
     "midrash": [
       {
         "id": 38,
@@ -8664,7 +9019,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "106:2",
+    "passage": null,
     "verses": [
       {
         "id": 158,
@@ -8697,13 +9052,13 @@
   "211": {
     "id": 211,
     "order": "177.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 104:22"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_211",
+    "hiob_id": "hiob_passage_211",
     "midrash": [
       {
         "id": 38,
@@ -8711,7 +9066,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "104:22",
+    "passage": null,
     "verses": [
       {
         "id": 160,
@@ -8741,18 +9096,22 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "212": {
     "id": 212,
     "order": "178.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 18:21"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_212",
+    "hiob_id": "hiob_passage_212",
     "midrash": [
       {
         "id": 38,
@@ -8760,7 +9119,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "18:21",
+    "passage": null,
     "verses": [
       {
         "id": 160,
@@ -8800,18 +9159,22 @@
         "order": "5.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "213": {
     "id": 213,
     "order": "179.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 119:24"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_213",
+    "hiob_id": "hiob_passage_213",
     "midrash": [
       {
         "id": 38,
@@ -8819,7 +9182,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "119:24",
+    "passage": null,
     "verses": [
       {
         "id": 148,
@@ -8859,18 +9222,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "214": {
     "id": 214,
     "order": "180.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 95:3"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_214",
+    "hiob_id": "hiob_passage_214",
     "midrash": [
       {
         "id": 38,
@@ -8878,7 +9245,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "95:3",
+    "passage": null,
     "verses": [
       {
         "id": 142,
@@ -8901,13 +9268,13 @@
   "215": {
     "id": 215,
     "order": "181.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 46:1"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_215",
+    "hiob_id": "hiob_passage_215",
     "midrash": [
       {
         "id": 38,
@@ -8915,7 +9282,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "46:1",
+    "passage": null,
     "verses": [
       {
         "id": 139,
@@ -8945,18 +9312,22 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "216": {
     "id": 216,
     "order": "182.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 40,
-        "value": "Numbers Rabbah I, 7:5"
+        "value": "Numbers Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_216",
+    "hiob_id": "hiob_passage_216",
     "midrash": [
       {
         "id": 40,
@@ -8964,7 +9335,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "passages": "7:5",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "He who refuses to lend his vessels will become a leper.",
@@ -8993,13 +9364,13 @@
   "217": {
     "id": 217,
     "order": "183.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 136:5"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_217",
+    "hiob_id": "hiob_passage_217",
     "midrash": [
       {
         "id": 38,
@@ -9007,7 +9378,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "136:5",
+    "passage": null,
     "verses": [
       {
         "id": 136,
@@ -9037,18 +9408,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "218": {
     "id": 218,
     "order": "184.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 72:4"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_218",
+    "hiob_id": "hiob_passage_218",
     "midrash": [
       {
         "id": 38,
@@ -9056,7 +9431,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "72:4",
+    "passage": null,
     "verses": [],
     "quote": "[ד] דבר אחר [עב, ב] ידין עמך בצדק. אמר ר' יוסי בר חלפתא בכל בוקר ובוקר אדם נידון, שנאמר ותפקדנו לבקרים (איוב ז יח). ישפוט עניי עם יושיע (עני ואביון) [לבני אביון]. כמה שנאמר ושפט בצדק דלים (ישעיה יא ד). ייראוך עם שמש. בעולם הזה שצריכין לאור החמה. ולפני ירח דור דורים. פנים בפנים כנגד הירח קודם שיסתלק אורו, שנאמר וחפרה הלבנה ובושה החמה (שם /ישעיהו/ כד כג), ואומר לא יהיה לך [עוד] השמש לאור יומם [ולנוגה הירח לא יאיר לך] (שם /ישעיהו/ ס יט). מהו דור דורים. דור שאין אחריו דור. דבר אחר ייראוך עם שמש. זו תפלת השחר שקורין קריאת שמע עם הנץ החמה. ולפני ירח. זו תפלת המנחה שצריכה קודם שיחשיך ויצטרך העולם לאור הירח. רבותינו אמרו ייראוך עם שמש. זו תפלה של בין הערבים",
     "commentary": "God reassesses each person every morning.",
@@ -9080,18 +9455,22 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "219": {
     "id": 219,
     "order": "185.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 114:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_219",
+    "hiob_id": "hiob_passage_219",
     "midrash": [
       {
         "id": 38,
@@ -9099,7 +9478,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "114:2",
+    "passage": null,
     "verses": [
       {
         "id": 122,
@@ -9129,18 +9508,22 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "220": {
     "id": 220,
     "order": "186.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 92:9"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_220",
+    "hiob_id": "hiob_passage_220",
     "midrash": [
       {
         "id": 38,
@@ -9148,7 +9531,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "92:9",
+    "passage": null,
     "verses": [
       {
         "id": 67,
@@ -9183,18 +9566,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "221": {
     "id": 221,
     "order": "187.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 87:6"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_221",
+    "hiob_id": "hiob_passage_221",
     "midrash": [
       {
         "id": 38,
@@ -9202,7 +9589,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "87:6",
+    "passage": null,
     "verses": [
       {
         "id": 122,
@@ -9232,18 +9619,22 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "222": {
     "id": 222,
     "order": "188.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 59:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_222",
+    "hiob_id": "hiob_passage_222",
     "midrash": [
       {
         "id": 38,
@@ -9251,7 +9642,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "59:2",
+    "passage": null,
     "verses": [
       {
         "id": 113,
@@ -9279,13 +9670,13 @@
   "223": {
     "id": 223,
     "order": "189.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 24:5"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_223",
+    "hiob_id": "hiob_passage_223",
     "midrash": [
       {
         "id": 38,
@@ -9293,7 +9684,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "24:5",
+    "passage": null,
     "verses": [
       {
         "id": 110,
@@ -9323,18 +9714,22 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "224": {
     "id": 224,
     "order": "190.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 117:1"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_224",
+    "hiob_id": "hiob_passage_224",
     "midrash": [
       {
         "id": 38,
@@ -9342,7 +9737,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "117:1",
+    "passage": null,
     "verses": [
       {
         "id": 108,
@@ -9377,18 +9772,22 @@
         "order": "19.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "225": {
     "id": 225,
     "order": "191.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 78:14"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_225",
+    "hiob_id": "hiob_passage_225",
     "midrash": [
       {
         "id": 38,
@@ -9396,7 +9795,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "78:14",
+    "passage": null,
     "verses": [
       {
         "id": 107,
@@ -9426,18 +9825,22 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "226": {
     "id": 226,
     "order": "192.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 40,
-        "value": "Numbers Rabbah I, 8:9"
+        "value": "Numbers Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_226",
+    "hiob_id": "hiob_passage_226",
     "midrash": [
       {
         "id": 40,
@@ -9445,7 +9848,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "passages": "8:9",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Converts after death.",
@@ -9474,13 +9877,13 @@
   "227": {
     "id": 227,
     "order": "193.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 104:23"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_227",
+    "hiob_id": "hiob_passage_227",
     "midrash": [
       {
         "id": 38,
@@ -9488,7 +9891,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "104:23",
+    "passage": null,
     "verses": [
       {
         "id": 87,
@@ -9518,18 +9921,22 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "228": {
     "id": 228,
     "order": "194.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 58:4"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_228",
+    "hiob_id": "hiob_passage_228",
     "midrash": [
       {
         "id": 38,
@@ -9537,7 +9944,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "58:4",
+    "passage": null,
     "verses": [
       {
         "id": 85,
@@ -9567,18 +9974,22 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "229": {
     "id": 229,
     "order": "195.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 8:5"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_229",
+    "hiob_id": "hiob_passage_229",
     "midrash": [
       {
         "id": 38,
@@ -9586,7 +9997,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "8:5",
+    "passage": null,
     "verses": [
       {
         "id": 85,
@@ -9616,18 +10027,22 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "230": {
     "id": 230,
     "order": "196.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 94:2"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_230",
+    "hiob_id": "hiob_passage_230",
     "midrash": [
       {
         "id": 38,
@@ -9635,7 +10050,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "94:2",
+    "passage": null,
     "verses": [
       {
         "id": 71,
@@ -9665,18 +10080,22 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "231": {
     "id": 231,
     "order": "197.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 101:1"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_231",
+    "hiob_id": "hiob_passage_231",
     "midrash": [
       {
         "id": 38,
@@ -9684,7 +10103,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "101:1",
+    "passage": null,
     "verses": [
       {
         "id": 67,
@@ -9714,18 +10133,22 @@
         "order": "31.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "232": {
     "id": 232,
     "order": "198.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 40,
-        "value": "Numbers Rabbah I, 9:1"
+        "value": "Numbers Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_232",
+    "hiob_id": "hiob_passage_232",
     "midrash": [
       {
         "id": 40,
@@ -9733,7 +10156,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "passages": "9:1",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Wicked as the adulteress.",
@@ -9762,13 +10185,13 @@
   "234": {
     "id": 234,
     "order": "200.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 50:3"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_234",
+    "hiob_id": "hiob_passage_234",
     "midrash": [
       {
         "id": 38,
@@ -9776,7 +10199,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "50:3",
+    "passage": null,
     "verses": [
       {
         "id": 55,
@@ -9806,18 +10229,22 @@
         "order": "31.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   },
   "235": {
     "id": 235,
     "order": "201.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 43,
         "value": "Mekhilta DeRabbi Yishmael, "
       }
     ],
-    "hiob_id": "hiob_mention_235",
+    "hiob_id": "hiob_passage_235",
     "midrash": [
       {
         "id": 43,
@@ -9825,7 +10252,7 @@
         "order": "17.00000000000000000000"
       }
     ],
-    "passages": "",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -9842,13 +10269,13 @@
   "236": {
     "id": 236,
     "order": "202.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 40,
-        "value": "Numbers Rabbah I, 10:1"
+        "value": "Numbers Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_236",
+    "hiob_id": "hiob_passage_236",
     "midrash": [
       {
         "id": 40,
@@ -9856,7 +10283,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "passages": "10:1",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Fear of God as wisdom.",
@@ -9896,13 +10323,13 @@
   "237": {
     "id": 237,
     "order": "203.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 40,
-        "value": "Numbers Rabbah I, 11:2"
+        "value": "Numbers Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_237",
+    "hiob_id": "hiob_passage_237",
     "midrash": [
       {
         "id": 40,
@@ -9910,7 +10337,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "passages": "11:2",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -9939,13 +10366,13 @@
   "238": {
     "id": 238,
     "order": "204.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 40,
-        "value": "Numbers Rabbah I, 12:3"
+        "value": "Numbers Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_238",
+    "hiob_id": "hiob_passage_238",
     "midrash": [
       {
         "id": 40,
@@ -9953,7 +10380,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "passages": "12:3",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -9982,13 +10409,13 @@
   "239": {
     "id": 239,
     "order": "205.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 40,
-        "value": "Numbers Rabbah I, 13:4"
+        "value": "Numbers Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_239",
+    "hiob_id": "hiob_passage_239",
     "midrash": [
       {
         "id": 40,
@@ -9996,7 +10423,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "passages": "13:4",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Judah fits Job's depiction of the wise.",
@@ -10025,13 +10452,13 @@
   "240": {
     "id": 240,
     "order": "206.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 40,
-        "value": "Numbers Rabbah I, 14:1"
+        "value": "Numbers Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_240",
+    "hiob_id": "hiob_passage_240",
     "midrash": [
       {
         "id": 40,
@@ -10039,7 +10466,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "passages": "14:1",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "The great assembly was prevented by a verse from Job from adding Solomon to the list of Mishnaic damned.",
@@ -10068,13 +10495,13 @@
   "241": {
     "id": 241,
     "order": "207.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 40,
-        "value": "Numbers Rabbah I, 14:22"
+        "value": "Numbers Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_241",
+    "hiob_id": "hiob_passage_241",
     "midrash": [
       {
         "id": 40,
@@ -10082,7 +10509,7 @@
         "order": "16.00000000000000000000"
       }
     ],
-    "passages": "14:22",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "How Moses’ revelation worked.",
@@ -10111,13 +10538,13 @@
   "242": {
     "id": 242,
     "order": "208.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 36,
-        "value": "Numbers Rabbah II, 15:21"
+        "value": "Numbers Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_242",
+    "hiob_id": "hiob_passage_242",
     "midrash": [
       {
         "id": 36,
@@ -10125,7 +10552,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "passages": "15:21",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Murder of elders during Godlen Calf episode.",
@@ -10154,13 +10581,13 @@
   "243": {
     "id": 243,
     "order": "209.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 19:4"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_243",
+    "hiob_id": "hiob_passage_243",
     "midrash": [
       {
         "id": 38,
@@ -10168,7 +10595,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "19:4",
+    "passage": null,
     "verses": [
       {
         "id": 433,
@@ -10198,18 +10625,22 @@
         "order": "2.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "244": {
     "id": 244,
     "order": "210.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 19:6"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_244",
+    "hiob_id": "hiob_passage_244",
     "midrash": [
       {
         "id": 38,
@@ -10217,7 +10648,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "19:6",
+    "passage": null,
     "verses": [
       {
         "id": 243,
@@ -10257,18 +10688,22 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "245": {
     "id": 245,
     "order": "211.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 19:13"
+        "value": "Midrash Psalms, "
       }
     ],
-    "hiob_id": "hiob_mention_245",
+    "hiob_id": "hiob_passage_245",
     "midrash": [
       {
         "id": 38,
@@ -10276,7 +10711,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passages": "19:13",
+    "passage": null,
     "verses": [
       {
         "id": 383,
@@ -10316,18 +10751,22 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "246": {
     "id": 246,
     "order": "212.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 1, 7 [2]"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_246",
+    "hiob_id": "hiob_passage_246",
     "midrash": [
       {
         "id": 34,
@@ -10335,7 +10774,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "1, 7 [2]",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "The wind in Job 1 is like in Jonah.",
@@ -10368,13 +10807,13 @@
   "247": {
     "id": 247,
     "order": "213.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 2:1 [2]"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_247",
+    "hiob_id": "hiob_passage_247",
     "midrash": [
       {
         "id": 34,
@@ -10382,7 +10821,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "2:1 [2]",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -10421,13 +10860,13 @@
   "248": {
     "id": 248,
     "order": "214.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 3:1 [20]"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_248",
+    "hiob_id": "hiob_passage_248",
     "midrash": [
       {
         "id": 34,
@@ -10435,7 +10874,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "3:1 [20]",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -10464,13 +10903,13 @@
   "249": {
     "id": 249,
     "order": "215.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 3:1 [10]"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_249",
+    "hiob_id": "hiob_passage_249",
     "midrash": [
       {
         "id": 34,
@@ -10478,7 +10917,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "3:1 [10]",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -10507,13 +10946,13 @@
   "250": {
     "id": 250,
     "order": "216.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 3:1 [16]"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_250",
+    "hiob_id": "hiob_passage_250",
     "midrash": [
       {
         "id": 34,
@@ -10521,7 +10960,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "3:1 [16]",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "The hands of God.",
@@ -10550,13 +10989,13 @@
   "251": {
     "id": 251,
     "order": "217.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 36,
-        "value": "Numbers Rabbah II, 17:2"
+        "value": "Numbers Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_251",
+    "hiob_id": "hiob_passage_251",
     "midrash": [
       {
         "id": 36,
@@ -10564,7 +11003,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "passages": "17:2",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Job's suffering was intended for Abraham, but the Akedah prevented it.",
@@ -10593,13 +11032,13 @@
   "252": {
     "id": 252,
     "order": "218.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 37,
-        "value": "Exodus Rabbah II, 18:3"
+        "value": "Exodus Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_252",
+    "hiob_id": "hiob_passage_252",
     "midrash": [
       {
         "id": 37,
@@ -10607,7 +11046,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "passages": "18:3",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -10636,13 +11075,13 @@
   "253": {
     "id": 253,
     "order": "219.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 37,
-        "value": "Exodus Rabbah II, 19:1"
+        "value": "Exodus Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_253",
+    "hiob_id": "hiob_passage_253",
     "midrash": [
       {
         "id": 37,
@@ -10650,7 +11089,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "passages": "19:1",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Ways God makes pure for impure.",
@@ -10679,13 +11118,13 @@
   "254": {
     "id": 254,
     "order": "220.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 36,
-        "value": "Numbers Rabbah II, 19:33"
+        "value": "Numbers Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_254",
+    "hiob_id": "hiob_passage_254",
     "midrash": [
       {
         "id": 36,
@@ -10693,7 +11132,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "passages": "19:33",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Death of Moses.",
@@ -10722,13 +11161,13 @@
   "255": {
     "id": 255,
     "order": "221.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 36,
-        "value": "Numbers Rabbah II, 20:9, 11, 12"
+        "value": "Numbers Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_255",
+    "hiob_id": "hiob_passage_255",
     "midrash": [
       {
         "id": 36,
@@ -10736,7 +11175,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "passages": "20:9, 11, 12",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Balaam's inferior prophecy.",
@@ -10765,13 +11204,13 @@
   "256": {
     "id": 256,
     "order": "222.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 5:1 [2]"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_256",
+    "hiob_id": "hiob_passage_256",
     "midrash": [
       {
         "id": 34,
@@ -10779,7 +11218,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "5:1 [2]",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -10818,13 +11257,13 @@
   "257": {
     "id": 257,
     "order": "223.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 5:4 [24]"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_257",
+    "hiob_id": "hiob_passage_257",
     "midrash": [
       {
         "id": 34,
@@ -10832,7 +11271,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "5:4 [24]",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "List about Torah sudy",
@@ -10861,13 +11300,13 @@
   "258": {
     "id": 258,
     "order": "224.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 5:1 [10]"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_258",
+    "hiob_id": "hiob_passage_258",
     "midrash": [
       {
         "id": 34,
@@ -10875,7 +11314,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "5:1 [10]",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Dress in Hell.",
@@ -10904,13 +11343,13 @@
   "259": {
     "id": 259,
     "order": "225.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 7:4 [3]"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_259",
+    "hiob_id": "hiob_passage_259",
     "midrash": [
       {
         "id": 34,
@@ -10918,7 +11357,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "7:4 [3]",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Names of the Midwives.",
@@ -10947,13 +11386,13 @@
   "260": {
     "id": 260,
     "order": "226.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 7:3"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_260",
+    "hiob_id": "hiob_passage_260",
     "midrash": [
       {
         "id": 34,
@@ -10961,7 +11400,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "7:3",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -11000,13 +11439,13 @@
   "261": {
     "id": 261,
     "order": "227.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 8:10"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_261",
+    "hiob_id": "hiob_passage_261",
     "midrash": [
       {
         "id": 34,
@@ -11014,7 +11453,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "8:10",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "The wicked shall reamin dead.",
@@ -11043,13 +11482,13 @@
   "262": {
     "id": 262,
     "order": "228.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 9:1 [2]"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_262",
+    "hiob_id": "hiob_passage_262",
     "midrash": [
       {
         "id": 34,
@@ -11057,7 +11496,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "9:1 [2]",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -11086,13 +11525,13 @@
   "263": {
     "id": 263,
     "order": "229.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 9:11 [1]"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_263",
+    "hiob_id": "hiob_passage_263",
     "midrash": [
       {
         "id": 34,
@@ -11100,7 +11539,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "9:11 [1]",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Job wealth was so blessed his sheep and goats killed wolves.",
@@ -11129,13 +11568,13 @@
   "264": {
     "id": 264,
     "order": "230.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 34,
-        "value": "Ecclesiastes Rabbah, 12:1 [6]"
+        "value": "Ecclesiastes Rabbah, "
       }
     ],
-    "hiob_id": "hiob_mention_264",
+    "hiob_id": "hiob_passage_264",
     "midrash": [
       {
         "id": 34,
@@ -11143,7 +11582,7 @@
         "order": "10.00000000000000000000"
       }
     ],
-    "passages": "12:1 [6]",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Decomposition.",
@@ -11172,13 +11611,13 @@
   "265": {
     "id": 265,
     "order": "231.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 36,
-        "value": "Numbers Rabbah II, 21:2"
+        "value": "Numbers Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_265",
+    "hiob_id": "hiob_passage_265",
     "midrash": [
       {
         "id": 36,
@@ -11186,7 +11625,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "passages": "21:2",
+    "passage": null,
     "verses": [],
     "quote": "ב [כז, טו - טז] וידבר משה אל ה' יפקוד ה' וגו', הלכה אם ראה הרבה אוכלוסין של בני אדם אומר בא\"י אלהינו מלך העולם חכם הרזים, כשם שאין פרצופותיהן דומין זה לזה כך אין דעתן שוין זה לזה אלא כל אחד ואחד יש לו דעה בפני עצמו וכה\"א (איוב כח) לעשות לרוח משקל לרוחות של כל בריה ובריה, תדע לך שהוא כן שכן משה מבקש מן הקב\"ה בשעת מיתה אמר לפניו רבש\"ע גלוי וידוע לפניך דעתן של כל אחד ואחד ואין דעתן של בניך דומין זה לזה וכשאני מסתלק מהן בבקשה ממך מנה עליהם מנהיג שיהא סובלם לאחד ואחד לפי דעתו שנאמר יפקד ה' הרוח אינו אומר אלא הרוחות זש\"ה (ישעיה מה) האותיות שאלוני על בני ועל פועל ידי תצוני, משל למה\"ד למלך שנשא אשה והיה לו שושבין, בכל זמן שהמלך כועס על אשתו השושבין מפייס ומתרצה המלך לאשתו, בא השושבין למות התחיל מבקש מן המלך בבקשה ממך תן דעתך על אשתך אמר לו המלך אם אתה מצוני על אשתי צוה את אשתי עלי שתהא זהירה בכבודי, כביכול כך אמר לו הקב\"ה על שאתה מצווני עליהם יפקד ה' צוה אותם שיהיו זריזין בכבודי מה כתיב (במדבר כח) צו את בני ישראל את קרבני לחמי תחלה הסדיר להן הקרבנות.",
     "commentary": "Job is proof that God created each person's soul to be unique. Death of Moses follows.",
@@ -11225,13 +11664,13 @@
   "266": {
     "id": 266,
     "order": "232.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 36,
-        "value": "Numbers Rabbah II, 21:18"
+        "value": "Numbers Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_266",
+    "hiob_id": "hiob_passage_266",
     "midrash": [
       {
         "id": 36,
@@ -11239,7 +11678,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "passages": "21:18",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "The Behemoth.",
@@ -11256,13 +11695,13 @@
   "267": {
     "id": 267,
     "order": "233.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 36,
-        "value": "Numbers Rabbah II, 21:22"
+        "value": "Numbers Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_267",
+    "hiob_id": "hiob_passage_267",
     "midrash": [
       {
         "id": 36,
@@ -11270,7 +11709,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "passages": "21:22",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "God only asks of people what they can do.",
@@ -11299,13 +11738,13 @@
   "268": {
     "id": 268,
     "order": "234.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 36,
         "value": "Numbers Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_268",
+    "hiob_id": "hiob_passage_268",
     "midrash": [
       {
         "id": 36,
@@ -11313,7 +11752,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "passages": "",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Positive fear of God. Job and Abraham.",
@@ -11346,13 +11785,13 @@
   "269": {
     "id": 269,
     "order": "235.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 36,
-        "value": "Numbers Rabbah II, 22:2, 5"
+        "value": "Numbers Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_269",
+    "hiob_id": "hiob_passage_269",
     "midrash": [
       {
         "id": 36,
@@ -11360,7 +11799,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "passages": "22:2, 5",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Moses struggled in vain to save himself from death.",
@@ -11389,13 +11828,13 @@
   "270": {
     "id": 270,
     "order": "236.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 36,
-        "value": "Numbers Rabbah II, 23:6"
+        "value": "Numbers Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_270",
+    "hiob_id": "hiob_passage_270",
     "midrash": [
       {
         "id": 36,
@@ -11403,7 +11842,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "passages": "23:6",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Job was implied to be righteous.",
@@ -11432,13 +11871,13 @@
   "271": {
     "id": 271,
     "order": "237.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 36,
-        "value": "Numbers Rabbah II, 23:9"
+        "value": "Numbers Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_271",
+    "hiob_id": "hiob_passage_271",
     "midrash": [
       {
         "id": 36,
@@ -11446,7 +11885,7 @@
         "order": "12.00000000000000000000"
       }
     ],
-    "passages": "23:9",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Beasts can teach one wisdom.",
@@ -11475,13 +11914,13 @@
   "272": {
     "id": 272,
     "order": "238.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 35,
         "value": "Pesiqta Rabbati, 26"
       }
     ],
-    "hiob_id": "hiob_mention_272",
+    "hiob_id": "hiob_passage_272",
     "midrash": [
       {
         "id": 35,
@@ -11489,7 +11928,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "passages": "26",
+    "passage": "26",
     "verses": [
       {
         "id": 81,
@@ -11524,13 +11963,13 @@
   "273": {
     "id": 273,
     "order": "239.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 49,
-        "value": "Pitron Torah, Vayikra"
+        "value": "Pitron Torah, "
       }
     ],
-    "hiob_id": "hiob_mention_273",
+    "hiob_id": "hiob_passage_273",
     "midrash": [
       {
         "id": 49,
@@ -11538,7 +11977,7 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "passages": "Vayikra",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -11567,13 +12006,13 @@
   "274": {
     "id": 274,
     "order": "240.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 49,
-        "value": "Pitron Torah, Vayehi"
+        "value": "Pitron Torah, "
       }
     ],
-    "hiob_id": "hiob_mention_274",
+    "hiob_id": "hiob_passage_274",
     "midrash": [
       {
         "id": 49,
@@ -11581,7 +12020,7 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "passages": "Vayehi",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "God makes pure from impure.",
@@ -11598,13 +12037,13 @@
   "275": {
     "id": 275,
     "order": "241.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 49,
-        "value": "Pitron Torah, Vayedaber"
+        "value": "Pitron Torah, "
       }
     ],
-    "hiob_id": "hiob_mention_275",
+    "hiob_id": "hiob_passage_275",
     "midrash": [
       {
         "id": 49,
@@ -11612,7 +12051,7 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "passages": "Vayedaber",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Job learned from Moses. Also, God reveals sins only when one does not repent.",
@@ -11651,13 +12090,13 @@
   "276": {
     "id": 276,
     "order": "242.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 49,
-        "value": "Pitron Torah, Shelach Lecha"
+        "value": "Pitron Torah, "
       }
     ],
-    "hiob_id": "hiob_mention_276",
+    "hiob_id": "hiob_passage_276",
     "midrash": [
       {
         "id": 49,
@@ -11665,7 +12104,7 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "passages": "Shelach Lecha",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "Job died during the Spies episode.",
@@ -11694,13 +12133,13 @@
   "277": {
     "id": 277,
     "order": "243.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 49,
-        "value": "Pitron Torah, Korach"
+        "value": "Pitron Torah, "
       }
     ],
-    "hiob_id": "hiob_mention_277",
+    "hiob_id": "hiob_passage_277",
     "midrash": [
       {
         "id": 49,
@@ -11708,7 +12147,7 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "passages": "Korach",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "A divine flame honors the sacrifices of the companions.",
@@ -11737,10 +12176,10 @@
   "278": {
     "id": 278,
     "order": "244.00000000000000000000",
-    "mention": [],
-    "hiob_id": "hiob_mention_278",
+    "midrash_passage": [],
+    "hiob_id": "hiob_passage_278",
     "midrash": [],
-    "passages": "23:9",
+    "passage": null,
     "verses": [],
     "quote": "ויאמרו החרטומים אל פרעה אצבע אלהים היא ועל הים לקו נ' מכות שנאמר וירא ישראל את היד הגדולה והיד ה' אצבעות וה' פעמים י' הרי נ', וכן אתה מוצא באיוב שבאו עליו נ' מכות שנאמר (איוב יט) חנוני חנוני אתם רעי כי יד אלוה נגעה בי, ר' אליעזר אומר מ' מכות לקו המצרים במצרים ומאתים על הים שכל מכה ומכה שהיתה באה עליהן היו באות ד', כשם שנאמר (תהלים עח) יהרוג בברד גפנם וכתיב (שם /תהלים ע\"ח/) חרון אפו עברה וזעם וצרה משלחת מלאכי רעים, עברה אחת זעם שתים צרה שלש משלחת מלאכי רעים ד' הוי באצבע לקו מ' מכות וביד מאתים, הוי משפט עשה, ומהו נודע ה' כדכתיב וידעו מצרים כי אני ה' בשעה שאעשה הדין לפרעה שכן כתיב אחריו בהכבדי בפרעה, וכתיב (שם /תהלים/ ט) בפועל כפיו נוקש רשע זה פרעה מה אמר כל הבן הילוד וגו', ואף הקב\"ה עשה לו כשם שעשה שנאמר (תהלים קלו) ונער פרעה וחילו בים סוף, מהו הגיון סלה, אמרו ישראל מה עלינו לעשות אלא לומר שירים וזמרים שנאמר אז ישיר משה, אז ישירו משה ובני ישראל אינו אומר אלא אז ישיר משה, אריב\"ל מכאן שנאמרה הפרשה על פי משה ואח\"כ אמרוה אבותינו על הים.",
     "commentary": "Job implied like one of the Egyptian magicians and was struck by 50 plagues.",
@@ -11780,13 +12219,13 @@
   "279": {
     "id": 279,
     "order": "245.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 6,
         "value": "Seder Eliyahu Rabbah, 8"
       }
     ],
-    "hiob_id": "hiob_mention_279",
+    "hiob_id": "hiob_passage_279",
     "midrash": [
       {
         "id": 6,
@@ -11794,7 +12233,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "passages": "8",
+    "passage": "8",
     "verses": [],
     "quote": "",
     "commentary": "God went against His usual way from Job when dealing with Pharaoh.",
@@ -11834,13 +12273,13 @@
   "280": {
     "id": 280,
     "order": "246.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 6,
         "value": "Seder Eliyahu Rabbah, 14"
       }
     ],
-    "hiob_id": "hiob_mention_280",
+    "hiob_id": "hiob_passage_280",
     "midrash": [
       {
         "id": 6,
@@ -11848,7 +12287,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "passages": "14",
+    "passage": "14",
     "verses": [
       {
         "id": 107,
@@ -11883,13 +12322,13 @@
   "281": {
     "id": 281,
     "order": "247.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 6,
         "value": "Seder Eliyahu Rabbah, 16"
       }
     ],
-    "hiob_id": "hiob_mention_281",
+    "hiob_id": "hiob_passage_281",
     "midrash": [
       {
         "id": 6,
@@ -11897,7 +12336,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "passages": "16",
+    "passage": "16",
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -11926,13 +12365,13 @@
   "282": {
     "id": 282,
     "order": "248.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 6,
         "value": "Seder Eliyahu Rabbah, 17"
       }
     ],
-    "hiob_id": "hiob_mention_282",
+    "hiob_id": "hiob_passage_282",
     "midrash": [
       {
         "id": 6,
@@ -11940,7 +12379,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "passages": "17",
+    "passage": "17",
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -11969,13 +12408,13 @@
   "283": {
     "id": 283,
     "order": "249.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 6,
         "value": "Seder Eliyahu Rabbah, 18"
       }
     ],
-    "hiob_id": "hiob_mention_283",
+    "hiob_id": "hiob_passage_283",
     "midrash": [
       {
         "id": 6,
@@ -11983,7 +12422,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "passages": "18",
+    "passage": "18",
     "verses": [],
     "quote": "",
     "commentary": "The Sages bless every table.",
@@ -12012,13 +12451,13 @@
   "284": {
     "id": 284,
     "order": "250.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 6,
         "value": "Seder Eliyahu Rabbah, 29"
       }
     ],
-    "hiob_id": "hiob_mention_284",
+    "hiob_id": "hiob_passage_284",
     "midrash": [
       {
         "id": 6,
@@ -12026,7 +12465,7 @@
         "order": "6.00000000000000000000"
       }
     ],
-    "passages": "29",
+    "passage": "29",
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -12065,13 +12504,13 @@
   "285": {
     "id": 285,
     "order": "251.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 7,
         "value": "Seder Eliyahu Zuta, 3"
       }
     ],
-    "hiob_id": "hiob_mention_285",
+    "hiob_id": "hiob_passage_285",
     "midrash": [
       {
         "id": 7,
@@ -12079,7 +12518,7 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "passages": "3",
+    "passage": "3",
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -12108,10 +12547,10 @@
   "286": {
     "id": 286,
     "order": "252.00000000000000000000",
-    "mention": [],
-    "hiob_id": "hiob_mention_286",
+    "midrash_passage": [],
+    "hiob_id": "hiob_passage_286",
     "midrash": [],
-    "passages": "",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -12128,13 +12567,13 @@
   "287": {
     "id": 287,
     "order": "253.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 7,
         "value": "Seder Eliyahu Zuta, 10"
       }
     ],
-    "hiob_id": "hiob_mention_287",
+    "hiob_id": "hiob_passage_287",
     "midrash": [
       {
         "id": 7,
@@ -12142,7 +12581,7 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "passages": "10",
+    "passage": "10",
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -12171,13 +12610,13 @@
   "288": {
     "id": 288,
     "order": "254.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 7,
         "value": "Seder Eliyahu Zuta, 20"
       }
     ],
-    "hiob_id": "hiob_mention_288",
+    "hiob_id": "hiob_passage_288",
     "midrash": [
       {
         "id": 7,
@@ -12185,7 +12624,7 @@
         "order": "7.00000000000000000000"
       }
     ],
-    "passages": "20",
+    "passage": "20",
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -12214,10 +12653,10 @@
   "289": {
     "id": 289,
     "order": "255.00000000000000000000",
-    "mention": [],
-    "hiob_id": "hiob_mention_289",
+    "midrash_passage": [],
+    "hiob_id": "hiob_passage_289",
     "midrash": [],
-    "passages": "",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",
@@ -12234,13 +12673,13 @@
   "290": {
     "id": 290,
     "order": "256.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 3,
-        "value": "Tanhuma, Mishpatim 11"
+        "value": "Tanhuma, "
       }
     ],
-    "hiob_id": "hiob_mention_290",
+    "hiob_id": "hiob_passage_290",
     "midrash": [
       {
         "id": 3,
@@ -12248,7 +12687,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "passages": "Mishpatim 11",
+    "passage": null,
     "verses": [
       {
         "id": 59,
@@ -12319,13 +12758,13 @@
   "291": {
     "id": 291,
     "order": "257.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 4,
-        "value": "Tanhuma (Buber), Tazria 8"
+        "value": "Tanhuma (Buber), "
       }
     ],
-    "hiob_id": "hiob_mention_291",
+    "hiob_id": "hiob_passage_291",
     "midrash": [
       {
         "id": 4,
@@ -12333,7 +12772,7 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "passages": "Tazria 8",
+    "passage": null,
     "verses": [
       {
         "id": 140,
@@ -12356,13 +12795,13 @@
   "292": {
     "id": 292,
     "order": "258.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 3,
-        "value": "Tanhuma, Tazria 6"
+        "value": "Tanhuma, "
       }
     ],
-    "hiob_id": "hiob_mention_292",
+    "hiob_id": "hiob_passage_292",
     "midrash": [
       {
         "id": 3,
@@ -12370,7 +12809,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "passages": "Tazria 6",
+    "passage": null,
     "verses": [
       {
         "id": 140,
@@ -12397,13 +12836,13 @@
   "293": {
     "id": 293,
     "order": "259.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 3,
-        "value": "Tanhuma, Beshalach 23"
+        "value": "Tanhuma, "
       }
     ],
-    "hiob_id": "hiob_mention_293",
+    "hiob_id": "hiob_passage_293",
     "midrash": [
       {
         "id": 3,
@@ -12411,7 +12850,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "passages": "Beshalach 23",
+    "passage": null,
     "verses": [
       {
         "id": 140,
@@ -12434,13 +12873,13 @@
   "294": {
     "id": 294,
     "order": "260.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 37,
-        "value": "Exodus Rabbah II, 21:7"
+        "value": "Exodus Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_294",
+    "hiob_id": "hiob_passage_294",
     "midrash": [
       {
         "id": 37,
@@ -12448,7 +12887,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "passages": "21:7",
+    "passage": null,
     "verses": [
       {
         "id": 222,
@@ -12471,13 +12910,13 @@
   "295": {
     "id": 295,
     "order": "261.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 46,
-        "value": "Song of Songs Zuta, 1:19"
+        "value": "Song of Songs Zuta, "
       }
     ],
-    "hiob_id": "hiob_mention_295",
+    "hiob_id": "hiob_passage_295",
     "midrash": [
       {
         "id": 46,
@@ -12485,7 +12924,7 @@
         "order": "20.00000000000000000000"
       }
     ],
-    "passages": "1:19",
+    "passage": null,
     "verses": [
       {
         "id": 370,
@@ -12508,13 +12947,13 @@
   "296": {
     "id": 296,
     "order": "262.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 35,
         "value": "Pesiqta Rabbati, 10"
       }
     ],
-    "hiob_id": "hiob_mention_296",
+    "hiob_id": "hiob_passage_296",
     "midrash": [
       {
         "id": 35,
@@ -12522,7 +12961,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "passages": "10",
+    "passage": "10",
     "verses": [
       {
         "id": 370,
@@ -12545,13 +12984,13 @@
   "297": {
     "id": 297,
     "order": "263.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 49,
-        "value": "Pitron Torah, Vayikra"
+        "value": "Pitron Torah, "
       }
     ],
-    "hiob_id": "hiob_mention_297",
+    "hiob_id": "hiob_passage_297",
     "midrash": [
       {
         "id": 49,
@@ -12559,7 +12998,7 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "passages": "Vayikra",
+    "passage": null,
     "verses": [
       {
         "id": 370,
@@ -12582,13 +13021,13 @@
   "298": {
     "id": 298,
     "order": "264.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 37,
-        "value": "Exodus Rabbah II, 30:11"
+        "value": "Exodus Rabbah II, "
       }
     ],
-    "hiob_id": "hiob_mention_298",
+    "hiob_id": "hiob_passage_298",
     "midrash": [
       {
         "id": 37,
@@ -12596,7 +13035,7 @@
         "order": "13.00000000000000000000"
       }
     ],
-    "passages": "30:11",
+    "passage": null,
     "verses": [
       {
         "id": 81,
@@ -12619,13 +13058,13 @@
   "299": {
     "id": 299,
     "order": "265.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 35,
         "value": "Pesiqta Rabbati, 23"
       }
     ],
-    "hiob_id": "hiob_mention_299",
+    "hiob_id": "hiob_passage_299",
     "midrash": [
       {
         "id": 35,
@@ -12633,7 +13072,7 @@
         "order": "11.00000000000000000000"
       }
     ],
-    "passages": "23",
+    "passage": "23",
     "verses": [
       {
         "id": 107,
@@ -12656,13 +13095,13 @@
   "300": {
     "id": 300,
     "order": "266.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 39,
-        "value": "Exodus Rabbah I, 12:4"
+        "value": "Exodus Rabbah I, "
       }
     ],
-    "hiob_id": "hiob_mention_300",
+    "hiob_id": "hiob_passage_300",
     "midrash": [
       {
         "id": 39,
@@ -12670,7 +13109,7 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "passages": "12:4",
+    "passage": null,
     "verses": [
       {
         "id": 107,
@@ -12693,13 +13132,13 @@
   "301": {
     "id": 301,
     "order": "267.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 4,
-        "value": "Tanhuma (Buber), Vayera 10"
+        "value": "Tanhuma (Buber), "
       }
     ],
-    "hiob_id": "hiob_mention_301",
+    "hiob_id": "hiob_passage_301",
     "midrash": [
       {
         "id": 4,
@@ -12707,7 +13146,7 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "passages": "Vayera 10",
+    "passage": null,
     "verses": [
       {
         "id": 387,
@@ -12730,13 +13169,13 @@
   "302": {
     "id": 302,
     "order": "268.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 49,
-        "value": "Pitron Torah, Vezot Haberachah"
+        "value": "Pitron Torah, "
       }
     ],
-    "hiob_id": "hiob_mention_302",
+    "hiob_id": "hiob_passage_302",
     "midrash": [
       {
         "id": 49,
@@ -12744,7 +13183,7 @@
         "order": "23.00000000000000000000"
       }
     ],
-    "passages": "Vezot Haberachah",
+    "passage": null,
     "verses": [
       {
         "id": 454,
@@ -12772,13 +13211,13 @@
   "303": {
     "id": 303,
     "order": "269.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 4,
-        "value": "Tanhuma (Buber), Bereshit 13"
+        "value": "Tanhuma (Buber), "
       }
     ],
-    "hiob_id": "hiob_mention_303",
+    "hiob_id": "hiob_passage_303",
     "midrash": [
       {
         "id": 4,
@@ -12786,7 +13225,7 @@
         "order": "4.00000000000000000000"
       }
     ],
-    "passages": "Bereshit 13",
+    "passage": null,
     "verses": [
       {
         "id": 267,
@@ -12809,13 +13248,13 @@
   "304": {
     "id": 304,
     "order": "270.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 3,
-        "value": "Tanhuma, Mishpatim 11"
+        "value": "Tanhuma, "
       }
     ],
-    "hiob_id": "hiob_mention_304",
+    "hiob_id": "hiob_passage_304",
     "midrash": [
       {
         "id": 3,
@@ -12823,7 +13262,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "passages": "Mishpatim 11",
+    "passage": null,
     "verses": [
       {
         "id": 267,
@@ -12846,13 +13285,13 @@
   "305": {
     "id": 305,
     "order": "271.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 3,
-        "value": "Tanhuma, Ki Tisa 12"
+        "value": "Tanhuma, "
       }
     ],
-    "hiob_id": "hiob_mention_305",
+    "hiob_id": "hiob_passage_305",
     "midrash": [
       {
         "id": 3,
@@ -12860,7 +13299,7 @@
         "order": "3.00000000000000000000"
       }
     ],
-    "passages": "Ki Tisa 12",
+    "passage": null,
     "verses": [
       {
         "id": 267,
@@ -12883,13 +13322,13 @@
   "307": {
     "id": 307,
     "order": "272.00000000000000000000",
-    "mention": [
+    "midrash_passage": [
       {
         "id": 1,
-        "value": "Avot DeRabbi Natan A, 19:2"
+        "value": "Avot DeRabbi Natan A, "
       }
     ],
-    "hiob_id": "hiob_mention_307",
+    "hiob_id": "hiob_passage_307",
     "midrash": [
       {
         "id": 1,
@@ -12897,7 +13336,7 @@
         "order": "1.00000000000000000000"
       }
     ],
-    "passages": "19:2",
+    "passage": null,
     "verses": [
       {
         "id": 290,
@@ -12938,15 +13377,19 @@
         "order": "15.00000000000000000000"
       }
     ],
-    "reception_type": null
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "308": {
     "id": 308,
     "order": "273.00000000000000000000",
-    "mention": [],
-    "hiob_id": "hiob_mention_308",
+    "midrash_passage": [],
+    "hiob_id": "hiob_passage_308",
     "midrash": [],
-    "passages": "",
+    "passage": null,
     "verses": [],
     "quote": "",
     "commentary": "",

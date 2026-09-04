@@ -4,10 +4,10 @@
     "order": "1.00000000000000000000",
     "verse": "1:1",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 4,
-        "value": "Esther Rabbah I, 6:3",
+        "value": "Esther Rabbah I, ",
         "order": "4.00000000000000000000"
       }
     ],
@@ -20,10 +20,10 @@
     "order": "2.00000000000000000000",
     "verse": "5:2",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 10,
-        "value": "Esther Rabbah II, 10:9",
+        "value": "Esther Rabbah II, ",
         "order": "10.00000000000000000000"
       }
     ],
@@ -36,10 +36,10 @@
     "order": "3.00000000000000000000",
     "verse": "5:18",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 3,
-        "value": "Esther Rabbah I, 4:9",
+        "value": "Esther Rabbah I, ",
         "order": "3.00000000000000000000"
       }
     ],
@@ -52,10 +52,10 @@
     "order": "4.00000000000000000000",
     "verse": "6:2",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 9,
-        "value": "Esther Rabbah II, 7:11",
+        "value": "Esther Rabbah II, ",
         "order": "9.00000000000000000000"
       }
     ],
@@ -68,10 +68,10 @@
     "order": "5.00000000000000000000",
     "verse": "12:23",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 7,
-        "value": "Esther Rabbah II, 7:2",
+        "value": "Esther Rabbah II, ",
         "order": "7.00000000000000000000"
       }
     ],
@@ -84,15 +84,15 @@
     "order": "6.00000000000000000000",
     "verse": "14:19",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 5,
-        "value": "Esther Rabbah I, 6:3",
+        "value": "Esther Rabbah I, ",
         "order": "5.00000000000000000000"
       },
       {
         "id": 90,
-        "value": "Avot DeRabbi Natan A, 6:2",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "57.00000000000000000000"
       },
       {
@@ -110,10 +110,10 @@
     "order": "7.00000000000000000000",
     "verse": "16:13",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 6,
-        "value": "Esther Rabbah I, 6:3",
+        "value": "Esther Rabbah I, ",
         "order": "6.00000000000000000000"
       }
     ],
@@ -126,10 +126,10 @@
     "order": "8.00000000000000000000",
     "verse": "20:6",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 8,
-        "value": "Esther Rabbah II, 7:3",
+        "value": "Esther Rabbah II, ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -142,10 +142,10 @@
     "order": "9.00000000000000000000",
     "verse": "20:7",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 8,
-        "value": "Esther Rabbah II, 7:3",
+        "value": "Esther Rabbah II, ",
         "order": "8.00000000000000000000"
       }
     ],
@@ -158,10 +158,10 @@
     "order": "10.00000000000000000000",
     "verse": "34:30",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 1,
-        "value": "Esther Rabbah I, Proem 9",
+        "value": "Esther Rabbah I, ",
         "order": "1.00000000000000000000"
       }
     ],
@@ -174,15 +174,15 @@
     "order": "11.00000000000000000000",
     "verse": "37:23",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 11,
-        "value": "Esther Rabbah II, 10:15",
+        "value": "Esther Rabbah II, ",
         "order": "11.00000000000000000000"
       },
       {
         "id": 125,
-        "value": "Midrash Psalms, 19:2",
+        "value": "Midrash Psalms, ",
         "order": "92.00000000000000000000"
       }
     ],
@@ -195,15 +195,15 @@
     "order": "12.00000000000000000000",
     "verse": "38:15",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 2,
-        "value": "Esther Rabbah I, Proem 11",
+        "value": "Esther Rabbah I, ",
         "order": "2.00000000000000000000"
       },
       {
         "id": 135,
-        "value": "Midrash Psalms, 111:1",
+        "value": "Midrash Psalms, ",
         "order": "102.00000000000000000000"
       }
     ],
@@ -216,20 +216,20 @@
     "order": "13.00000000000000000000",
     "verse": "42:10",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 6,
-        "value": "Esther Rabbah I, 6:3",
+        "value": "Esther Rabbah I, ",
         "order": "6.00000000000000000000"
       },
       {
         "id": 45,
-        "value": "Tanhuma, Exodus 6:8",
+        "value": "Tanhuma, ",
         "order": "13.00000000000000000000"
       },
       {
         "id": 46,
-        "value": "Tanhuma (Buber), Genesis 4:30",
+        "value": "Tanhuma (Buber), ",
         "order": "14.00000000000000000000"
       },
       {
@@ -239,17 +239,17 @@
       },
       {
         "id": 48,
-        "value": "Numbers Rabbah II, 19:23",
+        "value": "Numbers Rabbah II, ",
         "order": "16.00000000000000000000"
       },
       {
         "id": 49,
-        "value": "Exodus Rabbah II, 31:3",
+        "value": "Exodus Rabbah II, ",
         "order": "17.00000000000000000000"
       },
       {
         "id": 50,
-        "value": "Ecclesiastes Rabbah, 7:2 &4",
+        "value": "Ecclesiastes Rabbah, ",
         "order": "18.00000000000000000000"
       }
     ],
@@ -262,10 +262,10 @@
     "order": "14.00000000000000000000",
     "verse": "42:12",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 44,
-        "value": "Ecclesiastes Rabbah, 7:19 & 8:1",
+        "value": "Ecclesiastes Rabbah, ",
         "order": "12.00000000000000000000"
       }
     ],
@@ -278,10 +278,10 @@
     "order": "15.00000000000000000000",
     "verse": "42:9",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 50,
-        "value": "Ecclesiastes Rabbah, 7:2 &4",
+        "value": "Ecclesiastes Rabbah, ",
         "order": "18.00000000000000000000"
       }
     ],
@@ -294,20 +294,20 @@
     "order": "16.00000000000000000000",
     "verse": "42:8",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 50,
-        "value": "Ecclesiastes Rabbah, 7:2 &4",
+        "value": "Ecclesiastes Rabbah, ",
         "order": "18.00000000000000000000"
       },
       {
         "id": 51,
-        "value": "Midrash Psalms, 17:1",
+        "value": "Midrash Psalms, ",
         "order": "19.00000000000000000000"
       },
       {
         "id": 52,
-        "value": "Tanhuma (Buber), Genesis 8:4",
+        "value": "Tanhuma (Buber), ",
         "order": "20.00000000000000000000"
       }
     ],
@@ -320,20 +320,20 @@
     "order": "17.00000000000000000000",
     "verse": "41:26",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 53,
-        "value": "Tanhuma, Exodus 2:9",
+        "value": "Tanhuma, ",
         "order": "21.00000000000000000000"
       },
       {
         "id": 54,
-        "value": "Tanhuma (Buber), Exodus 2:8",
+        "value": "Tanhuma (Buber), ",
         "order": "22.00000000000000000000"
       },
       {
         "id": 55,
-        "value": "Exodus Rabbah I, 8:2",
+        "value": "Exodus Rabbah I, ",
         "order": "23.00000000000000000000"
       }
     ],
@@ -346,12 +346,7 @@
     "order": "18.00000000000000000000",
     "verse": "41:10",
     "quote": "",
-    "mentions": [
-      {
-        "id": 56,
-        "value": "Pirkei DeRabbi Eliezer, 52",
-        "order": "24.00000000000000000000"
-      },
+    "passages": [
       {
         "id": 121,
         "value": "Pirkei DeRabbi Eliezer, 52",
@@ -367,10 +362,10 @@
     "order": "19.00000000000000000000",
     "verse": "41:8",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 57,
-        "value": "Tanhuma (Buber), Genesis 11:3",
+        "value": "Tanhuma (Buber), ",
         "order": "25.00000000000000000000"
       }
     ],
@@ -383,10 +378,10 @@
     "order": "20.00000000000000000000",
     "verse": "41:4",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 58,
-        "value": "Tanhuma (Buber), Genesis 4:10",
+        "value": "Tanhuma (Buber), ",
         "order": "26.00000000000000000000"
       }
     ],
@@ -399,10 +394,10 @@
     "order": "21.00000000000000000000",
     "verse": "41:3",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 59,
-        "value": "Numbers Rabbah I, 14:2",
+        "value": "Numbers Rabbah I, ",
         "order": "27.00000000000000000000"
       },
       {
@@ -417,17 +412,17 @@
       },
       {
         "id": 62,
-        "value": "Tanhuma (Buber), Leviticus 7:15",
+        "value": "Tanhuma (Buber), ",
         "order": "30.00000000000000000000"
       },
       {
         "id": 63,
-        "value": "Tanhuma (Buber), Leviticus 8:10",
+        "value": "Tanhuma (Buber), ",
         "order": "31.00000000000000000000"
       },
       {
         "id": 64,
-        "value": "Midrash Psalms, 30:2",
+        "value": "Midrash Psalms, ",
         "order": "32.00000000000000000000"
       }
     ],
@@ -440,10 +435,10 @@
     "order": "22.00000000000000000000",
     "verse": "40:30",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 65,
-        "value": "Tanhuma (Buber), Exodus 4:24",
+        "value": "Tanhuma (Buber), ",
         "order": "33.00000000000000000000"
       }
     ],
@@ -456,15 +451,15 @@
     "order": "23.00000000000000000000",
     "verse": "40:27",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 66,
-        "value": "Tanhuma (Buber), Deuteronomy 2:5",
+        "value": "Tanhuma (Buber), ",
         "order": "34.00000000000000000000"
       },
       {
         "id": 67,
-        "value": "Pesiqta Rabbati, 25:2",
+        "value": "Pesiqta Rabbati, ",
         "order": "35.00000000000000000000"
       }
     ],
@@ -477,20 +472,20 @@
     "order": "24.00000000000000000000",
     "verse": "40:23",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 68,
-        "value": "Numbers Rabbah II, 21:18",
+        "value": "Numbers Rabbah II, ",
         "order": "36.00000000000000000000"
       },
       {
         "id": 69,
-        "value": "Pesiqta Rabbati, 16:4",
+        "value": "Pesiqta Rabbati, ",
         "order": "37.00000000000000000000"
       },
       {
         "id": 70,
-        "value": "Pesiqta Rabbati, 48:3",
+        "value": "Pesiqta Rabbati, ",
         "order": "38.00000000000000000000"
       },
       {
@@ -513,7 +508,7 @@
     "order": "25.00000000000000000000",
     "verse": "40:20",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 71,
         "value": "Pirkei DeRabbi Eliezer, 11",
@@ -534,7 +529,7 @@
     "order": "26.00000000000000000000",
     "verse": "40:19",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 71,
         "value": "Pirkei DeRabbi Eliezer, 11",
@@ -555,10 +550,10 @@
     "order": "27.00000000000000000000",
     "verse": "40:15",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 69,
-        "value": "Pesiqta Rabbati, 16:4",
+        "value": "Pesiqta Rabbati, ",
         "order": "37.00000000000000000000"
       }
     ],
@@ -571,10 +566,10 @@
     "order": "28.00000000000000000000",
     "verse": "40:13",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 73,
-        "value": "Midrash Psalms, 18:32",
+        "value": "Midrash Psalms, ",
         "order": "41.00000000000000000000"
       }
     ],
@@ -587,10 +582,10 @@
     "order": "29.00000000000000000000",
     "verse": "40:10",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 74,
-        "value": "Exodus Rabbah II, 23:13",
+        "value": "Exodus Rabbah II, ",
         "order": "42.00000000000000000000"
       }
     ],
@@ -603,10 +598,10 @@
     "order": "30.00000000000000000000",
     "verse": "40:6",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 75,
-        "value": "Exodus Rabbah I, 3:6",
+        "value": "Exodus Rabbah I, ",
         "order": "43.00000000000000000000"
       }
     ],
@@ -619,10 +614,10 @@
     "order": "31.00000000000000000000",
     "verse": "40:18",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 72,
-        "value": "Midrash Psalms, 9:7",
+        "value": "Midrash Psalms, ",
         "order": "40.00000000000000000000"
       }
     ],
@@ -635,7 +630,7 @@
     "order": "32.00000000000000000000",
     "verse": "1:3",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_54",
     "canonical_meaning": null,
     "voices": []
@@ -645,10 +640,10 @@
     "order": "33.00000000000000000000",
     "verse": "1:5",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 234,
-        "value": "Midrash Psalms, 50:3",
+        "value": "Midrash Psalms, ",
         "order": "200.00000000000000000000"
       }
     ],
@@ -661,7 +656,7 @@
     "order": "34.00000000000000000000",
     "verse": "1:6",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 87,
         "value": "Avot DeRabbi Natan B, 44",
@@ -677,7 +672,7 @@
     "order": "35.00000000000000000000",
     "verse": "1:7",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_57",
     "canonical_meaning": null,
     "voices": []
@@ -687,10 +682,10 @@
     "order": "36.00000000000000000000",
     "verse": "1:8",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 77,
-        "value": "Avot DeRabbi Natan A, 2:5",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "45.00000000000000000000"
       },
       {
@@ -708,10 +703,10 @@
     "order": "37.00000000000000000000",
     "verse": "1:9",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 290,
-        "value": "Tanhuma, Mishpatim 11",
+        "value": "Tanhuma, ",
         "order": "256.00000000000000000000"
       }
     ],
@@ -724,7 +719,7 @@
     "order": "38.00000000000000000000",
     "verse": "1:10",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_60",
     "canonical_meaning": null,
     "voices": []
@@ -734,7 +729,7 @@
     "order": "39.00000000000000000000",
     "verse": "1:11",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_61",
     "canonical_meaning": null,
     "voices": []
@@ -744,7 +739,7 @@
     "order": "40.00000000000000000000",
     "verse": "1:14",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_62",
     "canonical_meaning": null,
     "voices": []
@@ -754,7 +749,7 @@
     "order": "41.00000000000000000000",
     "verse": "1:15",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_63",
     "canonical_meaning": null,
     "voices": []
@@ -764,7 +759,7 @@
     "order": "42.00000000000000000000",
     "verse": "1:16",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_64",
     "canonical_meaning": null,
     "voices": []
@@ -774,7 +769,7 @@
     "order": "43.00000000000000000000",
     "verse": "1:17",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_65",
     "canonical_meaning": null,
     "voices": []
@@ -784,7 +779,7 @@
     "order": "44.00000000000000000000",
     "verse": "1:19",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_66",
     "canonical_meaning": null,
     "voices": []
@@ -794,20 +789,20 @@
     "order": "45.00000000000000000000",
     "verse": "1:21",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 80,
-        "value": "Avot DeRabbi Natan A, 14:6",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "48.00000000000000000000"
       },
       {
         "id": 220,
-        "value": "Midrash Psalms, 92:9",
+        "value": "Midrash Psalms, ",
         "order": "186.00000000000000000000"
       },
       {
         "id": 231,
-        "value": "Midrash Psalms, 101:1",
+        "value": "Midrash Psalms, ",
         "order": "197.00000000000000000000"
       }
     ],
@@ -820,7 +815,7 @@
     "order": "47.00000000000000000000",
     "verse": "2:3",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 79,
         "value": "Avot DeRabbi Natan B, 43",
@@ -836,10 +831,10 @@
     "order": "49.00000000000000000000",
     "verse": "2:4",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 230,
-        "value": "Midrash Psalms, 94:2",
+        "value": "Midrash Psalms, ",
         "order": "196.00000000000000000000"
       }
     ],
@@ -852,7 +847,7 @@
     "order": "50.00000000000000000000",
     "verse": "2:6",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_72",
     "canonical_meaning": null,
     "voices": []
@@ -862,10 +857,10 @@
     "order": "50.50000000000000000000",
     "verse": "2:7",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 290,
-        "value": "Tanhuma, Mishpatim 11",
+        "value": "Tanhuma, ",
         "order": "256.00000000000000000000"
       }
     ],
@@ -878,7 +873,7 @@
     "order": "51.00000000000000000000",
     "verse": "2:8",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_73",
     "canonical_meaning": null,
     "voices": []
@@ -888,7 +883,7 @@
     "order": "52.00000000000000000000",
     "verse": "2:9",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_74",
     "canonical_meaning": null,
     "voices": []
@@ -898,7 +893,7 @@
     "order": "53.00000000000000000000",
     "verse": "2:10",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 79,
         "value": "Avot DeRabbi Natan B, 43",
@@ -914,7 +909,7 @@
     "order": "54.00000000000000000000",
     "verse": "2:11",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_76",
     "canonical_meaning": null,
     "voices": []
@@ -924,7 +919,7 @@
     "order": "55.00000000000000000000",
     "verse": "2:13",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_77",
     "canonical_meaning": null,
     "voices": []
@@ -934,10 +929,10 @@
     "order": "56.00000000000000000000",
     "verse": "3:1",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 82,
-        "value": "Avot DeRabbi Natan A, 37:13",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "49.00000000000000000000"
       }
     ],
@@ -950,10 +945,10 @@
     "order": "57.00000000000000000000",
     "verse": "3:2",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 82,
-        "value": "Avot DeRabbi Natan A, 37:13",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "49.00000000000000000000"
       }
     ],
@@ -966,10 +961,10 @@
     "order": "59.00000000000000000000",
     "verse": "3:3",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 82,
-        "value": "Avot DeRabbi Natan A, 37:13",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "49.00000000000000000000"
       },
       {
@@ -979,7 +974,7 @@
       },
       {
         "id": 298,
-        "value": "Exodus Rabbah II, 30:11",
+        "value": "Exodus Rabbah II, ",
         "order": "264.00000000000000000000"
       }
     ],
@@ -992,7 +987,7 @@
     "order": "60.00000000000000000000",
     "verse": "3:6",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_82",
     "canonical_meaning": null,
     "voices": []
@@ -1002,7 +997,7 @@
     "order": "61.00000000000000000000",
     "verse": "3:9",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_83",
     "canonical_meaning": null,
     "voices": []
@@ -1012,7 +1007,7 @@
     "order": "62.00000000000000000000",
     "verse": "3:13",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 114,
         "value": "Pirkei DeRabbi Eliezer, 12",
@@ -1028,15 +1023,15 @@
     "order": "63.00000000000000000000",
     "verse": "3:16",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 228,
-        "value": "Midrash Psalms, 58:4",
+        "value": "Midrash Psalms, ",
         "order": "194.00000000000000000000"
       },
       {
         "id": 229,
-        "value": "Midrash Psalms, 8:5",
+        "value": "Midrash Psalms, ",
         "order": "195.00000000000000000000"
       }
     ],
@@ -1049,7 +1044,7 @@
     "order": "64.00000000000000000000",
     "verse": "3:17",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_86",
     "canonical_meaning": null,
     "voices": []
@@ -1059,10 +1054,10 @@
     "order": "65.00000000000000000000",
     "verse": "3:19",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 227,
-        "value": "Midrash Psalms, 104:23",
+        "value": "Midrash Psalms, ",
         "order": "193.00000000000000000000"
       }
     ],
@@ -1075,10 +1070,10 @@
     "order": "66.00000000000000000000",
     "verse": "3:25",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 83,
-        "value": "Avot DeRabbi Natan A, 9:5",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "50.00000000000000000000"
       },
       {
@@ -1096,7 +1091,7 @@
     "order": "67.00000000000000000000",
     "verse": "3:26",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 84,
         "value": "Avot DeRabbi Natan B, 17",
@@ -1112,10 +1107,10 @@
     "order": "68.00000000000000000000",
     "verse": "4:1",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 82,
-        "value": "Avot DeRabbi Natan A, 37:13",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "49.00000000000000000000"
       }
     ],
@@ -1128,7 +1123,7 @@
     "order": "69.00000000000000000000",
     "verse": "4:2",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_91",
     "canonical_meaning": null,
     "voices": []
@@ -1138,7 +1133,7 @@
     "order": "70.00000000000000000000",
     "verse": "4:3",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_92",
     "canonical_meaning": null,
     "voices": []
@@ -1148,7 +1143,7 @@
     "order": "71.00000000000000000000",
     "verse": "4:4",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_93",
     "canonical_meaning": null,
     "voices": []
@@ -1158,7 +1153,7 @@
     "order": "72.00000000000000000000",
     "verse": "4:6",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_94",
     "canonical_meaning": null,
     "voices": []
@@ -1168,7 +1163,7 @@
     "order": "73.00000000000000000000",
     "verse": "4:7",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_95",
     "canonical_meaning": null,
     "voices": []
@@ -1178,7 +1173,7 @@
     "order": "74.00000000000000000000",
     "verse": "4:8",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_96",
     "canonical_meaning": null,
     "voices": []
@@ -1188,7 +1183,7 @@
     "order": "75.00000000000000000000",
     "verse": "4:10",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_97",
     "canonical_meaning": null,
     "voices": []
@@ -1198,7 +1193,7 @@
     "order": "76.00000000000000000000",
     "verse": "4:11",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_98",
     "canonical_meaning": null,
     "voices": []
@@ -1208,7 +1203,7 @@
     "order": "77.00000000000000000000",
     "verse": "4:12",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 85,
         "value": "Avot DeRabbi Natan B, 16",
@@ -1224,7 +1219,7 @@
     "order": "78.00000000000000000000",
     "verse": "4:13",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_100",
     "canonical_meaning": null,
     "voices": []
@@ -1234,7 +1229,7 @@
     "order": "79.00000000000000000000",
     "verse": "4:15",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 86,
         "value": "Avot DeRabbi Natan B, 38",
@@ -1250,7 +1245,7 @@
     "order": "80.00000000000000000000",
     "verse": "4:16",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 86,
         "value": "Avot DeRabbi Natan B, 38",
@@ -1266,7 +1261,7 @@
     "order": "81.00000000000000000000",
     "verse": "4:18",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 79,
         "value": "Avot DeRabbi Natan B, 43",
@@ -1287,7 +1282,7 @@
     "order": "82.00000000000000000000",
     "verse": "4:17",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_104",
     "canonical_meaning": null,
     "voices": []
@@ -1297,7 +1292,7 @@
     "order": "83.00000000000000000000",
     "verse": "4:20",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_105",
     "canonical_meaning": null,
     "voices": []
@@ -1307,7 +1302,7 @@
     "order": "84.00000000000000000000",
     "verse": "5:5",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_106",
     "canonical_meaning": null,
     "voices": []
@@ -1317,10 +1312,10 @@
     "order": "85.00000000000000000000",
     "verse": "5:7",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 225,
-        "value": "Midrash Psalms, 78:14",
+        "value": "Midrash Psalms, ",
         "order": "191.00000000000000000000"
       },
       {
@@ -1335,7 +1330,7 @@
       },
       {
         "id": 300,
-        "value": "Exodus Rabbah I, 12:4",
+        "value": "Exodus Rabbah I, ",
         "order": "266.00000000000000000000"
       }
     ],
@@ -1348,10 +1343,10 @@
     "order": "86.00000000000000000000",
     "verse": "5:9",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 224,
-        "value": "Midrash Psalms, 117:1",
+        "value": "Midrash Psalms, ",
         "order": "190.00000000000000000000"
       }
     ],
@@ -1364,10 +1359,10 @@
     "order": "87.00000000000000000000",
     "verse": "5:10",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 224,
-        "value": "Midrash Psalms, 117:1",
+        "value": "Midrash Psalms, ",
         "order": "190.00000000000000000000"
       }
     ],
@@ -1380,10 +1375,10 @@
     "order": "88.00000000000000000000",
     "verse": "5:11",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 223,
-        "value": "Midrash Psalms, 24:5",
+        "value": "Midrash Psalms, ",
         "order": "189.00000000000000000000"
       }
     ],
@@ -1396,7 +1391,7 @@
     "order": "89.00000000000000000000",
     "verse": "5:13",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_111",
     "canonical_meaning": null,
     "voices": []
@@ -1406,7 +1401,7 @@
     "order": "90.00000000000000000000",
     "verse": "5:23",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_112",
     "canonical_meaning": null,
     "voices": []
@@ -1416,10 +1411,10 @@
     "order": "91.00000000000000000000",
     "verse": "5:24",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 222,
-        "value": "Midrash Psalms, 59:2",
+        "value": "Midrash Psalms, ",
         "order": "188.00000000000000000000"
       }
     ],
@@ -1432,7 +1427,7 @@
     "order": "92.00000000000000000000",
     "verse": "5:25",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_114",
     "canonical_meaning": null,
     "voices": []
@@ -1442,7 +1437,7 @@
     "order": "93.00000000000000000000",
     "verse": "6:11",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_115",
     "canonical_meaning": null,
     "voices": []
@@ -1452,7 +1447,7 @@
     "order": "94.00000000000000000000",
     "verse": "6:12",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_116",
     "canonical_meaning": null,
     "voices": []
@@ -1462,10 +1457,10 @@
     "order": "95.00000000000000000000",
     "verse": "6:13",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 222,
-        "value": "Midrash Psalms, 59:2",
+        "value": "Midrash Psalms, ",
         "order": "188.00000000000000000000"
       }
     ],
@@ -1478,7 +1473,7 @@
     "order": "96.00000000000000000000",
     "verse": "6:14",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_118",
     "canonical_meaning": null,
     "voices": []
@@ -1488,7 +1483,7 @@
     "order": "97.00000000000000000000",
     "verse": "6:17",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_119",
     "canonical_meaning": null,
     "voices": []
@@ -1498,7 +1493,7 @@
     "order": "98.00000000000000000000",
     "verse": "6:18",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_120",
     "canonical_meaning": null,
     "voices": []
@@ -1508,7 +1503,7 @@
     "order": "99.00000000000000000000",
     "verse": "7:5",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 119,
         "value": "Pirkei DeRabbi Eliezer, 22",
@@ -1524,20 +1519,20 @@
     "order": "100.00000000000000000000",
     "verse": "7:8",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 219,
-        "value": "Midrash Psalms, 114:2",
+        "value": "Midrash Psalms, ",
         "order": "185.00000000000000000000"
       },
       {
         "id": 220,
-        "value": "Midrash Psalms, 92:9",
+        "value": "Midrash Psalms, ",
         "order": "186.00000000000000000000"
       },
       {
         "id": 221,
-        "value": "Midrash Psalms, 87:6",
+        "value": "Midrash Psalms, ",
         "order": "187.00000000000000000000"
       }
     ],
@@ -1550,7 +1545,7 @@
     "order": "101.00000000000000000000",
     "verse": "7:9",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_123",
     "canonical_meaning": null,
     "voices": []
@@ -1560,7 +1555,7 @@
     "order": "102.00000000000000000000",
     "verse": "7:18",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_124",
     "canonical_meaning": null,
     "voices": []
@@ -1570,7 +1565,7 @@
     "order": "103.00000000000000000000",
     "verse": "7:20",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 87,
         "value": "Avot DeRabbi Natan B, 44",
@@ -1586,10 +1581,10 @@
     "order": "104.00000000000000000000",
     "verse": "8:1",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 82,
-        "value": "Avot DeRabbi Natan A, 37:13",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "49.00000000000000000000"
       }
     ],
@@ -1602,7 +1597,7 @@
     "order": "105.00000000000000000000",
     "verse": "8:7",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_127",
     "canonical_meaning": null,
     "voices": []
@@ -1612,7 +1607,7 @@
     "order": "106.00000000000000000000",
     "verse": "8:8",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_128",
     "canonical_meaning": null,
     "voices": []
@@ -1622,7 +1617,7 @@
     "order": "107.00000000000000000000",
     "verse": "8:10",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_129",
     "canonical_meaning": null,
     "voices": []
@@ -1632,7 +1627,7 @@
     "order": "108.00000000000000000000",
     "verse": "8:11",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_130",
     "canonical_meaning": null,
     "voices": []
@@ -1642,10 +1637,10 @@
     "order": "109.00000000000000000000",
     "verse": "8:13",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 208,
-        "value": "Midrash Psalms, 37:2",
+        "value": "Midrash Psalms, ",
         "order": "174.00000000000000000000"
       }
     ],
@@ -1658,10 +1653,10 @@
     "order": "110.00000000000000000000",
     "verse": "8:16",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 208,
-        "value": "Midrash Psalms, 37:2",
+        "value": "Midrash Psalms, ",
         "order": "174.00000000000000000000"
       }
     ],
@@ -1674,7 +1669,7 @@
     "order": "111.00000000000000000000",
     "verse": "8:20",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_133",
     "canonical_meaning": null,
     "voices": []
@@ -1684,7 +1679,7 @@
     "order": "112.00000000000000000000",
     "verse": "9:4",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_134",
     "canonical_meaning": null,
     "voices": []
@@ -1694,7 +1689,7 @@
     "order": "113.00000000000000000000",
     "verse": "9:5",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 88,
         "value": "Avot DeRabbi Natan B, 1",
@@ -1710,10 +1705,10 @@
     "order": "114.00000000000000000000",
     "verse": "9:6",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 217,
-        "value": "Midrash Psalms, 136:5",
+        "value": "Midrash Psalms, ",
         "order": "183.00000000000000000000"
       }
     ],
@@ -1726,7 +1721,7 @@
     "order": "115.00000000000000000000",
     "verse": "9:7",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_137",
     "canonical_meaning": null,
     "voices": []
@@ -1736,10 +1731,10 @@
     "order": "116.00000000000000000000",
     "verse": "9:8",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 204,
-        "value": "Midrash Psalms, 93:5",
+        "value": "Midrash Psalms, ",
         "order": "170.00000000000000000000"
       }
     ],
@@ -1752,10 +1747,10 @@
     "order": "117.00000000000000000000",
     "verse": "9:10",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 215,
-        "value": "Midrash Psalms, 46:1",
+        "value": "Midrash Psalms, ",
         "order": "181.00000000000000000000"
       }
     ],
@@ -1768,20 +1763,20 @@
     "order": "118.00000000000000000000",
     "verse": "9:17",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 291,
-        "value": "Tanhuma (Buber), Tazria 8",
+        "value": "Tanhuma (Buber), ",
         "order": "257.00000000000000000000"
       },
       {
         "id": 292,
-        "value": "Tanhuma, Tazria 6",
+        "value": "Tanhuma, ",
         "order": "258.00000000000000000000"
       },
       {
         "id": 293,
-        "value": "Tanhuma, Beshalach 23",
+        "value": "Tanhuma, ",
         "order": "259.00000000000000000000"
       }
     ],
@@ -1800,7 +1795,7 @@
     "order": "119.00000000000000000000",
     "verse": "9:22",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_141",
     "canonical_meaning": null,
     "voices": []
@@ -1810,15 +1805,15 @@
     "order": "120.00000000000000000000",
     "verse": "10:1",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 187,
-        "value": "Midrash Psalms, 26:2",
+        "value": "Midrash Psalms, ",
         "order": "154.00000000000000000000"
       },
       {
         "id": 214,
-        "value": "Midrash Psalms, 95:3",
+        "value": "Midrash Psalms, ",
         "order": "180.00000000000000000000"
       }
     ],
@@ -1831,7 +1826,7 @@
     "order": "122.00000000000000000000",
     "verse": "10:2",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_144",
     "canonical_meaning": null,
     "voices": []
@@ -1841,10 +1836,10 @@
     "order": "123.00000000000000000000",
     "verse": "10:3",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 187,
-        "value": "Midrash Psalms, 26:2",
+        "value": "Midrash Psalms, ",
         "order": "154.00000000000000000000"
       }
     ],
@@ -1857,7 +1852,7 @@
     "order": "125.00000000000000000000",
     "verse": "10:4",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_147",
     "canonical_meaning": null,
     "voices": []
@@ -1867,10 +1862,10 @@
     "order": "126.00000000000000000000",
     "verse": "10:8",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 213,
-        "value": "Midrash Psalms, 119:24",
+        "value": "Midrash Psalms, ",
         "order": "179.00000000000000000000"
       }
     ],
@@ -1883,10 +1878,10 @@
     "order": "127.00000000000000000000",
     "verse": "10:9",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Psalms, ",
         "order": "160.00000000000000000000"
       }
     ],
@@ -1899,15 +1894,15 @@
     "order": "128.00000000000000000000",
     "verse": "10:10",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Psalms, ",
         "order": "160.00000000000000000000"
       },
       {
         "id": 213,
-        "value": "Midrash Psalms, 119:24",
+        "value": "Midrash Psalms, ",
         "order": "179.00000000000000000000"
       }
     ],
@@ -1920,15 +1915,15 @@
     "order": "129.00000000000000000000",
     "verse": "10:11",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Psalms, ",
         "order": "160.00000000000000000000"
       },
       {
         "id": 213,
-        "value": "Midrash Psalms, 119:24",
+        "value": "Midrash Psalms, ",
         "order": "179.00000000000000000000"
       }
     ],
@@ -1941,10 +1936,10 @@
     "order": "130.00000000000000000000",
     "verse": "10:12",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Psalms, ",
         "order": "160.00000000000000000000"
       }
     ],
@@ -1957,10 +1952,10 @@
     "order": "131.00000000000000000000",
     "verse": "10:15",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Psalms, ",
         "order": "160.00000000000000000000"
       }
     ],
@@ -1973,10 +1968,10 @@
     "order": "132.00000000000000000000",
     "verse": "10:22",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 142,
-        "value": "Midrash Psalms, 18:16",
+        "value": "Midrash Psalms, ",
         "order": "109.00000000000000000000"
       }
     ],
@@ -1989,7 +1984,7 @@
     "order": "133.00000000000000000000",
     "verse": "11:1",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_155",
     "canonical_meaning": null,
     "voices": []
@@ -1999,7 +1994,7 @@
     "order": "134.00000000000000000000",
     "verse": "11:5",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_156",
     "canonical_meaning": null,
     "voices": []
@@ -2009,7 +2004,7 @@
     "order": "135.00000000000000000000",
     "verse": "11:6",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_157",
     "canonical_meaning": null,
     "voices": []
@@ -2019,15 +2014,15 @@
     "order": "136.00000000000000000000",
     "verse": "11:7",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 172,
-        "value": "Midrash Psalms, 139:1",
+        "value": "Midrash Psalms, ",
         "order": "139.00000000000000000000"
       },
       {
         "id": 210,
-        "value": "Midrash Psalms, 106:2",
+        "value": "Midrash Psalms, ",
         "order": "176.00000000000000000000"
       }
     ],
@@ -2040,15 +2035,15 @@
     "order": "137.00000000000000000000",
     "verse": "11:8",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 172,
-        "value": "Midrash Psalms, 139:1",
+        "value": "Midrash Psalms, ",
         "order": "139.00000000000000000000"
       },
       {
         "id": 210,
-        "value": "Midrash Psalms, 106:2",
+        "value": "Midrash Psalms, ",
         "order": "176.00000000000000000000"
       }
     ],
@@ -2061,30 +2056,30 @@
     "order": "138.00000000000000000000",
     "verse": "11:9",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 172,
-        "value": "Midrash Psalms, 139:1",
+        "value": "Midrash Psalms, ",
         "order": "139.00000000000000000000"
       },
       {
         "id": 209,
-        "value": "Midrash Psalms, 119:11",
+        "value": "Midrash Psalms, ",
         "order": "175.00000000000000000000"
       },
       {
         "id": 210,
-        "value": "Midrash Psalms, 106:2",
+        "value": "Midrash Psalms, ",
         "order": "176.00000000000000000000"
       },
       {
         "id": 211,
-        "value": "Midrash Psalms, 104:22",
+        "value": "Midrash Psalms, ",
         "order": "177.00000000000000000000"
       },
       {
         "id": 212,
-        "value": "Midrash Psalms, 18:21",
+        "value": "Midrash Psalms, ",
         "order": "178.00000000000000000000"
       }
     ],
@@ -2097,10 +2092,10 @@
     "order": "139.00000000000000000000",
     "verse": "11:11",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 207,
-        "value": "Midrash Psalms, 5:8",
+        "value": "Midrash Psalms, ",
         "order": "173.00000000000000000000"
       }
     ],
@@ -2113,10 +2108,10 @@
     "order": "140.00000000000000000000",
     "verse": "11:20",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 206,
-        "value": "Midrash Psalms, 68:1",
+        "value": "Midrash Psalms, ",
         "order": "172.00000000000000000000"
       }
     ],
@@ -2129,7 +2124,7 @@
     "order": "141.00000000000000000000",
     "verse": "12:3",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_163",
     "canonical_meaning": null,
     "voices": []
@@ -2139,10 +2134,10 @@
     "order": "142.00000000000000000000",
     "verse": "12:11",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 205,
-        "value": "Midrash Psalms, 22:25",
+        "value": "Midrash Psalms, ",
         "order": "171.00000000000000000000"
       }
     ],
@@ -2155,7 +2150,7 @@
     "order": "143.00000000000000000000",
     "verse": "12:10",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 124,
         "value": "Pirkei DeRabbi Eliezer, 34",
@@ -2171,7 +2166,7 @@
     "order": "144.00000000000000000000",
     "verse": "12:7",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_166",
     "canonical_meaning": null,
     "voices": []
@@ -2181,7 +2176,7 @@
     "order": "145.00000000000000000000",
     "verse": "12:8",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_167",
     "canonical_meaning": null,
     "voices": []
@@ -2191,7 +2186,7 @@
     "order": "146.00000000000000000000",
     "verse": "12:9",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_168",
     "canonical_meaning": null,
     "voices": []
@@ -2201,7 +2196,7 @@
     "order": "147.00000000000000000000",
     "verse": "12:6",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_169",
     "canonical_meaning": null,
     "voices": []
@@ -2211,7 +2206,7 @@
     "order": "149.00000000000000000000",
     "verse": "12:5",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_171",
     "canonical_meaning": null,
     "voices": []
@@ -2221,7 +2216,7 @@
     "order": "150.00000000000000000000",
     "verse": "12:12",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_172",
     "canonical_meaning": null,
     "voices": []
@@ -2231,7 +2226,7 @@
     "order": "151.00000000000000000000",
     "verse": "12:13",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_173",
     "canonical_meaning": null,
     "voices": []
@@ -2241,7 +2236,7 @@
     "order": "152.00000000000000000000",
     "verse": "12:14",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_174",
     "canonical_meaning": null,
     "voices": []
@@ -2251,10 +2246,10 @@
     "order": "153.00000000000000000000",
     "verse": "12:15",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 204,
-        "value": "Midrash Psalms, 93:5",
+        "value": "Midrash Psalms, ",
         "order": "170.00000000000000000000"
       }
     ],
@@ -2267,7 +2262,7 @@
     "order": "154.00000000000000000000",
     "verse": "12:16",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_176",
     "canonical_meaning": null,
     "voices": []
@@ -2277,7 +2272,7 @@
     "order": "155.00000000000000000000",
     "verse": "12:18",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_177",
     "canonical_meaning": null,
     "voices": []
@@ -2287,7 +2282,7 @@
     "order": "156.00000000000000000000",
     "verse": "12:20",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_178",
     "canonical_meaning": null,
     "voices": []
@@ -2297,7 +2292,7 @@
     "order": "158.00000000000000000000",
     "verse": "12:24",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_180",
     "canonical_meaning": null,
     "voices": []
@@ -2307,10 +2302,10 @@
     "order": "160.00000000000000000000",
     "verse": "14:5",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 194,
-        "value": "Midrash Psalms, 27:2",
+        "value": "Midrash Psalms, ",
         "order": "161.00000000000000000000"
       }
     ],
@@ -2323,7 +2318,7 @@
     "order": "161.00000000000000000000",
     "verse": "14:4",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_183",
     "canonical_meaning": null,
     "voices": []
@@ -2333,10 +2328,10 @@
     "order": "162.00000000000000000000",
     "verse": "14:3",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Psalms, ",
         "order": "160.00000000000000000000"
       }
     ],
@@ -2349,10 +2344,10 @@
     "order": "163.00000000000000000000",
     "verse": "14:2",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Psalms, ",
         "order": "160.00000000000000000000"
       }
     ],
@@ -2365,7 +2360,7 @@
     "order": "164.00000000000000000000",
     "verse": "14:1",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 89,
         "value": "Avot DeRabbi Natan B, 42",
@@ -2373,12 +2368,12 @@
       },
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Psalms, ",
         "order": "160.00000000000000000000"
       },
       {
         "id": 199,
-        "value": "Midrash Psalms, 74:1",
+        "value": "Midrash Psalms, ",
         "order": "165.00000000000000000000"
       }
     ],
@@ -2391,7 +2386,7 @@
     "order": "165.00000000000000000000",
     "verse": "13:27",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_187",
     "canonical_meaning": null,
     "voices": []
@@ -2401,7 +2396,7 @@
     "order": "166.00000000000000000000",
     "verse": "13:28",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_188",
     "canonical_meaning": null,
     "voices": []
@@ -2411,10 +2406,10 @@
     "order": "167.00000000000000000000",
     "verse": "13:23",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 187,
-        "value": "Midrash Psalms, 26:2",
+        "value": "Midrash Psalms, ",
         "order": "154.00000000000000000000"
       }
     ],
@@ -2427,10 +2422,10 @@
     "order": "168.00000000000000000000",
     "verse": "13:20",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Psalms, ",
         "order": "160.00000000000000000000"
       }
     ],
@@ -2443,10 +2438,10 @@
     "order": "169.00000000000000000000",
     "verse": "13:16",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 201,
-        "value": "Midrash Psalms, 101:3",
+        "value": "Midrash Psalms, ",
         "order": "167.00000000000000000000"
       }
     ],
@@ -2459,10 +2454,10 @@
     "order": "170.00000000000000000000",
     "verse": "13:15",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 202,
-        "value": "Midrash Psalms, 78:7",
+        "value": "Midrash Psalms, ",
         "order": "168.00000000000000000000"
       }
     ],
@@ -2475,7 +2470,7 @@
     "order": "171.00000000000000000000",
     "verse": "13:12",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_193",
     "canonical_meaning": null,
     "voices": []
@@ -2485,10 +2480,10 @@
     "order": "172.00000000000000000000",
     "verse": "14:13",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Psalms, ",
         "order": "160.00000000000000000000"
       }
     ],
@@ -2501,7 +2496,7 @@
     "order": "173.00000000000000000000",
     "verse": "14:15",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_195",
     "canonical_meaning": null,
     "voices": []
@@ -2511,10 +2506,10 @@
     "order": "174.00000000000000000000",
     "verse": "14:16",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 192,
-        "value": "Midrash Psalms, 139:4",
+        "value": "Midrash Psalms, ",
         "order": "159.00000000000000000000"
       }
     ],
@@ -2527,10 +2522,10 @@
     "order": "175.00000000000000000000",
     "verse": "14:18",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 191,
-        "value": "Midrash Psalms, 53:2",
+        "value": "Midrash Psalms, ",
         "order": "158.00000000000000000000"
       }
     ],
@@ -2543,10 +2538,10 @@
     "order": "177.00000000000000000000",
     "verse": "14:20",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 190,
-        "value": "Midrash Psalms, 17:8",
+        "value": "Midrash Psalms, ",
         "order": "157.00000000000000000000"
       }
     ],
@@ -2559,7 +2554,7 @@
     "order": "178.00000000000000000000",
     "verse": "14:22",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_200",
     "canonical_meaning": null,
     "voices": []
@@ -2569,7 +2564,7 @@
     "order": "179.00000000000000000000",
     "verse": "15:2",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_201",
     "canonical_meaning": null,
     "voices": []
@@ -2579,7 +2574,7 @@
     "order": "180.00000000000000000000",
     "verse": "15:10",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 47,
         "value": "Pesiqta Rabbati, 38",
@@ -2595,7 +2590,7 @@
     "order": "181.00000000000000000000",
     "verse": "15:12",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_203",
     "canonical_meaning": null,
     "voices": []
@@ -2605,7 +2600,7 @@
     "order": "182.00000000000000000000",
     "verse": "15:13",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_204",
     "canonical_meaning": null,
     "voices": []
@@ -2615,15 +2610,15 @@
     "order": "183.00000000000000000000",
     "verse": "15:15",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 176,
-        "value": "Midrash Psalms, 16:2",
+        "value": "Midrash Psalms, ",
         "order": "143.00000000000000000000"
       },
       {
         "id": 188,
-        "value": "Midrash Psalms, 119:37",
+        "value": "Midrash Psalms, ",
         "order": "155.00000000000000000000"
       }
     ],
@@ -2636,7 +2631,7 @@
     "order": "187.00000000000000000000",
     "verse": "15:19",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_209",
     "canonical_meaning": null,
     "voices": []
@@ -2646,7 +2641,7 @@
     "order": "188.00000000000000000000",
     "verse": "15:20",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_210",
     "canonical_meaning": null,
     "voices": []
@@ -2656,7 +2651,7 @@
     "order": "189.00000000000000000000",
     "verse": "15:26",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 92,
         "value": "Avot DeRabbi Natan B, 7",
@@ -2672,7 +2667,7 @@
     "order": "190.00000000000000000000",
     "verse": "15:28",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_212",
     "canonical_meaning": null,
     "voices": []
@@ -2682,7 +2677,7 @@
     "order": "191.00000000000000000000",
     "verse": "15:29",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_213",
     "canonical_meaning": null,
     "voices": []
@@ -2692,7 +2687,7 @@
     "order": "192.00000000000000000000",
     "verse": "15:30",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_214",
     "canonical_meaning": null,
     "voices": []
@@ -2702,7 +2697,7 @@
     "order": "193.00000000000000000000",
     "verse": "15:31",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_215",
     "canonical_meaning": null,
     "voices": []
@@ -2712,7 +2707,7 @@
     "order": "194.00000000000000000000",
     "verse": "15:32",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_216",
     "canonical_meaning": null,
     "voices": []
@@ -2722,7 +2717,7 @@
     "order": "195.00000000000000000000",
     "verse": "15:33",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_217",
     "canonical_meaning": null,
     "voices": []
@@ -2732,7 +2727,7 @@
     "order": "196.00000000000000000000",
     "verse": "15:34",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_218",
     "canonical_meaning": null,
     "voices": []
@@ -2742,7 +2737,7 @@
     "order": "197.00000000000000000000",
     "verse": "15:35",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_219",
     "canonical_meaning": null,
     "voices": []
@@ -2752,7 +2747,7 @@
     "order": "198.00000000000000000000",
     "verse": "16:2",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_220",
     "canonical_meaning": null,
     "voices": []
@@ -2762,7 +2757,7 @@
     "order": "199.00000000000000000000",
     "verse": "16:11",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_221",
     "canonical_meaning": null,
     "voices": []
@@ -2772,10 +2767,10 @@
     "order": "200.00000000000000000000",
     "verse": "16:12",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 294,
-        "value": "Exodus Rabbah II, 21:7",
+        "value": "Exodus Rabbah II, ",
         "order": "260.00000000000000000000"
       }
     ],
@@ -2788,10 +2783,10 @@
     "order": "202.00000000000000000000",
     "verse": "16:17",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 187,
-        "value": "Midrash Psalms, 26:2",
+        "value": "Midrash Psalms, ",
         "order": "154.00000000000000000000"
       }
     ],
@@ -2804,10 +2799,10 @@
     "order": "203.00000000000000000000",
     "verse": "16:18",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 187,
-        "value": "Midrash Psalms, 26:2",
+        "value": "Midrash Psalms, ",
         "order": "154.00000000000000000000"
       }
     ],
@@ -2820,7 +2815,7 @@
     "order": "204.00000000000000000000",
     "verse": "16:19",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_226",
     "canonical_meaning": null,
     "voices": []
@@ -2830,10 +2825,10 @@
     "order": "205.00000000000000000000",
     "verse": "17:3",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 186,
-        "value": "Midrash Psalms, 119:54",
+        "value": "Midrash Psalms, ",
         "order": "153.00000000000000000000"
       }
     ],
@@ -2846,7 +2841,7 @@
     "order": "206.00000000000000000000",
     "verse": "18:10",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_228",
     "canonical_meaning": null,
     "voices": []
@@ -2856,7 +2851,7 @@
     "order": "207.00000000000000000000",
     "verse": "18:13",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_229",
     "canonical_meaning": null,
     "voices": []
@@ -2866,7 +2861,7 @@
     "order": "208.00000000000000000000",
     "verse": "18:17",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_230",
     "canonical_meaning": null,
     "voices": []
@@ -2876,7 +2871,7 @@
     "order": "209.00000000000000000000",
     "verse": "18:18",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_231",
     "canonical_meaning": null,
     "voices": []
@@ -2886,10 +2881,10 @@
     "order": "210.00000000000000000000",
     "verse": "19:4",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 185,
-        "value": "Midrash Psalms, 7:3",
+        "value": "Midrash Psalms, ",
         "order": "152.00000000000000000000"
       }
     ],
@@ -2902,7 +2897,7 @@
     "order": "211.00000000000000000000",
     "verse": "19:13",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_233",
     "canonical_meaning": null,
     "voices": []
@@ -2912,7 +2907,7 @@
     "order": "212.00000000000000000000",
     "verse": "19:21",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_234",
     "canonical_meaning": null,
     "voices": []
@@ -2922,7 +2917,7 @@
     "order": "213.00000000000000000000",
     "verse": "19:29",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_235",
     "canonical_meaning": null,
     "voices": []
@@ -2932,10 +2927,10 @@
     "order": "214.00000000000000000000",
     "verse": "20:5",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 184,
-        "value": "Midrash Psalms, 33:1",
+        "value": "Midrash Psalms, ",
         "order": "151.00000000000000000000"
       }
     ],
@@ -2948,10 +2943,10 @@
     "order": "215.00000000000000000000",
     "verse": "20:17",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 182,
-        "value": "Midrash Psalms, 23:5",
+        "value": "Midrash Psalms, ",
         "order": "149.00000000000000000000"
       }
     ],
@@ -2964,7 +2959,7 @@
     "order": "216.00000000000000000000",
     "verse": "20:22",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 92,
         "value": "Avot DeRabbi Natan B, 7",
@@ -2972,7 +2967,7 @@
       },
       {
         "id": 179,
-        "value": "Midrash Psalms, 10:5",
+        "value": "Midrash Psalms, ",
         "order": "146.00000000000000000000"
       }
     ],
@@ -2985,7 +2980,7 @@
     "order": "217.00000000000000000000",
     "verse": "20:23",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_239",
     "canonical_meaning": null,
     "voices": []
@@ -2995,7 +2990,7 @@
     "order": "218.00000000000000000000",
     "verse": "20:24",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_240",
     "canonical_meaning": null,
     "voices": []
@@ -3005,7 +3000,7 @@
     "order": "219.00000000000000000000",
     "verse": "20:25",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_241",
     "canonical_meaning": null,
     "voices": []
@@ -3015,7 +3010,7 @@
     "order": "220.00000000000000000000",
     "verse": "20:26",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_242",
     "canonical_meaning": null,
     "voices": []
@@ -3025,15 +3020,15 @@
     "order": "221.00000000000000000000",
     "verse": "20:27",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 131,
-        "value": "Midrash Psalms, 9:11",
+        "value": "Midrash Psalms, ",
         "order": "98.00000000000000000000"
       },
       {
         "id": 244,
-        "value": "Midrash Psalms, 19:6",
+        "value": "Midrash Psalms, ",
         "order": "210.00000000000000000000"
       }
     ],
@@ -3046,7 +3041,7 @@
     "order": "222.00000000000000000000",
     "verse": "20:28",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_244",
     "canonical_meaning": null,
     "voices": []
@@ -3056,7 +3051,7 @@
     "order": "223.00000000000000000000",
     "verse": "21:8",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_245",
     "canonical_meaning": null,
     "voices": []
@@ -3066,7 +3061,7 @@
     "order": "224.00000000000000000000",
     "verse": "21:9",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_246",
     "canonical_meaning": null,
     "voices": []
@@ -3076,7 +3071,7 @@
     "order": "225.00000000000000000000",
     "verse": "21:10",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_247",
     "canonical_meaning": null,
     "voices": []
@@ -3086,7 +3081,7 @@
     "order": "226.00000000000000000000",
     "verse": "21:11",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_248",
     "canonical_meaning": null,
     "voices": []
@@ -3096,7 +3091,7 @@
     "order": "227.00000000000000000000",
     "verse": "21:12",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_249",
     "canonical_meaning": null,
     "voices": []
@@ -3106,10 +3101,10 @@
     "order": "228.00000000000000000000",
     "verse": "21:13",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 93,
-        "value": "Avot DeRabbi Natan A, 32:3",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "60.00000000000000000000"
       }
     ],
@@ -3122,10 +3117,10 @@
     "order": "229.00000000000000000000",
     "verse": "21:14",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 93,
-        "value": "Avot DeRabbi Natan A, 32:3",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "60.00000000000000000000"
       },
       {
@@ -3148,7 +3143,7 @@
     "order": "230.00000000000000000000",
     "verse": "21:15",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_252",
     "canonical_meaning": null,
     "voices": []
@@ -3158,7 +3153,7 @@
     "order": "231.00000000000000000000",
     "verse": "21:16",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_253",
     "canonical_meaning": null,
     "voices": []
@@ -3168,7 +3163,7 @@
     "order": "232.00000000000000000000",
     "verse": "21:18",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_254",
     "canonical_meaning": null,
     "voices": []
@@ -3178,7 +3173,7 @@
     "order": "233.00000000000000000000",
     "verse": "21:33",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_255",
     "canonical_meaning": null,
     "voices": []
@@ -3188,7 +3183,7 @@
     "order": "234.00000000000000000000",
     "verse": "21:34",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_256",
     "canonical_meaning": null,
     "voices": []
@@ -3198,7 +3193,7 @@
     "order": "235.00000000000000000000",
     "verse": "22:12",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_257",
     "canonical_meaning": null,
     "voices": []
@@ -3208,7 +3203,7 @@
     "order": "236.00000000000000000000",
     "verse": "22:13",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_258",
     "canonical_meaning": null,
     "voices": []
@@ -3218,10 +3213,10 @@
     "order": "237.00000000000000000000",
     "verse": "22:14",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 179,
-        "value": "Midrash Psalms, 10:5",
+        "value": "Midrash Psalms, ",
         "order": "146.00000000000000000000"
       }
     ],
@@ -3234,7 +3229,7 @@
     "order": "238.00000000000000000000",
     "verse": "22:15",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_260",
     "canonical_meaning": null,
     "voices": []
@@ -3244,10 +3239,10 @@
     "order": "239.00000000000000000000",
     "verse": "22:16",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 178,
-        "value": "Midrash Psalms, 90:13",
+        "value": "Midrash Psalms, ",
         "order": "145.00000000000000000000"
       }
     ],
@@ -3260,7 +3255,7 @@
     "order": "240.00000000000000000000",
     "verse": "22:17",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_262",
     "canonical_meaning": null,
     "voices": []
@@ -3270,7 +3265,7 @@
     "order": "241.00000000000000000000",
     "verse": "22:20",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_263",
     "canonical_meaning": null,
     "voices": []
@@ -3280,7 +3275,7 @@
     "order": "242.00000000000000000000",
     "verse": "22:25",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_264",
     "canonical_meaning": null,
     "voices": []
@@ -3290,7 +3285,7 @@
     "order": "243.00000000000000000000",
     "verse": "22:28",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_265",
     "canonical_meaning": null,
     "voices": []
@@ -3300,7 +3295,7 @@
     "order": "244.00000000000000000000",
     "verse": "22:30",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_266",
     "canonical_meaning": null,
     "voices": []
@@ -3310,25 +3305,25 @@
     "order": "245.00000000000000000000",
     "verse": "23:3",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 290,
-        "value": "Tanhuma, Mishpatim 11",
+        "value": "Tanhuma, ",
         "order": "256.00000000000000000000"
       },
       {
         "id": 303,
-        "value": "Tanhuma (Buber), Bereshit 13",
+        "value": "Tanhuma (Buber), ",
         "order": "269.00000000000000000000"
       },
       {
         "id": 304,
-        "value": "Tanhuma, Mishpatim 11",
+        "value": "Tanhuma, ",
         "order": "270.00000000000000000000"
       },
       {
         "id": 305,
-        "value": "Tanhuma, Ki Tisa 12",
+        "value": "Tanhuma, ",
         "order": "271.00000000000000000000"
       }
     ],
@@ -3341,7 +3336,7 @@
     "order": "246.00000000000000000000",
     "verse": "23:4",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_268",
     "canonical_meaning": null,
     "voices": []
@@ -3351,7 +3346,7 @@
     "order": "247.00000000000000000000",
     "verse": "23:5",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_269",
     "canonical_meaning": null,
     "voices": []
@@ -3361,7 +3356,7 @@
     "order": "248.00000000000000000000",
     "verse": "23:8",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_270",
     "canonical_meaning": null,
     "voices": []
@@ -3371,7 +3366,7 @@
     "order": "249.00000000000000000000",
     "verse": "23:9",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_271",
     "canonical_meaning": null,
     "voices": []
@@ -3381,7 +3376,7 @@
     "order": "250.00000000000000000000",
     "verse": "23:10",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_272",
     "canonical_meaning": null,
     "voices": []
@@ -3391,7 +3386,7 @@
     "order": "251.00000000000000000000",
     "verse": "23:12",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_273",
     "canonical_meaning": null,
     "voices": []
@@ -3401,10 +3396,10 @@
     "order": "252.00000000000000000000",
     "verse": "23:13",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 177,
-        "value": "Midrash Psalms, 119:35",
+        "value": "Midrash Psalms, ",
         "order": "144.00000000000000000000"
       }
     ],
@@ -3417,7 +3412,7 @@
     "order": "253.00000000000000000000",
     "verse": "24:2",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_275",
     "canonical_meaning": null,
     "voices": []
@@ -3427,7 +3422,7 @@
     "order": "254.00000000000000000000",
     "verse": "24:3",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_276",
     "canonical_meaning": null,
     "voices": []
@@ -3437,7 +3432,7 @@
     "order": "255.00000000000000000000",
     "verse": "24:4",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_277",
     "canonical_meaning": null,
     "voices": []
@@ -3447,7 +3442,7 @@
     "order": "256.00000000000000000000",
     "verse": "24:7",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_278",
     "canonical_meaning": null,
     "voices": []
@@ -3457,7 +3452,7 @@
     "order": "257.00000000000000000000",
     "verse": "24:7",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_279",
     "canonical_meaning": null,
     "voices": []
@@ -3467,7 +3462,7 @@
     "order": "258.00000000000000000000",
     "verse": "24:10",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_280",
     "canonical_meaning": null,
     "voices": []
@@ -3477,7 +3472,7 @@
     "order": "259.00000000000000000000",
     "verse": "24:12",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 123,
         "value": "Pirkei DeRabbi Eliezer, 43",
@@ -3493,7 +3488,7 @@
     "order": "260.00000000000000000000",
     "verse": "24:13",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_282",
     "canonical_meaning": null,
     "voices": []
@@ -3503,7 +3498,7 @@
     "order": "261.00000000000000000000",
     "verse": "24:15",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_283",
     "canonical_meaning": null,
     "voices": []
@@ -3513,7 +3508,7 @@
     "order": "262.00000000000000000000",
     "verse": "24:16",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_284",
     "canonical_meaning": null,
     "voices": []
@@ -3523,7 +3518,7 @@
     "order": "263.00000000000000000000",
     "verse": "24:18",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_285",
     "canonical_meaning": null,
     "voices": []
@@ -3533,7 +3528,7 @@
     "order": "264.00000000000000000000",
     "verse": "24:20",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_286",
     "canonical_meaning": null,
     "voices": []
@@ -3543,10 +3538,10 @@
     "order": "265.00000000000000000000",
     "verse": "24:22",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 176,
-        "value": "Midrash Psalms, 16:2",
+        "value": "Midrash Psalms, ",
         "order": "143.00000000000000000000"
       }
     ],
@@ -3559,7 +3554,7 @@
     "order": "266.00000000000000000000",
     "verse": "25:2",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 96,
         "value": "Avot DeRabbi Natan B, 8",
@@ -3575,7 +3570,7 @@
     "order": "267.00000000000000000000",
     "verse": "25:3",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 98,
         "value": "Avot DeRabbi Natan B, 27",
@@ -3591,15 +3586,15 @@
     "order": "268.00000000000000000000",
     "verse": "25:6",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 175,
-        "value": "Midrash Psalms, 146:3",
+        "value": "Midrash Psalms, ",
         "order": "142.00000000000000000000"
       },
       {
         "id": 307,
-        "value": "Avot DeRabbi Natan A, 19:2",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "272.00000000000000000000"
       }
     ],
@@ -3612,7 +3607,7 @@
     "order": "269.00000000000000000000",
     "verse": "26:6",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_291",
     "canonical_meaning": null,
     "voices": []
@@ -3622,7 +3617,7 @@
     "order": "270.00000000000000000000",
     "verse": "26:8",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_292",
     "canonical_meaning": null,
     "voices": []
@@ -3632,7 +3627,7 @@
     "order": "271.00000000000000000000",
     "verse": "26:9",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_293",
     "canonical_meaning": null,
     "voices": []
@@ -3642,7 +3637,7 @@
     "order": "272.00000000000000000000",
     "verse": "26:11",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 79,
         "value": "Avot DeRabbi Natan B, 43",
@@ -3658,7 +3653,7 @@
     "order": "273.00000000000000000000",
     "verse": "26:12",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_295",
     "canonical_meaning": null,
     "voices": []
@@ -3668,7 +3663,7 @@
     "order": "274.00000000000000000000",
     "verse": "26:13",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_296",
     "canonical_meaning": null,
     "voices": []
@@ -3678,7 +3673,7 @@
     "order": "275.00000000000000000000",
     "verse": "26:14",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_297",
     "canonical_meaning": null,
     "voices": []
@@ -3688,7 +3683,7 @@
     "order": "276.00000000000000000000",
     "verse": "27:17",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_298",
     "canonical_meaning": null,
     "voices": []
@@ -3698,7 +3693,7 @@
     "order": "277.00000000000000000000",
     "verse": "28:1",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_299",
     "canonical_meaning": null,
     "voices": []
@@ -3708,7 +3703,7 @@
     "order": "278.00000000000000000000",
     "verse": "28:2",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_300",
     "canonical_meaning": null,
     "voices": []
@@ -3718,10 +3713,10 @@
     "order": "279.00000000000000000000",
     "verse": "28:3",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 174,
-        "value": "Midrash Psalms, 92:3",
+        "value": "Midrash Psalms, ",
         "order": "141.00000000000000000000"
       }
     ],
@@ -3734,7 +3729,7 @@
     "order": "280.00000000000000000000",
     "verse": "28:4",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_302",
     "canonical_meaning": null,
     "voices": []
@@ -3744,7 +3739,7 @@
     "order": "281.00000000000000000000",
     "verse": "28:5",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_303",
     "canonical_meaning": null,
     "voices": []
@@ -3754,7 +3749,7 @@
     "order": "282.00000000000000000000",
     "verse": "28:6",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 120,
         "value": "Pirkei DeRabbi Eliezer, 25",
@@ -3770,7 +3765,7 @@
     "order": "283.00000000000000000000",
     "verse": "28:7",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 120,
         "value": "Pirkei DeRabbi Eliezer, 25",
@@ -3786,7 +3781,7 @@
     "order": "285.00000000000000000000",
     "verse": "28:8",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_307",
     "canonical_meaning": null,
     "voices": []
@@ -3796,7 +3791,7 @@
     "order": "286.00000000000000000000",
     "verse": "28:9",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 91,
         "value": "Avot DeRabbi Natan B, 12",
@@ -3812,7 +3807,7 @@
     "order": "287.00000000000000000000",
     "verse": "28:10",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 91,
         "value": "Avot DeRabbi Natan B, 12",
@@ -3828,10 +3823,10 @@
     "order": "288.00000000000000000000",
     "verse": "28:11",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 90,
-        "value": "Avot DeRabbi Natan A, 6:2",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "57.00000000000000000000"
       },
       {
@@ -3854,10 +3849,10 @@
     "order": "289.00000000000000000000",
     "verse": "28:12",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 101,
-        "value": "Avot DeRabbi Natan A, 12:4",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "68.00000000000000000000"
       }
     ],
@@ -3870,20 +3865,20 @@
     "order": "290.00000000000000000000",
     "verse": "28:13",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 101,
-        "value": "Avot DeRabbi Natan A, 12:4",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "68.00000000000000000000"
       },
       {
         "id": 171,
-        "value": "Midrash Psalms, 8:2",
+        "value": "Midrash Psalms, ",
         "order": "138.00000000000000000000"
       },
       {
         "id": 173,
-        "value": "Midrash Psalms, 3:2",
+        "value": "Midrash Psalms, ",
         "order": "140.00000000000000000000"
       }
     ],
@@ -3896,10 +3891,10 @@
     "order": "291.00000000000000000000",
     "verse": "28:14",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 101,
-        "value": "Avot DeRabbi Natan A, 12:4",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "68.00000000000000000000"
       },
       {
@@ -3917,7 +3912,7 @@
     "order": "292.00000000000000000000",
     "verse": "28:15",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_314",
     "canonical_meaning": null,
     "voices": []
@@ -3927,7 +3922,7 @@
     "order": "293.00000000000000000000",
     "verse": "28:16",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_315",
     "canonical_meaning": null,
     "voices": []
@@ -3937,10 +3932,10 @@
     "order": "294.00000000000000000000",
     "verse": "28:17",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 103,
-        "value": "Avot DeRabbi Natan A, 24:5",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "70.00000000000000000000"
       },
       {
@@ -3958,7 +3953,7 @@
     "order": "295.00000000000000000000",
     "verse": "28:18",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_317",
     "canonical_meaning": null,
     "voices": []
@@ -3968,7 +3963,7 @@
     "order": "296.00000000000000000000",
     "verse": "28:19",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_318",
     "canonical_meaning": null,
     "voices": []
@@ -3978,7 +3973,7 @@
     "order": "297.00000000000000000000",
     "verse": "28:20",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_319",
     "canonical_meaning": null,
     "voices": []
@@ -3988,7 +3983,7 @@
     "order": "298.00000000000000000000",
     "verse": "28:21",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 102,
         "value": "Avot DeRabbi Natan B, 25",
@@ -3996,7 +3991,7 @@
       },
       {
         "id": 172,
-        "value": "Midrash Psalms, 139:1",
+        "value": "Midrash Psalms, ",
         "order": "139.00000000000000000000"
       }
     ],
@@ -4009,10 +4004,10 @@
     "order": "299.00000000000000000000",
     "verse": "28:22",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 101,
-        "value": "Avot DeRabbi Natan A, 12:4",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "68.00000000000000000000"
       },
       {
@@ -4030,7 +4025,7 @@
     "order": "300.00000000000000000000",
     "verse": "28:23",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_322",
     "canonical_meaning": null,
     "voices": []
@@ -4040,7 +4035,7 @@
     "order": "301.00000000000000000000",
     "verse": "28:24",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_323",
     "canonical_meaning": null,
     "voices": []
@@ -4050,7 +4045,7 @@
     "order": "302.00000000000000000000",
     "verse": "28:25",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_324",
     "canonical_meaning": null,
     "voices": []
@@ -4060,7 +4055,7 @@
     "order": "303.00000000000000000000",
     "verse": "28:27",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_325",
     "canonical_meaning": null,
     "voices": []
@@ -4070,7 +4065,7 @@
     "order": "304.00000000000000000000",
     "verse": "28:28",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_326",
     "canonical_meaning": null,
     "voices": []
@@ -4080,7 +4075,7 @@
     "order": "305.00000000000000000000",
     "verse": "29:2",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_327",
     "canonical_meaning": null,
     "voices": []
@@ -4090,7 +4085,7 @@
     "order": "306.00000000000000000000",
     "verse": "29:3",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_328",
     "canonical_meaning": null,
     "voices": []
@@ -4100,7 +4095,7 @@
     "order": "307.00000000000000000000",
     "verse": "29:4",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_329",
     "canonical_meaning": null,
     "voices": []
@@ -4110,10 +4105,10 @@
     "order": "308.00000000000000000000",
     "verse": "29:14",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 133,
-        "value": "Midrash Psalms, 24:1",
+        "value": "Midrash Psalms, ",
         "order": "100.00000000000000000000"
       }
     ],
@@ -4126,7 +4121,7 @@
     "order": "309.00000000000000000000",
     "verse": "29:16",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_331",
     "canonical_meaning": null,
     "voices": []
@@ -4136,7 +4131,7 @@
     "order": "310.00000000000000000000",
     "verse": "29:17",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_332",
     "canonical_meaning": null,
     "voices": []
@@ -4146,7 +4141,7 @@
     "order": "311.00000000000000000000",
     "verse": "29:19",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_333",
     "canonical_meaning": null,
     "voices": []
@@ -4156,10 +4151,10 @@
     "order": "312.00000000000000000000",
     "verse": "29:23",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 169,
-        "value": "Midrash Psalms, 119:62",
+        "value": "Midrash Psalms, ",
         "order": "136.00000000000000000000"
       }
     ],
@@ -4172,7 +4167,7 @@
     "order": "313.00000000000000000000",
     "verse": "29:25",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_335",
     "canonical_meaning": null,
     "voices": []
@@ -4182,7 +4177,7 @@
     "order": "314.00000000000000000000",
     "verse": "30:1",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 47,
         "value": "Pesiqta Rabbati, 38",
@@ -4198,7 +4193,7 @@
     "order": "315.00000000000000000000",
     "verse": "30:3",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_337",
     "canonical_meaning": null,
     "voices": []
@@ -4208,7 +4203,7 @@
     "order": "316.00000000000000000000",
     "verse": "30:4",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_338",
     "canonical_meaning": null,
     "voices": []
@@ -4218,7 +4213,7 @@
     "order": "317.00000000000000000000",
     "verse": "30:5",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 79,
         "value": "Avot DeRabbi Natan B, 43",
@@ -4234,7 +4229,7 @@
     "order": "318.00000000000000000000",
     "verse": "30:15",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_340",
     "canonical_meaning": null,
     "voices": []
@@ -4244,7 +4239,7 @@
     "order": "319.00000000000000000000",
     "verse": "30:19",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_341",
     "canonical_meaning": null,
     "voices": []
@@ -4254,7 +4249,7 @@
     "order": "320.00000000000000000000",
     "verse": "30:23",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 117,
         "value": "Pirkei DeRabbi Eliezer, 20",
@@ -4270,7 +4265,7 @@
     "order": "321.00000000000000000000",
     "verse": "30:24",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_343",
     "canonical_meaning": null,
     "voices": []
@@ -4280,7 +4275,7 @@
     "order": "322.00000000000000000000",
     "verse": "30:25",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_344",
     "canonical_meaning": null,
     "voices": []
@@ -4290,10 +4285,10 @@
     "order": "323.00000000000000000000",
     "verse": "31:1",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 77,
-        "value": "Avot DeRabbi Natan A, 2:5",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "45.00000000000000000000"
       },
       {
@@ -4311,7 +4306,7 @@
     "order": "324.00000000000000000000",
     "verse": "31:2",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 78,
         "value": "Avot DeRabbi Natan B, 2",
@@ -4327,7 +4322,7 @@
     "order": "325.00000000000000000000",
     "verse": "31:10",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_347",
     "canonical_meaning": null,
     "voices": []
@@ -4337,7 +4332,7 @@
     "order": "326.00000000000000000000",
     "verse": "31:12",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_348",
     "canonical_meaning": null,
     "voices": []
@@ -4347,7 +4342,7 @@
     "order": "327.00000000000000000000",
     "verse": "31:14",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_349",
     "canonical_meaning": null,
     "voices": []
@@ -4357,10 +4352,10 @@
     "order": "328.00000000000000000000",
     "verse": "31:17",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 105,
-        "value": "Avot DeRabbi Natan A, 7:1",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "72.00000000000000000000"
       }
     ],
@@ -4373,10 +4368,10 @@
     "order": "329.00000000000000000000",
     "verse": "31:20",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 105,
-        "value": "Avot DeRabbi Natan A, 7:1",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "72.00000000000000000000"
       },
       {
@@ -4394,7 +4389,7 @@
     "order": "331.00000000000000000000",
     "verse": "31:32",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 106,
         "value": "Avot DeRabbi Natan B, 14",
@@ -4410,7 +4405,7 @@
     "order": "332.00000000000000000000",
     "verse": "31:34",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_354",
     "canonical_meaning": null,
     "voices": []
@@ -4420,7 +4415,7 @@
     "order": "333.00000000000000000000",
     "verse": "31:35",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_355",
     "canonical_meaning": null,
     "voices": []
@@ -4430,10 +4425,10 @@
     "order": "334.00000000000000000000",
     "verse": "31:38",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 168,
-        "value": "Midrash Psalms, 7:4",
+        "value": "Midrash Psalms, ",
         "order": "135.00000000000000000000"
       }
     ],
@@ -4446,10 +4441,10 @@
     "order": "335.00000000000000000000",
     "verse": "31:39",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 168,
-        "value": "Midrash Psalms, 7:4",
+        "value": "Midrash Psalms, ",
         "order": "135.00000000000000000000"
       }
     ],
@@ -4462,7 +4457,7 @@
     "order": "336.00000000000000000000",
     "verse": "31:40",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_358",
     "canonical_meaning": null,
     "voices": []
@@ -4472,7 +4467,7 @@
     "order": "337.00000000000000000000",
     "verse": "32:3",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_359",
     "canonical_meaning": null,
     "voices": []
@@ -4482,7 +4477,7 @@
     "order": "338.00000000000000000000",
     "verse": "32:5",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_360",
     "canonical_meaning": null,
     "voices": []
@@ -4492,10 +4487,10 @@
     "order": "339.00000000000000000000",
     "verse": "32:6",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 82,
-        "value": "Avot DeRabbi Natan A, 37:13",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "49.00000000000000000000"
       }
     ],
@@ -4508,10 +4503,10 @@
     "order": "340.00000000000000000000",
     "verse": "32:7",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 82,
-        "value": "Avot DeRabbi Natan A, 37:13",
+        "value": "Avot DeRabbi Natan A, ",
         "order": "49.00000000000000000000"
       }
     ],
@@ -4524,7 +4519,7 @@
     "order": "341.00000000000000000000",
     "verse": "32:8",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_363",
     "canonical_meaning": null,
     "voices": []
@@ -4534,7 +4529,7 @@
     "order": "342.00000000000000000000",
     "verse": "32:9",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_364",
     "canonical_meaning": null,
     "voices": []
@@ -4544,10 +4539,10 @@
     "order": "343.00000000000000000000",
     "verse": "32:16",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 167,
-        "value": "Midrash Psalms, 20:3",
+        "value": "Midrash Psalms, ",
         "order": "134.00000000000000000000"
       }
     ],
@@ -4560,10 +4555,10 @@
     "order": "344.00000000000000000000",
     "verse": "33:3",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 166,
-        "value": "Midrash Psalms, 90:4",
+        "value": "Midrash Psalms, ",
         "order": "133.00000000000000000000"
       }
     ],
@@ -4576,7 +4571,7 @@
     "order": "345.00000000000000000000",
     "verse": "33:15",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 124,
         "value": "Pirkei DeRabbi Eliezer, 34",
@@ -4592,7 +4587,7 @@
     "order": "346.00000000000000000000",
     "verse": "33:16",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 124,
         "value": "Pirkei DeRabbi Eliezer, 34",
@@ -4608,7 +4603,7 @@
     "order": "347.00000000000000000000",
     "verse": "33:17",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_369",
     "canonical_meaning": null,
     "voices": []
@@ -4618,10 +4613,10 @@
     "order": "348.00000000000000000000",
     "verse": "33:22",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 295,
-        "value": "Song of Songs Zuta, 1:19",
+        "value": "Song of Songs Zuta, ",
         "order": "261.00000000000000000000"
       },
       {
@@ -4631,7 +4626,7 @@
       },
       {
         "id": 297,
-        "value": "Pitron Torah, Vayikra",
+        "value": "Pitron Torah, ",
         "order": "263.00000000000000000000"
       }
     ],
@@ -4644,10 +4639,10 @@
     "order": "349.00000000000000000000",
     "verse": "33:23",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 165,
-        "value": "Midrash Psalms, 17:9",
+        "value": "Midrash Psalms, ",
         "order": "132.00000000000000000000"
       }
     ],
@@ -4660,10 +4655,10 @@
     "order": "351.00000000000000000000",
     "verse": "33:24",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 165,
-        "value": "Midrash Psalms, 17:9",
+        "value": "Midrash Psalms, ",
         "order": "132.00000000000000000000"
       }
     ],
@@ -4676,7 +4671,7 @@
     "order": "352.00000000000000000000",
     "verse": "33:25",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_374",
     "canonical_meaning": null,
     "voices": []
@@ -4686,7 +4681,7 @@
     "order": "353.00000000000000000000",
     "verse": "33:27",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 47,
         "value": "Pesiqta Rabbati, 38",
@@ -4702,7 +4697,7 @@
     "order": "354.00000000000000000000",
     "verse": "33:28",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_376",
     "canonical_meaning": null,
     "voices": []
@@ -4712,7 +4707,7 @@
     "order": "355.00000000000000000000",
     "verse": "33:29",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 116,
         "value": "Pirkei DeRabbi Eliezer, 15",
@@ -4728,7 +4723,7 @@
     "order": "356.00000000000000000000",
     "verse": "33:30",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_378",
     "canonical_meaning": null,
     "voices": []
@@ -4738,7 +4733,7 @@
     "order": "357.00000000000000000000",
     "verse": "34:10",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_379",
     "canonical_meaning": null,
     "voices": []
@@ -4748,7 +4743,7 @@
     "order": "358.00000000000000000000",
     "verse": "34:11",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_380",
     "canonical_meaning": null,
     "voices": []
@@ -4758,7 +4753,7 @@
     "order": "359.00000000000000000000",
     "verse": "34:19",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_381",
     "canonical_meaning": null,
     "voices": []
@@ -4768,10 +4763,10 @@
     "order": "360.00000000000000000000",
     "verse": "34:20",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 164,
-        "value": "Midrash Psalms, 9:11",
+        "value": "Midrash Psalms, ",
         "order": "131.00000000000000000000"
       }
     ],
@@ -4784,15 +4779,15 @@
     "order": "361.00000000000000000000",
     "verse": "34:22",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 132,
-        "value": "Midrash Psalms, 19:10",
+        "value": "Midrash Psalms, ",
         "order": "99.00000000000000000000"
       },
       {
         "id": 245,
-        "value": "Midrash Psalms, 19:13",
+        "value": "Midrash Psalms, ",
         "order": "211.00000000000000000000"
       }
     ],
@@ -4805,7 +4800,7 @@
     "order": "362.00000000000000000000",
     "verse": "34:24",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_384",
     "canonical_meaning": null,
     "voices": []
@@ -4815,10 +4810,10 @@
     "order": "363.00000000000000000000",
     "verse": "34:26",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 179,
-        "value": "Midrash Psalms, 10:5",
+        "value": "Midrash Psalms, ",
         "order": "146.00000000000000000000"
       }
     ],
@@ -4831,10 +4826,10 @@
     "order": "365.00000000000000000000",
     "verse": "34:32",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 301,
-        "value": "Tanhuma (Buber), Vayera 10",
+        "value": "Tanhuma (Buber), ",
         "order": "267.00000000000000000000"
       }
     ],
@@ -4847,7 +4842,7 @@
     "order": "366.00000000000000000000",
     "verse": "34:33",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_388",
     "canonical_meaning": null,
     "voices": []
@@ -4857,7 +4852,7 @@
     "order": "367.00000000000000000000",
     "verse": "35:11",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_389",
     "canonical_meaning": null,
     "voices": []
@@ -4867,7 +4862,7 @@
     "order": "368.00000000000000000000",
     "verse": "36:2",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 108,
         "value": "Avot DeRabbi Natan B, 40",
@@ -4883,7 +4878,7 @@
     "order": "369.00000000000000000000",
     "verse": "36:3",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_391",
     "canonical_meaning": null,
     "voices": []
@@ -4893,7 +4888,7 @@
     "order": "370.00000000000000000000",
     "verse": "36:7",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_392",
     "canonical_meaning": null,
     "voices": []
@@ -4903,7 +4898,7 @@
     "order": "371.00000000000000000000",
     "verse": "36:8",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_393",
     "canonical_meaning": null,
     "voices": []
@@ -4913,7 +4908,7 @@
     "order": "372.00000000000000000000",
     "verse": "36:11",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_394",
     "canonical_meaning": null,
     "voices": []
@@ -4923,7 +4918,7 @@
     "order": "373.00000000000000000000",
     "verse": "36:12",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_395",
     "canonical_meaning": null,
     "voices": []
@@ -4933,7 +4928,7 @@
     "order": "374.00000000000000000000",
     "verse": "36:13",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_396",
     "canonical_meaning": null,
     "voices": []
@@ -4943,7 +4938,7 @@
     "order": "375.00000000000000000000",
     "verse": "36:16",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_397",
     "canonical_meaning": null,
     "voices": []
@@ -4953,7 +4948,7 @@
     "order": "376.00000000000000000000",
     "verse": "36:19",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_398",
     "canonical_meaning": null,
     "voices": []
@@ -4963,10 +4958,10 @@
     "order": "377.00000000000000000000",
     "verse": "36:21",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 290,
-        "value": "Tanhuma, Mishpatim 11",
+        "value": "Tanhuma, ",
         "order": "256.00000000000000000000"
       }
     ],
@@ -4979,7 +4974,7 @@
     "order": "378.00000000000000000000",
     "verse": "36:22",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_400",
     "canonical_meaning": null,
     "voices": []
@@ -4989,7 +4984,7 @@
     "order": "379.00000000000000000000",
     "verse": "36:27",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_401",
     "canonical_meaning": null,
     "voices": []
@@ -4999,10 +4994,10 @@
     "order": "380.00000000000000000000",
     "verse": "36:28",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 142,
-        "value": "Midrash Psalms, 18:16",
+        "value": "Midrash Psalms, ",
         "order": "109.00000000000000000000"
       }
     ],
@@ -5015,7 +5010,7 @@
     "order": "381.00000000000000000000",
     "verse": "36:31",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_403",
     "canonical_meaning": null,
     "voices": []
@@ -5025,7 +5020,7 @@
     "order": "382.00000000000000000000",
     "verse": "37:1",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_404",
     "canonical_meaning": null,
     "voices": []
@@ -5035,7 +5030,7 @@
     "order": "383.00000000000000000000",
     "verse": "37:3",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_405",
     "canonical_meaning": null,
     "voices": []
@@ -5045,7 +5040,7 @@
     "order": "384.00000000000000000000",
     "verse": "37:5",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_406",
     "canonical_meaning": null,
     "voices": []
@@ -5055,7 +5050,7 @@
     "order": "385.00000000000000000000",
     "verse": "37:6",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 110,
         "value": "Pirkei DeRabbi Eliezer, 3",
@@ -5071,7 +5066,7 @@
     "order": "386.00000000000000000000",
     "verse": "37:7",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_408",
     "canonical_meaning": null,
     "voices": []
@@ -5081,7 +5076,7 @@
     "order": "387.00000000000000000000",
     "verse": "37:9",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 111,
         "value": "Pirkei DeRabbi Eliezer, 6",
@@ -5097,10 +5092,10 @@
     "order": "388.00000000000000000000",
     "verse": "37:11",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 142,
-        "value": "Midrash Psalms, 18:16",
+        "value": "Midrash Psalms, ",
         "order": "109.00000000000000000000"
       }
     ],
@@ -5113,10 +5108,10 @@
     "order": "389.00000000000000000000",
     "verse": "37:15",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 141,
-        "value": "Midrash Psalms, 50:1",
+        "value": "Midrash Psalms, ",
         "order": "108.00000000000000000000"
       }
     ],
@@ -5129,10 +5124,10 @@
     "order": "390.00000000000000000000",
     "verse": "37:16",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 140,
-        "value": "Midrash Psalms, 119:1",
+        "value": "Midrash Psalms, ",
         "order": "107.00000000000000000000"
       }
     ],
@@ -5145,25 +5140,25 @@
     "order": "391.00000000000000000000",
     "verse": "37:20",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 125,
-        "value": "Midrash Psalms, 19:2",
+        "value": "Midrash Psalms, ",
         "order": "92.00000000000000000000"
       },
       {
         "id": 127,
-        "value": "Midrash Psalms, 88:2",
+        "value": "Midrash Psalms, ",
         "order": "94.00000000000000000000"
       },
       {
         "id": 128,
-        "value": "Midrash Psalms, 104:2",
+        "value": "Midrash Psalms, ",
         "order": "95.00000000000000000000"
       },
       {
         "id": 129,
-        "value": "Tanhuma, Exodus 2:2",
+        "value": "Tanhuma, ",
         "order": "96.00000000000000000000"
       }
     ],
@@ -5176,7 +5171,7 @@
     "order": "393.00000000000000000000",
     "verse": "38:1",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_415",
     "canonical_meaning": null,
     "voices": []
@@ -5186,7 +5181,7 @@
     "order": "394.00000000000000000000",
     "verse": "38:2",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_416",
     "canonical_meaning": null,
     "voices": []
@@ -5196,15 +5191,15 @@
     "order": "395.00000000000000000000",
     "verse": "38:3",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 138,
-        "value": "Midrash Psalms, 103:8",
+        "value": "Midrash Psalms, ",
         "order": "105.00000000000000000000"
       },
       {
         "id": 139,
-        "value": "Midrash Psalms, 18:31",
+        "value": "Midrash Psalms, ",
         "order": "106.00000000000000000000"
       }
     ],
@@ -5217,7 +5212,7 @@
     "order": "396.00000000000000000000",
     "verse": "38:4",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_418",
     "canonical_meaning": null,
     "voices": []
@@ -5227,7 +5222,7 @@
     "order": "397.00000000000000000000",
     "verse": "38:7",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 119,
         "value": "Pirkei DeRabbi Eliezer, 22",
@@ -5243,10 +5238,10 @@
     "order": "398.00000000000000000000",
     "verse": "38:8",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 137,
-        "value": "Midrash Psalms, 22:23",
+        "value": "Midrash Psalms, ",
         "order": "104.00000000000000000000"
       }
     ],
@@ -5259,7 +5254,7 @@
     "order": "399.00000000000000000000",
     "verse": "38:9",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 112,
         "value": "Pirkei DeRabbi Eliezer, 7",
@@ -5275,7 +5270,7 @@
     "order": "400.00000000000000000000",
     "verse": "38:10",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_422",
     "canonical_meaning": null,
     "voices": []
@@ -5285,7 +5280,7 @@
     "order": "401.00000000000000000000",
     "verse": "38:11",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_423",
     "canonical_meaning": null,
     "voices": []
@@ -5295,7 +5290,7 @@
     "order": "402.00000000000000000000",
     "verse": "38:13",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 124,
         "value": "Pirkei DeRabbi Eliezer, 34",
@@ -5303,7 +5298,7 @@
       },
       {
         "id": 136,
-        "value": "Midrash Psalms, 46:2",
+        "value": "Midrash Psalms, ",
         "order": "103.00000000000000000000"
       }
     ],
@@ -5316,7 +5311,7 @@
     "order": "403.00000000000000000000",
     "verse": "38:14",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_425",
     "canonical_meaning": null,
     "voices": []
@@ -5326,7 +5321,7 @@
     "order": "405.00000000000000000000",
     "verse": "38:16",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_427",
     "canonical_meaning": null,
     "voices": []
@@ -5336,7 +5331,7 @@
     "order": "406.00000000000000000000",
     "verse": "38:22",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_428",
     "canonical_meaning": null,
     "voices": []
@@ -5346,7 +5341,7 @@
     "order": "407.00000000000000000000",
     "verse": "38:23",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_429",
     "canonical_meaning": null,
     "voices": []
@@ -5356,7 +5351,7 @@
     "order": "409.00000000000000000000",
     "verse": "38:35",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_431",
     "canonical_meaning": null,
     "voices": []
@@ -5366,7 +5361,7 @@
     "order": "410.00000000000000000000",
     "verse": "38:36",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_432",
     "canonical_meaning": null,
     "voices": []
@@ -5376,15 +5371,15 @@
     "order": "411.00000000000000000000",
     "verse": "38:37",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 130,
-        "value": "Midrash Psalms, 19:3",
+        "value": "Midrash Psalms, ",
         "order": "97.00000000000000000000"
       },
       {
         "id": 243,
-        "value": "Midrash Psalms, 19:4",
+        "value": "Midrash Psalms, ",
         "order": "209.00000000000000000000"
       }
     ],
@@ -5397,7 +5392,7 @@
     "order": "412.00000000000000000000",
     "verse": "38:38",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_434",
     "canonical_meaning": null,
     "voices": []
@@ -5407,7 +5402,7 @@
     "order": "413.00000000000000000000",
     "verse": "38:41",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_435",
     "canonical_meaning": null,
     "voices": []
@@ -5417,10 +5412,10 @@
     "order": "414.00000000000000000000",
     "verse": "39:5",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 72,
-        "value": "Midrash Psalms, 9:7",
+        "value": "Midrash Psalms, ",
         "order": "40.00000000000000000000"
       }
     ],
@@ -5433,7 +5428,7 @@
     "order": "415.00000000000000000000",
     "verse": "39:9",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_437",
     "canonical_meaning": null,
     "voices": []
@@ -5443,7 +5438,7 @@
     "order": "416.00000000000000000000",
     "verse": "39:12",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_438",
     "canonical_meaning": null,
     "voices": []
@@ -5453,7 +5448,7 @@
     "order": "417.00000000000000000000",
     "verse": "39:13",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 87,
         "value": "Avot DeRabbi Natan B, 44",
@@ -5469,7 +5464,7 @@
     "order": "418.00000000000000000000",
     "verse": "39:14",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_440",
     "canonical_meaning": null,
     "voices": []
@@ -5479,7 +5474,7 @@
     "order": "419.00000000000000000000",
     "verse": "39:15",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_441",
     "canonical_meaning": null,
     "voices": []
@@ -5489,7 +5484,7 @@
     "order": "420.00000000000000000000",
     "verse": "39:16",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_442",
     "canonical_meaning": null,
     "voices": []
@@ -5499,7 +5494,7 @@
     "order": "421.00000000000000000000",
     "verse": "39:17",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_443",
     "canonical_meaning": null,
     "voices": []
@@ -5509,7 +5504,7 @@
     "order": "422.00000000000000000000",
     "verse": "39:18",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 115,
         "value": "Pirkei DeRabbi Eliezer, 13",
@@ -5525,7 +5520,7 @@
     "order": "423.00000000000000000000",
     "verse": "39:27",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_445",
     "canonical_meaning": null,
     "voices": []
@@ -5535,7 +5530,7 @@
     "order": "424.00000000000000000000",
     "verse": "39:28",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_446",
     "canonical_meaning": null,
     "voices": []
@@ -5545,7 +5540,7 @@
     "order": "425.00000000000000000000",
     "verse": "39:29",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_447",
     "canonical_meaning": null,
     "voices": []
@@ -5555,7 +5550,7 @@
     "order": "426.00000000000000000000",
     "verse": "39:30",
     "quote": "",
-    "mentions": [],
+    "passages": [],
     "hiob_id": "hiob_verse_448",
     "canonical_meaning": null,
     "voices": []
@@ -5565,7 +5560,7 @@
     "order": "427.00000000000000000000",
     "verse": "41:25",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 115,
         "value": "Pirkei DeRabbi Eliezer, 13",
@@ -5581,7 +5576,7 @@
     "order": "428.00000000000000000000",
     "verse": "22:18",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 122,
         "value": "Pirkei DeRabbi Eliezer, 47",
@@ -5597,10 +5592,10 @@
     "order": "429.00000000000000000000",
     "verse": "13:21",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 200,
-        "value": "Midrash Psalms, 139:5",
+        "value": "Midrash Psalms, ",
         "order": "166.00000000000000000000"
       }
     ],
@@ -5613,10 +5608,10 @@
     "order": "430.00000000000000000000",
     "verse": "23:2",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 302,
-        "value": "Pitron Torah, Vezot Haberachah",
+        "value": "Pitron Torah, ",
         "order": "268.00000000000000000000"
       }
     ],
@@ -5629,10 +5624,10 @@
     "order": "431.00000000000000000000",
     "verse": "40:4",
     "quote": "",
-    "mentions": [
+    "passages": [
       {
         "id": 302,
-        "value": "Pitron Torah, Vezot Haberachah",
+        "value": "Pitron Torah, ",
         "order": "268.00000000000000000000"
       }
     ],
