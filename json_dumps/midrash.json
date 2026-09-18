@@ -779,12 +779,12 @@
       },
       {
         "id": 127,
-        "value": "Midrash Psalms, 88:2",
+        "value": "Midrash Psalms, 88:1",
         "order": "94.00000000000000000000"
       },
       {
         "id": 128,
-        "value": "Midrash Psalms, 104:2",
+        "value": "Midrash Psalms, 104:1",
         "order": "95.00000000000000000000"
       },
       {
@@ -833,18 +833,13 @@
         "order": "106.00000000000000000000"
       },
       {
-        "id": 140,
-        "value": "Midrash Psalms, 119:1",
-        "order": "107.00000000000000000000"
-      },
-      {
         "id": 141,
         "value": "Midrash Psalms, 50:1",
         "order": "108.00000000000000000000"
       },
       {
         "id": 142,
-        "value": "Midrash Psalms, 18:16",
+        "value": "Midrash Psalms, 18:14",
         "order": "109.00000000000000000000"
       },
       {
@@ -854,22 +849,22 @@
       },
       {
         "id": 165,
-        "value": "Midrash Psalms, 17:9",
+        "value": "Midrash Psalms, 17:15",
         "order": "132.00000000000000000000"
       },
       {
         "id": 166,
-        "value": "Midrash Psalms, 90:4",
+        "value": "Midrash Psalms, 90:2",
         "order": "133.00000000000000000000"
       },
       {
         "id": 167,
-        "value": "Midrash Psalms, 20:3",
+        "value": "Midrash Psalms, 20:1",
         "order": "134.00000000000000000000"
       },
       {
         "id": 168,
-        "value": "Midrash Psalms, 7:4",
+        "value": "Midrash Psalms, 7:2",
         "order": "135.00000000000000000000"
       },
       {
@@ -1024,7 +1019,7 @@
       },
       {
         "id": 209,
-        "value": "Midrash Psalms, 119:11",
+        "value": "Midrash Psalms, 119:10",
         "order": "175.00000000000000000000"
       },
       {
@@ -1044,7 +1039,7 @@
       },
       {
         "id": 213,
-        "value": "Midrash Psalms, 119:24",
+        "value": "Midrash Psalms, 119:20",
         "order": "179.00000000000000000000"
       },
       {
