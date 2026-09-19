@@ -1109,7 +1109,13 @@
     "decontextualized_reception": [],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22379,
+        "value": "Joshua Ben Karha (T4)",
+        "color": "dark-pink"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -1598,7 +1604,13 @@
     "decontextualized_reception": [],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -1960,7 +1972,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "Fate of the Wicked in Job read about Amalek.",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "Fate of the Wicked in Job read about Amalek.",
     "translation": null,
@@ -2007,7 +2025,13 @@
     "decontextualized_reception": [],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23677,
+        "value": "Joshua ben Levi (pA1)",
+        "color": "light-gray"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -5006,7 +5030,13 @@
     "decontextualized_reception": [],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -5043,7 +5073,13 @@
     "decontextualized_reception": [],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23678,
+        "value": "Simon (pA2)",
+        "color": "darker-orange"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -5385,7 +5421,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "End of days, instead.",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "End of days, instead.",
     "translation": null,
@@ -5443,7 +5485,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -5506,7 +5554,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -5564,7 +5618,13 @@
       }
     ],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23679,
+        "value": "Yudan (pA3)",
+        "color": "light-orange"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -5617,7 +5677,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -5670,7 +5736,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23680,
+        "value": "Shamlai (pA2)",
+        "color": "darker-cyan"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -5733,7 +5805,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "Naturalistic",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23378,
+        "value": "Yochanan (pA2)",
+        "color": "dark-pink"
+      }
+    ],
     "classic_parallels": "",
     "notes": "Naturalistic",
     "translation": null,
@@ -6707,7 +6785,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22321,
+        "value": "Levi (pA2-3)",
+        "color": "darker-yellow"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -6775,7 +6859,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -6833,7 +6923,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23681,
+        "value": "Yosei ben Zimra (T6)",
+        "color": "darker-gray"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -6880,7 +6976,13 @@
     "decontextualized_reception": [],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -6928,7 +7030,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23378,
+        "value": "Yochanan (pA2)",
+        "color": "dark-pink"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -6986,7 +7094,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -7054,7 +7168,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "// Bavli",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23682,
+        "value": "Rabbi (T5)",
+        "color": "darker-brown"
+      }
+    ],
     "classic_parallels": "",
     "notes": "// Bavli",
     "translation": null,
@@ -7137,7 +7257,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "Agrees with Zophar",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "Agrees with Zophar",
     "translation": null,
@@ -7195,7 +7321,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "See Nir, S. “’The True Order of the Psalms’: Midrash Psalms, Saʿadiah Gaon and \nthe Impact of Muslim Concepts of Scripture on the Medieval Jewish \nReception of the Psalms,” in “By My God I Can Leap over a Wall”: \nInterreligious Horizons in Psalms and Psalms Studies, Herders Biblische \nStudien 96, ed. C. Frevel (Freiburg: Herder Verlag, 2020), 326–51.",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "See Nir, S. “’The True Order of the Psalms’: Midrash Psalms, Saʿadiah Gaon and \nthe Impact of Muslim Concepts of Scripture on the Medieval Jewish \nReception of the Psalms,” in “By My God I Can Leap over a Wall”: \nInterreligious Horizons in Psalms and Psalms Studies, Herders Biblische \nStudien 96, ed. C. Frevel (Freiburg: Herder Verlag, 2020), 326–51.",
     "translation": null,
@@ -7253,7 +7385,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -7281,7 +7419,7 @@
     "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 146:3"
+        "value": "Midrash Psalms, 146:2"
       }
     ],
     "hiob_id": "hiob_passage_175",
@@ -7292,7 +7430,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passage": "146:3",
+    "passage": "146:2",
     "verses": [
       {
         "id": 290,
@@ -7300,12 +7438,18 @@
         "order": "268.00000000000000000000"
       }
     ],
-    "quote": "",
+    "quote": "תצא רוחו ישוב לאדמתו. משל למה הדבר דומה לנאד שהוא נפוח ומלא רוח ועומד בארץ מי שהוא רואה אותו מתיירא ממנו סבור שהוא כלום. מה עשה הגיע אצלו וראהו שהוא נאד ונגע בו ונפל ויצא הרוח שבו שמלאו. אמר אותו האיש מזה הייתי מתיירא לא היה בו כלום אבל הרוח היא המעמדת אותו. כך אמר הקב\"ה אין הבשר כלום. שנאמר (ישעיה מ ו) כל הבשר חציר וגו'. וכן הוא אומר (איוב כה ו) אף כי אנוש רמה וגו'. אינו עומד אלא על הרוח יצאת הרוח מיד נעשה עפר. וכן הוא אומר תצא רוחו ישוב לאדמתו וגו'. כך אמר הקב\"ה אני בראתי את האדם הזה והוא עומד ומתגאה. בא סנחריב הרשע ונתגאה וחרף וגדף ויצאת רוחו מיד אבדו עשתונותיו. וכן פרעה וכן המן וכן כל רשעי עולם המחרפים ומגדפין והן רוח. יצאת רוחן אבדו עשתנותיהן. רצונכם פרקליט שהוא עומד לעולם בטחו בו בכל עת ואתם עומדים. שנאמר (תהלים קמו ה) אשרי שאל יעקב בעזרו וגו'. אם אתם יודעים במי אתם בוטחים. במי שעשה שמים וארץ. משמתחתי את השמים והרקעתי את הארץ שמא זזו ממקומן. כך מי שהוא בוטח בי אין שכרו פוסק לעולם. לכך נאמר (שם) אשרי שאל יעקב בעזרו וגו'. מה כתיב אחריו עושה שמים וארץ וגו'. מהו וכל אשר בם. מכאן אתה למד כנגד כל הבריות שיש לו בארץ כך יש לו בים. לכך נאמר את הים ואת כל אשר בם:",
     "commentary": "",
     "decontextualized_reception": [],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -7342,7 +7486,7 @@
         "order": "265.00000000000000000000"
       }
     ],
-    "quote": "",
+    "quote": "דבר אחר אמרת לה'. אמר דוד לפני הקב\"ה רבונו של עולם אף על פי שהייתי מלך המלכתיך עלי. אמר לו הקב\"ה איני מחזיק לך טובה טובתי בל עליך. ולמי אני מחזיק לקדושים אשר בארץ. שאין הקב\"ה קורא לצדיקים קדושים עד שינתנו בארץ עד יום מיתה. למה שיצר הרע מיצר את האדם בעולם הזה ואינו מאמין בהן עד יום מיתה. וכן שלמה אומר (קהלת ז כ) כי אין אדם צדיק בארץ אשר יעשה טוב ולא יחטא. לפיכך אינו נקרא קדוש עד שינתן בארץ. ואפילו אבות לא נקראו קדושים עד שנתנו בארץ. שנאמר (איוב טו טו) הן בקדושיו לא יאמין. ואימתי האמין בהם בשעה שאמר למשה (שמות ג טז) לך ואספת את זקני ישראל. מכאן סמך משה ואמר (שם לב יג) זכור לאברהם ליצחק ולישראל עבדיך. אמר ר' פנחס אלו בקשו אבות העולם שתהא דירתן למעלה יכולים היו ואף על פי כן לא נקראו קדושים עד שנתנו לארץ ונסתם הגולל בפניהם. א\"ר חמא מאי קרא (איוב כד כב) ומשך אבירים בכחו. זה יצר הרע. אבירים בכחו כגון דור אנוש ודור המבול ודור הפלגה וסדומים. כמו שכתוב (בראשית ג יז) בעצבון תאכלנה. ואומר (שם טז) הרבה ארבה עצבונך והרונך. הרבית עצבונך לאבות העולם. שמא הפסידו כלום תלמוד לומר בל אסיך נסכיהם מדם. כההיא דתנינן ירדו ובאו למטה מן המערכה ומלחום חזרו להם ללשכת הגזית וקראו את שמע:",
     "commentary": "",
     "decontextualized_reception": [
       {
@@ -7353,7 +7497,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "Also the patriarchs",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23683,
+        "value": "Hama (ben Uqva?) (pA3)",
+        "color": "deep-dark-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "Also the patriarchs",
     "translation": null,
@@ -7416,7 +7566,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -7479,7 +7635,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -7502,7 +7664,7 @@
     "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 10:5"
+        "value": "Midrash Psalms, 10:6-7"
       }
     ],
     "hiob_id": "hiob_passage_179",
@@ -7513,7 +7675,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passage": "10:5",
+    "passage": "10:6-7",
     "verses": [
       {
         "id": 238,
@@ -7531,7 +7693,7 @@
         "order": "363.00000000000000000000"
       }
     ],
-    "quote": "",
+    "quote": "ידכה ישוח. א\"ר יצחק ודכה כתיב. שאין הרשעים מזדווגין אלא לבני אדם כמותן. ונפל בעצומיו חלכאים. אמר ר' חנינא בר פפא אין הרשע נופל עד שתתמלא סאתו שנאמר (איוב לד כו) תחת רשעים ספקם. (שם כ כב) במלאות ספקו יצר לו. א\"ר סימון אין הרשע מפיל בקולרים שלו אלא רשעים גבורים כמותו שנאמר (דניאל ג כ) ולגוברין גברי חיל די בחיליה. א\"ר סימון כגון הקוסטינר שהיה מכה ומסיר צלע וחוליא בבת אחת: \n אמר בלבו שכח אל. כמה דאמר (איוב כב יד) עבים סתר לו ולא יראה. כביכול הסתיר פניו בל ראה לנצח. קומה ה' אל נשא ידך. ר' יודן בשם רבי יהודה אמר אמרו ישראל לפני הקב\"ה הגיעו הצרות על נפשנו כאדם שנושק את העבים פשוט ידך ודלינו. אל תשכח. לית אנא מנשי וציון אמרה עזבני ושכחני:",
     "commentary": "",
     "decontextualized_reception": [
       {
@@ -7547,7 +7709,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "It is the original verison?",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23684,
+        "value": "Haninah b. Papa (bA3)",
+        "color": "light-orange"
+      }
+    ],
     "classic_parallels": "",
     "notes": "It is the original verison?",
     "translation": null,
@@ -7706,7 +7874,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23685,
+        "value": "Isy ben Akiva (T5?)",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -7764,7 +7938,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -7822,7 +8002,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23677,
+        "value": "Joshua ben Levi (pA1)",
+        "color": "light-gray"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -7880,7 +8066,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -7942,7 +8134,7 @@
         "order": "203.00000000000000000000"
       }
     ],
-    "quote": "",
+    "quote": "דבר אחר זהו שאמר הכתוב (משלי יב א) אוהב מוסר אוהב דעת. ארבעה הן שלקו. אחד לקה והיה מבעט. וזה איוב שלקה ובעט. וכן הוא אומר (איוב י ב) הודיעני על מה תריבני. למה אני לוקה מה עשיתי לך. אמור כמה לי עוונות וחטאות. יודע אני שהרשות בידך ואתה עושה לי כך. (שם ג) הטוב לך כי תעשוק כי תמאס יגיע כפיך. (שם טז יח) ארץ אל תכסי דמי. זה שלקה והיה מבעט. והשני לקה והיה משחק. זה אברהם שנאמר (בראשית יז יז) ויפול אברהם וגו' ויצחק. ולמה היה דומה אברהם. למלך שנשבע שמכה את בנו ואמר לו בני נשבעתי שאני מכה אותך. אמר לו הרשות בידך. היה מכהו וסבור שיאמר לו הבן די ולא אמר. כיון שלקה אמר האב די הלקתיו. כך (שם א) וירא ה' אל אברם וגו' אני אל שדי. די הכאתיו. השלישי היה לוקה ומבקש מאוהבו שלא ילקה. זה חזקיהו. וכן הוא אומר (ישעיה לח ב) ויסב חזקיהו פניו אל הקיר. רבי נתן אומר אף לוקה ובועט. שכן הוא אומר (שם יד) כסוס עגור כן אצפצף. מגיד שהיו מכותיו קשות משל איוב. באיוב כתיב (איוב יט כ) בעורי ובבשרי דבקה עצמי. ובחזקיה הוא אומר (ישעיה לח יג) שויתי עד בקר כארי. באיוב כתיב (איוב יט כ) ואתמלטה בעור שני. ובחזקיה כתיב (ישעיה לח יב) דורי נסע ונגלה. מגיד שאף עור שניו נטל. הרביעי אמר למה הרצועה תלויה הכוני בה. זה דוד. שנאמר לדוד שפטני ה'. וכן שלמה אומר (משלי יב א) אוהב מוסר אוהב דעת. וכן דוד אומר (תהלים צד יב) אשרי הגבר אשר תיסרנו יה:",
     "commentary": "The whip index.",
     "decontextualized_reception": [],
     "narrative_reception": [
@@ -7953,7 +8145,13 @@
       }
     ],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "Critical of Job in favor of David.",
     "notes": "Critical of Job in favor of David.",
     "translation": null,
@@ -8006,7 +8204,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -8064,7 +8268,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "Comp. bPesah",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "Comp. bPesah",
     "translation": null,
@@ -8117,7 +8327,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "// Pirqe. R. Eli",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "// Pirqe. R. Eli",
     "translation": null,
@@ -8164,7 +8380,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "Implied in Seder Olam 30; contrast Tan Metzora 1",
     "notes": "Implied in Seder Olam 30; contrast Tan Metzora 1",
     "translation": null,
@@ -8251,7 +8473,7 @@
         "order": "172.00000000000000000000"
       }
     ],
-    "quote": "",
+    "quote": "מזמור לדוד ה' שמע תפלתי האזינה אל תחנוני וגו'. אמר שלמה (משלי כ ח-ט) מלך יושב על כסא דין מזרה בעיניו כל רע. מי יאמר זכיתי לבי וגו'. מי יוכל לומר ביום הדין זך אני טהור אני מעווני אין אדם יכול לעמוד וכן הוא אומר (מלאכי ג ב) ומי מכלכל את יום בואו ומי העומד בהראותו. ומי יוכל לעמוד ביום הדין. וכן ירמיהו אומר (ירמיה ל ו) שאלו נא וראו אם יולד זכר מדוע ראיתי כל גבר ידיו על חלציו ונהפכו כל פנים לירקון. אין אדם ביום ההוא שפניו יפות אלא ונהפכו כל פנים לירקון. אף אברהם על ישמעאל אף יצחק על עשו ואף למעלן על ישראל בשבילן. שנאמר (שם) ונהפכו כל פנים לירקון. אמר לו דוד בבקשה ממך הרי אני מתפלל לפניך שתענה אותי ועשה עמי צדקה על אותו היום. לכך נאמר ה' שמע תפלתי וגו'. ואם אין אתה עושה צדקה עמי מי יוכל לעמוד. וכן איוב אמר (איוב יד יג) מי יתן בשאול תצפנני. אמר לו הקב\"ה לעולם. אמר לו עד שיעבור הדין. עד יעבור זעם עד שיעבור אף. (שם) עד שוב אפך. וכן דוד אומר ואל תבוא במשפט את עבדך וכו' אמר דוד לפני הקב\"ה לדין אתה מכניס אותי יש עבד נכנס לדין עם קונו. וכן אמר הכתוב (שם י טו) אם רשעתי אללי לי וגו'. למה הכל לך עבד וכל אשר לו לקונו. וכן הוא אומר (שם יג כ) אך שתים אל תעש עמדי וגו'. (שם כא) כפך מעלי הרחק וגו'. (שם י ט) זכור כי כחומר עשיתני וגו'. (שם יא) עור ובשר וגו'. (שם יב) חיים וחסד עשית וגו'. ועל כל אלה מעמידני לדין. למה (שם יד א) אדם ילוד אשה. (שם ב) כציץ יצא וגו'. (שם ג) ואף על זה פקחת עיניך וגו'. למענך ואל תבוא במשפט את עבדך וגו'. לכך נאמר (משלי כ ט) מי יאמר זכיתי לבי וגו'. אין אדם יכול לזכות את עצמו בדין. למה (מלכים-א ח מו) כי יחטאו לך כי אין אדם אשר לא יחטא. וכן הוא אומר (קהלת ז כ) כי אין צדיק בארץ אשר יעשה טוב ולא יחטא. (איוב טו טו) ושמים לא זכו בעיניו. (שם כה ה) וכוכבים לא זכו בעיניו. לכך נאמר כי לא יצדק לפניך כל חי. מהו כל חי. כל חי לא יצדק לפניך הא המתים זכים. אלא על החיות של מעלן אינן יכולין להצדיק לפניך ביום הדין. לכך נאמר כי לא יצדק לפניך כל חי:",
     "commentary": "",
     "decontextualized_reception": [
       {
@@ -8268,7 +8490,13 @@
       }
     ],
     "points_of_note": "Meybe reads David as Job",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "Meybe reads David as Job",
     "translation": null,
@@ -8326,7 +8554,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "Davidic narrative with parallels.",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "Davidic narrative with parallels.",
     "translation": null,
@@ -8465,7 +8699,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -8518,7 +8758,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "Implies Job was guilty unlike R. Yohanan's Talmudic positions.",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23378,
+        "value": "Yochanan (pA2)",
+        "color": "dark-pink"
+      }
+    ],
     "classic_parallels": "",
     "notes": "Implies Job was guilty unlike R. Yohanan's Talmudic positions.",
     "translation": null,
@@ -8571,7 +8817,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23677,
+        "value": "Joshua ben Levi (pA1)",
+        "color": "light-gray"
+      }
+    ],
     "classic_parallels": "// bSotah 42a; bSanh 103a",
     "notes": "// bSotah 42a; bSanh 103a",
     "translation": null,
@@ -8624,7 +8876,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "Fits Tannaitic reading of this verse.",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23686,
+        "value": "Natan (T4)",
+        "color": "light-pink"
+      }
+    ],
     "classic_parallels": "",
     "notes": "Fits Tannaitic reading of this verse.",
     "translation": null,
@@ -8682,7 +8940,18 @@
     ],
     "narrative_reception": [],
     "points_of_note": "Focuses on water.",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23687,
+        "value": "Yudan b. Levi (?)",
+        "color": "light-brown"
+      },
+      {
+        "id": 23688,
+        "value": "Yehudah ben. Shalom (pA5)",
+        "color": "light-blue"
+      }
+    ],
     "classic_parallels": "",
     "notes": "Focuses on water.",
     "translation": null,
@@ -8735,7 +9004,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23689,
+        "value": "Aha (pA4)",
+        "color": "dark-blue"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -8793,6 +9068,11 @@
         "id": 22364,
         "value": "Zophar",
         "color": "light-brown"
+      },
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
       }
     ],
     "classic_parallels": "",
@@ -8847,7 +9127,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "// EikhaR; PDRK 24",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23690,
+        "value": "Isaschar (pA2)",
+        "color": "darker-purple"
+      }
+    ],
     "classic_parallels": "",
     "notes": "// EikhaR; PDRK 24",
     "translation": null,
@@ -8884,17 +9170,12 @@
     "passage": "37:2",
     "verses": [
       {
-        "id": 131,
-        "value": "8:13",
-        "order": "109.00000000000000000000"
-      },
-      {
         "id": 132,
         "value": "8:16",
         "order": "110.00000000000000000000"
       }
     ],
-    "quote": "",
+    "quote": "כי כחציר מהרה ימלו. אמר הקב\"ה אין הרשעים כלום חציר הם תוחלתם. וכן הוא אומר (תהלים צב ח) בפרוח רשעים כמו עשב. מפריחין כזה העשב ומתייבשין. וכן בלדד אומר (איוב ח טז) רטוב הוא לפני שמש ועל גנתו יונקתו תצא. ועד מתי לפני שמש עד שלא תבוא תקופת תמוז מתיבשין ואחר כך נעשין קוצין. ולהיכן הם הולכים באש. שנאמר (תהלים קיח יב) דועכו כאש קוצים. ולכך כירק דשא יבולון:",
     "commentary": "",
     "decontextualized_reception": [
       {
@@ -8905,7 +9186,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -8958,7 +9245,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "See 104:22",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "See 104:22",
     "translation": null,
@@ -9010,12 +9303,23 @@
         "order": "138.00000000000000000000"
       }
     ],
-    "quote": "",
+    "quote": "דבר אחר מי ימלל. אמר צופר הנעמתי לאיוב (איוב יא ז-ט) החקר אלוה תמצא. ארוכה מארץ מדה ורחבה מני ים. מי יוכל לחקור דוגמא שלו אלא (שם ח) גבהי שמים מה תפעל. מה הוא אומר יכול אתה לספר מי פעל שמים והכוכבים ואפילו משה רבינו שעלה למעלה למרום וקיבל את התורה מיד אל יד לא עמד על חקר זה. (א\"ר) [אמר] רבי הונא הכהן בשם ר' ירמיה בשם ר' חייא הגדול (קהלת ח יז) וראיתי את כל מעשה האלקים. זו התורה. כמה דאמר (שמות לב טז) והלוחות מעשה אלקים המה. כי לא יוכל אדם למצוא את המעשה. באדם לא ימצא. כי גם אם יאמר החכם לדעת אינו כן אם יאמר החכם זה משה רבן של הנביאים ושל חכמים. לא יוכל למצוא מה שכתוב בתורה. ומי יוכל לומר שבחו אלא בניו שנאמר (דברים לג כט) אשריך ישראל מי כמוך. וכתיב אשרי שומרי משפט. (בראשית יח יט) כי ידעתיו למען אשר יצוה. כיון שיצאו ישראל ממצרים וקרע להם הקדוש ברוך הוא את הים והעבירן בתוכו באו מלאכי השרת לקלס לפניו ולא הניחן הקדוש ברוך הוא שנאמר (שמות יד כ) ולא קרב זה אל זה כל הלילה. ואינם אלא מלאכים שנאמר (ישעיה ו ג) וקרא זה אל זה ואמר. אמר להם הקב\"ה משה וישראל יקלסו אותי שנאמר (שמות טו א) אז ישיר משה. שר לא נאמר אלא ישיר כאדם שאומר פלוני יאמר שירה תחלה. (שם יא) מי כמוך באלים ה' מי כמוך נאדר בקודש. מה הוא נורא תהלות. אמר רבי יודן נורא אתה על כל תהלותיך. כיצד מלך בשר ודם נכנס למדינה מקלסין אותו שהוא גבור ואינו אלא חלש. שהוא עשיר ואינו אלא עני. רחמני ואינו אלא אכזרי. אבל הקב\"ה אינו כן אלא מכל דבר שמקלס אדם להקב\"ה (הוא) יש בו יותר ויותר מכאן שהוא נורא על כל תהלותיו. אמר דוד המלך כשם שקילסוך בעולם הזה כך יקלסוך בעולם הבא. (תהלים עח ד) לא נכחד מבניהם לדור אחרון מספרים תהלות ה'. ואנו מקלסין (שם עט יג) ואנחנו עמך וצאן מרעיתך נודה לך:",
     "commentary": "",
     "decontextualized_reception": [],
     "narrative_reception": [],
     "points_of_note": "Compare 139:1, parallel",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      },
+      {
+        "id": 22364,
+        "value": "Zophar",
+        "color": "light-brown"
+      }
+    ],
     "classic_parallels": "",
     "notes": "Compare 139:1, parallel",
     "translation": null,
@@ -9058,7 +9362,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "// 18:21. More so // 119:11",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "// 18:21. More so // 119:11",
     "translation": null,
@@ -9116,7 +9426,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "// 104:22",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23678,
+        "value": "Simon (pA2)",
+        "color": "darker-orange"
+      }
+    ],
     "classic_parallels": "",
     "notes": "// 104:22",
     "translation": null,
@@ -9184,7 +9500,18 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      },
+      {
+        "id": 22363,
+        "value": "Job",
+        "color": "dark-brown"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -9200,43 +9527,6 @@
       "value": "decontextualized",
       "color": "darker-red"
     }
-  },
-  "214": {
-    "id": 214,
-    "order": "180.00000000000000000000",
-    "midrash_passage": [
-      {
-        "id": 38,
-        "value": "Midrash Psalms, 95:3"
-      }
-    ],
-    "hiob_id": "hiob_passage_214",
-    "midrash": [
-      {
-        "id": 38,
-        "value": "Midrash Psalms",
-        "order": "14.00000000000000000000"
-      }
-    ],
-    "passage": "95:3",
-    "verses": [
-      {
-        "id": 142,
-        "value": "10:1",
-        "order": "120.00000000000000000000"
-      }
-    ],
-    "quote": "",
-    "commentary": "",
-    "decontextualized_reception": [],
-    "narrative_reception": [],
-    "points_of_note": "",
-    "rabbis": [],
-    "classic_parallels": "",
-    "notes": "",
-    "translation": null,
-    "reception": [],
-    "reception_type": null
   },
   "215": {
     "id": 215,
@@ -9274,7 +9564,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -9370,7 +9666,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23691,
+        "value": "Yosei (T4)",
+        "color": "darker-brown"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -9405,7 +9707,13 @@
       }
     ],
     "passage": "72:4",
-    "verses": [],
+    "verses": [
+      {
+        "id": 124,
+        "value": "7:18",
+        "order": "102.00000000000000000000"
+      }
+    ],
     "quote": "[ד] דבר אחר [עב, ב] ידין עמך בצדק. אמר ר' יוסי בר חלפתא בכל בוקר ובוקר אדם נידון, שנאמר ותפקדנו לבקרים (איוב ז יח). ישפוט עניי עם יושיע (עני ואביון) [לבני אביון]. כמה שנאמר ושפט בצדק דלים (ישעיה יא ד). ייראוך עם שמש. בעולם הזה שצריכין לאור החמה. ולפני ירח דור דורים. פנים בפנים כנגד הירח קודם שיסתלק אורו, שנאמר וחפרה הלבנה ובושה החמה (שם /ישעיהו/ כד כג), ואומר לא יהיה לך [עוד] השמש לאור יומם [ולנוגה הירח לא יאיר לך] (שם /ישעיהו/ ס יט). מהו דור דורים. דור שאין אחריו דור. דבר אחר ייראוך עם שמש. זו תפלת השחר שקורין קריאת שמע עם הנץ החמה. ולפני ירח. זו תפלת המנחה שצריכה קודם שיחשיך ויצטרך העולם לאור הירח. רבותינו אמרו ייראוך עם שמש. זו תפלה של בין הערבים",
     "commentary": "God reassesses each person every morning.",
     "decontextualized_reception": [
@@ -9417,7 +9725,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23691,
+        "value": "Yosei (T4)",
+        "color": "darker-brown"
+      }
+    ],
     "classic_parallels": "t. Rosh Hashanah  1:12",
     "notes": "t. Rosh Hashanah  1:12",
     "translation": null,
@@ -9470,7 +9784,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -9493,7 +9813,7 @@
     "midrash_passage": [
       {
         "id": 38,
-        "value": "Midrash Psalms, 92:9"
+        "value": "Midrash Psalms, 92:3"
       }
     ],
     "hiob_id": "hiob_passage_220",
@@ -9504,7 +9824,7 @@
         "order": "14.00000000000000000000"
       }
     ],
-    "passage": "92:9",
+    "passage": "92:3",
     "verses": [
       {
         "id": 67,
@@ -9517,7 +9837,7 @@
         "order": "100.00000000000000000000"
       }
     ],
-    "quote": "",
+    "quote": "דבר אחר אמר רבי לוי מזמור שיר ליום השבת. שלא שמש בו אפלה. את מוצא בכל יום ויום כתיב (בראשית א ה-לא) ויהי ערב ויהי בקר. ובשבת לא כתיב בו ערב. אמר רבי לוי בר נזרא שלשים ושש שעות היה יום ערב שבת ולילו שהיה בקר ושבת עצמה. כיון שראה אדם מוצאי שבת עם דמדומי חמה ומתחיל החשך לבוא התחיל אדם טופח על פניו ואומר אוי לי שמא זה שאמר הקב\"ה (שם ג טו) הוא ישופך ראש. הוא מביאו עכשיו. שנאמר (תהלים קלט יא) ואומר אך חשך ישופני. והיה יושב ומהרהר בלבו שמא יבוא הנחש שהטעה אותי בערב שבת וישופני עקב. נשתלח לו עמוד אש להאיר לו ולשמרו מכל דבר רע. ראה לעמוד האש ושמח בלבו ואמר עכשיו אני יודע שהמקום עמי. ובירך בורא מאורי האש וכשהרחיק ידו מן האש אמר עכשיו אני יודע שנבדל יום הקדש מן החול שאין לבער אש בשבת. ואמר ברוך המבדיל בין קדש לחול. ויש אומרים שזימן לו הקב\"ה שתי אבנים אחת של אופל ואחת של צלמות שנאמר (איוב כח ג) קץ שם לחשך וגו' אבן אופל וצלמות. ונטל אדם הראשון את שתי האבנים והקישן זו לזו ויצא מהן אש משתי האבנים והבדיל. ולפיכך אנו מבדילין על האור במוצאי שבת. א\"ר הונא אף ביום הכפורים מבדילין ששבת האור באותו היום:",
     "commentary": "Where Adam learnt the Havdalah.",
     "decontextualized_reception": [
       {
@@ -9528,7 +9848,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23692,
+        "value": "Levi b. Nazira?",
+        "color": "darker-brown"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -9581,7 +9907,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23693,
+        "value": "Yehudah b. Simon (pA4)",
+        "color": "yellow"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -9628,7 +9960,7 @@
         "order": "95.00000000000000000000"
       }
     ],
-    "quote": "",
+    "quote": "Other edition, just more proof texts for women in the account",
     "commentary": "",
     "decontextualized_reception": [],
     "narrative_reception": [],
@@ -9676,7 +10008,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -9723,7 +10061,7 @@
         "order": "87.00000000000000000000"
       }
     ],
-    "quote": "",
+    "quote": "הללו את ה' כל גוים. זה שאמר הכתוב (תהלים פו ח) אין כמוך באלקים ה' ואין כמעשיך. כיצד בשר ודם צר צורה ואין צורתו עושה צורה. אבל הקב\"ה האדם הוא צורתו שנאמר (בראשית ב ז) וייצר אלקים את האדם. ואף הוא מוליד כצורתו שנאמר (שם ה ג) ויולד בדמותו בצלמו. המים מעשה ידיו והן שורצין שנאמר (שם א כ) ישרצו המים. מלך בשר ודם כשבאין לקלסו אוהביו מקלסין אותו. שמא שונאיו. אבל הקב\"ה הכל מקלסין אותו שנאמר (תהלים פו ט) כל גוים אשר עשית. אמר ר' פנחס שאל פוליפוס אחד את ר' יהושע בן חנניה אי זה יום שכל העולם שוים והאומות משתחוים להקב\"ה. אמר לו יום אחד הכל שמחים אימתי כיון שהגשמים עומדין להן הכל מצירין וכיון שיורדין הכל שמחין ומקלסין להקב\"ה. שנאמר (שם) כל גוים אשר עשית יבואו. ואימתי (שם י) כי גדול אתה ועושה נפלאות. ואין נפלאות אלא הגשמים שנאמר (איוב ה ט-י) עושה וגו' נפלאות עד אין חקר. הנותן מטר על פני ארץ. לכך הללו את ה' כל גוים. אמר רבי תנחום בר חייא גדולה ירידת הגשמים ממתן התורה. שמתן תורה שמחה לישראל וירידת הגשמים שמחה לכל העמים ולכל העולם לבהמה ולחיה ולעופות שנאמר (תהלים סה י) פקדת הארץ ותשוקקיה. תן לה תשוקתה. רבי אומר תן לה תאותה. כענין שנאמר (בראשית ג טז) ואל אישך תשוקתך:",
     "commentary": "",
     "decontextualized_reception": [
       {
@@ -9734,7 +10072,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23694,
+        "value": "Joshua ben Hananiah (T2)",
+        "color": "brown"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -9787,7 +10131,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "It’s unusual to think of Reshef as a bird rather than an angel or demon.",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "It’s unusual to think of Reshef as a bird rather than an angel or demon.",
     "translation": null,
@@ -9883,7 +10233,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -9936,7 +10292,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "// 8:5",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23695,
+        "value": "Yosei HaGlili (T3)",
+        "color": "darker-gray"
+      }
+    ],
     "classic_parallels": "",
     "notes": "// 8:5",
     "translation": null,
@@ -9989,7 +10351,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "//58:4",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23695,
+        "value": "Yosei HaGlili (T3)",
+        "color": "darker-gray"
+      }
+    ],
     "classic_parallels": "",
     "notes": "//58:4",
     "translation": null,
@@ -10042,7 +10410,18 @@
     ],
     "narrative_reception": [],
     "points_of_note": "”Sufferings of Love”, uses Satan’s stance skin for skin as proof and true.",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23686,
+        "value": "Natan (T4)",
+        "color": "light-pink"
+      },
+      {
+        "id": 23696,
+        "value": "Nehemiah (T4)",
+        "color": "cyan"
+      }
+    ],
     "classic_parallels": "MekhRY Behaodesh 10 identical",
     "notes": "MekhRY Behaodesh 10 identical”Sufferings of Love”, uses Satan’s stance skin for skin as proof and true.",
     "translation": null,
@@ -10095,7 +10474,13 @@
       }
     ],
     "points_of_note": "Positive analogy to David unlike whip one (26:2), about the blessing",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23697,
+        "value": "Yehudah b. Playah (T4)",
+        "color": "dark-red"
+      }
+    ],
     "classic_parallels": "",
     "notes": "Positive analogy to David unlike whip one (26:2), about the blessing",
     "translation": null,
@@ -10191,7 +10576,13 @@
       }
     ],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23691,
+        "value": "Yosei (T4)",
+        "color": "darker-brown"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
     "translation": null,
@@ -10587,7 +10978,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "Polemic against Hekhalot mysticism, possibly also against the Bavli.",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "Polemic against Hekhalot mysticism, possibly also against the Bavli.",
     "translation": null,
@@ -10645,7 +11042,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23677,
+        "value": "Joshua ben Levi (pA1)",
+        "color": "light-gray"
+      }
+    ],
     "classic_parallels": "BerR 4:8",
     "notes": "BerR 4:8",
     "translation": null,
@@ -10708,7 +11111,13 @@
     ],
     "narrative_reception": [],
     "points_of_note": "Contrast Bavli",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 23677,
+        "value": "Joshua ben Levi (pA1)",
+        "color": "light-gray"
+      }
+    ],
     "classic_parallels": "",
     "notes": "Contrast Bavli",
     "translation": null,

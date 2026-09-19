@@ -797,7 +797,7 @@
       },
       {
         "id": 220,
-        "value": "Midrash Psalms, 92:9",
+        "value": "Midrash Psalms, 92:3",
         "order": "186.00000000000000000000"
       },
       {
@@ -1527,7 +1527,7 @@
       },
       {
         "id": 220,
-        "value": "Midrash Psalms, 92:9",
+        "value": "Midrash Psalms, 92:3",
         "order": "186.00000000000000000000"
       },
       {
@@ -1555,7 +1555,13 @@
     "order": "102.00000000000000000000",
     "verse": "7:18",
     "quote": "",
-    "passages": [],
+    "passages": [
+      {
+        "id": 218,
+        "value": "Midrash Psalms, 72:4",
+        "order": "184.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_124",
     "canonical_meaning": null,
     "voices": []
@@ -1637,13 +1643,7 @@
     "order": "109.00000000000000000000",
     "verse": "8:13",
     "quote": "",
-    "passages": [
-      {
-        "id": 208,
-        "value": "Midrash Psalms, 37:2",
-        "order": "174.00000000000000000000"
-      }
-    ],
+    "passages": [],
     "hiob_id": "hiob_verse_131",
     "canonical_meaning": null,
     "voices": []
@@ -1810,11 +1810,6 @@
         "id": 187,
         "value": "Midrash Psalms, 26:2",
         "order": "154.00000000000000000000"
-      },
-      {
-        "id": 214,
-        "value": "Midrash Psalms, 95:3",
-        "order": "180.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_142",
@@ -2967,7 +2962,7 @@
       },
       {
         "id": 179,
-        "value": "Midrash Psalms, 10:5",
+        "value": "Midrash Psalms, 10:6-7",
         "order": "146.00000000000000000000"
       }
     ],
@@ -3216,7 +3211,7 @@
     "passages": [
       {
         "id": 179,
-        "value": "Midrash Psalms, 10:5",
+        "value": "Midrash Psalms, 10:6-7",
         "order": "146.00000000000000000000"
       }
     ],
@@ -3589,7 +3584,7 @@
     "passages": [
       {
         "id": 175,
-        "value": "Midrash Psalms, 146:3",
+        "value": "Midrash Psalms, 146:2",
         "order": "142.00000000000000000000"
       },
       {
@@ -4813,7 +4808,7 @@
     "passages": [
       {
         "id": 179,
-        "value": "Midrash Psalms, 10:5",
+        "value": "Midrash Psalms, 10:6-7",
         "order": "146.00000000000000000000"
       }
     ],
