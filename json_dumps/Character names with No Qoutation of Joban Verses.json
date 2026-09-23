@@ -1,0 +1,146 @@
+{
+  "1": {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "Name": "Mishna Eduyot",
+    "Notes": "2:10 Job's ordeal was 12 months. Implies he is a paradigmatic sinner. However, Seder Olam Rabbah 12 has a proof text for this claim.",
+    "Active": false,
+    "Characters": "Job"
+  },
+  "2": {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "Name": "Bavli Avodah Zarah",
+    "Notes": "3a mentions Bildad, Zophar, Eliphaz and Elihu as gentile prophets who may testify that Israel has fulfilled the entire Torah; no quotation of a Joban verse",
+    "Active": false,
+    "Characters": "Bildad, Zophar, Eliphaz and Elihu"
+  },
+  "3": {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "Name": "Seder Olam Rabbah",
+    "Notes": "28 mentions Job Bildad, Zophar, Eliphaz and Elihu as the gentile prophets with Balaam and his father until the Torah was bestowed. // Seder Eliyahu Rabbah 28; Zuta 11",
+    "Active": false,
+    "Characters": "Job Bildad, Zophar, Eliphaz and Elihu"
+  },
+  "4": {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "Name": "Yerushalmi Sotah",
+    "Notes": "5:5 (Leiden) Job is the example of parush Yir'ah",
+    "Active": false,
+    "Characters": "Job"
+  },
+  "5": {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "Name": "Yerushalmi Sotah",
+    "Notes": "5:5 Moses was the author of Job",
+    "Active": false,
+    "Characters": "Book of Job"
+  },
+  "6": {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "Name": "Bavli Megillah",
+    "Notes": "28a Job was generous and allowed the storekeeper to keep the change. // Bava Batra 15b but less favorable.",
+    "Active": false,
+    "Characters": "Job"
+  },
+  "7": {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "Name": "Derekh Eretz Zuta",
+    "Notes": "1:3 If you’ve suffered financial loss, remember Job, who also endured bodily harm.",
+    "Active": false,
+    "Characters": "Job"
+  },
+  "8": {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "Name": "Ecclesiastes Rabbah",
+    "Notes": "7:2 [4] Job's three companions went to his house of mourning, their names were mentioned, they enjoyed the Holy Spirit, and they were saved from hell. // TanB Vayishlach 23 but with verses.",
+    "Active": false,
+    "Characters": "Bildad, Zophar, Eliphaz (not by name)"
+  },
+  "9": {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "Name": "Tanhuma",
+    "Notes": "Noah 5, Job witnessed his home destroyed and later restored // Esther Rabbah",
+    "Active": false,
+    "Characters": "Job"
+  },
+  "10": {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "Name": "Hupat Eliyahu",
+    "Notes": "193 the three councilors tradition without any supporting texts",
+    "Active": false,
+    "Characters": "Job"
+  },
+  "11": {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "Name": "Alpah Betot",
+    "Notes": "9 Satan accused the righteous Job.",
+    "Active": false,
+    "Characters": "Job"
+  },
+  "12": {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "Name": "Genesis Rabbah",
+    "Notes": "26:7 Eliphaz, Bildad, and Zophar speak of the generations before the Flood.",
+    "Active": false,
+    "Characters": "Eliphaz, Bildad, and Zophar"
+  },
+  "13": {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "Name": "Seder Eliyahu",
+    "Notes": "Eliphaz should have given better advice to his son Amalek.",
+    "Active": false,
+    "Characters": "Eliphaz"
+  },
+  "14": {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "Name": "Numbers Rabbah",
+    "Notes": "2:13 Eliphaz and Esau shame Isaac.",
+    "Active": false,
+    "Characters": "Eliphaz"
+  },
+  "15": {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "Name": "Aggadat Bereshit",
+    "Notes": "62:3 Zophar and Elihu studied with Jacob.",
+    "Active": false,
+    "Characters": "Zophar, Elihu"
+  },
+  "16": {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "Name": "Genesis Rabbah",
+    "Notes": "26:7 If Elihu appears in the Bible solely to teach us about rain, that alone would be enough; or perhaps the light he refers to is the Torah.",
+    "Active": false,
+    "Characters": "Elihu"
+  },
+  "17": {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "Name": "Song Rabbah",
+    "Notes": "1:4 [6] How do we know that Elihu taught us about Leviathan and Behemoth, suggesting he prophesied the storm?",
+    "Active": false,
+    "Characters": "Elihu"
+  },
+  "18": {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "Name": "",
+    "Notes": "",
+    "Active": false,
+    "Characters": ""
+  }
+}
