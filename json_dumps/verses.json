@@ -7,7 +7,7 @@
     "passages": [
       {
         "id": 4,
-        "value": "Esther Rabbah I, 6:3",
+        "value": "Ester Rabbah I, 6:3",
         "order": "4.00000000000000000000"
       }
     ],
@@ -29,7 +29,7 @@
     "passages": [
       {
         "id": 10,
-        "value": "Esther Rabbah II, 10:9",
+        "value": "Ester Rabbah II, 10:9",
         "order": "10.00000000000000000000"
       }
     ],
@@ -51,7 +51,7 @@
     "passages": [
       {
         "id": 3,
-        "value": "Esther Rabbah I, 4:9",
+        "value": "Ester Rabbah I, 4:9",
         "order": "3.00000000000000000000"
       }
     ],
@@ -73,7 +73,7 @@
     "passages": [
       {
         "id": 9,
-        "value": "Esther Rabbah II, 7:11",
+        "value": "Ester Rabbah II, 7:11",
         "order": "9.00000000000000000000"
       }
     ],
@@ -95,7 +95,7 @@
     "passages": [
       {
         "id": 7,
-        "value": "Esther Rabbah II, 7:2",
+        "value": "Ester Rabbah II, 7:2",
         "order": "7.00000000000000000000"
       }
     ],
@@ -117,17 +117,17 @@
     "passages": [
       {
         "id": 5,
-        "value": "Esther Rabbah I, 6:3",
+        "value": "Ester Rabbah I, 6:3",
         "order": "5.00000000000000000000"
       },
       {
         "id": 90,
-        "value": "Avot DeRabbi Natan A, 6:2",
+        "value": "Avot de-Rabbi Natan A, 6:2",
         "order": "57.00000000000000000000"
       },
       {
         "id": 91,
-        "value": "Avot DeRabbi Natan B, 12",
+        "value": "Avot de-Rabbi Natan B, 12",
         "order": "58.00000000000000000000"
       }
     ],
@@ -149,7 +149,7 @@
     "passages": [
       {
         "id": 6,
-        "value": "Esther Rabbah I, 6:3",
+        "value": "Ester Rabbah I, 6:3",
         "order": "6.00000000000000000000"
       }
     ],
@@ -171,7 +171,7 @@
     "passages": [
       {
         "id": 8,
-        "value": "Esther Rabbah II, 7:3",
+        "value": "Ester Rabbah II, 7:3",
         "order": "8.00000000000000000000"
       }
     ],
@@ -193,7 +193,7 @@
     "passages": [
       {
         "id": 8,
-        "value": "Esther Rabbah II, 7:3",
+        "value": "Ester Rabbah II, 7:3",
         "order": "8.00000000000000000000"
       }
     ],
@@ -215,7 +215,7 @@
     "passages": [
       {
         "id": 1,
-        "value": "Esther Rabbah I, Proem 9",
+        "value": "Ester Rabbah I, Proem 9",
         "order": "1.00000000000000000000"
       }
     ],
@@ -237,12 +237,12 @@
     "passages": [
       {
         "id": 11,
-        "value": "Esther Rabbah II, 10:15",
+        "value": "Ester Rabbah II, 10:15",
         "order": "11.00000000000000000000"
       },
       {
         "id": 125,
-        "value": "Midrash Psalms, 19:2",
+        "value": "Midrash Tehillim, 19:2",
         "order": "92.00000000000000000000"
       }
     ],
@@ -264,12 +264,12 @@
     "passages": [
       {
         "id": 2,
-        "value": "Esther Rabbah I, Proem 11",
+        "value": "Ester Rabbah I, Proem 11",
         "order": "2.00000000000000000000"
       },
       {
         "id": 135,
-        "value": "Midrash Psalms, 111:1",
+        "value": "Midrash Tehillim, 111:1",
         "order": "102.00000000000000000000"
       }
     ],
@@ -291,17 +291,17 @@
     "passages": [
       {
         "id": 6,
-        "value": "Esther Rabbah I, 6:3",
+        "value": "Ester Rabbah I, 6:3",
         "order": "6.00000000000000000000"
       },
       {
         "id": 45,
-        "value": "Tanhuma, Exodus 6:8",
+        "value": "Tanḥuma, Exodus 6:8",
         "order": "13.00000000000000000000"
       },
       {
         "id": 46,
-        "value": "Tanhuma (Buber), Genesis 4:30",
+        "value": "Tanḥuma Buber, Genesis 4:30",
         "order": "14.00000000000000000000"
       },
       {
@@ -311,17 +311,17 @@
       },
       {
         "id": 48,
-        "value": "Numbers Rabbah II, 19:23",
+        "value": "Bemidbar Rabbah  II, 19:23",
         "order": "16.00000000000000000000"
       },
       {
         "id": 49,
-        "value": "Exodus Rabbah II, 31:3",
+        "value": "Shemot Rabbah II, 31:3",
         "order": "17.00000000000000000000"
       },
       {
         "id": 50,
-        "value": "Ecclesiastes Rabbah, 7:2 &4",
+        "value": "Qohelet Rabbah, 7:2 &4",
         "order": "18.00000000000000000000"
       }
     ],
@@ -343,7 +343,7 @@
     "passages": [
       {
         "id": 44,
-        "value": "Ecclesiastes Rabbah, 7:19 & 8:1",
+        "value": "Qohelet Rabbah, 7:19 & 8:1",
         "order": "12.00000000000000000000"
       }
     ],
@@ -365,7 +365,7 @@
     "passages": [
       {
         "id": 50,
-        "value": "Ecclesiastes Rabbah, 7:2 &4",
+        "value": "Qohelet Rabbah, 7:2 &4",
         "order": "18.00000000000000000000"
       }
     ],
@@ -387,17 +387,17 @@
     "passages": [
       {
         "id": 50,
-        "value": "Ecclesiastes Rabbah, 7:2 &4",
+        "value": "Qohelet Rabbah, 7:2 &4",
         "order": "18.00000000000000000000"
       },
       {
         "id": 51,
-        "value": "Midrash Psalms, 17:1",
+        "value": "Midrash Tehillim, 17:1",
         "order": "19.00000000000000000000"
       },
       {
         "id": 52,
-        "value": "Tanhuma (Buber), Genesis 8:4",
+        "value": "Tanḥuma Buber, Genesis 8:4",
         "order": "20.00000000000000000000"
       }
     ],
@@ -419,17 +419,17 @@
     "passages": [
       {
         "id": 53,
-        "value": "Tanhuma, Exodus 2:9",
+        "value": "Tanḥuma, Exodus 2:9",
         "order": "21.00000000000000000000"
       },
       {
         "id": 54,
-        "value": "Tanhuma (Buber), Exodus 2:8",
+        "value": "Tanḥuma Buber, Exodus 2:8",
         "order": "22.00000000000000000000"
       },
       {
         "id": 55,
-        "value": "Exodus Rabbah I, 8:2",
+        "value": "Shemot Rabbah I, 8:2",
         "order": "23.00000000000000000000"
       }
     ],
@@ -451,7 +451,7 @@
     "passages": [
       {
         "id": 121,
-        "value": "Pirkei DeRabbi Eliezer, 52",
+        "value": "Pirqei de-Rabbi Eliʿezer, 52",
         "order": "88.00000000000000000000"
       }
     ],
@@ -473,7 +473,7 @@
     "passages": [
       {
         "id": 57,
-        "value": "Tanhuma (Buber), Genesis 11:3",
+        "value": "Tanḥuma Buber, Genesis 11:3",
         "order": "25.00000000000000000000"
       }
     ],
@@ -495,7 +495,7 @@
     "passages": [
       {
         "id": 58,
-        "value": "Tanhuma (Buber), Genesis 4:10",
+        "value": "Tanḥuma Buber, Genesis 4:10",
         "order": "26.00000000000000000000"
       }
     ],
@@ -517,7 +517,7 @@
     "passages": [
       {
         "id": 59,
-        "value": "Numbers Rabbah I, 14:2",
+        "value": "Bemidbar Rabbah I, 14:2",
         "order": "27.00000000000000000000"
       },
       {
@@ -532,17 +532,17 @@
       },
       {
         "id": 62,
-        "value": "Tanhuma (Buber), Leviticus 7:15",
+        "value": "Tanḥuma Buber, Leviticus 7:15",
         "order": "30.00000000000000000000"
       },
       {
         "id": 63,
-        "value": "Tanhuma (Buber), Leviticus 8:10",
+        "value": "Tanḥuma Buber, Leviticus 8:10",
         "order": "31.00000000000000000000"
       },
       {
         "id": 64,
-        "value": "Midrash Psalms, 30:2",
+        "value": "Midrash Tehillim, 30:2",
         "order": "32.00000000000000000000"
       }
     ],
@@ -564,7 +564,7 @@
     "passages": [
       {
         "id": 65,
-        "value": "Tanhuma (Buber), Exodus 4:24",
+        "value": "Tanḥuma Buber, Exodus 4:24",
         "order": "33.00000000000000000000"
       }
     ],
@@ -586,7 +586,7 @@
     "passages": [
       {
         "id": 66,
-        "value": "Tanhuma (Buber), Deuteronomy 2:5",
+        "value": "Tanḥuma Buber, Deuteronomy 2:5",
         "order": "34.00000000000000000000"
       },
       {
@@ -613,7 +613,7 @@
     "passages": [
       {
         "id": 68,
-        "value": "Numbers Rabbah II, 21:18",
+        "value": "Bemidbar Rabbah  II, 21:18",
         "order": "36.00000000000000000000"
       },
       {
@@ -628,12 +628,12 @@
       },
       {
         "id": 71,
-        "value": "Pirkei DeRabbi Eliezer, 11",
+        "value": "Pirqei de-Rabbi Eliʿezer, 11",
         "order": "39.00000000000000000000"
       },
       {
         "id": 113,
-        "value": "Pirkei DeRabbi Eliezer, 11",
+        "value": "Pirqei de-Rabbi Eliʿezer, 11",
         "order": "80.00000000000000000000"
       }
     ],
@@ -655,12 +655,12 @@
     "passages": [
       {
         "id": 71,
-        "value": "Pirkei DeRabbi Eliezer, 11",
+        "value": "Pirqei de-Rabbi Eliʿezer, 11",
         "order": "39.00000000000000000000"
       },
       {
         "id": 113,
-        "value": "Pirkei DeRabbi Eliezer, 11",
+        "value": "Pirqei de-Rabbi Eliʿezer, 11",
         "order": "80.00000000000000000000"
       }
     ],
@@ -682,12 +682,12 @@
     "passages": [
       {
         "id": 71,
-        "value": "Pirkei DeRabbi Eliezer, 11",
+        "value": "Pirqei de-Rabbi Eliʿezer, 11",
         "order": "39.00000000000000000000"
       },
       {
         "id": 113,
-        "value": "Pirkei DeRabbi Eliezer, 11",
+        "value": "Pirqei de-Rabbi Eliʿezer, 11",
         "order": "80.00000000000000000000"
       }
     ],
@@ -731,7 +731,7 @@
     "passages": [
       {
         "id": 73,
-        "value": "Midrash Psalms, 18:32",
+        "value": "Midrash Tehillim, 18:32",
         "order": "41.00000000000000000000"
       }
     ],
@@ -753,7 +753,7 @@
     "passages": [
       {
         "id": 74,
-        "value": "Exodus Rabbah II, 23:13",
+        "value": "Shemot Rabbah II, 23:13",
         "order": "42.00000000000000000000"
       }
     ],
@@ -775,7 +775,7 @@
     "passages": [
       {
         "id": 75,
-        "value": "Exodus Rabbah I, 3:6",
+        "value": "Shemot Rabbah I, 3:6",
         "order": "43.00000000000000000000"
       }
     ],
@@ -797,7 +797,7 @@
     "passages": [
       {
         "id": 72,
-        "value": "Midrash Psalms, 9:7",
+        "value": "Midrash Tehillim, 9:7",
         "order": "40.00000000000000000000"
       }
     ],
@@ -835,7 +835,7 @@
     "passages": [
       {
         "id": 234,
-        "value": "Midrash Psalms, 50:3",
+        "value": "Midrash Tehillim, 50:3",
         "order": "200.00000000000000000000"
       }
     ],
@@ -857,7 +857,7 @@
     "passages": [
       {
         "id": 87,
-        "value": "Avot DeRabbi Natan B, 44",
+        "value": "Avot de-Rabbi Natan B, 44",
         "order": "54.00000000000000000000"
       }
     ],
@@ -900,12 +900,12 @@
     "passages": [
       {
         "id": 77,
-        "value": "Avot DeRabbi Natan A, 2:5",
+        "value": "Avot de-Rabbi Natan A, 2:5",
         "order": "45.00000000000000000000"
       },
       {
         "id": 78,
-        "value": "Avot DeRabbi Natan B, 2",
+        "value": "Avot de-Rabbi Natan B, 2",
         "order": "46.00000000000000000000"
       }
     ],
@@ -927,7 +927,7 @@
     "passages": [
       {
         "id": 290,
-        "value": "Tanhuma, Mishpatim 11",
+        "value": "Tanḥuma, Mishpatim 11",
         "order": "256.00000000000000000000"
       }
     ],
@@ -1061,17 +1061,17 @@
     "passages": [
       {
         "id": 80,
-        "value": "Avot DeRabbi Natan A, 14:6",
+        "value": "Avot de-Rabbi Natan A, 14:6",
         "order": "48.00000000000000000000"
       },
       {
         "id": 220,
-        "value": "Midrash Psalms, 92:3",
+        "value": "Midrash Tehillim, 92:3",
         "order": "186.00000000000000000000"
       },
       {
         "id": 231,
-        "value": "Midrash Psalms, 101:1",
+        "value": "Midrash Tehillim, 101:1",
         "order": "197.00000000000000000000"
       }
     ],
@@ -1093,7 +1093,7 @@
     "passages": [
       {
         "id": 79,
-        "value": "Avot DeRabbi Natan B, 43",
+        "value": "Avot de-Rabbi Natan B, 43",
         "order": "47.00000000000000000000"
       }
     ],
@@ -1115,7 +1115,7 @@
     "passages": [
       {
         "id": 230,
-        "value": "Midrash Psalms, 94:2",
+        "value": "Midrash Tehillim, 94:2",
         "order": "196.00000000000000000000"
       }
     ],
@@ -1153,7 +1153,7 @@
     "passages": [
       {
         "id": 290,
-        "value": "Tanhuma, Mishpatim 11",
+        "value": "Tanḥuma, Mishpatim 11",
         "order": "256.00000000000000000000"
       }
     ],
@@ -1207,7 +1207,7 @@
     "passages": [
       {
         "id": 79,
-        "value": "Avot DeRabbi Natan B, 43",
+        "value": "Avot de-Rabbi Natan B, 43",
         "order": "47.00000000000000000000"
       }
     ],
@@ -1261,7 +1261,7 @@
     "passages": [
       {
         "id": 82,
-        "value": "Avot DeRabbi Natan A, 37:13",
+        "value": "Avot de-Rabbi Natan A, 37:13",
         "order": "49.00000000000000000000"
       }
     ],
@@ -1283,7 +1283,7 @@
     "passages": [
       {
         "id": 82,
-        "value": "Avot DeRabbi Natan A, 37:13",
+        "value": "Avot de-Rabbi Natan A, 37:13",
         "order": "49.00000000000000000000"
       }
     ],
@@ -1305,7 +1305,7 @@
     "passages": [
       {
         "id": 82,
-        "value": "Avot DeRabbi Natan A, 37:13",
+        "value": "Avot de-Rabbi Natan A, 37:13",
         "order": "49.00000000000000000000"
       },
       {
@@ -1315,7 +1315,7 @@
       },
       {
         "id": 298,
-        "value": "Exodus Rabbah II, 30:11",
+        "value": "Shemot Rabbah II, 30:11",
         "order": "264.00000000000000000000"
       }
     ],
@@ -1369,7 +1369,7 @@
     "passages": [
       {
         "id": 114,
-        "value": "Pirkei DeRabbi Eliezer, 12",
+        "value": "Pirqei de-Rabbi Eliʿezer, 12",
         "order": "81.00000000000000000000"
       }
     ],
@@ -1391,12 +1391,12 @@
     "passages": [
       {
         "id": 228,
-        "value": "Midrash Psalms, 58:4",
+        "value": "Midrash Tehillim, 58:4",
         "order": "194.00000000000000000000"
       },
       {
         "id": 229,
-        "value": "Midrash Psalms, 8:5",
+        "value": "Midrash Tehillim, 8:5",
         "order": "195.00000000000000000000"
       }
     ],
@@ -1434,7 +1434,7 @@
     "passages": [
       {
         "id": 227,
-        "value": "Midrash Psalms, 104:23",
+        "value": "Midrash Tehillim, 104:23",
         "order": "193.00000000000000000000"
       }
     ],
@@ -1456,12 +1456,12 @@
     "passages": [
       {
         "id": 83,
-        "value": "Avot DeRabbi Natan A, 9:5",
+        "value": "Avot de-Rabbi Natan A, 9:5",
         "order": "50.00000000000000000000"
       },
       {
         "id": 84,
-        "value": "Avot DeRabbi Natan B, 17",
+        "value": "Avot de-Rabbi Natan B, 17",
         "order": "51.00000000000000000000"
       }
     ],
@@ -1483,7 +1483,7 @@
     "passages": [
       {
         "id": 84,
-        "value": "Avot DeRabbi Natan B, 17",
+        "value": "Avot de-Rabbi Natan B, 17",
         "order": "51.00000000000000000000"
       }
     ],
@@ -1505,7 +1505,7 @@
     "passages": [
       {
         "id": 82,
-        "value": "Avot DeRabbi Natan A, 37:13",
+        "value": "Avot de-Rabbi Natan A, 37:13",
         "order": "49.00000000000000000000"
       }
     ],
@@ -1655,7 +1655,7 @@
     "passages": [
       {
         "id": 85,
-        "value": "Avot DeRabbi Natan B, 16",
+        "value": "Avot de-Rabbi Natan B, 16",
         "order": "52.00000000000000000000"
       }
     ],
@@ -1693,7 +1693,7 @@
     "passages": [
       {
         "id": 86,
-        "value": "Avot DeRabbi Natan B, 38",
+        "value": "Avot de-Rabbi Natan B, 38",
         "order": "53.00000000000000000000"
       }
     ],
@@ -1715,7 +1715,7 @@
     "passages": [
       {
         "id": 86,
-        "value": "Avot DeRabbi Natan B, 38",
+        "value": "Avot de-Rabbi Natan B, 38",
         "order": "53.00000000000000000000"
       }
     ],
@@ -1737,12 +1737,12 @@
     "passages": [
       {
         "id": 79,
-        "value": "Avot DeRabbi Natan B, 43",
+        "value": "Avot de-Rabbi Natan B, 43",
         "order": "47.00000000000000000000"
       },
       {
         "id": 87,
-        "value": "Avot DeRabbi Natan B, 44",
+        "value": "Avot de-Rabbi Natan B, 44",
         "order": "54.00000000000000000000"
       }
     ],
@@ -1812,7 +1812,7 @@
     "passages": [
       {
         "id": 225,
-        "value": "Midrash Psalms, 78:14",
+        "value": "Midrash Tehillim, 78:14",
         "order": "191.00000000000000000000"
       },
       {
@@ -1827,7 +1827,7 @@
       },
       {
         "id": 300,
-        "value": "Exodus Rabbah I, 12:4",
+        "value": "Shemot Rabbah I, 12:4",
         "order": "266.00000000000000000000"
       }
     ],
@@ -1849,7 +1849,7 @@
     "passages": [
       {
         "id": 224,
-        "value": "Midrash Psalms, 117:1",
+        "value": "Midrash Tehillim, 117:1",
         "order": "190.00000000000000000000"
       }
     ],
@@ -1871,7 +1871,7 @@
     "passages": [
       {
         "id": 224,
-        "value": "Midrash Psalms, 117:1",
+        "value": "Midrash Tehillim, 117:1",
         "order": "190.00000000000000000000"
       }
     ],
@@ -1893,7 +1893,7 @@
     "passages": [
       {
         "id": 223,
-        "value": "Midrash Psalms, 24:5",
+        "value": "Midrash Tehillim, 24:5",
         "order": "189.00000000000000000000"
       }
     ],
@@ -1947,7 +1947,7 @@
     "passages": [
       {
         "id": 222,
-        "value": "Midrash Psalms, 59:2",
+        "value": "Midrash Tehillim, 59:2",
         "order": "188.00000000000000000000"
       }
     ],
@@ -2017,7 +2017,7 @@
     "passages": [
       {
         "id": 222,
-        "value": "Midrash Psalms, 59:2",
+        "value": "Midrash Tehillim, 59:2",
         "order": "188.00000000000000000000"
       }
     ],
@@ -2087,7 +2087,7 @@
     "passages": [
       {
         "id": 119,
-        "value": "Pirkei DeRabbi Eliezer, 22",
+        "value": "Pirqei de-Rabbi Eliʿezer, 22",
         "order": "86.00000000000000000000"
       }
     ],
@@ -2109,17 +2109,17 @@
     "passages": [
       {
         "id": 219,
-        "value": "Midrash Psalms, 114:2",
+        "value": "Midrash Tehillim, 114:2",
         "order": "185.00000000000000000000"
       },
       {
         "id": 220,
-        "value": "Midrash Psalms, 92:3",
+        "value": "Midrash Tehillim, 92:3",
         "order": "186.00000000000000000000"
       },
       {
         "id": 221,
-        "value": "Midrash Psalms, 87:6",
+        "value": "Midrash Tehillim, 87:6",
         "order": "187.00000000000000000000"
       }
     ],
@@ -2157,7 +2157,7 @@
     "passages": [
       {
         "id": 218,
-        "value": "Midrash Psalms, 72:4",
+        "value": "Midrash Tehillim, 72:4",
         "order": "184.00000000000000000000"
       }
     ],
@@ -2179,7 +2179,7 @@
     "passages": [
       {
         "id": 87,
-        "value": "Avot DeRabbi Natan B, 44",
+        "value": "Avot de-Rabbi Natan B, 44",
         "order": "54.00000000000000000000"
       }
     ],
@@ -2201,7 +2201,7 @@
     "passages": [
       {
         "id": 82,
-        "value": "Avot DeRabbi Natan A, 37:13",
+        "value": "Avot de-Rabbi Natan A, 37:13",
         "order": "49.00000000000000000000"
       }
     ],
@@ -2303,7 +2303,7 @@
     "passages": [
       {
         "id": 208,
-        "value": "Midrash Psalms, 37:2",
+        "value": "Midrash Tehillim, 37:2",
         "order": "174.00000000000000000000"
       }
     ],
@@ -2357,7 +2357,7 @@
     "passages": [
       {
         "id": 88,
-        "value": "Avot DeRabbi Natan B, 1",
+        "value": "Avot de-Rabbi Natan B, 1",
         "order": "55.00000000000000000000"
       }
     ],
@@ -2379,7 +2379,7 @@
     "passages": [
       {
         "id": 217,
-        "value": "Midrash Psalms, 136:5",
+        "value": "Midrash Tehillim, 136:5",
         "order": "183.00000000000000000000"
       }
     ],
@@ -2417,7 +2417,7 @@
     "passages": [
       {
         "id": 204,
-        "value": "Midrash Psalms, 93:5",
+        "value": "Midrash Tehillim, 93:5",
         "order": "170.00000000000000000000"
       }
     ],
@@ -2439,7 +2439,7 @@
     "passages": [
       {
         "id": 215,
-        "value": "Midrash Psalms, 46:1",
+        "value": "Midrash Tehillim, 46:1",
         "order": "181.00000000000000000000"
       }
     ],
@@ -2461,17 +2461,17 @@
     "passages": [
       {
         "id": 291,
-        "value": "Tanhuma (Buber), Tazria 8",
+        "value": "Tanḥuma Buber, Tazria 8",
         "order": "257.00000000000000000000"
       },
       {
         "id": 292,
-        "value": "Tanhuma, Tazria 6",
+        "value": "Tanḥuma, Tazria 6",
         "order": "258.00000000000000000000"
       },
       {
         "id": 293,
-        "value": "Tanhuma, Beshalach 23",
+        "value": "Tanḥuma, Beshalach 23",
         "order": "259.00000000000000000000"
       }
     ],
@@ -2509,7 +2509,7 @@
     "passages": [
       {
         "id": 187,
-        "value": "Midrash Psalms, 26:2",
+        "value": "Midrash Tehillim, 26:2",
         "order": "154.00000000000000000000"
       }
     ],
@@ -2547,7 +2547,7 @@
     "passages": [
       {
         "id": 187,
-        "value": "Midrash Psalms, 26:2",
+        "value": "Midrash Tehillim, 26:2",
         "order": "154.00000000000000000000"
       }
     ],
@@ -2585,7 +2585,7 @@
     "passages": [
       {
         "id": 213,
-        "value": "Midrash Psalms, 119:20",
+        "value": "Midrash Tehillim, 119:20",
         "order": "179.00000000000000000000"
       }
     ],
@@ -2607,7 +2607,7 @@
     "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Tehillim, 143:1",
         "order": "160.00000000000000000000"
       }
     ],
@@ -2629,12 +2629,12 @@
     "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Tehillim, 143:1",
         "order": "160.00000000000000000000"
       },
       {
         "id": 213,
-        "value": "Midrash Psalms, 119:20",
+        "value": "Midrash Tehillim, 119:20",
         "order": "179.00000000000000000000"
       }
     ],
@@ -2656,12 +2656,12 @@
     "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Tehillim, 143:1",
         "order": "160.00000000000000000000"
       },
       {
         "id": 213,
-        "value": "Midrash Psalms, 119:20",
+        "value": "Midrash Tehillim, 119:20",
         "order": "179.00000000000000000000"
       }
     ],
@@ -2683,7 +2683,7 @@
     "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Tehillim, 143:1",
         "order": "160.00000000000000000000"
       }
     ],
@@ -2705,7 +2705,7 @@
     "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Tehillim, 143:1",
         "order": "160.00000000000000000000"
       }
     ],
@@ -2727,7 +2727,7 @@
     "passages": [
       {
         "id": 142,
-        "value": "Midrash Psalms, 18:14",
+        "value": "Midrash Tehillim, 18:14",
         "order": "109.00000000000000000000"
       }
     ],
@@ -2797,12 +2797,12 @@
     "passages": [
       {
         "id": 172,
-        "value": "Midrash Psalms, 139:1",
+        "value": "Midrash Tehillim, 139:1",
         "order": "139.00000000000000000000"
       },
       {
         "id": 210,
-        "value": "Midrash Psalms, 106:2",
+        "value": "Midrash Tehillim, 106:2",
         "order": "176.00000000000000000000"
       }
     ],
@@ -2824,12 +2824,12 @@
     "passages": [
       {
         "id": 172,
-        "value": "Midrash Psalms, 139:1",
+        "value": "Midrash Tehillim, 139:1",
         "order": "139.00000000000000000000"
       },
       {
         "id": 210,
-        "value": "Midrash Psalms, 106:2",
+        "value": "Midrash Tehillim, 106:2",
         "order": "176.00000000000000000000"
       }
     ],
@@ -2851,27 +2851,27 @@
     "passages": [
       {
         "id": 172,
-        "value": "Midrash Psalms, 139:1",
+        "value": "Midrash Tehillim, 139:1",
         "order": "139.00000000000000000000"
       },
       {
         "id": 209,
-        "value": "Midrash Psalms, 119:10",
+        "value": "Midrash Tehillim, 119:10",
         "order": "175.00000000000000000000"
       },
       {
         "id": 210,
-        "value": "Midrash Psalms, 106:2",
+        "value": "Midrash Tehillim, 106:2",
         "order": "176.00000000000000000000"
       },
       {
         "id": 211,
-        "value": "Midrash Psalms, 104:22",
+        "value": "Midrash Tehillim, 104:22",
         "order": "177.00000000000000000000"
       },
       {
         "id": 212,
-        "value": "Midrash Psalms, 18:21",
+        "value": "Midrash Tehillim, 18:21",
         "order": "178.00000000000000000000"
       }
     ],
@@ -2893,7 +2893,7 @@
     "passages": [
       {
         "id": 207,
-        "value": "Midrash Psalms, 5:8",
+        "value": "Midrash Tehillim, 5:8",
         "order": "173.00000000000000000000"
       }
     ],
@@ -2915,7 +2915,7 @@
     "passages": [
       {
         "id": 206,
-        "value": "Midrash Psalms, 68:1",
+        "value": "Midrash Tehillim, 68:1",
         "order": "172.00000000000000000000"
       }
     ],
@@ -2953,7 +2953,7 @@
     "passages": [
       {
         "id": 205,
-        "value": "Midrash Psalms, 22:25",
+        "value": "Midrash Tehillim, 22:25",
         "order": "171.00000000000000000000"
       }
     ],
@@ -2975,7 +2975,7 @@
     "passages": [
       {
         "id": 124,
-        "value": "Pirkei DeRabbi Eliezer, 34",
+        "value": "Pirqei de-Rabbi Eliʿezer, 34",
         "order": "91.00000000000000000000"
       }
     ],
@@ -3125,7 +3125,7 @@
     "passages": [
       {
         "id": 204,
-        "value": "Midrash Psalms, 93:5",
+        "value": "Midrash Tehillim, 93:5",
         "order": "170.00000000000000000000"
       }
     ],
@@ -3211,7 +3211,7 @@
     "passages": [
       {
         "id": 194,
-        "value": "Midrash Psalms, 27:2",
+        "value": "Midrash Tehillim, 27:2",
         "order": "161.00000000000000000000"
       }
     ],
@@ -3249,7 +3249,7 @@
     "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Tehillim, 143:1",
         "order": "160.00000000000000000000"
       }
     ],
@@ -3271,7 +3271,7 @@
     "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Tehillim, 143:1",
         "order": "160.00000000000000000000"
       }
     ],
@@ -3293,17 +3293,17 @@
     "passages": [
       {
         "id": 89,
-        "value": "Avot DeRabbi Natan B, 42",
+        "value": "Avot de-Rabbi Natan B, 42",
         "order": "56.00000000000000000000"
       },
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Tehillim, 143:1",
         "order": "160.00000000000000000000"
       },
       {
         "id": 199,
-        "value": "Midrash Psalms, 74:1",
+        "value": "Midrash Tehillim, 74:1",
         "order": "165.00000000000000000000"
       }
     ],
@@ -3357,7 +3357,7 @@
     "passages": [
       {
         "id": 187,
-        "value": "Midrash Psalms, 26:2",
+        "value": "Midrash Tehillim, 26:2",
         "order": "154.00000000000000000000"
       }
     ],
@@ -3379,7 +3379,7 @@
     "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Tehillim, 143:1",
         "order": "160.00000000000000000000"
       }
     ],
@@ -3401,7 +3401,7 @@
     "passages": [
       {
         "id": 201,
-        "value": "Midrash Psalms, 101:3",
+        "value": "Midrash Tehillim, 101:3",
         "order": "167.00000000000000000000"
       }
     ],
@@ -3423,7 +3423,7 @@
     "passages": [
       {
         "id": 202,
-        "value": "Midrash Psalms, 78:7",
+        "value": "Midrash Tehillim, 78:7",
         "order": "168.00000000000000000000"
       }
     ],
@@ -3461,7 +3461,7 @@
     "passages": [
       {
         "id": 193,
-        "value": "Midrash Psalms, 143:1",
+        "value": "Midrash Tehillim, 143:1",
         "order": "160.00000000000000000000"
       }
     ],
@@ -3499,7 +3499,7 @@
     "passages": [
       {
         "id": 192,
-        "value": "Midrash Psalms, 139:4",
+        "value": "Midrash Tehillim, 139:4",
         "order": "159.00000000000000000000"
       }
     ],
@@ -3521,7 +3521,7 @@
     "passages": [
       {
         "id": 191,
-        "value": "Midrash Psalms, 53:2",
+        "value": "Midrash Tehillim, 53:2",
         "order": "158.00000000000000000000"
       }
     ],
@@ -3543,7 +3543,7 @@
     "passages": [
       {
         "id": 190,
-        "value": "Midrash Psalms, 17:8",
+        "value": "Midrash Tehillim, 17:8",
         "order": "157.00000000000000000000"
       }
     ],
@@ -3651,12 +3651,12 @@
     "passages": [
       {
         "id": 176,
-        "value": "Midrash Psalms, 16:2",
+        "value": "Midrash Tehillim, 16:2",
         "order": "143.00000000000000000000"
       },
       {
         "id": 188,
-        "value": "Midrash Psalms, 119:37",
+        "value": "Midrash Tehillim, 119:37",
         "order": "155.00000000000000000000"
       }
     ],
@@ -3710,7 +3710,7 @@
     "passages": [
       {
         "id": 92,
-        "value": "Avot DeRabbi Natan B, 7",
+        "value": "Avot de-Rabbi Natan B, 7",
         "order": "59.00000000000000000000"
       }
     ],
@@ -3892,7 +3892,7 @@
     "passages": [
       {
         "id": 294,
-        "value": "Exodus Rabbah II, 21:7",
+        "value": "Shemot Rabbah II, 21:7",
         "order": "260.00000000000000000000"
       }
     ],
@@ -3914,7 +3914,7 @@
     "passages": [
       {
         "id": 187,
-        "value": "Midrash Psalms, 26:2",
+        "value": "Midrash Tehillim, 26:2",
         "order": "154.00000000000000000000"
       }
     ],
@@ -3936,7 +3936,7 @@
     "passages": [
       {
         "id": 187,
-        "value": "Midrash Psalms, 26:2",
+        "value": "Midrash Tehillim, 26:2",
         "order": "154.00000000000000000000"
       }
     ],
@@ -3974,7 +3974,7 @@
     "passages": [
       {
         "id": 186,
-        "value": "Midrash Psalms, 119:54",
+        "value": "Midrash Tehillim, 119:54",
         "order": "153.00000000000000000000"
       }
     ],
@@ -4060,7 +4060,7 @@
     "passages": [
       {
         "id": 185,
-        "value": "Midrash Psalms, 7:3",
+        "value": "Midrash Tehillim, 7:3",
         "order": "152.00000000000000000000"
       }
     ],
@@ -4130,7 +4130,7 @@
     "passages": [
       {
         "id": 184,
-        "value": "Midrash Psalms, 33:1",
+        "value": "Midrash Tehillim, 33:1",
         "order": "151.00000000000000000000"
       }
     ],
@@ -4152,7 +4152,7 @@
     "passages": [
       {
         "id": 182,
-        "value": "Midrash Psalms, 23:5",
+        "value": "Midrash Tehillim, 23:5",
         "order": "149.00000000000000000000"
       }
     ],
@@ -4174,12 +4174,12 @@
     "passages": [
       {
         "id": 92,
-        "value": "Avot DeRabbi Natan B, 7",
+        "value": "Avot de-Rabbi Natan B, 7",
         "order": "59.00000000000000000000"
       },
       {
         "id": 179,
-        "value": "Midrash Psalms, 10:6-7",
+        "value": "Midrash Tehillim, 10:6-7",
         "order": "146.00000000000000000000"
       }
     ],
@@ -4265,12 +4265,12 @@
     "passages": [
       {
         "id": 131,
-        "value": "Midrash Psalms, 9:11",
+        "value": "Midrash Tehillim, 9:11",
         "order": "98.00000000000000000000"
       },
       {
         "id": 244,
-        "value": "Midrash Psalms, 19:6",
+        "value": "Midrash Tehillim, 19:6",
         "order": "210.00000000000000000000"
       }
     ],
@@ -4388,7 +4388,7 @@
     "passages": [
       {
         "id": 93,
-        "value": "Avot DeRabbi Natan A, 32:3",
+        "value": "Avot de-Rabbi Natan A, 32:3",
         "order": "60.00000000000000000000"
       }
     ],
@@ -4410,17 +4410,17 @@
     "passages": [
       {
         "id": 93,
-        "value": "Avot DeRabbi Natan A, 32:3",
+        "value": "Avot de-Rabbi Natan A, 32:3",
         "order": "60.00000000000000000000"
       },
       {
         "id": 118,
-        "value": "Pirkei DeRabbi Eliezer, 21",
+        "value": "Pirqei de-Rabbi Eliʿezer, 21",
         "order": "85.00000000000000000000"
       },
       {
         "id": 119,
-        "value": "Pirkei DeRabbi Eliezer, 22",
+        "value": "Pirqei de-Rabbi Eliʿezer, 22",
         "order": "86.00000000000000000000"
       }
     ],
@@ -4554,7 +4554,7 @@
     "passages": [
       {
         "id": 179,
-        "value": "Midrash Psalms, 10:6-7",
+        "value": "Midrash Tehillim, 10:6-7",
         "order": "146.00000000000000000000"
       }
     ],
@@ -4592,7 +4592,7 @@
     "passages": [
       {
         "id": 178,
-        "value": "Midrash Psalms, 90:13",
+        "value": "Midrash Tehillim, 90:13",
         "order": "145.00000000000000000000"
       }
     ],
@@ -4694,22 +4694,22 @@
     "passages": [
       {
         "id": 290,
-        "value": "Tanhuma, Mishpatim 11",
+        "value": "Tanḥuma, Mishpatim 11",
         "order": "256.00000000000000000000"
       },
       {
         "id": 303,
-        "value": "Tanhuma (Buber), Bereshit 13",
+        "value": "Tanḥuma Buber, Bereshit 13",
         "order": "269.00000000000000000000"
       },
       {
         "id": 304,
-        "value": "Tanhuma, Mishpatim 11",
+        "value": "Tanḥuma, Mishpatim 11",
         "order": "270.00000000000000000000"
       },
       {
         "id": 305,
-        "value": "Tanhuma, Ki Tisa 12",
+        "value": "Tanḥuma, Ki Tisa 12",
         "order": "271.00000000000000000000"
       }
     ],
@@ -4827,7 +4827,7 @@
     "passages": [
       {
         "id": 177,
-        "value": "Midrash Psalms, 119:35",
+        "value": "Midrash Tehillim, 119:35",
         "order": "144.00000000000000000000"
       }
     ],
@@ -4945,7 +4945,7 @@
     "passages": [
       {
         "id": 123,
-        "value": "Pirkei DeRabbi Eliezer, 43",
+        "value": "Pirqei de-Rabbi Eliʿezer, 43",
         "order": "90.00000000000000000000"
       }
     ],
@@ -5047,7 +5047,7 @@
     "passages": [
       {
         "id": 176,
-        "value": "Midrash Psalms, 16:2",
+        "value": "Midrash Tehillim, 16:2",
         "order": "143.00000000000000000000"
       }
     ],
@@ -5069,7 +5069,7 @@
     "passages": [
       {
         "id": 96,
-        "value": "Avot DeRabbi Natan B, 8",
+        "value": "Avot de-Rabbi Natan B, 8",
         "order": "63.00000000000000000000"
       }
     ],
@@ -5091,7 +5091,7 @@
     "passages": [
       {
         "id": 98,
-        "value": "Avot DeRabbi Natan B, 27",
+        "value": "Avot de-Rabbi Natan B, 27",
         "order": "65.00000000000000000000"
       }
     ],
@@ -5113,12 +5113,12 @@
     "passages": [
       {
         "id": 175,
-        "value": "Midrash Psalms, 146:2",
+        "value": "Midrash Tehillim, 146:2",
         "order": "142.00000000000000000000"
       },
       {
         "id": 307,
-        "value": "Avot DeRabbi Natan A, 19:2",
+        "value": "Avot de-Rabbi Natan A, 19:2",
         "order": "272.00000000000000000000"
       }
     ],
@@ -5188,7 +5188,7 @@
     "passages": [
       {
         "id": 79,
-        "value": "Avot DeRabbi Natan B, 43",
+        "value": "Avot de-Rabbi Natan B, 43",
         "order": "47.00000000000000000000"
       }
     ],
@@ -5306,7 +5306,7 @@
     "passages": [
       {
         "id": 174,
-        "value": "Midrash Psalms, 92:3",
+        "value": "Midrash Tehillim, 92:3",
         "order": "141.00000000000000000000"
       }
     ],
@@ -5360,7 +5360,7 @@
     "passages": [
       {
         "id": 120,
-        "value": "Pirkei DeRabbi Eliezer, 25",
+        "value": "Pirqei de-Rabbi Eliʿezer, 25",
         "order": "87.00000000000000000000"
       }
     ],
@@ -5382,7 +5382,7 @@
     "passages": [
       {
         "id": 120,
-        "value": "Pirkei DeRabbi Eliezer, 25",
+        "value": "Pirqei de-Rabbi Eliʿezer, 25",
         "order": "87.00000000000000000000"
       }
     ],
@@ -5420,7 +5420,7 @@
     "passages": [
       {
         "id": 91,
-        "value": "Avot DeRabbi Natan B, 12",
+        "value": "Avot de-Rabbi Natan B, 12",
         "order": "58.00000000000000000000"
       }
     ],
@@ -5442,7 +5442,7 @@
     "passages": [
       {
         "id": 91,
-        "value": "Avot DeRabbi Natan B, 12",
+        "value": "Avot de-Rabbi Natan B, 12",
         "order": "58.00000000000000000000"
       }
     ],
@@ -5464,17 +5464,17 @@
     "passages": [
       {
         "id": 90,
-        "value": "Avot DeRabbi Natan A, 6:2",
+        "value": "Avot de-Rabbi Natan A, 6:2",
         "order": "57.00000000000000000000"
       },
       {
         "id": 91,
-        "value": "Avot DeRabbi Natan B, 12",
+        "value": "Avot de-Rabbi Natan B, 12",
         "order": "58.00000000000000000000"
       },
       {
         "id": 111,
-        "value": "Pirkei DeRabbi Eliezer, 6",
+        "value": "Pirqei de-Rabbi Eliʿezer, 6",
         "order": "78.00000000000000000000"
       }
     ],
@@ -5496,7 +5496,7 @@
     "passages": [
       {
         "id": 101,
-        "value": "Avot DeRabbi Natan A, 12:4",
+        "value": "Avot de-Rabbi Natan A, 12:4",
         "order": "68.00000000000000000000"
       }
     ],
@@ -5518,17 +5518,17 @@
     "passages": [
       {
         "id": 101,
-        "value": "Avot DeRabbi Natan A, 12:4",
+        "value": "Avot de-Rabbi Natan A, 12:4",
         "order": "68.00000000000000000000"
       },
       {
         "id": 171,
-        "value": "Midrash Psalms, 8:2",
+        "value": "Midrash Tehillim, 8:2",
         "order": "138.00000000000000000000"
       },
       {
         "id": 173,
-        "value": "Midrash Psalms, 3:2",
+        "value": "Midrash Tehillim, 3:2",
         "order": "140.00000000000000000000"
       }
     ],
@@ -5550,12 +5550,12 @@
     "passages": [
       {
         "id": 101,
-        "value": "Avot DeRabbi Natan A, 12:4",
+        "value": "Avot de-Rabbi Natan A, 12:4",
         "order": "68.00000000000000000000"
       },
       {
         "id": 102,
-        "value": "Avot DeRabbi Natan B, 25",
+        "value": "Avot de-Rabbi Natan B, 25",
         "order": "69.00000000000000000000"
       }
     ],
@@ -5609,12 +5609,12 @@
     "passages": [
       {
         "id": 103,
-        "value": "Avot DeRabbi Natan A, 24:5",
+        "value": "Avot de-Rabbi Natan A, 24:5",
         "order": "70.00000000000000000000"
       },
       {
         "id": 104,
-        "value": "Avot DeRabbi Natan B, 31",
+        "value": "Avot de-Rabbi Natan B, 31",
         "order": "71.00000000000000000000"
       }
     ],
@@ -5684,12 +5684,12 @@
     "passages": [
       {
         "id": 102,
-        "value": "Avot DeRabbi Natan B, 25",
+        "value": "Avot de-Rabbi Natan B, 25",
         "order": "69.00000000000000000000"
       },
       {
         "id": 172,
-        "value": "Midrash Psalms, 139:1",
+        "value": "Midrash Tehillim, 139:1",
         "order": "139.00000000000000000000"
       }
     ],
@@ -5711,12 +5711,12 @@
     "passages": [
       {
         "id": 101,
-        "value": "Avot DeRabbi Natan A, 12:4",
+        "value": "Avot de-Rabbi Natan A, 12:4",
         "order": "68.00000000000000000000"
       },
       {
         "id": 102,
-        "value": "Avot DeRabbi Natan B, 25",
+        "value": "Avot de-Rabbi Natan B, 25",
         "order": "69.00000000000000000000"
       }
     ],
@@ -5866,7 +5866,7 @@
     "passages": [
       {
         "id": 133,
-        "value": "Midrash Psalms, 24:1",
+        "value": "Midrash Tehillim, 24:1",
         "order": "100.00000000000000000000"
       }
     ],
@@ -5936,7 +5936,7 @@
     "passages": [
       {
         "id": 169,
-        "value": "Midrash Psalms, 119:62",
+        "value": "Midrash Tehillim, 119:62",
         "order": "136.00000000000000000000"
       }
     ],
@@ -6028,7 +6028,7 @@
     "passages": [
       {
         "id": 79,
-        "value": "Avot DeRabbi Natan B, 43",
+        "value": "Avot de-Rabbi Natan B, 43",
         "order": "47.00000000000000000000"
       }
     ],
@@ -6082,7 +6082,7 @@
     "passages": [
       {
         "id": 117,
-        "value": "Pirkei DeRabbi Eliezer, 20",
+        "value": "Pirqei de-Rabbi Eliʿezer, 20",
         "order": "84.00000000000000000000"
       }
     ],
@@ -6136,12 +6136,12 @@
     "passages": [
       {
         "id": 77,
-        "value": "Avot DeRabbi Natan A, 2:5",
+        "value": "Avot de-Rabbi Natan A, 2:5",
         "order": "45.00000000000000000000"
       },
       {
         "id": 78,
-        "value": "Avot DeRabbi Natan B, 2",
+        "value": "Avot de-Rabbi Natan B, 2",
         "order": "46.00000000000000000000"
       }
     ],
@@ -6163,7 +6163,7 @@
     "passages": [
       {
         "id": 78,
-        "value": "Avot DeRabbi Natan B, 2",
+        "value": "Avot de-Rabbi Natan B, 2",
         "order": "46.00000000000000000000"
       }
     ],
@@ -6233,7 +6233,7 @@
     "passages": [
       {
         "id": 105,
-        "value": "Avot DeRabbi Natan A, 7:1",
+        "value": "Avot de-Rabbi Natan A, 7:1",
         "order": "72.00000000000000000000"
       }
     ],
@@ -6255,12 +6255,12 @@
     "passages": [
       {
         "id": 105,
-        "value": "Avot DeRabbi Natan A, 7:1",
+        "value": "Avot de-Rabbi Natan A, 7:1",
         "order": "72.00000000000000000000"
       },
       {
         "id": 106,
-        "value": "Avot DeRabbi Natan B, 14",
+        "value": "Avot de-Rabbi Natan B, 14",
         "order": "73.00000000000000000000"
       }
     ],
@@ -6282,7 +6282,7 @@
     "passages": [
       {
         "id": 106,
-        "value": "Avot DeRabbi Natan B, 14",
+        "value": "Avot de-Rabbi Natan B, 14",
         "order": "73.00000000000000000000"
       }
     ],
@@ -6336,7 +6336,7 @@
     "passages": [
       {
         "id": 168,
-        "value": "Midrash Psalms, 7:2",
+        "value": "Midrash Tehillim, 7:2",
         "order": "135.00000000000000000000"
       }
     ],
@@ -6358,7 +6358,7 @@
     "passages": [
       {
         "id": 168,
-        "value": "Midrash Psalms, 7:2",
+        "value": "Midrash Tehillim, 7:2",
         "order": "135.00000000000000000000"
       }
     ],
@@ -6428,7 +6428,7 @@
     "passages": [
       {
         "id": 82,
-        "value": "Avot DeRabbi Natan A, 37:13",
+        "value": "Avot de-Rabbi Natan A, 37:13",
         "order": "49.00000000000000000000"
       }
     ],
@@ -6450,7 +6450,7 @@
     "passages": [
       {
         "id": 82,
-        "value": "Avot DeRabbi Natan A, 37:13",
+        "value": "Avot de-Rabbi Natan A, 37:13",
         "order": "49.00000000000000000000"
       }
     ],
@@ -6504,7 +6504,7 @@
     "passages": [
       {
         "id": 167,
-        "value": "Midrash Psalms, 20:1",
+        "value": "Midrash Tehillim, 20:1",
         "order": "134.00000000000000000000"
       }
     ],
@@ -6526,7 +6526,7 @@
     "passages": [
       {
         "id": 166,
-        "value": "Midrash Psalms, 90:2",
+        "value": "Midrash Tehillim, 90:2",
         "order": "133.00000000000000000000"
       }
     ],
@@ -6548,7 +6548,7 @@
     "passages": [
       {
         "id": 124,
-        "value": "Pirkei DeRabbi Eliezer, 34",
+        "value": "Pirqei de-Rabbi Eliʿezer, 34",
         "order": "91.00000000000000000000"
       }
     ],
@@ -6570,7 +6570,7 @@
     "passages": [
       {
         "id": 124,
-        "value": "Pirkei DeRabbi Eliezer, 34",
+        "value": "Pirqei de-Rabbi Eliʿezer, 34",
         "order": "91.00000000000000000000"
       }
     ],
@@ -6608,7 +6608,7 @@
     "passages": [
       {
         "id": 295,
-        "value": "Song of Songs Zuta, 1:19",
+        "value": "Shir ha-Shirim Zuta, 1:19",
         "order": "261.00000000000000000000"
       },
       {
@@ -6640,7 +6640,7 @@
     "passages": [
       {
         "id": 165,
-        "value": "Midrash Psalms, 17:15",
+        "value": "Midrash Tehillim, 17:15",
         "order": "132.00000000000000000000"
       }
     ],
@@ -6662,7 +6662,7 @@
     "passages": [
       {
         "id": 165,
-        "value": "Midrash Psalms, 17:15",
+        "value": "Midrash Tehillim, 17:15",
         "order": "132.00000000000000000000"
       }
     ],
@@ -6738,7 +6738,7 @@
     "passages": [
       {
         "id": 116,
-        "value": "Pirkei DeRabbi Eliezer, 15",
+        "value": "Pirqei de-Rabbi Eliʿezer, 15",
         "order": "83.00000000000000000000"
       }
     ],
@@ -6824,7 +6824,7 @@
     "passages": [
       {
         "id": 164,
-        "value": "Midrash Psalms, 9:11",
+        "value": "Midrash Tehillim, 9:11",
         "order": "131.00000000000000000000"
       }
     ],
@@ -6846,12 +6846,12 @@
     "passages": [
       {
         "id": 132,
-        "value": "Midrash Psalms, 19:10",
+        "value": "Midrash Tehillim, 19:10",
         "order": "99.00000000000000000000"
       },
       {
         "id": 245,
-        "value": "Midrash Psalms, 19:13",
+        "value": "Midrash Tehillim, 19:13",
         "order": "211.00000000000000000000"
       }
     ],
@@ -6889,7 +6889,7 @@
     "passages": [
       {
         "id": 179,
-        "value": "Midrash Psalms, 10:6-7",
+        "value": "Midrash Tehillim, 10:6-7",
         "order": "146.00000000000000000000"
       }
     ],
@@ -6911,7 +6911,7 @@
     "passages": [
       {
         "id": 301,
-        "value": "Tanhuma (Buber), Vayera 10",
+        "value": "Tanḥuma Buber, Vayera 10",
         "order": "267.00000000000000000000"
       }
     ],
@@ -6965,7 +6965,7 @@
     "passages": [
       {
         "id": 108,
-        "value": "Avot DeRabbi Natan B, 40",
+        "value": "Avot de-Rabbi Natan B, 40",
         "order": "75.00000000000000000000"
       }
     ],
@@ -7115,7 +7115,7 @@
     "passages": [
       {
         "id": 290,
-        "value": "Tanhuma, Mishpatim 11",
+        "value": "Tanḥuma, Mishpatim 11",
         "order": "256.00000000000000000000"
       }
     ],
@@ -7169,7 +7169,7 @@
     "passages": [
       {
         "id": 142,
-        "value": "Midrash Psalms, 18:14",
+        "value": "Midrash Tehillim, 18:14",
         "order": "109.00000000000000000000"
       }
     ],
@@ -7255,7 +7255,7 @@
     "passages": [
       {
         "id": 110,
-        "value": "Pirkei DeRabbi Eliezer, 3",
+        "value": "Pirqei de-Rabbi Eliʿezer, 3",
         "order": "77.00000000000000000000"
       }
     ],
@@ -7293,7 +7293,7 @@
     "passages": [
       {
         "id": 111,
-        "value": "Pirkei DeRabbi Eliezer, 6",
+        "value": "Pirqei de-Rabbi Eliʿezer, 6",
         "order": "78.00000000000000000000"
       }
     ],
@@ -7315,7 +7315,7 @@
     "passages": [
       {
         "id": 142,
-        "value": "Midrash Psalms, 18:14",
+        "value": "Midrash Tehillim, 18:14",
         "order": "109.00000000000000000000"
       }
     ],
@@ -7337,7 +7337,7 @@
     "passages": [
       {
         "id": 141,
-        "value": "Midrash Psalms, 50:1",
+        "value": "Midrash Tehillim, 50:1",
         "order": "108.00000000000000000000"
       }
     ],
@@ -7375,22 +7375,22 @@
     "passages": [
       {
         "id": 125,
-        "value": "Midrash Psalms, 19:2",
+        "value": "Midrash Tehillim, 19:2",
         "order": "92.00000000000000000000"
       },
       {
         "id": 127,
-        "value": "Midrash Psalms, 88:1",
+        "value": "Midrash Tehillim, 88:1",
         "order": "94.00000000000000000000"
       },
       {
         "id": 128,
-        "value": "Midrash Psalms, 104:1",
+        "value": "Midrash Tehillim, 104:1",
         "order": "95.00000000000000000000"
       },
       {
         "id": 129,
-        "value": "Tanhuma, Exodus 2:2",
+        "value": "Tanḥuma, Exodus 2:2",
         "order": "96.00000000000000000000"
       }
     ],
@@ -7444,12 +7444,12 @@
     "passages": [
       {
         "id": 138,
-        "value": "Midrash Psalms, 103:8",
+        "value": "Midrash Tehillim, 103:8",
         "order": "105.00000000000000000000"
       },
       {
         "id": 139,
-        "value": "Midrash Psalms, 18:31",
+        "value": "Midrash Tehillim, 18:31",
         "order": "106.00000000000000000000"
       }
     ],
@@ -7487,7 +7487,7 @@
     "passages": [
       {
         "id": 119,
-        "value": "Pirkei DeRabbi Eliezer, 22",
+        "value": "Pirqei de-Rabbi Eliʿezer, 22",
         "order": "86.00000000000000000000"
       }
     ],
@@ -7509,7 +7509,7 @@
     "passages": [
       {
         "id": 137,
-        "value": "Midrash Psalms, 22:23",
+        "value": "Midrash Tehillim, 22:23",
         "order": "104.00000000000000000000"
       }
     ],
@@ -7531,7 +7531,7 @@
     "passages": [
       {
         "id": 112,
-        "value": "Pirkei DeRabbi Eliezer, 7",
+        "value": "Pirqei de-Rabbi Eliʿezer, 7",
         "order": "79.00000000000000000000"
       }
     ],
@@ -7585,12 +7585,12 @@
     "passages": [
       {
         "id": 124,
-        "value": "Pirkei DeRabbi Eliezer, 34",
+        "value": "Pirqei de-Rabbi Eliʿezer, 34",
         "order": "91.00000000000000000000"
       },
       {
         "id": 136,
-        "value": "Midrash Psalms, 46:2",
+        "value": "Midrash Tehillim, 46:2",
         "order": "103.00000000000000000000"
       }
     ],
@@ -7708,12 +7708,12 @@
     "passages": [
       {
         "id": 130,
-        "value": "Midrash Psalms, 19:3",
+        "value": "Midrash Tehillim, 19:3",
         "order": "97.00000000000000000000"
       },
       {
         "id": 243,
-        "value": "Midrash Psalms, 19:4",
+        "value": "Midrash Tehillim, 19:4",
         "order": "209.00000000000000000000"
       }
     ],
@@ -7767,7 +7767,7 @@
     "passages": [
       {
         "id": 72,
-        "value": "Midrash Psalms, 9:7",
+        "value": "Midrash Tehillim, 9:7",
         "order": "40.00000000000000000000"
       }
     ],
@@ -7821,7 +7821,7 @@
     "passages": [
       {
         "id": 87,
-        "value": "Avot DeRabbi Natan B, 44",
+        "value": "Avot de-Rabbi Natan B, 44",
         "order": "54.00000000000000000000"
       }
     ],
@@ -7907,7 +7907,7 @@
     "passages": [
       {
         "id": 115,
-        "value": "Pirkei DeRabbi Eliezer, 13",
+        "value": "Pirqei de-Rabbi Eliʿezer, 13",
         "order": "82.00000000000000000000"
       }
     ],
@@ -7993,7 +7993,7 @@
     "passages": [
       {
         "id": 115,
-        "value": "Pirkei DeRabbi Eliezer, 13",
+        "value": "Pirqei de-Rabbi Eliʿezer, 13",
         "order": "82.00000000000000000000"
       }
     ],
@@ -8015,7 +8015,7 @@
     "passages": [
       {
         "id": 122,
-        "value": "Pirkei DeRabbi Eliezer, 47",
+        "value": "Pirqei de-Rabbi Eliʿezer, 47",
         "order": "89.00000000000000000000"
       }
     ],
@@ -8037,7 +8037,7 @@
     "passages": [
       {
         "id": 200,
-        "value": "Midrash Psalms, 139:5",
+        "value": "Midrash Tehillim, 139:5",
         "order": "166.00000000000000000000"
       }
     ],
