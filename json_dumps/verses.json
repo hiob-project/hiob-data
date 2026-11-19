@@ -1073,6 +1073,11 @@
         "id": 231,
         "value": "Midrash Tehillim, 101:1",
         "order": "197.00000000000000000000"
+      },
+      {
+        "id": 341,
+        "value": "Midrash Mishle, 31:10",
+        "order": "274.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_0067",
@@ -2359,6 +2364,11 @@
         "id": 88,
         "value": "Avot de-Rabbi Natan B, 1",
         "order": "55.00000000000000000000"
+      },
+      {
+        "id": 308,
+        "value": "Midrash Mishle, 25:1",
+        "order": "273.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_0135",
@@ -3106,7 +3116,13 @@
     "order": "152.00000000000000000000",
     "verse": "12:14",
     "quote": "",
-    "passages": [],
+    "passages": [
+      {
+        "id": 286,
+        "value": "Midrash Mishle, 1:1",
+        "order": "252.00000000000000000000"
+      }
+    ],
     "hiob_id": "hiob_verse_0174",
     "canonical_meaning": null,
     "voices": [
@@ -5498,6 +5514,11 @@
         "id": 101,
         "value": "Avot de-Rabbi Natan A, 12:4",
         "order": "68.00000000000000000000"
+      },
+      {
+        "id": 286,
+        "value": "Midrash Mishle, 1:1",
+        "order": "252.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_0311",
@@ -7592,6 +7613,11 @@
         "id": 136,
         "value": "Midrash Tehillim, 46:2",
         "order": "103.00000000000000000000"
+      },
+      {
+        "id": 289,
+        "value": "Midrash Mishle, 17:1",
+        "order": "255.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_verse_0424",

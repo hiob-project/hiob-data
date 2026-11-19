@@ -12996,22 +12996,82 @@
   "286": {
     "id": 286,
     "order": "252.00000000000000000000",
-    "midrash_passage": [],
+    "midrash_passage": [
+      {
+        "id": 82,
+        "value": "Midrash Mishle, 1:1"
+      }
+    ],
     "hiob_id": "hiob_passage_0286",
-    "midrash": [],
-    "passage": null,
-    "verses": [],
-    "quote": "",
-    "commentary": "",
-    "decontextualized_reception": [],
-    "narrative_reception": [],
+    "midrash": [
+      {
+        "id": 82,
+        "value": "Midrash Mishle",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "passage": "1:1",
+    "verses": [
+      {
+        "id": 174,
+        "value": "12:14",
+        "order": "152.00000000000000000000"
+      },
+      {
+        "id": 311,
+        "value": "28:12",
+        "order": "289.00000000000000000000"
+      }
+    ],
+    "quote": "(משלי א א): \"משלי שלמה בן דוד מלך ישראל\"- רבי תנחום בן חנילאי פתח ואמר: (איוב כח יב): \"והחכמה - מאין תימצא? ואי זה מקום בינה?\" - זה שלמה, שישב בתענית ארבעים יום, כדי שייתן לו המקום רוח חכמה ובינה, והיה משוטט ומבקש אחריה. אמר לו הקב\"ה: (מלכים א ג ה): \"שאל, מה אתן לך?\" אמר לפניו 'ריבונו של עולם, איני שואל ממך לא כסף ולא זהב, אלא חכמה בלבד', שנאמר (מלכים א ג ט): \"ונתת לעבדך לב שומע לשפוט את עמך\". השיבו הקב\"ה ואמר לו 'הואיל ולא שאלת לא כסף ולא זהב, החכמה והמדע נתונה לך במתנה'. ולא עוד אלא שקדמה החכמה לתורה, שנאמר (תהלים קיא י): \"ראשית חכמה יראת ה'\". תמן תנינן (משנה אבות ג יז): \"רבי אלעזר בן עזריה אומר: אם אין תורה - אין דרך ארץ\". ולפי שקדמה חכמתו, אמר עליו הכתוב (מלכים א ג ג): \"ויאהב שלמה את ה'\"; מלמד שהיתה חכמתו של שלמה מתנה. \"ואי זה מקום בינה?\" - אמר רבי שמעון בן יוחאי: חכמה ובינה לשון אחד הם, במקום שיש חכמה יש בינה, ובמקום שיש בינה יש חכמה. ולפי שישב בתענית ארבעים יום, והיה מבקש חכמה, לא קיפח הקב\"ה שכרו, שנאמר (מלכים א ה כו): \"וה' נתן חכמה לשלמה\", וכתיב: (מלכים א ה יא): \"ויחכם מכל האדם\" - זה אדם הראשון, דכתיב ביה בשלמה (משלי ל ב): \"כי בער אנכי מאיש ולא בינת אדם לי\"; \"מאיתן האזרחי\" - זה אברהם, דכתיב (ישעיהו מא ב): \"מי העיר ממזרח צדק יקראהו לרגלו\"; \"הימן\" - זה משה, שנאמר (במדבר יב ז): \"לא כן עבדי משה, בכל ביתי נאמן הוא\"; \"כלכל\" - זה יוסף, דכתיב (בראשית מז יב): \"ויכלכל יוסף את אביו ואת אחיו\"; \"דרדע\" - זה דור המדבר, שהיו בני דעה ביותר; \"בני מחול\" - זה דוד, שמחל לו הקב\"ה על אותו עוון. \"ויהי שמו בכל הגויים סביב\" - זה שלמה, שיצא שמו מסוף העולם ועד סופו. ד\"א \"והחכמה מאין תימצא\" - זה מלכת שבא, ששמעה את חכמתו, אמרה 'אלך ואראה אם חכם הוא אם לאו', ומניין ששמעה חכמתו? שנאמר (מלכים א י א): \"ומלכת שבא שומעת את שמע שלמה לשם ה' ותבוא לנסותו בחידות\", מהו בחידות? אמר רבי ירמיה בר שלום: אמרה לו 'אתה הוא שלמה, ששמעתי עליך ועל מלכותך ועל חכמתך?', אמר לה 'הן', אמרה לו 'חכם גדול אתה, אלא אם אני שואלת ממך דבר אחד, אתה משיב לי?', אמר לה (משלי ב ו): \"כי ה' יתן חכמה, מפיו דעת ותבונה\". אמרה לו 'מה הן שבעה יוצאין, ותשעה נכנסין, ושניים מוזגים, ואחד שותה?' אמר לה 'בוודאי, שבעה ימי נידה יוצאין, ותשעה ירחי לידה נכנסין, שני דדיים מוזגים, והוולד שותה'. אמרה לו 'חכם גדול אתה, אלא אם אני שואלת ממך דבר אחר אתה משיבני?' אמר לה \"כי ה' יתן חכמה\", אמרה לו 'מה הוא, אשה אמרה לבנה: אביך - אבי, זקנך - בעלי, ואת - ברי, ואנא - אחותך'? אמר לה 'בוודאי, שתי בנותיו של לוט הן'. ועוד דוגמה אחרת עשתה: הביאה לפניו תינוקות בקומה אחת ובכסות אחד, אמרה לו 'הפרש לי מאלו זכרים ונקבות'. רמז לסריסיו, והביאו לו אגוזים וקליות, התחיל מפזרם לפניהם; זכרים, שלא היו מתביישים, היו נוטלים בבגדיהם, ונקבות, שהיו מתביישות, היו נוטלות בסודריהן. אמר לה 'אלו זכרים ואלו נקבות'. אמרה לו 'בני, חכם גדול אתה!'. ועוד דוגמה אחרת עשתה: הביאה ערלים ומהולים, אמרה לו 'הפרש לי המהולים מן הערלים'; מייד רמז לכהן גדול ופתח ארון הברית, מהולין שבהן כרעו בחצי קומתן, ולא עוד אלא שנתמלא פניהם מזיו השכינה, וערלים שבהן נופלים על פניהם, מייד אמר לה 'אלו ערלים ואלו מהולים'. אמרה לו 'מהיכן לך?' אמר לה 'מבלעם, דכתיב (במדבר כד ד): \"אשר מחזה שדי יחזה נופל וגלוי עיניים\", אילו לא היה נופל - לא היה רואה כלום. ואם אין אתה רוצה ללמוד מבלעם, בוא ולמד מאיוב: בשעה שבאו שלושת רעי איוב לנחמו, אמר להם (איוב יב ג): \"גם לי לבב כמוכם, לא נופל אנוכי מכם\", לא נופל אנוכי כמותכם'. באותה שעה אמרה לו (מלכים א י ז): \"לא האמנתי לדברים עד אשר באתי ותראינה עיניי, והנה לא הוגד לי החצי, הוספת חכמה וטוב אל השמועה אשר שמעתי; אשרי אנשיך, אשרי עבדיך אלה העומדים לפניך תמיד השומעים את חכמתך; יהי ה' אלהיך ברוך אשר חפץ בך לתתך על כסא ישראל וגו' וישימך למלך לעשות משפט וצדקה\". נאמר בשלמה \"משפט וצדקה\", ונאמר בדוד \"משפט וצדקה\", מניין? דכתיב (שמואל ב ח טו): \"ויהי דוד עושה משפט וצדקה לכל עמו\", ונאמר בשלמה \"משפט וצדקה\", מגיד הכתוב שחכמתו של שלמה שקולה כחכמתו של דוד, וחכמתו של דוד שקולה כחכמתו של שלמה. ד\"א \"והחכמה מאין תימצא\" - מלמד שהיה שלמה מחפש, היכן החכמה מצויה. רבי אליעזר אומר: בראש, רבי יהושע אומר: בלב. הה\"ד (תהלים ד א): \"נתתה שמחה בלבי\", וכתיב (משלי כז יא): \"חכם בני ושמח לבי\". ומפני מה נתנה חכמה בלב - מפני שכל האיברים תלויים בלב. אמר שלמה: אני עושה כדפתח אבי, שהוא פתח בחכמתו בראש אותיות וסיים באמצע אותיות: [פתח] בראש - דכתיב (תהלים א א): \"אשרי האיש אשר לא הלך\", וסיים באמצע - שנאמר (תהלים קנ ו): \"כל הנשמה תהלל יה\". בתחילה אני פותח באמצע, ומסיים בסוף: אני פותח ממקום שהחכמה נתונה, היכן היא - בלב, ולב היכן הוא נתון - באמצע. נמצאת אומר, שדוד תפש כדברי רבי אליעזר, ושלמה כדברי רבי יהושע. ולא עוד, אלא שהלב נתון בידו של הקב\"ה, כדכתיב (משלי כא א): \"פלגי מים לב מלך ביד ה', על כל אשר יחפוץ יטנו\". וכיוון שהלב נתון ביד הקב\"ה, אל מקום שהוא חפץ הוא מטה אותו. וכיוון שראה שלמה שהחכמה נתונה בלב, אמר: ממקום שניתנה החכמה אני מתחיל, שכן הוא אומר \"משלי שלמה\". \"בן דוד\" - מאי בן דוד, וכי אין הכל יודעין שהוא בן דוד?! אלא, כל מה שעשה, לכבודו של דוד עשה. \"מלך ישראל\" - וכי אין הכל יודעין שהוא מלך ישראל?! אלא, מה שעשה, לכבודן של ישראל עשה.",
+    "commentary": "Job 12:3 is reread through the lens of Balaam's prophetic posture of \"falling\" (cf. Num. 24:4, 16), transforming Job's declaration, \"I am not inferior to you\" (lo nofel anokhi mikem), into \"I have not fallen.\" This interpretation appears to presuppose that Job was circumcised and therefore qualified to receive divine revelation // ARN and closer in AggBer 11, though that passage does not favor Job.\nThe motif of \"falling\" in connection with the Queen of Sheba's riddle may also reflect an anti-Karaite polemic. Compare also Targum Sheni to Esther. Joseph Kara on Kings and more. \nThe homily as a whole stands in deliberate tension with the argument of Job 28, where wisdom is portrayed as inaccessible and impossible to locate. Here, by contrast, wisdom is situated within the human heart and is therefore near at hand, attainable through sincere supplication to God. This is unusual // bSot 21a. All others are about death of Moses, Sages, or the Sinai Sevelation.",
+    "decontextualized_reception": [
+      {
+        "id": 22312,
+        "value": "Wisdom as Torah",
+        "color": "pink"
+      }
+    ],
+    "narrative_reception": [
+      {
+        "id": 22319,
+        "value": "Job as Jewish or Convert",
+        "color": "light-yellow"
+      }
+    ],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      },
+      {
+        "id": 24086,
+        "value": "Tanchum b. Chanilai (pA2)",
+        "color": "dark-blue"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
-    "translation": null,
-    "reception": [],
-    "reception_type": null
+    "translation": "“The Proverbs of Solomon son of David, king of Israel” (Prov 1:1).\n\nRabbi Tanḥum ben Ḥanilai opened and said:\n\n“But where shall wisdom be found? And where is the place of understanding?” (Job 28:12).\n\nThis refers to Solomon, who sat in fasting for forty days in order that the Omnipresent might grant him a spirit of wisdom and understanding. He wandered about and sought after her.\n\nThe Holy One, blessed be He, said to him:\n\n“Ask what I should give you” (1 Kgs 3:5).\n\nHe said before Him:\n\n“Master of the Universe, I ask of You neither silver nor gold, but only wisdom,” as it is said:\n\n“Give your servant therefore an understanding mind to govern your people” (1 Kgs 3:9).\n\nThe Holy One, blessed be He, answered him:\n\n“Since you did not ask for silver or gold, wisdom and knowledge are given to you as a gift.”\n\nMoreover, wisdom preceded Torah, as it is said:\n\n“The fear of the LORD is the beginning of wisdom” (Ps 111:10).\n\nThere we learned in a Mishnah:\n\nRabbi Eleazar ben Azariah says: “If there is no Torah, there is no derekh eretz; if there is no derekh eretz, there is no Torah” (m. Avot 3:17).\n\nAnd because his wisdom came first, Scripture says concerning him:\n\n“Solomon loved the LORD” (1 Kgs 3:3).\n\nThis teaches that Solomon’s wisdom was a gift.\n\n“And where is the place of understanding?”\n\nRabbi Simeon ben Yoḥai said:\n\n“Wisdom” (ḥokhmah) and “understanding” (binah) are one expression. Where there is wisdom, there is understanding; where there is understanding, there is wisdom.\n\nSince he sat in fasting for forty days and sought wisdom, the Holy One, blessed be He, did not withhold his reward, as it is said:\n\n“The LORD gave Solomon wisdom” (1 Kgs 5:26),\n\nand it is written:\n\n“He was wiser than all other people” (1 Kgs 5:11).\n\nWho are these?\n\n“Than Ethan the Ezrahite”: this is Abraham, as it is written,\n\n“Who has roused a victor from the east, summoned him to his service?” (Isa 41:2).\n\nThe midrash reads Ezraḥi (“Ezrahite”) in light of mizraḥ (“east”), associating Ethan with Abraham, the one called forth from the east.\n\n“And Heman”: this is Moses, concerning whom it is said,\n\n“Not so with my servant Moses; he is entrusted with all my house” (Num 12:7).\n\nThe name Heman is associated with ne’eman (“faithful, trustworthy”).\n\n“And Calcol”: this is Joseph, as it is said,\n\n“Joseph provided his father, his brothers, and all his father’s household with food” (Gen 47:12).\n\nThe connection rests on the verb kilkēl, “to sustain, provide.”\n\n“And Darda”: this is the generation of the wilderness, for they were exceedingly possessed of knowledge (de‘ah). The name Darda is interpreted through its resonance with de‘ah, understanding or knowledge.\n\n“The sons of Maḥol”: this is David, to whom the Holy One, blessed be He, granted meḥilah (“forgiveness”) for that sin. The interpretation turns on the verbal echo between Maḥol and maḥal, “he forgave.”\n\nAnd:\n\n“His fame spread throughout all the surrounding nations” (1 Kgs 5:14).\n\nThis refers to Solomon, whose renown went forth from one end of the world to the other.\n\nAnother interpretation\n\n“But where shall wisdom be found?”\n\nThis refers to the Queen of Sheba.\n\nWhen she heard of his wisdom, she said:\n\n“I shall go and see whether he is truly wise or not.”\n\nWhence do we know that she heard of his wisdom?\n\nAs it is said:\n\n“When the queen of Sheba heard of the fame of Solomon, famous in connection with the name of the LORD, she came to test him with hard questions” (1 Kgs 10:1).\n\nWhat are these “hard questions” (ḥidot, riddles)?\n\nRabbi Yirmeyah bar Shalom said:\n\nShe said to him:\n\n“Are you Solomon, of whom I have heard concerning your kingdom and concerning your wisdom?”\n\nHe said to her:\n\n“Yes.”\n\nShe said:\n\n“You are indeed very wise. But if I ask you a matter, will you answer me?”\n\nHe replied:\n\n“For the LORD gives wisdom; from his mouth come knowledge and understanding” (Prov 2:6).\n\nShe said to him:\n\n“What is this: seven go forth, nine enter, two pour out, and one drinks?”\n\nHe said to her:\n\n“Certainly. Seven days of menstruation go forth; nine months of pregnancy enter; two breasts pour forth; and the infant drinks.”\n\nShe said:\n\n“You are indeed very wise. Yet if I ask another matter, will you answer me?”\n\nHe replied:\n\n“For the LORD gives wisdom.”\n\nShe said:\n\n“What is this? A woman says to her son: ‘Your father is my father; your grandfather is my husband; and you are my son, while I am your sister.’”\n\nHe answered:\n\n“Certainly. These are the two daughters of Lot.”\n\nShe devised another test.\n\nShe brought before him children of equal height and clothed alike, and said:\n\n“Distinguish for me which are males and which are females.”\n\nHe signaled to his eunuchs, and they brought him nuts and roasted grains. He began scattering them before the children.\n\nThe males, not being ashamed, gathered them into their garments.\n\nThe females, being modest, gathered them into their kerchiefs.\n\nHe said:\n\n“These are the males, and those are the females.”\n\nShe said:\n\n“My son, you are a great sage indeed!”\n\nShe devised yet another test.\n\nShe brought circumcised and uncircumcised men and said:\n\n“Distinguish for me the circumcised from the uncircumcised.”\n\nImmediately he signaled to the High Priest, who opened the Ark of the Covenant.\n\nAmong those who were circumcised, they bowed only halfway to the ground; moreover, their faces were filled with the radiance of the Shekhinah.\n\nBut among the uncircumcised, they fell flat upon their faces.\n\nAt once he said:\n\n“These are uncircumcised, and these are circumcised.”\n\nShe said:\n\n“How do you know this?”\n\nHe replied:\n\n“From Balaam. For it is written:\n\n‘The oracle of one who hears the words of God, who sees the vision of the Almighty, who falls down, but with eyes uncovered’ (Num 24:4).\n\nHad he not fallen, he would have seen nothing.\n\nAnd if you do not wish to learn it from Balaam, come and learn it from Job.\n\nWhen Job’s three friends came to comfort him, he said:\n\n‘I have understanding as well as you; I am not inferior to you’ (Job 12:3).\n\nThat is to say: ‘I am not fallen as you are.’”\n\nThe midrash thus takes Job’s phrase lo nofel anokhi mikem not in its plain sense (“I am not inferior to you”) but literally: “I have not fallen like you,” linking it with Balaam’s prophetic falling. This is a characteristic rabbinic re-reading through verbal association.\n\nAt that moment she said:\n\n“It was a true report that I heard in my own land of your accomplishments and of your wisdom, but I did not believe the reports until I came and my own eyes had seen it. Not even half had been told me; your wisdom and prosperity far surpass the report that I had heard. Happy are your wives! Happy are these your servants, who continually attend you and hear your wisdom! Blessed be the LORD your God, who has delighted in you and set you on the throne of Israel. Because the LORD loved Israel forever, he has made you king to execute justice and righteousness” (1 Kgs 10:6-9).\n\nConcerning Solomon it says:\n\n“justice and righteousness.”\n\nAnd concerning David it says:\n\n“David administered justice and equity to all his people” (2 Sam 8:15).\n\nJust as concerning Solomon it says “justice and righteousness,” so too concerning David it says “justice and righteousness.”\n\nScripture thereby teaches that Solomon’s wisdom is equivalent to David’s wisdom, and David’s wisdom is equivalent to Solomon’s wisdom.\n\nAnother interpretation\n\n“But where shall wisdom be found?”\n\nThis teaches that Solomon was searching for the place where wisdom resides.\n\nRabbi Eliezer said:\n\n“In the head.”\n\nRabbi Joshua said:\n\n“In the heart.”\n\nThus it is written:\n\n“You have put gladness in my heart” (Ps 4:7),\n\nand:\n\n“Be wise, my child, and make my heart glad” (Prov 27:11).\n\nWhy was wisdom placed in the heart?\n\nBecause all the limbs depend upon the heart.\n\nSolomon said:\n\n“I shall do as my father did. He began his wisdom with the first of the letters and concluded with the middle of the letters.\n\nHe began with the first, as it is written:\n\n‘Happy are those who do not follow the advice of the wicked’ (Ps 1:1),\n\nand he concluded with the middle, as it is said:\n\n‘Let everything that breathes praise the LORD!’ (Ps 150:6).”\n\nThe allusion is to the acrostic symbolism of the Hebrew alphabet: David begins the Psalter with א (ashrei) and ends with ת (tehallel), thus encompassing the alphabetic whole.\n\nSolomon continues:\n\n“But I shall begin from the middle and conclude at the end.\n\nI begin from the place where wisdom is deposited. Where is it? In the heart.\n\nAnd where is the heart situated? In the middle.\n\nThus you find that David followed the view of Rabbi Eliezer, while Solomon followed the view of Rabbi Joshua.\n\nMoreover, the heart is placed in the hand of the Holy One, blessed be He, as it is written:\n\n‘The king’s heart is a stream of water in the hand of the LORD; he turns it wherever he will’ (Prov 21:1).\n\nSince the heart is in the hand of the Holy One, blessed be He, He inclines it wherever He desires.\n\nAnd when Solomon saw that wisdom is lodged in the heart, he said:\n\n‘From the place where wisdom was given, I shall begin.’\n\nTherefore Scripture says:\n\n“The Proverbs of Solomon.”\n\n“Son of David”:\n\nWhat is the meaning of “son of David”? Does not everyone know that he was David’s son?\n\nRather, whatever he did, he did for the honor of David.\n\n“King of Israel”:\n\nDoes not everyone know that he was king of Israel?\n\nRather, whatever he did, he did for the honor of Israel.",
+    "reception": [
+      {
+        "id": 5,
+        "value": "Wisdom as Torah",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 25,
+        "value": "Job as Jewish or Convert",
+        "order": "25.00000000000000000000"
+      }
+    ],
+    "reception_type": {
+      "id": 23397,
+      "value": "mixed",
+      "color": "darker-brown"
+    }
   },
   "287": {
     "id": 287,
@@ -13102,22 +13162,71 @@
   "289": {
     "id": 289,
     "order": "255.00000000000000000000",
-    "midrash_passage": [],
+    "midrash_passage": [
+      {
+        "id": 82,
+        "value": "Midrash Mishle, 17:1"
+      }
+    ],
     "hiob_id": "hiob_passage_0289",
-    "midrash": [],
-    "passage": null,
-    "verses": [],
-    "quote": "",
-    "commentary": "",
-    "decontextualized_reception": [],
+    "midrash": [
+      {
+        "id": 82,
+        "value": "Midrash Mishle",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "passage": "17:1",
+    "verses": [
+      {
+        "id": 424,
+        "value": "38:13",
+        "order": "402.00000000000000000000"
+      }
+    ],
+    "quote": "טוב פת חרבה ושלוה בה מבית מלא זבח ריב. אמר ר' יוחנן זו ארץ ישראל, שאפילו אוכל אדם פת ומלח ודר בתוכה, מובטח לו שהוא בן העולם הבא. מבית מלא זבחי ריב. זו חוצה לארץ, שהיא מלאה חמסים וגזילות. אמר ר' יוחנן כל המהלך ארבע אמות בארץ ישראל מובטח לו שהוא בן העולם הבא. אמר ר' לוי כל הדר בארץ ישראל אפילו שעה אחת ומת בתוכה, מובטח לו שהוא בן העולם הבא, מאי טעמא וכפר אדמתו עמו (דברים לב מג), אמר ר' נחמיה ארץ ישראל היא מכפרת על עונות מתיה. אמר ר' זבידא כל הצדיקים שמתו בחוצה לארץ מה אתה עושה להם, אלא הוי אומר שארץ ישראל מכפרת על מתיה, אבל הצדיקים שבחוצה לארץ עתיד הקב\"ה לצוות למלאכי השרת והם מביאים אותם במחילות מחוצה לארץ לארץ ישראל, ושם מתכפר להם, שנאמר וטהרתים על אדמתם וגו', אמר ר' אבהו תאמר אף רשעים שבארץ ישראל מתכפר להם, ת\"ל וינערו רשעים ממנה (איוב לח יג) , להיכן הוא מנערן, אמר ר' לוי מן הארץ לחוצה לארץ, [אמר ר' יהושע בן לוי] אינו מעמידן כדי שידעו שיש דין ודיין, ולהיכן הוא מנערן, לגיהנם, שנאמר לעלוקה שתי בנות הב הב (משלי ל טו). עתידה גיהנם לצווח לעתיד לבא ולומר לפני הקב\"ה הב לי את הרשעים. תמן תנינן משפט רשעים בגיהנם שנים עשר חדש, ר' אליעזר שאל את ר' יהושע א\"ל מה יעשה אדם וינצל מדינה של גיהנם, א\"ל ילך ויתעסק במעשים טובים, א\"ל אם כן אף אומות העולם יעשו מצוות ומעשים טובים, יכול יפטרו מדינה של גיהנם, א\"ל בני לא דברה תורה במתים אלא בחיים, א\"ל ר' אליעזר אני אומר לך טעם ממה שלמדתני, אמר לו אמור, אמר לו פעם אחת שמעתי אותך שהיית דורש בבית המדרש ואומר.",
+    "commentary": "The motif of shaking the wicked from the earth is reread as the eschatological removal of wicked Jews to Hell from the Land of Israel after their death. This expulsion serves to preserve the sanctity of the land. The interpretation thus shifts the focus to the punishment of the wicked from the purification of the Holy Land from Gentiles in PRE 34. These do not event count in the discussion.",
+    "decontextualized_reception": [
+      {
+        "id": 22389,
+        "value": "Praises for the Jews",
+        "color": "darker-red"
+      },
+      {
+        "id": 23366,
+        "value": "Divine Judgement",
+        "color": "dark-gray"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 24085,
+        "value": "Abbahu (pA3)",
+        "color": "light-gray"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
-    "translation": null,
-    "reception": [],
-    "reception_type": null
+    "translation": "“Better is a dry morsel with tranquillity than a house full of sacrificial feasting with strife” (Prov 17:1).\n\nRabbi Yoḥanan said:\nThis refers to the Land of Israel. For even if a person eats bread and salt and dwells therein, he is assured that he is a son of the World to Come.\n\n“Than a house full of sacrifices of strife”:\nThis refers to the lands outside the Land of Israel, which are full of violence and robberies.\n\nRabbi Yoḥanan said:\nWhoever walks four cubits in the Land of Israel is assured that he is a son of the World to Come.\n\nRabbi Levi said:\nWhoever dwells in the Land of Israel, even for a single hour, and dies therein, is assured that he is a son of the World to Come.\n\nWhat is the reason?\nFor it is said:\n“For he will avenge the blood of his children, and take vengeance on his adversaries; he will cleanse his land, his people” (Deut 32:43).\n\nRabbi Neḥemyah said:\nThe Land of Israel effects atonement for the sins of those who die within it.\nRabbi Zevida said:\nAnd concerning all the righteous who died outside the Land, what will you make of them?\n\nRather, this is the meaning: the Land of Israel indeed brings atonement to its dead; but as for the righteous who are outside the Land, in the future the Holy One, blessed be He, will command the ministering angels, and they will bring them through subterranean passages (meḥilot) from outside the Land into the Land of Israel, and there atonement will be effected for them, as it is said:\n“I will cleanse them upon their own soil...”\n\nRabbi Abbahu said:\nMight one then say that even the wicked who die in the Land of Israel obtain atonement?\nScripture therefore says:\n“And the wicked are shaken out of it” (Job 38:13).\nTo where are they shaken out?\nRabbi Levi said:\nFrom the Land into the lands outside it.\nRabbi Joshua ben Levi said:\nHe does not allow them to stand, so that they may know that there is judgment and there is a Judge.\nAnd to where are they shaken out?\nTo Gehinnom, as it is said:\n“The leech has two daughters: ‘Give! Give!’” (Prov 30:15).\nIn the future Gehinnom is destined to cry out and say before the Holy One, blessed be He:\n“Give me the wicked! Give me the wicked!”\nThere we learned:\nThe judgment of the wicked in Gehinnom lasts twelve months.\nRabbi Eliezer asked Rabbi Joshua:\n“What shall a person do in order to be delivered from the judgment of Gehinnom?”\nHe replied:\n“Let him go and occupy himself with good deeds.”\nRabbi Eliezer said to him:\n“If so, even the nations of the world might perform commandments and good deeds. Could they then be exempted from the judgment of Gehinnom?”\nRabbi Joshua said to him:\n“My son, the Torah spoke not concerning the dead but concerning the living.”\nRabbi Eliezer said:\n“I shall explain your teaching by means of something I learned from you.”\nHe said to him:\n“Speak.”\nRabbi Eliezer said:\n“Once I heard you expounding in the house of study and saying...”",
+    "reception": [
+      {
+        "id": 18,
+        "value": "Praises for the Jews",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 20,
+        "value": "Divine Judgement",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
   },
   "290": {
     "id": 290,
@@ -13835,21 +13944,119 @@
   "308": {
     "id": 308,
     "order": "273.00000000000000000000",
-    "midrash_passage": [],
+    "midrash_passage": [
+      {
+        "id": 82,
+        "value": "Midrash Mishle, 25:1"
+      }
+    ],
     "hiob_id": "hiob_passage_0308",
-    "midrash": [],
-    "passage": null,
-    "verses": [],
-    "quote": "",
-    "commentary": "",
-    "decontextualized_reception": [],
+    "midrash": [
+      {
+        "id": 82,
+        "value": "Midrash Mishle",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "passage": "25:1",
+    "verses": [
+      {
+        "id": 135,
+        "value": "9:5",
+        "order": "113.00000000000000000000"
+      }
+    ],
+    "quote": "גם אלה משלי שלמה אשר העתיקו אנשי חזקיה מלך יהודה. אמר ר' לוי מפני מה זכו אנשי חזקיה מלך יהודה לאריכות ימים, מפני שהיו מתונין ומישבין את הדין, שנאמר תפוחי זהב במשכיות כסף (משלי כה יא). אמר ר' חמא בר חנינא מה ת\"ל גם אלה, אלא מלמד שהיו מתונין בדין ומישבין את הדין, שכל מי שהוא מקפיד בדין סופו לשכח את דבריו, שכן מצינו במשה רבינו על שהקפיד לשעה שכח את דבריו, והשיב אלעזר תחתיו, שנאמר ויאמר אלעזר הכהן אל אנשי הצבא הבאים למלחמה זאת חוקת התורה אשר צוה ה' (למשה) [את משה] (במדבר לא כא), למשה רבינו צוה, ולי לא צוה. אשר העתיקו אנשי חזקיה. למה נאמר, שאני אומר משלות ושיר השירים וקהלת גנוזין עד שנכתבין, במשלות מה הוא אומר הומיה היא וסוררת, בביתה לא ישכנו רגליה פעם בחוץ פעם ברחובות, ואצל כל פנה תארוב (משלי ז יא), בשיר השירים מה הוא אומר, צרור המור דודי לי בין שדי ילין, אשכול הכופר דודי לי בכרמי עין גדי (שה\"ש =שיר השירים= א יג), בקהלת מה הוא אומר, שמח בחור בילדותך ויטיבך לבך בימי בחורותיך והלך בדרכי לבך ובמראה עיניך ודע כי על כל אלה יביאך האלהים במשפט (קהלת יא ט). אמר ר' יוחנן בקשו לגנוז ספר קהלת שמצאו בו דברים שנוטין לצד מינות, משה רבינו אמר ולא תתורו אחרי לבבכם ואחרי עיניכם אשר אתם זונים אחריהם (במדבר טו לט), ושלמה אמר והלך בדרכי לבך ובמראה עיניך (קהלת יא ט), הותרה הרצועה לית דין ולית דיין, כיון שמצאו בסוף הפסוק ודע כי על כל אלה יביאך האלהים במשפט (שם שם /קהלת י\"א/) אמרו יפה אמר שלמה:\n ד\"א אשר העתיקו. אין העתיקו אלא פירשו, כד\"א ויעתק משם ההרה (בראשית יב ח), אין צריך לומר המעתיק הרים ולא ידעו (איוב ט ה) , והלא דברים ק\"ו ומה אם משה רבינו אב הנביאים ואבי החכמים, על שהקפיד לשעה שכח את דבריו, ק\"ו לשאר בני האדם. בן עזאי אומר עמדת על דבריך בטלתם.",
+    "commentary": "The root עתק is understood here not merely in the sense of \"copying\" a text but rather as denoting the movement, transfer, or transmission of meaning from one context to another. Accordingly, the men of Hezekiah are portrayed not simply as scribes but as interpreters who actively transmitted and reshaped Solomon's wisdom. // ARN B 1:4 seems to be clearer and so might be more primary. However, there are different nuances unique to MidMish, such as longevity. but not in the use of Job.",
+    "decontextualized_reception": [
+      {
+        "id": 22358,
+        "value": "Hapax legomenon",
+        "color": "light-red"
+      }
+    ],
     "narrative_reception": [],
     "points_of_note": "",
-    "rabbis": [],
+    "rabbis": [
+      {
+        "id": 22320,
+        "value": "Anonym",
+        "color": "light-green"
+      }
+    ],
     "classic_parallels": "",
     "notes": "",
-    "translation": "",
-    "reception": [],
-    "reception_type": null
+    "translation": "“These also are proverbs of Solomon which the men of Hezekiah king of Judah copied” (Prov 25:1).\n\nRabbi Levi said:\nWhy did the men of Hezekiah king of Judah merit longevity?\nBecause they were deliberate in judgment and would settle and weigh a case carefully, as it is said:\n“A word fitly spoken is like apples of gold in a setting of silver” (Prov 25:11).\n\nRabbi Ḥama bar Ḥanina said: Why does Scripture say, “These also” (gam elleh)? Rather, it teaches that they were deliberate in judgment and gave measured consideration to the law. For whoever becomes impatient or contentious in judgment will in the end forget his own words.\nSo too we find with Moses our master. Because he became angry for a moment, he forgot his teaching, and Eleazar answered in his place, as it is said: “Then Eleazar the priest said to the troops who had gone to battle, ‘This is the statute of the law that the LORD has commanded Moses’” (Num 31:21).\n\n“He commanded Moses” and not me! Yet Eleazar must instruct them because Moses had forgotten.\n\n“Which the men of Hezekiah copied.”\nWhy is this stated?\nFor I might have said that Proverbs, the Song of Songs, and Ecclesiastes remained hidden away (genuzin) until they were committed to writing.\n\nFor in Proverbs what does he say?\n“She is loud and wayward; her feet do not stay at home; now in the street, now in the squares, and at every corner she lies in wait” (Prov 7:11-12).\n\nAnd in the Song of Songs what does he say?\n“My beloved is to me a bag of myrrh that lies between my breasts. My beloved is to me a cluster of henna blossoms in the vineyards of En-gedi” (Song 1:13-14).\n\nAnd in Ecclesiastes what does he say?\n“Rejoice, young man, while you are young, and let your heart cheer you in the days of your youth; follow the inclination of your heart and the desire of your eyes; but know that for all these things God will bring you into judgment” (Eccl 11:9).\n\nRabbi Yoḥanan said:\nThey sought to suppress (lignoz) the Book of Ecclesiastes because they found in it matters that seemed to incline toward heresy (minut).\n\nMoses our master said:\n“Do not follow after your own heart and your own eyes, after which you are inclined to lust” (Num 15:39), whereas Solomon said: “Follow the inclination of your heart and the desire of your eyes” (Eccl 11:9).\nHas the rein been loosed? Is there no law and no Judge (leit din ve-leit dayyan)? But when they found at the end of the verse: “But know that for all these things God will bring you into judgment” (Eccl 11:9), they said:\n“Solomon has spoken well.”\n\nAnother Interpretation\n“Which the men of Hezekiah copied” (he‘tiqu).\nHe‘tiqu can only mean “they interpreted,” “they transferred,” or “they explicated,” as in:\n“He moved on from there to the hill country” (Gen 12:8), and likewise:\n“He removes mountains, and they do not know it” (Job 9:5).\n\nNow the matter follows by a qal va-ḥomer:\nIf Moses our master, the father of the prophets and the father of sages, because he became angry for a brief moment forgot his words, how much more so other human beings!\n\nBen Azzai says:\nIf you insist obstinately upon your own words, you will nullify them.",
+    "reception": [
+      {
+        "id": 12,
+        "value": "Hapax legomenon",
+        "order": "12.00000000000000000000"
+      }
+    ],
+    "reception_type": {
+      "id": 23395,
+      "value": "decontextualized",
+      "color": "darker-red"
+    }
+  },
+  "341": {
+    "id": 341,
+    "order": "274.00000000000000000000",
+    "midrash_passage": [
+      {
+        "id": 82,
+        "value": "Midrash Mishle, 31:10"
+      }
+    ],
+    "hiob_id": "hiob_passage_0341",
+    "midrash": [
+      {
+        "id": 82,
+        "value": "Midrash Mishle",
+        "order": "24.00000000000000000000"
+      }
+    ],
+    "passage": "31:10",
+    "verses": [
+      {
+        "id": 67,
+        "value": "1:21",
+        "order": "45.00000000000000000000"
+      }
+    ],
+    "quote": "אשת חיל מי ימצא. [זו היא התורה. ורחוק מפנינים מכרה]. שהיתה לפני לפנים, וזכה משה והורידה למטה לארץ. בטח בה לב בעלה ושלל לא יחסר. שלא חסר בה דבר.\n ד\"א אשת חיל מי ימצא. אמרו מעשה היה בר' מאיר שהיה יושב ודורש בבית המדרש בשבת במנחה, ומתו שני בניו, מה עשתה אמו /אמן/, הניחה שניהם על המטה ופרשה סדין עליהם, במוצאי שבת בא ר' מאיר מבית המדרש לביתו, אמר לה היכן שני בני, אמרה לבית המדרש הלכו, אמר לה צפיתי לבית המדרש ולא ראיתי אותם, נתנו לו כוס של הבדלה והבדיל, חזר ואמר היכן שני בני, אמרה לו הלכו למקום אחר ועכשיו הם באים, הקריבה לפניו המאכל ואכל ובירך, לאחר שבירך אמרה לו רבי [שאלה אחת יש לי לשאול לך, אמר לה אמרי שאלתך, אמרה לו רבי] קודם היום בא אדם אחד ונתן לי פקדון, ועכשיו בא ליטול אותו, נחזיר לו או לא, אמר לה בתי מי שיש פקדון אצלו הוא צריך להחזירו לרבו, אמרה לו רבי חוץ מדעתך לא הייתי נותנת אצלו, מה עשתה תפשתו בידה, והעלה אותו לאותו חדר, והקריבה אותו למטה, ונטלה סדין מעליהם, וראה שניהם מתים ומונחים על המטה, התחיל בוכה ואומר בני בני רבי רבי, בני בדרך ארץ, ורבי שהיו מאירין פני בתורתן, באותה שעה אמרה לו לר' מאיר רבי לא כך אמרת לי אני צריך להחזיר הפקדון לרבו, אמר, ה' נתן וה' לקח יהי שם ה' מבורך (איוב א כא) . אמר ר' חנינא בדבר הזה נחמתו ונתיישבה דעתו, לכך נאמר אשת חיל מי ימצא. אמר ר' [חמא בר] חנינא מפני מה נתחייבו בניו של ר' מאיר ומתו בבת אחת, מפני שהיו רגילין להניח בית המדרש ויושבין באכילה ובשתיה. אמר ר' יוחנן ואפילו בדברי הבטלה, שבשעה שניתנה תורה לישראל לא הזהירן אלא על דברי תורה, שנאמר היום הזה ה' אלהיך מצוך לעשות (דברים כו טז).",
+    "commentary": "This late narrative concerning the death of the two sons of R. Meir is notable for its tightly crafted literary structure and dramatic tension. The unnamed wife, rather than Beruriah, embodies the virtues of the Woman of Valor (Eshet Ḥayil). Her discourse is reminiscent of the rabbis' efforts to console Rabban Yoḥanan ben Zakkai in Avot de-Rabbi Natan.\n\nThe invocation of Job is significant but common in Midrash, e.g. Sifre Devarim 32. By drawing on Job's response to the loss of his children, the narrative presents his mourning within the biblical account as a model of proper faith and acceptance of divine judgment. An implication that the wife being a correction of Job's wife is unique.",
+    "decontextualized_reception": [],
+    "narrative_reception": [
+      {
+        "id": 23368,
+        "value": "Job's Faith",
+        "color": "darker-green"
+      }
+    ],
+    "points_of_note": "",
+    "rabbis": [
+      {
+        "id": 24084,
+        "value": "Meir (T4)",
+        "color": "light-brown"
+      }
+    ],
+    "classic_parallels": "",
+    "notes": "",
+    "translation": "“A woman of valor, who can find?”\n\nThey said:\nThere was once an incident involving Rabbi Meir. On a Sabbath afternoon he was sitting and expounding in the house of study. During that time his two sons died.\nWhat did their mother do?\nShe laid both of them upon a bed and spread a sheet over them.\nAt the conclusion of the Sabbath, Rabbi Meir returned home from the house of study.\nHe said to her: “Where are my two sons?”\nShe replied: “They have gone to the house of study.”\nHe said to her: “I looked in the house of study and did not see them.”\nShe gave him the cup of havdalah, and he recited the havdalah.\nAfterward he again said: “Where are my two sons?”\nShe answered: “They have gone elsewhere and will soon return.”\nShe then set food before him. He ate and recited the blessing after the meal.\nWhen he had finished blessing, she said to him:\n“Rabbi, I have one question to ask you.”\nHe said to her:\n“Ask your question.”\nShe said: “Rabbi, earlier today a certain man entrusted something to me as a deposit, and now he has come to reclaim it. Should I return it to him or not?”\nHe said to her: “My daughter, one who holds a deposit is certainly obliged to return it to its owner.”\nShe said: “Rabbi, without your consent I would not have returned it.”\nWhat did she do? She took him by the hand and led him up to the room. She brought him near the bed and removed the sheet from over them.\n\nHe saw that both of them were dead, lying upon the bed.\nHe began to weep and cried: “My sons! My sons! My master! My masters!\nMy sons, in the way of the world; my masters, because they enlightened my face through their Torah.”\nAt that moment she said to Rabbi Meir: “Rabbi, did you not tell me that one must return a deposit to its owner?”\nHe replied: “The LORD gave, and the LORD has taken away; blessed be the name of the LORD” (Job 1:21).\n\nRabbi Ḥanina said:\nBy this word she consoled him, and his mind was settled.\nTherefore it is said:\n“A woman of valor, who can find?”\nRabbi Ḥama bar Ḥanina said:\nWhy did Rabbi Meir's sons incur a sentence of death, such that they died at one time? Because they were accustomed to leave the house of study and sit eating and drinking.\nRabbi Yoḥanan said: Even for idle talk (divrei battalah). For when the Torah was given to Israel, they were admonished only concerning words of Torah, as it is said:\n“This very day the LORD your God is commanding you to observe these statutes and ordinances” (Deut 26:16).",
+    "reception": [
+      {
+        "id": 31,
+        "value": "Job's Faith",
+        "order": "31.00000000000000000000"
+      }
+    ],
+    "reception_type": {
+      "id": 23396,
+      "value": "narrative",
+      "color": "darker-green"
+    }
   }
 }

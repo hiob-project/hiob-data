@@ -1450,5 +1450,34 @@
       }
     ],
     "hiob_id": "hiob_text_0049"
+  },
+  "82": {
+    "id": 82,
+    "order": "24.00000000000000000000",
+    "name": "Midrash Mishle",
+    "info": "The ninth-century work's engagement with Job is largely superficial. Job serves to legitimize the text's popularized vision of rabbinic Judaism.",
+    "passages": [
+      {
+        "id": 286,
+        "value": "Midrash Mishle, 1:1",
+        "order": "252.00000000000000000000"
+      },
+      {
+        "id": 289,
+        "value": "Midrash Mishle, 17:1",
+        "order": "255.00000000000000000000"
+      },
+      {
+        "id": 308,
+        "value": "Midrash Mishle, 25:1",
+        "order": "273.00000000000000000000"
+      },
+      {
+        "id": 341,
+        "value": "Midrash Mishle, 31:10",
+        "order": "274.00000000000000000000"
+      }
+    ],
+    "hiob_id": "hiob_text_0082"
   }
 }

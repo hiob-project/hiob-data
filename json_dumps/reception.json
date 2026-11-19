@@ -535,6 +535,11 @@
         "id": 280,
         "value": "Seder Eliyahu Rabbah, 14",
         "order": "246.00000000000000000000"
+      },
+      {
+        "id": 286,
+        "value": "Midrash Mishle, 1:1",
+        "order": "252.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_theme_0005"
@@ -687,6 +692,11 @@
         "id": 252,
         "value": "Shemot Rabbah II, 18:3",
         "order": "218.00000000000000000000"
+      },
+      {
+        "id": 308,
+        "value": "Midrash Mishle, 25:1",
+        "order": "273.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_theme_0012"
@@ -985,6 +995,11 @@
         "id": 283,
         "value": "Seder Eliyahu Rabbah, 18",
         "order": "249.00000000000000000000"
+      },
+      {
+        "id": 289,
+        "value": "Midrash Mishle, 17:1",
+        "order": "255.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_theme_0018"
@@ -1153,6 +1168,11 @@
         "id": 275,
         "value": "Pitron Torah, Vayedaber",
         "order": "241.00000000000000000000"
+      },
+      {
+        "id": 289,
+        "value": "Midrash Mishle, 17:1",
+        "order": "255.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_theme_0020"
@@ -1273,6 +1293,11 @@
         "id": 77,
         "value": "Avot de-Rabbi Natan A, 2:5",
         "order": "45.00000000000000000000"
+      },
+      {
+        "id": 286,
+        "value": "Midrash Mishle, 1:1",
+        "order": "252.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_theme_0025"
@@ -1532,6 +1557,11 @@
         "id": 268,
         "value": "Bemidbar Rabbah  II, ",
         "order": "234.00000000000000000000"
+      },
+      {
+        "id": 341,
+        "value": "Midrash Mishle, 31:10",
+        "order": "274.00000000000000000000"
       }
     ],
     "hiob_id": "hiob_theme_0031"
