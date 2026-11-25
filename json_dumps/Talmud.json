@@ -3,14 +3,12 @@
     "id": 1,
     "order": "1.00000000000000000000",
     "Name": "Berakhot",
-    "Notes": "5a cites Job 5:7",
-    "Active": false
+    "Notes": "5a cites Job 5:7"
   },
   "2": {
     "id": 2,
     "order": "2.00000000000000000000",
     "Name": "Avodah Zarah",
-    "Notes": "3a mentions Bildad, Zophar, Eliphaz and Elihu as gentile prophets who may testify that Israel has fulfilled the entire Torah; no quotation of a Joban verse",
-    "Active": false
+    "Notes": "3a mentions Bildad, Zophar, Eliphaz and Elihu as gentile prophets who may testify that Israel has fulfilled the entire Torah; no quotation of a Joban verse"
   }
 }
